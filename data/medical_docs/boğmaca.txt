@@ -1,0 +1,228 @@
+=== PubMed: boğmaca ===
+1. Mikrobiyol Bul. 2023 Apr;57(2):171-187. doi: 10.5578/mb.20239914.
+
+[Evaluation of Pertussis Antibody Levels (Anti-PT IgG-Anti-FHA IgG) and 
+Associated Factors in Maternal and Cord Blood].
+
+[Article in Turkish]
+
+Erik HE(1), Fadıloğlu E(2), Hasçelik AG(3), Akın L(1).
+
+Author information:
+(1)Hacettepe University Faculty of Medicine, Department of Public Health, 
+Ankara, Türkiye.
+(2)Hacettepe University Faculty of Medicine, Department of Gynecology and 
+Obstetrics, Ankara, Türkiye.
+(3)Hacettepe University Faculty of Medicine, Department of Microbiology and 
+Clinical Microbiology, Ankara, Türkiye.
+
+Pertussis has a very high mortality and morbidity rate in early infancy. There 
+are many strategies to protect babies from pertussis, maternal immunization is 
+one of them. In this study, it was aimed to evaluate pertussis toxin 
+immunoglobulin G (anti-PT IgG) and filamentous hemagglutinin immunoglobulin G 
+(anti-FHA IgG) levels of pertussis antibody in maternal and cord blood samples 
+and also to evaluate the factors that may be associated with maternal antibody 
+positivity. This descriptive study was conducted between 1 July and 31 October 
+2020. In the study, anti PT IgG and anti-FHA IgG levels were investigated by 
+enzyme-linked immunosorbent assay (ELISA) method in 154 maternal and 154 cord 
+blood samples. Microbiological analyzes were performed in Hacettepe University 
+Faculty of Medicine Central Laboratory and results of 10 IU/mL and above were 
+considered positive. Factors that could affect antibody positivity were 
+questioned with the data collection form. "Package for Social Sciences (SPSS)" 
+package program version 25.0 was used for statistical analysis of the data. 
+Chi-square and Fisher's exact tests were used for statistical analysis of 
+categorical variables. Continuous numerical variables were analyzed with the 
+Pearson correlation test. Logistic regression analysis was used to evaluate the 
+factors affecting positivity. The natural logarithm of the continuous variables 
+was taken to ensure their conformity to the normal distribution, and conformity 
+to the normal distribution was evaluated with the Kolmogorov-Smirnov test. The 
+results were presented at a 95% confidence interval, at a significance level of 
+p<0.05. The mean age of the mothers included in the study was 30. Of newborn 
+babies, 52.6% were girls and 98.7% had normal birth weights. Of deliveries, 
+95.5% were term and 82.5% were cesarean section. Anti-PT IgG positivity and 
+anti-FHA IgG positivity in maternal blood were 18.8% and 48.1%, respectively. 
+Anti-PT IgG and anti-FHA IgG positivity in cord blood samples were 38.3% and 
+55.8%, respectively. Anti-PT IgG positivity was 2.6 times higher in mothers who 
+had healthcare worker relatives compared to those who did not. Anti-FHA IgG 
+positivity was 3.2 times higher in mothers aged 25 and younger than in mothers 
+aged 26- 35. In addition, mothers aged 36 and over were 4.4 times more anti-FHA 
+IgG positive than the mothers aged 26-35. Anti-FHA IgG antibody positivity was 
+found 7.3 times more in those living in extended families than those living in 
+nuclear families. Anti-PT IgG and anti-FHA IgG levels in maternal and cord blood 
+samples were highly positively correlated. Mothers in the study had low 
+pertussis antibody levels, indicating that newborns are at risk for infection. 
+Maternal immunization with pertussis-containing vaccine is the most appropriate 
+and cost-effective strategy to protect the newborn against pertussis. Many 
+countries have been using pertussis-containing vaccines in maternal immunization 
+safely for many years. Replacing the tetanus-diphtheria vaccine (Td), which is 
+included in the routine pregnancy immunization program in Türkiye, with 
+tetanus-diphtheria-pertussis (Tdap) may be appropriate to protect the mother and 
+newborns from pertussis infection.
+
+DOI: 10.5578/mb.20239914
+PMID: 37067204 [Indexed for MEDLINE]
+
+
+2. Mikrobiyol Bul. 2025 Apr;59(2):132-144. doi: 10.5578/mb.202502140.
+
+[Evaluation of Pertussis Cases in Our Hospital: Five-Year Analysis].
+
+[Article in Turkish]
+
+Yakut S(1), Ulaba A(1), Yildiz Zeyrek F(1).
+
+Author information:
+(1)Harran Üniversitesi Tıp Fakültesi, Tıbbi Mikrobiyoloji Anabilim Dalı, 
+Şanlıurfa.
+
+This study aimed to evaluate the demographic characteristics, seasonal 
+distribution, clinical features, vaccination status and mortality rates of 
+patients with Bordetella pertussis/parapertussis detected in our hospital 
+between January 2019 and June 2024. Nasopharyngeal swab samples obtained using 
+eSwab (Flocked swab, Copan Diagnostics, Italy) from patients who applied to our 
+hospital with the complaints of upper/lower respiratory tract infection between 
+January 2019 and June 2024 were tested in viral transport medium in our 
+hospital’s microbiology laboratory using Film Array multiplex polymerase chain 
+reaction (BioFire, bioMérieux Diagnostics, France) device in accordance with the 
+manufacturer’s recommendations and the results were evaluated. Demographic 
+characteristics of the patients, presenting complaints, follow-up in outpatient 
+clinic/ward/intensive care unit, agents detected in nasopharyngeal samples, need 
+for mechanical ventilation, vaccination status and recovery/death status were 
+obtained from the Hospital Information Management System. In this study, 
+B.pertussis was detected in 34 patients and B.parapertussis in 13 patients. Six 
+of the patients were adults, 41 were in the pediatric age group and half of the 
+pediatric age group (n= 20) were younger than six months. Vaccination 
+information could not be obtained for six patients. Eighteen patients were 
+unvaccinated, 17 were fully vaccinated for their age and six were incompletely 
+vaccinated. While only five patients were detected during the coronavirus 
+disease-2019 pandemic, 42 patients were detected in the post-pandemic period. It 
+is particularly noteworthy that 20 cases were seen in the first six months of 
+2024. Eight patients in the pediatric age group were followed up in intensive 
+care and four of them were younger than six months. In adult patients, three 
+patients were followed up in intensive care and two were of advanced age (66 and 
+70 years). Eight of the patients admitted to the ICU required mechanical 
+ventilation and five of these patients (three under six months, two two years 
+old) died. In three of the patients who died, the causative agent was 
+B.pertussis and they were unvaccinated and in two patients, the causative agent 
+was B.parapertussis, one of these patients was unvaccinated and the other had 
+four doses of the vaccine. As a result, it was determined that there was a 
+significant increase in pertussis cases compared to the years, the number of 
+cases doubled in the first six months of 2024 compared to the previous year, 
+mortality increased especially in young children and infants, and most severe 
+cases were unvaccinated. In addition, the loss of two out of 13 cases with 
+B.parapertussis showed that infections due to B.parapertussis can also be severe 
+and fatal. Besides, only one of the patients with B.parapertussis was 
+unvaccinated, suggesting that the vaccine against B.pertussis does not provide 
+cross-protection against B.parapertussis.
+
+DOI: 10.5578/mb.202502140
+PMID: 40277262 [Indexed for MEDLINE]
+
+
+3. Mikrobiyol Bul. 2007 Apr;41(2):165-73.
+
+[Development studies of lyophilized standard diphtheria-tetanus-pertussis 
+vaccines].
+
+[Article in Turkish]
+
+Ozcengiz E(1), Unver D, Cayan HH, Atakan Ablay P, Kanik E.
+
+Author information:
+(1)erozcengiz@yahoo.com
+
+In this study, diphtheria, tetanus and pertussis vaccine components were 
+prepared as the formulations of diphtheria-tetanus-pertussis (DTP), 
+diphtheria-tetanus (DT) for children, diphtheria-tetanus (Td) for adults, and 
+tetanus toxoid (TT), respectively. Alhydrogel-adsorbed vaccines prepared to 
+contain the stabilizing substances were lyophilized and the immunogenicity tests 
+were carried out both in vivo and in vitro. The potencies of the tetanus 
+component of the vaccines were obtained by the lethal challenge test in mice. 
+The values were found as 144.86 IU/ml for lyophilized adsorbed (LA)-DTP, 116.5 
+IU/ml for LA-DT, 98.25 IU/ml for LA-Td and 96.2 IU/ml for LA-TT. Anti-tetanus 
+IgG and anti-diphteria IgG levels determined by ELISA method were found high in 
+the sera taken from the mice immunized with the above-mentioned vaccines. 
+Anti-B.pertussis fimbria IgG antibody levels were also high by both ELISA and 
+microagglutination tests. The test preparations were then compared to adsorbed 
+liquid vaccines and it was shown that the components were quite stable in the 
+lyophilized formulations. It was concluded that the formulations prepared in 
+this study can be used as standard vaccines after being calibrated against World 
+Health Organization standards.
+
+PMID: 17682702 [Indexed for MEDLINE]
+
+
+4. Mikrobiyol Bul. 2004 Oct;38(4):393-408.
+
+[Approach to the diagnosis of pertussis infection: evaluation of cases suffering 
+from prolonged cough symptoms].
+
+[Article in Turkish]
+
+Dağlar E(1), Nar S, Tanir G, Akbaş E, Zorlu P, Esen B.
+
+Author information:
+(1)Dr. Sami Ulus Cocuk Sağliği ve Hastaliklari Eğitim ve Araştirma Merkezi, 
+Ankara.
+
+This study was performed on cases admitted to Sami Ulus Pediatric Health and 
+Diseases Training and Research Hospital because of cough lasting two weeks or 
+more between November, 2001 and April, 2003. According to pertussis case 
+definitions, patient's information of each 66 probable cases complied with 
+clinical criteria from 0-15 age group were recorded on questionnaire and 
+nasopharyngeal samples were taken. Specimens were sent to Refik Saydam National 
+Hygiene Centre, Pertussis Reference Laboratory in order to perform specific 
+culture, direct fluorescent antibody (DFA) and polymerase chain reaction (PCR). 
+Bordetella pertussis was isolated on cultures of two cases (3%) and the same 
+specimens were found positive by DFA. Direct PCR results of nasopharyngeal 
+samples were not evaluated since false positive reactions were obtained with one 
+or more negative controls in different series. Since a symptomatic contact of 
+any culture proven case is also defined as confirmed case by the standard case 
+definitions, three of 66 cases (4.5%) together with a symptomatic contact of one 
+of the culture positives were classified as confirmed pertussis in this study.
+
+PMID: 15700665 [Indexed for MEDLINE]
+
+
+5. Mikrobiyol Bul. 2007 Apr;41(2):175-83.
+
+[A field survey carried out on the confirmation of a pertussis case in a village 
+of Kirikkale Province, Turkey].
+
+[Article in Turkish]
+
+Coplü N(1), Nar S, Efsun A, Kurtoğlu D, Esen B.
+
+Author information:
+(1)nilaycoplu@yahoo.com
+
+The aim of this study was to evaluate the existence and the rate of pertussis 
+infection in December 2002 among the symptomatic contacts in Konurhaciobasi 
+village of Kirikkale province (placed in middle Anatolia, Turkey, with a 
+population of 500 people), where a laboratory-confirmed pertussis case was 
+defined by culture positivity. Sixty contacts with cough history of more than 
+two weeks have been interviewed and their nasopharyngeal swabs have been 
+collected together with the serum samples from 47 of them. "Probable case" 
+definition included cough lasting longer than two weeks together with at least 
+one of the following symptoms: paroxysms of cough, inspiratory "whooping" and 
+post-tussive vomiting without other apparent cause. The samples were inoculated 
+onto cephalexin Bordet-Gengou agar (C-BGA), and following the growth of 
+suspected colonies identification tests including slide agglutination by using 
+Bordetella pertussis phase 1 and B.parapertussis specific antisera, were 
+performed. IgG antibodies against B.pertussis were searched with an in-house 
+ELISA method by using purified pertussis toxin, and titers of > or = 100 ELISA 
+units (EU)/ml were considered as acute/recent infection. Among the subjects 80% 
+were children and 75% were female. Thirty-six subjects (76.6%) had a history of 
+immunization with 3-4 doses of diphtheria-pertussis-tetanus (DPT) vaccine. 
+According to questionnaires the mean household number was calculated as 5.0 +/- 
+0.26. Fifteen contacts (age range: 4-12 years, 11 were female) were defined as 
+"probable cases", however all of them were found to be culture negative. All 
+these cases had been vaccinated with DPT vaccine. Among the probable cases 12 
+serum samples were available, and six of them were evaluated as acute/recent 
+pertussis infection, since their antibody titers were found as > or = 100 EU/ml. 
+In addition, the evaluation of ELISA results of 47 individuals indicated that 27 
+of them had antibody titers of > or = 100 EU/ml, who could be considered as 
+acute or recent pertussis infection. The data of this field survey indicated a 
+possible pertussis outbreak in this village.
+
+PMID: 17682703 [Indexed for MEDLINE]

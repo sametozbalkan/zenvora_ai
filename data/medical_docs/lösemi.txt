@@ -1,0 +1,124 @@
+=== PubMed: lösemi ===
+1. Dentoral (Istanbul). 1972 Jul-Aug;4(16):187-90.
+
+[Leukemia].
+
+[Article in Turkish]
+
+Konukman E.
+
+PMID: 4509895 [Indexed for MEDLINE]
+
+
+2. Turk J Haematol. 2018 May 25;35(2):134. doi: 10.4274/tjh.2016.0388. Epub 2017 
+Jan 25.
+
+Flaming Plasma Cell Leukemia.
+
+Ranjbaran R(1), Golafshan H(1).
+
+Author information:
+(1)Shiraz University of Medical Sciences, School of Paramedical Sciences, 
+Diagnostic Laboratory Sciences and Technology Research Center, Shiraz, Iran.
+
+DOI: 10.4274/tjh.2016.0388
+PMCID: PMC5972336
+PMID: 28120778 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: The authors of this paper 
+have no conflicts of interest, including specific financial interests, 
+relationships, and/or affiliations relevant to the subject matter or materials 
+included.
+
+
+3. Mikrobiyol Bul. 2023 Oct;57(4):698-706. doi: 10.5578/mb.20239958.
+
+[Autochthonous Case of Malaria Prediagnosed as Leukemia].
+
+[Article in Turkish]
+
+Gülen H(1), Türedi Yıldırım A(1), Çavuş İ(2), Türkmen H(1), Özbilgin A(3).
+
+Author information:
+(1)Manisa Celal Bayar University Faculty of Medicine, Department of Pediatrics, 
+Division of Pediatric Hematology, Manisa, Türkiye.
+(2)Manisa Celal Bayar University, Institute of Health Sciences, Manisa, Türkiye.
+(3)Manisa Celal Bayar University Faculty of Medicine, Department of Medical 
+Parasitology, Manisa, Türkiye.
+
+Malaria is a parasitic disease transmitted by infected female Anopheles 
+mosquitoes. There are five species of Plasmodium species that can infect humans. 
+Of these species, especially P.falciparum and P.vivax pose the greatest threat 
+to human health. In the 2014 report of the World Health Organization, it was 
+reported that there were no locally acquired cases of malaria in 16 countries 
+including Türkiye. Malaria cases originating from outside the country and 
+imported due to migration, travel and working abroad are reported as import 
+cases. In this report, a case of non-imported malaria followed with a 
+preliminary diagnosis of leukemia was presented. A 14-year-old female patient 
+who was admitted to a health institution with complaints of high fever, 
+headache, chills, nausea-vomiting, and diarrhea that had been going on for two 
+weeks, was pre-diagnosed as leukemia and was referred to Manisa Celal Bayar 
+University Faculty of Medicine, Hafsa Sultan Hospital, Department of Pediatric 
+Hematology and after pancytopenia was detected in the complete blood count. The 
+anamnesis of the patient revealed that she had no history of international 
+travel and that she had been prescribed medications such as paracetamol, 
+amoxicillin, and metoclopramide for flu-like complaints while working in the 
+Southeastern Anatolia, Aegean, and Mediterranean Regions of Türkiye. Bone marrow 
+aspiration was performed for the etiological examination of pancytopenia. 
+Giemsa-stained blood smears, rapid diagnostics, and real-time quantative 
+polymerase chain reaction (qRt-PCR) analyses were performed in the medical 
+parasitology laboratory and malaria was suspected in both bone marrow and 
+peripheral blood smears. P.vivax erythrocytic forms and gametocytes were present 
+in abundance in smear preparations stained with Giemsa, and rapid diagnosis kit 
+was positive for P.vivax. The strain was genotyped as P.vivax by qRt-PCR 
+analysis. For the treatment of the patient, airalam (artemether + lumefantrine) 
+tablets were provided with 2 x 4 daily posology for three days after the 
+diagnosis, and primaquine was provided after one week of the diagnosis as 1 x 2 
+tablets (1 x 15 mg) for 14 days, and the patient was discharged without 
+complications following the treatment regimen. The fight against malaria 
+continues uninterruptedly since the establishment of the Republic of Türkiye. 
+Tropical diseases, especially malaria, is of great importance for Türkiye due to 
+numerous reasons such as its location in the subtropical region where Anopheles 
+mosquitoes are capable of malaria transmission, it is situated at the crossroads 
+on the migration routes between continents where human traffic is busy, there 
+are many people who go abroad for work and most importantly rising temperatures 
+due to climate change. For this reason, this case report is important to 
+emphasize the importance of malaria for the country and to increase the 
+awareness of clinicians and laboratories about malaria and the possibility of 
+autochthonous malaria transmission in Türkiye.
+
+DOI: 10.5578/mb.20239958
+PMID: 37885398 [Indexed for MEDLINE]
+
+
+4. Turk J Haematol. 2015 Mar 5;32(1):96-7. doi: 10.4274/tjh.2014.0048.
+
+Rhinocerebral mucormycosis in a patient with acute promyelocytic leukemia.
+
+Keklik M, Yıldırım A, Öztürk F, İleri İ, Akyol G, Çetin M, Eser B.
+
+DOI: 10.4274/tjh.2014.0048
+PMCID: PMC4439922
+PMID: 25805690
+
+Conflict of interest statement: Conflict of Interest Statement The authors of 
+this paper have no conflicts of interest, including specific financial 
+interests, relationships, and/or affiliations relevant to the subject matter or 
+materials included.
+
+
+5. Turk J Haematol. 2014 Dec 5;31(4):424-5. doi: 10.4274/tjh.2014.0166.
+
+Mogamulizumab treatment in a hemodialysis patient with adult T-cell 
+leukemia/lymphoma.
+
+Yoshihara M(1), Kubota Y, Fukuda M, Kishi T, Ikeda Y, Sarıbeyoğlu E, Kimura S.
+
+Author information:
+(1)Saga University Faculty of Medicine, Department of Internal Medicine, 
+Division of Hematology Respiratory Medicine, and Oncology, Saga, Japan. E-mail: 
+kubotay@cc.saga-u.ac.jp.
+
+DOI: 10.4274/tjh.2014.0166
+PMCID: PMC4454062
+PMID: 25541664

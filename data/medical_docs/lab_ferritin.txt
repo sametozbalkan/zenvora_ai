@@ -1,0 +1,191 @@
+=== PubMed: ferritin iron deficiency high low causes treatment ===
+1. Cureus. 2026 Apr 1;18(4):e106283. doi: 10.7759/cureus.106283. eCollection 2026
+ Apr.
+
+Severe Iron Deficiency Anemia and Growth Faltering Associated With Excessive 
+Cow's Milk Intake and Possible Celiac Disease in Indian Children: A Case Series.
+
+Mujalda A(1), Mujalda J(2), Suman A(3), Gupta GK(4), Manisha M(5).
+
+Author information:
+(1)Obstetrics and Gynecology, Gandhi Medical College, Bhopal, IND.
+(2)Pediatrics, Military Hospital, Sagar, IND.
+(3)Preventive Medicine, Shri Ram Murti Smarak Institute of Medical Sciences 
+(SRMS IMS), Bareilly, IND.
+(4)Dermatology, Skin Diseases Center, Nashik, IND.
+(5)Ophthalmology, SSMJ Government Hospital, Khurja, IND.
+
+Cow's milk is widely considered a fundamental component of early childhood 
+nutrition in India and frequently represents the primary daily beverage for 
+toddlers. However, cow's milk contains minimal bioavailable iron and may inhibit 
+intestinal iron absorption, thereby increasing the risk of iron deficiency. Iron 
+deficiency remains the most prevalent micronutrient deficiency in India and is 
+the leading cause of anemia among young children. Despite national nutrition 
+initiatives, anemia prevalence in this age group continues to be substantial, 
+largely driven by inadequate dietary iron intake, prolonged milk-dominant 
+feeding, suboptimal complementary feeding practices, and socioeconomic 
+determinants. In urban and semi-urban Indian populations, excessive cow's milk 
+consumption has emerged as a clinically relevant yet frequently overlooked 
+contributor to iron deficiency in toddlers. In addition to its low iron content, 
+high intake of cow's milk may impair iron utilization and predispose children to 
+occult gastrointestinal blood loss. We describe five Indian children (age range: 
+48-84 months) presenting with severe iron deficiency anemia (IDA) associated 
+with high daily intake of cow's milk (≥600 to 1,000 mL) and inadequate 
+consumption of iron-rich complementary foods. All patients presented with marked 
+pallor and lethargy. Three children had poor weight gain, while two demonstrated 
+tachycardia with clinical features suggestive of early cardiac decompensation. 
+Hematologic investigations revealed severe microcytic hypochromic anemia with 
+markedly reduced serum ferritin and elevated total iron-binding capacity. Three 
+children required hospital admission, and one required pediatric intensive care 
+unit management with packed red blood cell transfusion due to hemodynamic 
+instability. Management included blood transfusion when clinically indicated, 
+therapeutic oral iron supplementation, dietary modification, and restriction of 
+cow's milk intake to age-appropriate levels. Follow-up at 8-12 weeks 
+demonstrated substantial hematologic recovery in all cases. This case series 
+highlights the ongoing burden of nutritional IDA among Indian toddlers and 
+underscores the importance of caregiver education, routine dietary assessment 
+during pediatric visits, and counseling on appropriate milk intake to prevent 
+severe anemia and its complications.
+
+Copyright © 2026, Mujalda et al.
+
+DOI: 10.7759/cureus.106283
+PMCID: PMC13134812
+PMID: 42078297
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Military Hospital (MH), Sagar, Madhya Pradesh, India issued approval 
+MHS/Pedia/2025/02. Conflicts of interest: In compliance with the ICMJE uniform 
+disclosure form, all authors declare the following: Payment/services info: All 
+authors have declared that no financial support was received from any 
+organization for the submitted work. Financial relationships: All authors have 
+declared that they have no financial relationships at present or within the 
+previous three years with any organizations that might have an interest in the 
+submitted work. Other relationships: All authors have declared that there are no 
+other relationships or activities that could appear to have influenced the 
+submitted work.
+
+
+2. J Nutr Sci Vitaminol (Tokyo). 2026;72(2):101-112. doi: 10.3177/jnsv.72.101.
+
+Food Restriction Impairs Exercise-Induced Bone Mass Acquisition and Causes Iron 
+Metabolic Disturbance with Storage Depletion in Young Female Rats.
+
+Kioka K(1), Aikawa Y(2), Noboritate K(3), Yamamoto H(4), Sugiyama K(4), Shingu 
+H(4), Watanabe K(4), Suzuki H(4), Omi N(5).
+
+Author information:
+(1)Graduate School of Comprehensive Human Sciences, Doctoral Program in Physical 
+Education, Health and Sport Sciences, University of Tsukuba.
+(2)Department of Food and Nutrition, Tsu City College.
+(3)School of Physical Education, Health and Sport Sciences, University of 
+Tsukuba.
+(4)Graduate School of Comprehensive Human Sciences, Master's Program in Physical 
+Education, Health and Sport Sciences, University of Tsukuba.
+(5)Institute of Health and Sport Sciences, University of Tsukuba.
+
+Low energy availability is a core feature of Relative Energy Deficiency in Sport 
+that impairs skeletal and hematologic health. However, the contributions of 
+short-term energy restriction and exercise as well as their potential 
+interactive effects remain unclear. This study aimed to clarify the effects of 
+short-term food restriction on exercise-induced bone mass acquisition and its 
+simultaneous impact on iron metabolism in young female rats. Female 
+Sprague-Dawley rats (5 wk old) underwent environmental acclimation and treadmill 
+running exercise training for 1 wk each and randomly grouped into seven groups. 
+The groups included a sedentary and ad libitum feeding group, along with groups 
+fed 90%, 70%, or 50% of the average ad-lib intake under sedentary or running 
+exercise conditions for 15 d. The results showed low tibial bone mineral density 
+(BMD) and ferritin levels and high serum iron levels due to a significant main 
+effect of food restriction. Hematocrit-adjusted erythrocyte counts were 
+unchanged, indicating an iron metabolic disturbance characterized by depleted 
+stores despite high circulating iron. Exercise significantly increased tibial 
+BMD, but the 50% food restriction groups (sedentary and exercise) showed 
+significantly lower values than the exercise 90% group. Serum iron levels showed 
+significant differences even in the 70% food restriction group compared with the 
+90% group. Tibial BMD and serum iron levels were weakly negatively correlated. 
+This study revealed that, in young female rats, short-term 50% food restriction 
+resulted in decreased BMD while short-term 70% and 50% food restriction resulted 
+in iron metabolic disturbances under both sedentary and exercise conditions.
+
+DOI: 10.3177/jnsv.72.101
+PMID: 42055715 [Indexed for MEDLINE]
+
+
+3. JMIR Mhealth Uhealth. 2026 Apr 9;14:e81001. doi: 10.2196/81001.
+
+Effectiveness of mHealth-Based Nutritional Interventions on Iron Status of 
+Pregnant Women: Systematic Review of Randomized Controlled Trials.
+
+Belay SA(1)(2), Bezabih AM(3), Petegem WV(4), Matthys C(1)(5)(6).
+
+Author information:
+(1)Department of Chronic Diseases and Metabolism, Clinical and Experimental 
+Endocrinology Unit, KU Leuven, Herestraat 49 ON1 Bus 902, Leuven, 3000, Belgium, 
+32 476 72 61 77.
+(2)Continuing Professional Development Center, College of Health Sciences, 
+Mekelle University, Mekelle, Ethiopia.
+(3)Department of Nutrition and Dietetics, School of Public Health, College of 
+Health Sciences, Mekelle University, Mekelle, Ethiopia.
+(4)Engineering Technology Education Research (ETHER) Unit, Group T Leuven 
+Campus, Faculty of Engineering Technology, KU Leuven, Leuven, Belgium.
+(5)Department of Endocrinology, University Hospitals Leuven, KU Leuven, Leuven, 
+Belgium.
+(6)Division of Human Nutrition, Faculty of Medicine and Health Sciences, 
+Stellenbosch University, Cape Town, South Africa.
+
+BACKGROUND: Anemia is a global health concern. It is disproportionately 
+prevalent among pregnant women in low-resource regions, where iron deficiency is 
+the leading cause. Given the multifactorial nature of anemia, a range of 
+nutritional interventions is recommended. However, effective implementation is 
+often hindered by limited health care access, poor adherence to supplementation, 
+and gaps in nutrition knowledge and counseling. To address these challenges and 
+optimize hemoglobin (Hb) levels among pregnant women, mobile health 
+(mHealth)-based nutritional interventions offer a promising alternative.
+OBJECTIVE: The aim of the study is to review available evidence on the 
+effectiveness of mHealth-based nutritional interventions on iron status (Hb 
+and/or serum ferritin concentration) among pregnant women.
+METHODS: Searches were conducted in Embase, CINAHL, Cochrane Library, PubMed, 
+Web of Science, and Scopus, and supplemented by snowballing to identify 
+additional relevant studies from citation lists. The key search strings 
+comprised 4 concepts: "mobile health," "nutritional intervention," "Hb, anemia 
+or iron deficiency anemia," and "pregnant women." Predefined inclusion and 
+exclusion criteria were applied during screening. The methodological quality of 
+included studies was assessed using the Risk of Bias 2 tool. The primary end 
+point was the change in mean Hb concentration or serum ferritin level. Effect 
+sizes (ESs) were calculated as standardized mean differences, including Cohen d 
+and Hedges g.
+RESULTS: Of the 14,284 studies identified, only 11 randomized controlled trials 
+were included. These studies used various modes of delivery, including mobile 
+phone calls (n=1), SMS text messaging (n=3), and mobile apps (n=4), with some 
+using more than 2 modes (n=3). The effect of mHealth-based nutritional 
+interventions on iron status varied significantly. In total, 4 studies 
+demonstrated a large ES (>0.8), with 3 relying on WhatsApp Messenger as an 
+mHealth delivery mode. Approximately 82% (9/11) of the included studies reported 
+a positive effect (P values ranging from <.001 to .047) of the intervention on 
+Hb level, whereas 2 studies reported no statistically significant association 
+(P=.33 and P=.35, respectively). Notably, interventions with the largest ES 
+achieved clinically significant improvements in Hb concentration, with within- 
+and between-group differences exceeding 1 g/dL. However, including behavioral 
+change theories and nutrition-sensitive components was not consistently 
+associated with larger ESs. Due to high heterogeneity (I2>95%), attributed to 
+variations in mHealth delivery modes, functions, and interactive features across 
+the included studies, meta-analysis could not be performed.
+CONCLUSIONS: This review demonstrates that mHealth-supported nutritional 
+interventions effectively optimize Hb concentration in pregnant women. While SMS 
+text messaging was less effective in improving Hb concentration, combining it 
+with another mHealth delivery mode, such as phone calls, improved intervention 
+effectiveness. However, the variability in mHealth delivery modes, functions, 
+and interactive features underscores the need for tailored strategies that 
+account for context-specific challenges, digital literacy, and access to 
+technology to enhance effectiveness.
+
+© Saba Abraham Belay, Afework Mulugeta Bezabih, Wim Van Petegem, Christophe 
+Matthys. Originally published in JMIR mHealth and uHealth 
+(https://mhealth.jmir.org).
+
+DOI: 10.2196/81001
+PMCID: PMC13065237
+PMID: 41955565 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

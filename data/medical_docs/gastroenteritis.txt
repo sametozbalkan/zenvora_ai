@@ -1,0 +1,114 @@
+=== PubMed: gastroenteritis ===
+1. Lancet. 2024 Mar 2;403(10429):862-876. doi: 10.1016/S0140-6736(23)02037-8.
+Epub  2024 Feb 7.
+
+Viral gastroenteritis.
+
+Flynn TG(1), Olortegui MP(2), Kosek MN(3).
+
+Author information:
+(1)Division of Infectious Diseases and International Health, University of 
+Virginia, Charlottesville, VA, USA.
+(2)Unidad de Investigaciones Biomédicas, Asociación Benéfica PRISMA, Iquitos, 
+Peru.
+(3)Division of Infectious Diseases and International Health, University of 
+Virginia, Charlottesville, VA, USA. Electronic address: mnk2n@virginia.edu.
+
+Since the discovery of norovirus in 1972 as a cause of what was contemporarily 
+known as acute infectious non-bacterial gastroenteritis, scientific 
+understanding of the viral gastroenteritides has continued to evolve. It is now 
+recognised that a small number of viruses are the predominant cause of acute 
+gastroenteritis worldwide, in both high-income and low-income settings. Although 
+treatment is still largely restricted to the replacement of fluid and 
+electrolytes, improved diagnostics have allowed attribution of illness, enabling 
+both targeted treatment of individual patients and prioritisation of 
+interventions for populations worldwide. Questions remain regarding specific 
+genetic and immunological factors underlying host susceptibility, and the 
+optimal clinical management of patients who are susceptible to severe or 
+prolonged manifestations of disease. Meanwhile, the worldwide implementation of 
+rotavirus vaccines has led to substantial reductions in morbidity and mortality, 
+and spurred interest in vaccine development to diminish the impact of the most 
+prevalent viruses that are implicated in this syndrome.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(23)02037-8
+PMID: 38340741 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests TGF was supported by 
+the Global Biothreats Training Program (NIH T32 AI055432) and the Division of 
+Infectious Diseases and International Health Fellowship Program at the 
+University of Virginia (Charlottesville, VA, USA). MNK and MPO were supported by 
+the Fogarty International Center at the US National Institutes of Health 
+(D43TW010913). Funding sources had no role in the writing of this Seminar.
+
+
+2. Ned Tijdschr Tandheelkd. 2002 Apr;109(4):151-2.
+
+[Gastroenteritis].
+
+[Article in Dutch]
+
+Bol P(1).
+
+Author information:
+(1)Faculteit Civiele Techniek en Geowetenschappen Sectie Gezondheidstechniek TU 
+Delft Postbus 5048 2600 GA Delft. pbol@xs4all.nl
+
+PMID: 11982213 [Indexed for MEDLINE]
+
+
+3. Gastroenterol Clin North Am. 2021 Jun;50(2):415-430. doi: 
+10.1016/j.gtc.2021.02.013. Epub 2021 Apr 23.
+
+Infectious Gastroenteritis in Transplant Patients.
+
+Non LR(1), Ince D(2).
+
+Author information:
+(1)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, GH SW34, 200 Hawkins Drive, Iowa City, IA 52242, USA.
+(2)Department of Internal Medicine, University of Iowa, Carver College of 
+Medicine, GH SE418, 200 Hawkins Drive, Iowa City, IA 52242, USA. Electronic 
+address: dilek-ince@uiowa.edu.
+
+Infectious gastroenteritis is common after transplantation and can lead to 
+increased morbidity and mortality. A wide range of organisms can lead to 
+gastroenteritis in this patient population. Clostridioides difficile, 
+cytomegalovirus, and norovirus are the most common pathogens. Newer diagnostic 
+methods, especially multiplex polymerase chain reaction, have increased the 
+diagnostic yield of infectious etiologies. In this review, we describe the 
+epidemiology and risk factors for common infectious pathogens leading to 
+gastroenteritis.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gtc.2021.02.013
+PMID: 34024449 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+4. N Engl J Med. 1981 Feb 12;304(7):397-406. doi: 10.1056/NEJM198102123040705.
+
+Viral gastroenteritis.
+
+Blacklow NR, Cukor G.
+
+DOI: 10.1056/NEJM198102123040705
+PMID: 6256628 [Indexed for MEDLINE]
+
+
+5. Pediatr Infect Dis J. 2002 Nov;21(11):1067-9. doi: 
+10.1097/00006454-200211000-00018.
+
+Astrovirus gastroenteritis.
+
+Mitchell DK(1).
+
+Author information:
+(1)Center for Pediatric Research, Eastern Virginia Medical School, Children's 
+Hospital of The King's Daughter's, Norfolk, VA, USA.
+
+DOI: 10.1097/00006454-200211000-00018
+PMID: 12442031 [Indexed for MEDLINE]

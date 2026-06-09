@@ -1,0 +1,134 @@
+=== PubMed: Meniere disease ===
+1. J Neurol. 2016 Apr;263 Suppl 1:S71-81. doi: 10.1007/s00415-015-7930-1. Epub
+2016  Apr 15.
+
+What is Menière's disease? A contemporary re-evaluation of endolymphatic 
+hydrops.
+
+Gürkov R(1), Pyykö I(2), Zou J(3), Kentala E(4).
+
+Author information:
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University of 
+Munich, Marchioninistr. 15, 81377, Munich, Germany. 
+rguerkov@med.uni-muenchen.de.
+(2)German Centre for Vertigo and Balance Disorder, University of Munich, 
+Marchioninistr. 15, 81377, Munich, Germany.
+(3)Hearing and Balance Research Unit, Otolaryngology, School of Medicine, 
+University of Tampere, 33520, Tampere, Finland.
+(4)Department of Otorhinolaryngology, Helsinki University Central Hospital, 
+Haartmaninkatu 4E, 00290, Helsinki, Finland.
+
+Menière's disease is a chronic condition with a prevalence of 200-500 per 
+100,000 and characterized by episodic attacks of vertigo, fluctuating hearing 
+loss, tinnitus, aural pressure and a progressive loss of audiovestibular 
+functions. Over 150 years ago, Prosper Menière was the first to recognize the 
+inner ear as the site of lesion for this clinical syndrome. Over 75 years ago, 
+endolymphatic hydrops was discovered as the pathologic correlate of Menière's 
+disease. However, this pathologic finding could be ascertained only in 
+post-mortem histologic studies. Due to this diagnostic dilemma and the variable 
+manifestation of the various audiovestibular symptoms, diagnostic classification 
+systems based on clinical findings have been repeatedly modified and have not 
+been uniformly used in scientific publications on Menière's disease. 
+Furthermore, the higher level measures of impact on quality of life such as 
+vitality and social participation have been neglected hitherto. Recent 
+developments of high-resolution MR imaging of the inner ear have now enabled us 
+to visualize in vivo endolymphatic hydrops in patients with suspected Menière's 
+disease. In this review, we summarize the existing knowledge from temporal bone 
+histologic studies and from the emerging evidence on imaging-based evaluation of 
+patients with suspected Menière's disease. These indicate that endolymphatic 
+hydrops is responsible not only for the full-blown clinical triad of 
+simultaneous attacks of auditory and vestibular dysfunction, but also for other 
+clinical presentations such as "vestibular" and "cochlear Menière's disease". As 
+a consequence, we propose a new terminology which is based on symptomatic and 
+imaging characteristics of these clinical entities to clarify and simplify their 
+diagnostic classification.
+
+DOI: 10.1007/s00415-015-7930-1
+PMCID: PMC4833790
+PMID: 27083887 [Indexed for MEDLINE]
+
+
+2. Ugeskr Laeger. 2025 Jun 2;187(23):V07240462. doi: 10.61409/V07240462.
+
+[Ménière's disease].
+
+[Article in Danish]
+
+Laghmoch H(1), Grønlund C(1), Devantier L(2), Djurhuus BD(1).
+
+Author information:
+(1)Øre-, Næse- og Halskirurgisk Afdeling, Sjællands Universitetshospital, Køge.
+(2)Øre-, Næse- og Halskirurgi, Aarhus Universitetshospital.
+
+Ménière's disease (MD) is a disorder of the inner ear characterised by sudden 
+vertigo attacks, unilateral sensorineural hearing loss, tinnitus, and aural 
+fullness. The evidence supporting the diagnostic and treatment options is 
+limited. The diagnosis should be based on criteria put forth by The Bárány 
+Society. This review finds that the assessment of MD should rely on anamnesis 
+and audiometry and can be supported by caloric testing, video head impulse test, 
+and MRI. The limited evidence on available treatment options emphasises the 
+critical role of social interventions in mitigating the psychosocial burden on 
+patients.
+
+Published under Open Access CC-BY-NC-BD 4.0. 
+https://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+DOI: 10.61409/V07240462
+PMID: 40539292 [Indexed for MEDLINE]
+
+
+3. Lancet. 2008 Aug 2;372(9636):406-14. doi: 10.1016/S0140-6736(08)61161-7.
+
+Meniere's disease.
+
+Sajjadi H(1), Paparella MM.
+
+Author information:
+(1)Department of Otolaryngology Head and Neck Surgery, Stanford University 
+Medical Center, San Jose, CA 95124, USA. otology@hotmail.com
+
+Meniere's disease is a chronic illness that affects a substantial number of 
+patients every year worldwide. The disease is characterised by intermittent 
+episodes of vertigo lasting from minutes to hours, with fluctuating 
+sensorineural hearing loss, tinnitus, and aural pressure. Although there is 
+currently no cure, more than 85% of patients with Meniere's disease are helped 
+by either changes in lifestyle and medical treatment, or minimally invasive 
+surgical procedures such as intratympanic steroid therapy, intratympanic 
+gentamicin therapy, and endolymphatic sac surgery. Vestibular neurectomy has a 
+very high rate of vertigo control and is available for patients with good 
+hearing who have failed all other treatments. Labyrinthectomy is undertaken as a 
+last resort and is best reserved for patients with unilateral disease and 
+deafness.
+
+DOI: 10.1016/S0140-6736(08)61161-7
+PMID: 18675691 [Indexed for MEDLINE]
+
+
+4. Eur Arch Otorhinolaryngol. 1995;252(2):63-75. doi: 10.1007/BF00168023.
+
+Ménière's disease.
+
+Merchant SN(1), Rauch SD, Nadol JB Jr.
+
+Author information:
+(1)Department of Otology and Laryngology, Harvard Medical School, Boston, 
+Massachusetts, USA.
+
+There now exists a vast literature on Ménière's disease. In this review, we 
+examine closely the foundations of some of the current concepts regarding 
+various aspects of the disorder, including definitions, clinical features, 
+natural history, pathology, pathogenesis, pathophysiology, diagnosis and 
+treatment. We will highlight areas where the current state of knowledge is 
+incomplete and also suggest some avenues for further research.
+
+DOI: 10.1007/BF00168023
+PMID: 7598874 [Indexed for MEDLINE]
+
+
+5. J Am Acad Audiol. 2006 Jan;17(1):4-5.
+
+Ménière's disease.
+
+Miller MH.
+
+PMID: 16640055 [Indexed for MEDLINE]

@@ -1,0 +1,134 @@
+=== PubMed: skolyoz ===
+1. Ulus Travma Acil Cerrahi Derg. 2024 Nov;30(11):813-820. doi: 
+10.14744/tjtes.2024.83696.
+
+The effect of degenerative scoliosis and spinopelvic parameters on dislocation 
+of hip hemiarthroplasty.
+
+Sıvacıoğlu S(1), Kır MC(2), Tekin AÇ(2), Saygılı MS(2), Bayraktar MK(2), Kafadar 
+A(2), Kır G(3), Yıldız HK(4), Akdas Tekin E(5), Tatar S(4).
+
+Author information:
+(1)Department of Orthopedics and Traumatology, Acıbadem Maslak Hospital, 
+Istanbul-Türkiye.
+(2)Department of Orthopedics and Traumatology, University of Health Sciences, 
+Prof. Dr. Cemil Tascioglu City Hospital, Istanbul-Türkiye.
+(3)Department of Anesthesia and Intensive Care, Koc University School of 
+Medicine, Koc University Hospital, Istanbul-Türkiye.
+(4)Department of Radiology, Prof. Dr. Cemil Tascioglu City Hospital, University 
+of Health Sciences, Istanbul-Türkiye.
+(5)Department of Anesthesia and Intensive Care, University of Health Sciences, 
+Prof. Dr. Cemil Tascioglu City Hospital, Istanbul-Türkiye.
+
+BACKGROUND: Degeneration of the spine may affect pelvic parameters and hip 
+mobility. This study aimed to evaluate the effects of degenerative scoliosis and 
+spinopelvic parameters on hip hemiarthroplasty dislocations.
+METHODS: A retrospective analysis was conducted on patients who underwent 
+hemiarthroplasty for intracapsular hip fracture over a twenty-year period. 
+Demographic data, dislocation incidence, degenerative scoliosis (DS) status, 
+type of hemiarthroplasty, surgical intervention to the hip, femoral head size, 
+cement use, American Society of Anesthesiologists (ASA) score, body mass index 
+(BMI), and in-hospital mortality were evaluated. The Cobb angle (CA), pelvic 
+incidence (PI), sacral slope (SS), pelvic tilt (PT), lumbar lordosis (LL), and 
+thoracic kyphosis (TK) angles were measured and analyzed.
+RESULTS: A total of 284 patients were evaluated, with a mean age of 79.07 
+(±8.21) years. The frequency of hemiarthroplasty dislocation was 13% (n=37). 
+Degenerative scoliosis was detected in 25.4% of the cases and was significantly 
+more common in patients with degenerative scoliosis (p=0.001). Advanced age, 
+higher BMI, higher ASA score, unipolar and cementless hemiarthroplasty, smaller 
+femoral head size, and the posterior approach significantly increased 
+dislocation frequency (p=0.004, p=0.001, p=0.03, p=0.001, p=0.001, and p=0.026, 
+respectively). The mean PI, SS, PT, LL, and TK angles were significantly reduced 
+in patients with dislocation and degenerative scoliosis (dislocation: p=0.001, 
+p=0.001, p=0.001, p=0.003, p=0.048; degenerative scoliosis: p=0.001, p=0.001, 
+p=0.001, p=0.001, p=0.001; respectively).
+CONCLUSION: The presence of degenerative scoliosis and low pelvic incidence, 
+sacral slope, pelvic tilt, thoracic kyphosis, and lumbar lordosis angles may 
+increase the frequency of hemiarthroplasty dislocations. The posterior approach 
+and small femoral head size may also elevate the risk of posterior dislocation.
+
+DOI: 10.14744/tjtes.2024.83696
+PMCID: PMC11843382
+PMID: 39498712 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+2. Acta Orthop Traumatol Turc. 2009 Nov-Dec;43(5):426-30. doi: 
+10.3944/AOTT.2009.426.
+
+[School screening for scoliosis in Sivas, Turkey].
+
+[Article in Turkish]
+
+Cilli K(1), Tezeren G, Taş T, Bulut O, Oztürk H, Oztemur Z, Unsaldi T.
+
+Author information:
+(1)Department of Orthopedics and Traumatology, Sivas State Hospital, Sivas, 
+Turkey.
+
+OBJECTIVES: We investigated the prevalence of scoliosis among primary school 
+students in Sivas, Turkey.
+METHODS: To determine the prevalence of scoliosis among primary school students 
+in the age bracket of 10 to 15 years, 11 primary schools were selected with 
+systematic sampling. A total of 3,175 students (1,538 girls, 1,637 boys) of 
+grades 6 to 8 were selected from 16,103 students using a stratified sampling 
+method. Examination for scoliosis was made by the forward bend test and 
+palpation of the spine.
+RESULTS: Fifteen children (0.47%) were found to have scoliosis, including 10 
+girls (66.7%) and five boys (33.3%). The prevalence of scoliosis was 
+significantly higher in girls (0.65% vs. 0.31%; p<0.05). The mean lateral 
+curvature of the spine was 6.9 degrees (range 5 degrees to 20 degrees ), being 
+7.9 + or - 4.6 degrees in girls, and 5.4 + or - 0.9 degrees in boys. The mean 
+age was 13.5 + or - 1.2 years (range 12-15 years). The severity of the curvature 
+showed no significant relationship with gender and age groups (p>0.05). The 
+levels of involvement were lumbar vertebrae in 73.3% (n=11), thoracic vertebrae 
+in 13.3% (n=2), and thoracolumbar vertebrae in 13.3% (n=2). Spinal curvature was 
+to the right side in 12 cases (80%), and to the left in three cases (20%). Girls 
+and boys did not differ significantly with respect to the severity and direction 
+of the curvature (p>0.05). During a two-year follow-up of children with 
+scoliosis, no progression of the curvature was observed, including one child who 
+wore a Milwaukee brace.
+CONCLUSION: School screenings may be performed as part of prevalence studies; 
+however, routine school screening for scoliosis is debatable.
+
+DOI: 10.3944/AOTT.2009.426
+PMID: 19881324 [Indexed for MEDLINE]
+
+
+3. Acta Orthop Traumatol Turc. 2002;36(4):354-61.
+
+[Neural axis abnormalities detected by preoperative magnetic resonance imaging 
+in patients with type III idiopathic scoliosis].
+
+[Article in Turkish]
+
+Benli IT(1), Un A, Karaaslan S, Cinemre O, Gürses L, Hekimoğlu B.
+
+Author information:
+(1)Department of Orthopedics and Traumatology (1. Ortopedi ve Travmatoloji 
+Kliniği), SSK Ankara Training Hospital, Turkey. cutku@ada.net.tr
+
+OBJECTIVES: We investigated the presence of neural axis abnormalities by 
+magnetic resonance imaging (MRI) in patients with clinically and radiologically 
+confirmed absolute flexible thoracic curves (King-Moe type III).
+METHODS: Preoperative MRI scans of 84 patients (34 males, 50 females; mean age 
+14.1 years; range 11 to 17 years) with adolescent idiopathic scoliosis and a 
+flexible thoracic curve (King-Moe type III) were prospectively evaluated to 
+determine neural axis abnormalities. Clinical and radiologic indications for 
+preoperative MRI examination were sought. All patients were treated with 
+posterior fusion. All patients were intraoperatively monitored by means of motor 
+evoked potentials by magnetic transcortical stimulation and somatosensory evoked 
+potentials. The mean follow-up was 50.1 months (range 24 to 105 months).
+RESULTS: Neural axis abnormalities were detected in six patients (7.1%), 
+including syringomyelia in five patients (5.9%) and diastometamyelia in one 
+patient (1.2%). Of 84 patients, 51 patients (60.7%) had a relatively decreased 
+spinal cord diameter, and an increased epidural distance. No clinical or 
+radiologic indicators were found for preoperative MRI examination. No neurologic 
+deficits developed during operation and in the postoperative period.
+CONCLUSION: The detection of neural axis abnormalities implies the necessity of 
+intraoperative neurologic monitoring to minimize the risks for neurologic 
+deficits. Where this is not available, preoperative MRI seems to be an essential 
+tool in the prevention of surgery-associated neurologic risks.
+
+PMID: 12510072 [Indexed for MEDLINE]

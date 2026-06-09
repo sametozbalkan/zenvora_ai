@@ -1,0 +1,240 @@
+=== PubMed: prednisone drug interactions corticosteroid diabetes ===
+1. Drug Nutr Interact. 1988;5(4):195-203.
+
+Drug and nutrient interactions in the elderly diabetic.
+
+Roe DA(1).
+
+Author information:
+(1)Division of Nutritional Sciences, Cornell University, Ithaca, NY 14853.
+
+Elderly diabetics take more drugs than other groups of elderly patients. Their 
+multiple drug use is largely explained by the drugs that they take for 
+complications of their primary disease; these include cardiovascular drugs for 
+macrovascular disease and antibiotics for secondary infections. They also take 
+more drugs for control of other conditions that are etiologically associated 
+with the development and progression of their diabetes, including 
+antihypertensive agents, antilipemic agents and steroids, and nonsteroidal 
+antiinflammatory drugs (NSAIDs), which are taken for relief of joint pain that 
+is intensified by arthritic joints bearing excess weight. Drugs taken by elderly 
+diabetics that contribute to the high prevalence of drug-nutrient interactions 
+include those taken as antidiabetic agents, including both insulin and 
+sulfonylureas as well as calcium channel blockers; they also include thiazides, 
+loop diuretics, sulfa drugs, cephalosporin antibiotics, tetracyclines, 
+antifungal agents, cholestyramine and colestipol, niacin, prednisone and other 
+corticosteroids, and NSAIDs. These drugs and drug combinations contribute to the 
+risk of hyperglycemia, which can cause nonketotic hyperglycemia in the elderly; 
+to the risk of hypoglycemia, which in the elderly carries the risk of inducing 
+pseudo-stroke; to the risk of drug-induced nutritional deficiencies from 
+antilipemics and cephalosporins, which can induce vitamin K deficiency; to the 
+risk of acute incompatibility reactions, including flush reactions from 
+chlorpropamide, niacin, and calcium channel blockers; and to the risk of edema, 
+anemia, and hyperkalemia from NSAIDs.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+PMID: 3071452 [Indexed for MEDLINE]
+
+
+2. Ther Adv Respir Dis. 2014 Oct;8(5):141-9. doi: 10.1177/1753465814547517. Epub 
+2014 Aug 21.
+
+Omalizumab: a new treatment option for allergic bronchopulmonary aspergillosis 
+in patients with cystic fibrosis.
+
+Lehmann S(1), Pfannenstiel C(2), Friedrichs F(2), Kröger K(3), Wagner N(4), 
+Tenbrock K(4).
+
+Author information:
+(1)Department of Paediatric Pulmonology, University Hospital RWTH Aachen, 
+Germany slehmann@ukaachen.de.
+(2)Practice for Paediatric Pulmonology, Aachen, Germany.
+(3)Department of Pulmonology, Luisenhospital Aachen, Germany.
+(4)Department of Paediatric Pulmonology, University Hospital RWTH Aachen, 
+Germany.
+
+BACKGROUND: Allergic bronchopulmonary aspergillosis (ABPA) is a severe 
+complication in patients with cystic fibrosis (CF), resulting in deterioration 
+of lung function and impairment of overall prognosis. Standard therapy consists 
+of high dosage, long-term corticosteroid treatment. This carries the risk of 
+serious side effects such as immune suppression, diabetes and osteoporosis. 
+Antifungal drugs such as itraconazole may cause interactions with other drugs 
+and drug levels need to be monitored. Omalizumab treatment has been tried in 
+several case studies.
+METHODS: This was a retrospective study of six patients (four female, two male, 
+age 4-33 years old) with CF and ABPA treated with omalizumab within an 
+observation period of 7.5 years.
+RESULTS: All patients showed clinical and laboratory stability or even an 
+improvement within the treatment and post-treatment observation period, although 
+omalizumab therapy was less effective in patients with progressed lung disease 
+and long-term ABPA. Side effects of systemic steroids were reduced.
+CONCLUSION: Omalizumab has the potential to be an additional and solitary 
+treatment option in patients with CF and ABPA. Early onset treatment may be 
+beneficial and patients with early stage of lung disease seem to benefit more.
+
+© The Author(s), 2014.
+
+DOI: 10.1177/1753465814547517
+PMID: 25150265 [Indexed for MEDLINE]
+
+
+3. Pharmacoepidemiol Drug Saf. 2016 Oct;25(10):1116-1123. doi: 10.1002/pds.4042. 
+Epub 2016 Jun 14.
+
+Bisphosphonate therapy start may transiently increase the risk of tendon rupture 
+in patients with glucocorticoid co-medication: a population-based observational 
+study.
+
+Spoendlin J(1)(2), Meier C(3), Jick SS(4), Meier CR(5)(6)(7).
+
+Author information:
+(1)Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and 
+Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, 
+Switzerland.
+(2)Hospital Pharmacy, University Hospital Basel, Basel, Switzerland.
+(3)Division of Endocrinology, Diabetes and Metabolism, University Hospital 
+Basel, Basel, Switzerland.
+(4)Boston Collaborative Drug Surveillance Program, Boston University School of 
+Public Health, Lexington, MA, USA.
+(5)Basel Pharmacoepidemiology Unit, Division of Clinical Pharmacy and 
+Epidemiology, Department of Pharmaceutical Sciences, University of Basel, Basel, 
+Switzerland. christoph.meier@usb.ch.
+(6)Hospital Pharmacy, University Hospital Basel, Basel, Switzerland. 
+christoph.meier@usb.ch.
+(7)Boston Collaborative Drug Surveillance Program, Boston University School of 
+Public Health, Lexington, MA, USA. christoph.meier@usb.ch.
+
+PURPOSE: The effect of bisphosphonates on extra-osseous tissue is rarely 
+investigated. We performed an exploratory analysis on the association of new 
+bisphosphonate use and incident tendon rupture in patients with or without oral 
+glucocorticoid co-medication.
+METHODS: We conducted a matched case-control study using data from the UK-based 
+Clinical Practice Research Datalink. Cases were patients aged 30-89 years with 
+an incident diagnosis of Achilles or biceps tendon rupture between 1995 and 
+2013. We compared new oral bisphosphonate use between cases and controls with or 
+without oral glucocorticoid co-medication, by timing (last prescription 
+</≥180 days) and duration (number of prescriptions) of bisphosphonate use. In a 
+case-crossover analysis, we compared new bisphosphonate exposure in the event 
+period and the control period controlling for glucocorticoid use.
+RESULTS: Among 7859 cases, 246 (3.1%) were new users of bisphosphonates. 
+Patients with glucocorticoid co-medication had an odds ratio (OR) for tendon 
+rupture of 6.42 (95%CI 4.03-10.22) for short-term bisphosphonate use (≤4 
+prescriptions), which declined with increasing number of prescriptions. Among 
+people with continuous prednisone use of 5-10 mg/day, bisphosphonate users with 
+<9 prescriptions had an OR of 2.46 (95%CI 1.00-6.03), compared with 
+bisphosphonate non-users. The case-crossover analysis yielded an OR of 4.46 
+(95%CI 2.76-7.20) for new bisphosphonate treatment in patients with 
+glucocorticoid co-medication, and a null result in glucocorticoid non-users.
+CONCLUSIONS: New bisphosphonate treatment may transiently increase the risk of 
+tendon rupture in oral glucocorticoid users. Further research is needed to 
+establish causality of this yet unreported adverse drug reaction or drug-drug 
+interaction. Copyright © 2016 John Wiley & Sons, Ltd.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/pds.4042
+PMID: 27297005 [Indexed for MEDLINE]
+
+
+4. Trials. 2020 Jul 9;21(1):632. doi: 10.1186/s13063-020-04575-w.
+
+Outpatient treatment of COVID-19 with steroids in the phase of mild pneumonia 
+without the need for admission as an opportunity to modify the course of the 
+disease: A structured summary of a randomised controlled trial.
+
+Saiz-Rodríguez M(1), Peña T(2), Lázaro L(2), González Á(3), Martínez A(3), 
+Cordero JA(4), Vicente JT(5), Richard F(5), Coma MJ(1), de Frutos M(1), Labrador 
+J(1)(6), Pueyo A(7).
+
+Author information:
+(1)Research Unit, Hospital Universitario de Burgos, Burgos, Spain.
+(2)Neumology Department, Hospital Universitario de Burgos, Avda Islas Baleares, 
+3, Burgos, Spain.
+(3)Gerencia de Atención Primaria de Burgos, Burgos, Spain.
+(4)Instituto de Investigación Sanitaria Bioaraba, Vitoria-Gasteiz, Álava, Spain.
+(5)Emergency Department, Hospital Universitario de Burgos, Burgos, Spain.
+(6)Hematology Department, Hospital Universitario de Burgos, Burgos, Spain.
+(7)Neumology Department, Hospital Universitario de Burgos, Avda Islas Baleares, 
+3, Burgos, Spain. pueyo@saludcastillayleon.es.
+
+OBJECTIVES: The aim of this study is to explore the effectiveness and safety of 
+oral corticosteroids (prednisone) in the treatment of early stage SARS-Cov-2 
+pneumonia in patients who do not yet meet hospital admission criteria.
+TRIAL DESIGN: Randomized clinical trial, controlled, open, parallel group, to 
+evaluate the effectiveness of steroids in adult patients with confirmed 
+COVID-19, with incipient pulmonary involvement, without hospital admission 
+criteria. Patients will be stratified by the presence or not of radiological 
+data on pneumonia.
+PARTICIPANTS: We will include patients with early stage SARS-Cov-2 pneumonia who 
+do not meet hospital admission criteria from the reference hospital, the 
+Hospital Universitario de Burgos, in the region of Castilla y León, Spain. 
+Patients will be followed-up by specialist physicians and Primary Health Care 
+professionals.
+INCLUSION CRITERIA: - Men and women. - Age between 18 and 75 years old. - 
+Diagnosed SARS-CoV-2 infection, by PCR and/or IgM+ antibody test and/or antigen 
+test. - Clinical diagnosis of lung involvement: (respiratory symptoms +/- 
+pathological auscultation +/- O2 desaturation) - Chest X-ray with mild-moderate 
+alterations or normal. - Patients who give their verbal informed consent in 
+front of witnesses, which will be reflected in the patients' medical records.
+EXCLUSION CRITERIA: - Oxygen desaturation below 93% or P02 < 62. - 
+Moderate-severe dyspnea or significant respiratory or general deterioration that 
+makes admission advisable. - Chest X-ray with multifocal infiltrates. - 
+Insulin-dependent diabetes with poor control or glycaemia in the emergency room 
+test greater than 300 mg/ml (fasting or not). - Other significant comorbidities: 
+Severe renal failure (creatinine clearance < 30 mL/min); cirrhosis or chronic 
+liver disease, poorly controlled hypertension. - Heart rhythm disturbances 
+(including prolonged QT). - Severe immunosuppression (HIV infection, long-term 
+use of immunosuppressive agents); cancer. - Pregnant or breast-feeding women. - 
+Patients under use of glucocorticoids for other diseases. - History of allergy 
+or intolerance to any of the drugs in the study (prednisone, azithromycin or 
+hydroxychloroquine). - Patients who took one or more of the study drugs in the 7 
+days prior to study inclusion. - Patients taking non-suppressible drugs with 
+risk of QT prolongation or significant interactions. - Patients unwilling or 
+unable to participate until study completion. - Participation in another study.
+INTERVENTION AND COMPARATOR: Eligible patients will be randomized to receive 
+standard outpatient treatment only (group 1) or standard outpatient treatment 
+plus prednisone (group 2). - Group 1: paracetamol 1 g/8 h (on demand) + 
+hydroxychloroquine 400 mg/12h the first day, 200 mg/12 h for 4 days + 
+azithromycin 500 mg/24h for 5 days. - Group 2: paracetamol 1 g/8 h (on demand) + 
+hydroxychloroquine 400 mg/12h the first day, 200 mg/12 h for 4 days + 
+azithromycin 500 mg/24h for 5 days + prednisone 60 mg / 24 h for 3 days, 30 mg / 
+24 h for 3 days and 15 mg / 24 h for 3 days.
+MAIN OUTCOMES: If the patient requires ambulatory observation, according to the 
+protocol established in this respect in the Emergency Department, meets all the 
+criteria for inclusion and none for exclusion, data will be taken by the person 
+responsible on the data collection sheet. The main result is admission after 30 
+days. Secondary outcomes are 30-day ICU admission and hospital stay. The safety 
+variable will be the occurrence of clinical symptoms or delirium related to the 
+steroids. Also, the possible decompensations of diabetes will be measured. All 
+tests will be on an intention-to-treat basis.
+RANDOMISATION: Treatment will be assigned according to stratified randomization 
+by the presence or absence of radiological data of lung involvement (previously 
+performed by random sequence 1:1 generated with Epidat and kept hidden by 
+opaque, sealed envelopes, which will only be opened after inclusion and basal 
+measurement).
+BLINDING (MASKING): Participants, caregivers and personnel responsible for 
+outcomes measurement will not be blinded to group assignment, once the patient 
+is included and the basal measurement performed, as per protocol design.
+NUMBERS TO BE RANDOMISED (SAMPLE SIZE): The percentage of patients with 
+incipient lung involvement is unknown, but given that pulmonary involvement 
+already exists it is estimated to be around 20%. We consider that the 
+intervention could reduce this percentage to 5%, so the necessary sample size 
+would be 200 subjects (100 per group), with a power of 80% and an estimated loss 
+percentage of 10%.
+TRIAL STATUS: The protocol with code TAC-COVID-19, version 2.0 on date: April 
+16, 2020 is approved by the Spanish Drug Agency (AEMPS) and the local Ethics 
+Committee. The trial is in the recruitment phase. Recruitment began 19 April, 
+2020 and is anticipated to be complete by April 2021.
+TRIAL REGISTRATION: The trial was registered under the title "OUTPATIENT 
+TREATMENT OF EARLY PULMONARY COVID19 WITH CORTICOSTEROIDS AS AN OPPORTUNITY TO 
+MODIFY THE COURSE OF THE DISEASE" with EudraCT number 2020-001622-64 , 
+registered on 3 April 2020.
+FULL PROTOCOL: The full protocol is attached as an additional file, accessible 
+from the Trials website (Additional file 1). In the interest in expediting 
+dissemination of this material, the familiar formatting has been eliminated; 
+this Letter serves as a summary of the key elements of the full protocol.
+
+DOI: 10.1186/s13063-020-04575-w
+PMCID: PMC7344042
+PMID: 32646502 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

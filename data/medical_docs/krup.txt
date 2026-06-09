@@ -1,0 +1,196 @@
+=== PubMed: krup ===
+1. Feldsher Akush. 1953 Mar;13(3):21-4.
+
+[Croup].
+
+[Article in Undetermined Language]
+
+ZUDINA-GENDOBINA EA.
+
+PMID: 13052111 [Indexed for MEDLINE]
+
+
+2. Mol Cell. 2018 Oct 18;72(2):316-327.e5. doi: 10.1016/j.molcel.2018.08.034.
+
+Cilia-Associated Oxysterols Activate Smoothened.
+
+Raleigh DR(1), Sever N(2), Choksi PK(3), Sigg MA(4), Hines KM(5), Thompson 
+BM(6), Elnatan D(4), Jaishankar P(7), Bisignano P(8), Garcia-Gonzalo FR(4), Krup 
+AL(3), Eberl M(9), Byrne EFX(10), Siebold C(10), Wong SY(9), Renslo AR(7), Grabe 
+M(8), McDonald JG(11), Xu L(5), Beachy PA(12), Reiter JF(13).
+
+Author information:
+(1)Department of Radiation Oncology, University of California, San Francisco, 
+San Francisco, CA, USA; Department of Neurological Surgery, University of 
+California, San Francisco, San Francisco, CA, USA; Department of Biochemistry 
+and Biophysics, University of California, San Francisco, San Francisco, CA, USA.
+(2)Department of Biochemistry, Stanford University School of Medicine, Stanford, 
+CA, USA; Institute for Stem Cell Biology and Regenerative Medicine, Stanford 
+University School of Medicine, Stanford, CA, USA.
+(3)Department of Radiation Oncology, University of California, San Francisco, 
+San Francisco, CA, USA; Department of Biochemistry and Biophysics, University of 
+California, San Francisco, San Francisco, CA, USA.
+(4)Department of Biochemistry and Biophysics, University of California, San 
+Francisco, San Francisco, CA, USA.
+(5)Department of Medicinal Chemistry, University of Washington, Seattle, WA, 
+USA.
+(6)Center for Human Nutrition, University of Texas Southwestern Medical Center, 
+Dallas, TX, USA.
+(7)Department of Pharmaceutical Chemistry, University of California, San 
+Francisco, San Francisco, CA, USA; Small Molecule Discovery Center, University 
+of California, San Francisco, San Francisco, CA, USA.
+(8)Department of Pharmaceutical Chemistry, University of California, San 
+Francisco, San Francisco, CA, USA; Cardiovascular Research Institute, University 
+of California, San Francisco, San Francisco, CA, USA.
+(9)Department of Dermatology, University of Michigan, Ann Arbor, MI, USA.
+(10)Division of Structural Biology, Wellcome Centre for Human Genetics, 
+University of Oxford, Oxford, UK.
+(11)Center for Human Nutrition, University of Texas Southwestern Medical Center, 
+Dallas, TX, USA; Department of Molecular Genetics, University of Texas 
+Southwestern Medical Center, Dallas, TX, USA.
+(12)Department of Biochemistry, Stanford University School of Medicine, 
+Stanford, CA, USA; Institute for Stem Cell Biology and Regenerative Medicine, 
+Stanford University School of Medicine, Stanford, CA, USA; Department of Urology 
+and Department of Developmental Biology, Stanford University School of Medicine, 
+Stanford, CA, USA.
+(13)Department of Biochemistry and Biophysics, University of California, San 
+Francisco, San Francisco, CA, USA; Cardiovascular Research Institute, University 
+of California, San Francisco, San Francisco, CA, USA. Electronic address: 
+jeremy.reiter@ucsf.edu.
+
+Primary cilia are required for Smoothened to transduce vertebrate Hedgehog 
+signals, but how Smoothened accumulates in cilia and is activated is 
+incompletely understood. Here, we identify cilia-associated oxysterols that 
+promote Smoothened accumulation in cilia and activate the Hedgehog pathway. Our 
+data reveal that cilia-associated oxysterols bind to two distinct Smoothened 
+domains to modulate Smoothened accumulation in cilia and tune the intensity of 
+Hedgehog pathway activation. We find that the oxysterol synthase HSD11β2 
+participates in the production of Smoothened-activating oxysterols and promotes 
+Hedgehog pathway activity. Inhibiting oxysterol biosynthesis impedes oncogenic 
+Hedgehog pathway activation and attenuates the growth of Hedgehog 
+pathway-associated medulloblastoma, suggesting that targeted inhibition of 
+Smoothened-activating oxysterol production may be therapeutically useful for 
+patients with Hedgehog-associated cancers.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.molcel.2018.08.034
+PMCID: PMC6503851
+PMID: 30340023 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+competing interests.
+
+
+3. Med Sestra. 1976 Jun;35(6):24-8.
+
+[Croup in children].
+
+[Article in Russian]
+
+Livshits MB.
+
+PMID: 1048306 [Indexed for MEDLINE]
+
+
+4. J Clin Invest. 2018 Jan 2;128(1):120-124. doi: 10.1172/JCI92710. Epub 2017 Nov
+ 20.
+
+Hedgehog signaling drives medulloblastoma growth via CDK6.
+
+Raleigh DR(1)(2), Choksi PK(1)(2), Krup AL(1)(2), Mayer W(1)(2), Santos N(2), 
+Reiter JF(2).
+
+Author information:
+(1)Department of Radiation Oncology and.
+(2)Department of Biochemistry and Biophysics, UCSF, San Francisco, California, 
+USA.
+
+Medulloblastoma, an aggressive cancer of the cerebellum, is among the most 
+common pediatric brain tumors. Approximately one-third of medulloblastomas are 
+associated with misactivation of the Hedgehog (Hh) pathway. GLI family zinc 
+finger 2 (GLI2) coordinates the Hh transcriptional program; however, the GLI2 
+targets that promote cancer cell proliferation are unknown. Here, we 
+incorporated a Gli2-EGFP allele into 2 different genetic mouse models of 
+Hh-associated medulloblastoma. Hh signaling induced GLI2 binding to the Cdk6 
+promoter and activated Cdk6 expression, thereby promoting uncontrolled cell 
+proliferation. Genetic or pharmacological inhibition of CDK6 in mice repressed 
+the growth of Hh-associated medulloblastoma and prolonged survival through 
+inhibition of cell proliferation. In human medulloblastoma, misactivation of Hh 
+signaling was associated with high levels of CDK6, pointing to CDK6 as a direct 
+transcriptional target of the Hh pathway. These results suggest that CDK6 
+antagonists may be a promising therapeutic approach for Hh-associated 
+medulloblastoma in humans.
+
+DOI: 10.1172/JCI92710
+PMCID: PMC5749513
+PMID: 29202464 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+5. Development. 2023 May 1;150(9):dev201229. doi: 10.1242/dev.201229. Epub 2023
+May  2.
+
+A Mesp1-dependent developmental breakpoint in transcriptional and epigenomic 
+specification of early cardiac precursors.
+
+Krup AL(1)(2), Winchester SAB(2), Ranade SS(2), Agrawal A(2), Devine WP(3), 
+Sinha T(4), Choudhary K(2), Dominguez MH(2)(4)(5)(6), Thomas R(2), Black 
+BL(4)(7), Srivastava D(2)(7)(8)(9), Bruneau BG(2)(8)(9)(10)(11).
+
+Author information:
+(1)Biomedical Sciences Program, University of California, San Francisco, CA 
+94158, USA.
+(2)Gladstone Institutes of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA.
+(3)Department of Pathology, University of California, San Francisco, CA 94158, 
+USA.
+(4)Cardiovascular Research Institute, University of California, San Francisco, 
+CA 94158, USA.
+(5)Department of Medicine, Division of Cardiology, University of California, San 
+Francisco, CA 94158, USA.
+(6)Cardiovascular Institute and Department of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+(7)Department of Biochemistry and Biophysics, University of California, San 
+Francisco, CA 94158, USA.
+(8)Department of Pediatrics, University of California, San Francisco, CA 94158, 
+USA.
+(9)Roddenberry Center for Stem Cell Biology and Medicine, Gladstone Institutes, 
+San Francisco, CA 94158, USA.
+(10)Institute of Human Genetics, University of California, San Francisco, CA 
+94158, USA.
+(11)Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, 
+University of California, San Francisco, CA 94158, USA.
+
+Transcriptional networks governing cardiac precursor cell (CPC) specification 
+are incompletely understood owing, in part, to limitations in distinguishing 
+CPCs from non-cardiac mesoderm in early gastrulation. We leveraged detection of 
+early cardiac lineage transgenes within a granular single-cell transcriptomic 
+time course of mouse embryos to identify emerging CPCs and describe their 
+transcriptional profiles. Mesp1, a transiently expressed mesodermal 
+transcription factor, is canonically described as an early regulator of cardiac 
+specification. However, we observed perdurance of CPC transgene-expressing cells 
+in Mesp1 mutants, albeit mislocalized, prompting us to investigate the scope of 
+the role of Mesp1 in CPC emergence and differentiation. Mesp1 mutant CPCs failed 
+to robustly activate markers of cardiomyocyte maturity and crucial cardiac 
+transcription factors, yet they exhibited transcriptional profiles resembling 
+cardiac mesoderm progressing towards cardiomyocyte fates. Single-cell chromatin 
+accessibility analysis defined a Mesp1-dependent developmental breakpoint in 
+cardiac lineage progression at a shift from mesendoderm transcriptional networks 
+to those necessary for cardiac patterning and morphogenesis. These results 
+reveal Mesp1-independent aspects of early CPC specification and underscore a 
+Mesp1-dependent regulatory landscape required for progression through 
+cardiogenesis.
+
+© 2023. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.201229
+PMCID: PMC10259516
+PMID: 36994838 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests B.G.B. and D.S. are 
+founders, shareholders and advisors of Tenaya Therapeutics. B.G.B. is an advisor 
+for Silver Creek Pharmaceuticals. The work presented here is not related to the 
+interests of these commercial entities.

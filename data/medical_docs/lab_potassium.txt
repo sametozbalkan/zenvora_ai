@@ -1,0 +1,165 @@
+=== PubMed: potassium electrolyte high low causes treatment ===
+1. Am J Trop Med Hyg. 2026 Mar 31;114(5):981-988. doi: 10.4269/ajtmh.25-0635.
+Print  2026 May 6.
+
+Low Blood Glucose and Its Relation to Electrolyte Derangements and Metabolic 
+Acidosis in Critically Ill Children in Malawi.
+
+Kreslins A(1)(2), Ngwalangwa F(3), Langton J(4), Mlia Phiri E(4), King C(1), 
+Hildenwall H(1)(2)(5).
+
+Author information:
+(1)Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+(2)Astrid Lindgren Children's Hospital, Karolinska University Hospital, 
+Stockholm, Sweden.
+(3)Department of Epidemiology and Biostatistics, Kamuzu University of Health 
+Sciences, Blantyre, Malawi.
+(4)Department of Pediatrics and Child Health, Queen Elizabeth Central Hospital 
+and Kamuzu University of Health Sciences, Blantyre, Malawi.
+(5)Department of Clinical Science, Intervention and Technology, Karolinska 
+Institutet, Stockholm, Sweden.
+
+Critically ill children with low blood glucose concentrations in low-income 
+settings suffer a high risk of mortality independent of other signs of disease 
+severity and despite administration of the currently recommended treatment of 
+hypoglycemia. This study explores other pathways that may relate to the high 
+mortality risk, namely electrolyte derangements, metabolic acidosis, and 
+hyperketonemia. Children ages 1 month to 5 years old presenting with one or more 
+WHO emergency signs were recruited upon arrival to the Pediatric Accident and 
+Emergency Department at Queen Elizabeth Central Hospital in Malawi between 
+November 2022 and June 2024. A total of 12 hypoglycemic (blood glucose <2.5 
+mmol/L), 36 low glycemic (blood glucose 2.5-4.9 mmol/L), and 201 normoglycemic 
+(blood glucose 5.0-10.0 mmol/L) children were enrolled. Low glycemic children 
+had increased odds of acidosis (adjusted odds ratio [aOR] = 5.84, 95% CI: 
+1.17-29.2 for moderate acidosis; aOR = 27.1, 95% CI: 6.08-120.9 for severe 
+acidosis). Among children with acidosis, there were increased odds of 
+hypokalemia (aOR = 24.5, 95% CI: 2.91-205.88), hyponatremia (aOR = 2.58, 95% CI: 
+1.33-4.99 for moderate acidosis; aOR = 3.62, 95% CI: 1.71-7.68 for severe 
+acidosis), and hypernatremia (aOR = 9.42, 95% CI: 2.50-35.5 for severe 
+acidosis). There were no increased odds of potassium or sodium derangements in 
+those with low glucose concentrations. Low blood glucose concentrations were 
+associated with metabolic acidosis, which in turn, was associated with 
+hypokalemia and hyponatremia/hypernatremia. However, there was no direct 
+association between low blood glucose and electrolyte derangements.
+
+DOI: 10.4269/ajtmh.25-0635
+PMID: 41916267 [Indexed for MEDLINE]
+
+
+2. Medicine (Baltimore). 2026 Mar 27;105(13):e48113. doi: 
+10.1097/MD.0000000000048113.
+
+Fanconi syndrome induced by zoledronic acid: Two case reports.
+
+Chen Y(1), Ma J(1), Ma T(2), Li Y(2), Qiao L(1), Zhang Y(1).
+
+Author information:
+(1)Department of Urology and Office of Academic Research, Affiliated Hospital of 
+Hebei University, Baoding, Hebei Province, China.
+(2)Department of Endocrinology and Office of Academic Research, Affiliated 
+Hospital of Hebei University, Baoding, Hebei Province, China.
+
+RATIONALE: Zoledronic acid (ZA) is a potent third-generation bisphosphonate 
+widely used to manage bone metastases in prostate cancer. Although effective, ZA 
+is associated with nephrotoxicity, which in rare cases may lead to Fanconi 
+syndrome (FS): a form of acquired proximal renal tubular dysfunction. Clinicians 
+may overlook early signs of FS, especially in patients receiving long-term 
+bisphosphonate therapy.
+PATIENT CONCERNS: We report 2 cases of prostate cancer complicated by FS 
+following ZA administration. Patient #1, a 74-year-old male without prior renal 
+dysfunction, developed hypouricaemia 4 months after initiating ZA, and was 
+diagnosed with FS 2 years later. Patient #2, a 66-year-old male with chronic 
+hepatitis B and long-term low-dose adefovir use, exhibited progressive tubular 
+injury shortly after ZA initiation and was diagnosed with FS 4 years later.
+DIAGNOSES: Both patients were diagnosed with acquired FS based on laboratory 
+abnormalities including hypophosphatemia, hypouricaemia, glycosuria, 
+proteinuria, and metabolic acidosis. Differential diagnoses including hereditary 
+FS and other nephrotoxic exposures were excluded.
+INTERVENTIONS: In both patients, ZA was discontinued. Patient #1 was switched to 
+denosumab, and received oral phosphate, potassium, and bicarbonate replacement. 
+Patient #2 also discontinued adefovir and was transitioned to entecavir, 
+alongside targeted supportive therapy with phosphate and vitamin D 
+supplementation.
+OUTCOMES: Renal tubular function improved in both patients following drug 
+withdrawal. Hypouricaemia, glycosuria, electrolyte abnormalities, and acid-base 
+imbalance gradually resolved over 1 to 3 months, supporting a causal 
+relationship between ZA and FS.
+LESSONS: These cases highlight the importance of early recognition and close 
+monitoring of renal tubular function in patients receiving ZA. Screening for FS, 
+including urinalysis, blood gas analysis, and serum electrolytes, should be 
+considered within the first month of therapy and repeated regularly thereafter. 
+Clinicians should maintain high vigilance for FS, especially when ZA is used 
+concurrently with other nephrotoxic agents such as adefovir.
+
+Copyright © 2026 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000048113
+PMCID: PMC13034929
+PMID: 41894284 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+3. Cureus. 2026 Feb 9;18(2):e103265. doi: 10.7759/cureus.103265. eCollection 2026
+ Feb.
+
+Survival After Massive Potassium Cyanide Ingestion Without Antidote in a 
+Tertiary Care Setting.
+
+Vishnupriya C(1), Kuruvila RS(1), Hrushikesh A(1), Veerasetty NK(2), Kumar G(1).
+
+Author information:
+(1)Emergency Medicine, Amrita Hospital, Kochi, IND.
+(2)Preventive and Social Medicine, Jawaharlal Institute of Postgraduate Medical 
+Education and Research, Puducherry, IND.
+
+Cyanide is a rapidly acting cellular toxin that blocks mitochondrial oxidative 
+phosphorylation, causing abrupt lactic acidosis, cardiovascular collapse, and 
+death within minutes if untreated. Survival after massive oral ingestion is 
+rare, and published cases almost always involve the use of specific antidotes 
+such as hydroxocobalamin or sodium nitrite with sodium thiosulfate. A 
+29-year-old man with emotionally unstable personality disorder/bipolar disorder, 
+on regular psychotropic medication, ingested approximately 8 g of potassium 
+cyanide dissolved in water in an impulsive act of self-harm. He rapidly 
+developed multiple episodes of green, non-bloody vomiting and loose stools and 
+was taken to a local hospital, where he was found to have elevated lactate and 
+creatinine. In the absence of a cyanide antidote, he was started on high-flow 
+oxygen via a non-rebreathing mask and noradrenaline and referred to a tertiary 
+center. On arrival, he was anxious but fully conscious, with stable oxygenation, 
+tachycardia, and mild hypotension under vasopressor support. Arterial blood gas 
+(ABG) showed mixed respiratory alkalosis and metabolic acidosis with 
+hyperlactatemia, hypokalemia, and hyperglycemia. Intensive supportive care 
+included invasive hemodynamic monitoring, aggressive crystalloid resuscitation, 
+titrated noradrenaline, broad-spectrum antibiotics, careful renal protection, 
+correction of electrolytes, and serial blood gas monitoring. He subsequently 
+developed marked hepatocellular injury (peak aspartate aminotransferase: 490.5 
+IU/L and alanine aminotransferase: 1069.4 IU/L) with preserved bilirubin and 
+coagulation profile, for which N-acetylcysteine infusion and hepatoprotective 
+agents were administered, with excellent response. Urine toxicology performed 
+later in the course was negative for cyanide and thiocyanate, likely due to 
+delayed sampling of approximately 11 hours. He was discharged on Day 13 in a 
+stable condition with improving liver enzymes and arranged follow-up with 
+hepatology and psychiatry. This case demonstrates that survival is possible 
+after apparently massive potassium cyanide ingestion, even without antidote 
+availability, when clinicians rapidly recognize the diagnosis and provide 
+meticulous supportive care. It also highlights critical gaps in antidote access 
+and underscores the need for integrated psychiatric follow-up and tighter 
+control of online cyanide sales, particularly in low-resource settings.
+
+Copyright © 2026, Vishnupriya et al.
+
+DOI: 10.7759/cureus.103265
+PMCID: PMC12977285
+PMID: 41822598
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.

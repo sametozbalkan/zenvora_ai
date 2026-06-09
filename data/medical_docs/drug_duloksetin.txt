@@ -1,0 +1,40 @@
+İLAÇ: Duloksetin (Cymbalta, Xeristar)
+SINIF: Serotonin-norepinefrin geri alım inhibitörü (SNRİ)
+
+ENDİKASYONLAR:
+- Major depresif bozukluk
+- Generalize anksiyete bozukluğu
+- Diyabetik periferik nöropati ağrısı
+- Fibromiyalji
+- Kronik kas-iskelet ağrısı (artrit dahil)
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- MAO inhibitörleri: ÖLÜMCÜL serotonin sendromu — 14 gün aralık zorunlu
+- Tramadol, fentanil, triptanlar: Serotonin sendromu riski
+- Warfarin: Kanama riski; INR izlenmeli
+- NSAİD'ler, aspirin: GİS kanama riski
+- Tiyoridazin: QT uzaması riski — birlikte kullanılmaz
+- CYP1A2 inhibitörleri (fluvoksamin, siprofloksasin): Duloksetin düzeyi belirgin artar
+- CYP2D6 inhibitörleri (paroksetin, fluoksetin): Duloksetin düzeyi artar
+- Alkol: Karaciğer toksisitesi riski artabilir
+
+UYARILAR:
+- Karaciğer hastalığında kullanılmamalı
+- Aniden kesilmemeli — kesilme sendromu (elektrik çarpması hissi, baş dönmesi)
+- Kan basıncı izlenmeli
+- İntihar riskini artırabilir (<25 yaş)
+- Dar açılı glokom
+- Hiponatremi riski
+
+KONTRENDİKASYONLAR:
+- MAO inhibitörü kullanımı
+- Kontrol edilemeyen glokom
+- Ciddi böbrek veya karaciğer yetmezliği
+
+YAN ETKİLER:
+- Bulantı (başlangıçta sık)
+- Ağız kuruluğu
+- Uykusuzluk veya uyku hali
+- Terleme
+- Kabızlık, iştahsızlık
+- Cinsel işlev bozukluğu

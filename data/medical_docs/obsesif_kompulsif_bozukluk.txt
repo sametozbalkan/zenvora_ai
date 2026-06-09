@@ -1,0 +1,189 @@
+=== PubMed: obsesif kompulsif bozukluk ===
+1. Turk Psikiyatri Derg. 2022 Spring;33(1):22-31. doi: 10.5080/u25933.
+
+The Investigation of Transdiagnostic Role of Obsessive Beliefs: Comparison of 
+Clinical Groups Diagnosed with Obsessive Compulsive Disorder, Anxiety Disorders 
+and Depression with University Students.
+
+[Article in English, Turkish]
+
+Inozu M, Keser E, Erel S, Sari BA, Haciömeroğlu AB, Özmenler KN.
+
+OBJECTIVE: The present study aimed to investigate whether the dysfunctional 
+obsessive beliefs are specific to obsessive-compulsive disorder (OCD) using 
+three different clinical groups including OCD, depression, and anxiety and a 
+control group of university students.
+METHOD: The participants of the study comprised three patient groups with OCD 
+(n=53), major depressive disorder (MDD, n=67), anxiety disorders (AD, n=73), and 
+a group of university students (n=477). The short version of the Obsessive 
+Belief Questionnaire (OBQ-20) was used to measure obsessive beliefs. The 
+Semi-Structured Clinical Interviews for DSM-IV-TR (SCID-I), the 
+Obsessive-Compulsive Inventory- Revised Form, the Beck Depression Inventory, and 
+the State-Trait Anxiety Inventory-Trait Form were used to assess the severity of 
+the symptoms.
+RESULTS: The scores of the three patient groups were significantly higher on the 
+OBQ-20 as compared to the university students. It is noteworthy that the OBQ-20 
+scores did not significantly differ between the three patient groups except on 
+the 'importance of thought' (ICT) subscale showing significantly higher scores 
+in the group with OCD in comparison to the patients with depression and anxiety 
+disorders.
+CONCLUSION: The results suggest that obsessive beliefs may have a 
+transdiagnostic mechanism with a possible role in the etiology and maintenance 
+of a broad range of different psychopathologies, except in relation to the 
+'importance and control' of thoughts. Investigating the common processes 
+underlying different psychopathologies is important for the etiological 
+explanation and future treatment of the disorders.
+
+DOI: 10.5080/u25933
+PMID: 35343578 [Indexed for MEDLINE]
+
+
+2. Turk Psikiyatri Derg. 2018 Summer;29(2):122-130.
+
+[Dimensional Approach to Obsessive-Compulsive Disorder: Dimensional 
+Obsessive-Compulsive Scale with Turkish Psychometric Properties].
+
+[Article in Turkish]
+
+Şafak Y, Say Öcal D, Özdel K, Kuru E, Örsel S.
+
+OBJECTIVE: The Dimensional Obsessive Compulsive Scale (DOCS) is a measurement 
+tool that examines the severity of thematically distinct symptom domains of 
+obsessive compulsive disorder (OCD). In this study we assess psychometric 
+properties of the Turkish version of DOCS.
+METHODS: Ninety-six patients who presented consecutively to the Dışkapı Yıldırım 
+Beyazıt Teaching and Research Hospital outpatient unit and who were diagnosed 
+with OCD according to the DSM-IV-TR criteria were enrolled in the study. The 
+DOCS, Yale-Brown Obsessive Compulsive Scale (YBOCS), and Padua Inventory (PI) 
+were completed by the participants. Internal consistency was estimated using 
+Cronbachs Alpha values and item-total correlations. Principal component 
+analyses with Varimax rotation were used to assess latent factor structure .
+RESULTS: Explanatory Factor Analyses (EFA) revealed a 4-factor solution for the 
+DOCS. Chronbachs alpha values for the whole scale, contamination sub-scale, 
+responsibility sub-scale, unacceptable thoughts, and symmetry sub-scales 
+were 0.874, 0.932, 0.933, 0.948, 0.921, respectively. There was a high 
+correlation between both total scores and sub-scales scores of DOCS, YBOCS and 
+PI.
+CONCLUSIONS: Internal consistencies were good for the total scale and excellent 
+for the sub-scales. The factor structure and the contents of the factors were 
+perfectly in line with the original scale (i.e. 4 factor). Positive correlations 
+between DOCS, its sub-scales, and similar OCD scales suggest that the DOCS 
+accurately measures the structures it claims to assess. Thus the DOCS Turkish 
+version can measure dimensional obsessive compulsive symptoms among the Turkish 
+speaking OCD population.
+
+PMID: 30215841 [Indexed for MEDLINE]
+
+
+3. Turk Psikiyatri Derg. 2020 Fall;31(3):168-173. doi: 10.5080/u25083.
+
+Impaired Spontaneous Attention to Gaze Cueing in Obsessive-Compulsive Disorder: 
+Eye Tracking Study.
+
+[Article in English, Turkish]
+
+Tümkaya S, Yıldız T, Toker Uğurlu T, Çulha Ateşçi F.
+
+OBJECTIVE: The aim of this study was to determine whether or not patients with 
+obsessive compulsive disorder (OCD) differed from the control group in paying 
+spontaneous attention to gaze cueing.
+METHOD: The OCD patient and control groups were tested on a shortened version of 
+Social Distance Judgement Task using pictures of two human cartoon figures with 
+their bodies directed toward the observer and their heads facing each other or 
+in opposite directions. Participants were asked to compare the distances between 
+the cartoon figures and between the blocks drawn under each figure, while their 
+eye movements were recorded by eye-tracking equipment. Before the recording, a 
+rectangular area, with its lower side located at the shoulder region of the 
+cartoon figures, was determined as the area of interest for visual fixation. 
+During the test, human cartoon figures were presented on a computer screen, and 
+the number and duration of visual fixations on the area of interest by both 
+patients and controls were recorded and compared with each other.
+RESULTS: In comparison to the control group, the patients with OCD had less 
+number (p=0.029) and duration (p=0.051) of visual fixations on the head and 
+surrounding region of the cartoon figures. The number and duration of fixations 
+on the region of interest did not show correlation with the severity of 
+symptoms.
+CONCLUSION: Patients with OCD are less likely to pay spontaneous attention to 
+gaze cueing in comparison to healthy individuals. Impairment in spontaneous 
+attention to social cues may underlie the social functioning disorders observed 
+in these patients.
+
+DOI: 10.5080/u25083
+PMID: 32978952 [Indexed for MEDLINE]
+
+
+4. Turk Psikiyatri Derg. 2025;36:627-638. doi: 10.5080/u27660.
+
+The Relationship Between Intolerance of Uncertainty and Psychological Resilience 
+with Quality of Life in Patients with Obsessive Compulsive Disorder: A 
+Comparative Study.
+
+Uzun A, Özdin S, Laçiner K, Böke Ö, Sarisoy G, Karabekiroğlu A, Güz HÖ.
+
+OBJECTIVE: This study aimed to examine the relationship between intolerance of 
+uncertainty (IU), psychological resilience (PR), and quality of life (QoL) in 
+patients with obsessive-compulsive disorder (OCD).
+METHOD: A total of 144 participants (72 patients with OCD and 72 matched healthy 
+controls) were included. Participants completed the Intolerance of Uncertainty 
+Scale (IUS), the Resilience Scale for Adults (RSA), the Short-Form 36 (SF-36), 
+the Hamilton Anxiety Rating Scale (HARS), the Hamilton Depression Rating Scale 
+(HDRS), and the Yale- Brown Obsessive Compulsive Scale (Y-BOCS).
+RESULTS: The groups were matched for age, gender, and socioeconomic status 
+(p&gt;0.05). The OCD group had significantly higher IU scores and lower QoL 
+scores across all SF-36 domains compared to controls. In the OCD group, all QoL 
+subscales showed a significant negative correlation with total IUS scores 
+(strongest for vitality: r=-0.676, p&lt;0.001) and a significant positive 
+correlation with total RSA scores (strongest for vitality: r=0.619, p&lt;0.001). 
+Regression analyses indicated that PR, illness duration, and symptom severity 
+(Y-BOCS) were significant predictors of QoL, explaining 15.9% to 55.3% of the 
+variance in key mental health-related QoL domains.
+CONCLUSION: QoL in OCD patients is significantly impaired compared to healthy 
+individuals. This impairment is strongly associated with higher IU, lower 
+psychological resilience, and greater symptom severity.
+
+DOI: 10.5080/u27660
+PMCID: PMC12811947
+PMID: 41457885 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: The authors declare that 
+there is no conflict of interest to be disclosed.
+
+
+5. Turk Psikiyatri Derg. 2008 Spring;19(1):13-8.
+
+[Comparison of cerebral blood flow in children with obsessive compulsive 
+disorder and attention deficit hyperactivity disorder].
+
+[Article in Turkish]
+
+Oner P(1), Oner O, Aysev A, Küçük O, Ibiş E.
+
+Author information:
+(1)Atatürk Eğitim ve Araştirma Hastanesi, Cocuk Psikiyatri Bl. 
+pinaryoner@yahoo.com
+
+OBJECTIVE: It has been reported that both obsessive-compulsive disorder (OCD) 
+and attention deficit hyperactivity disorder (ADHD) might be related to 
+impairments in frontal-striatal brain circuits. Besides, these two disorders are 
+frequently comorbid. However, there are no published studies directly comparing 
+the neurobiological findings in these two disorders. The objective of the study 
+was to investigate the differences in cortical blood flow between patients with 
+OCD and ADHD.
+METHOD: Thirteen drug-naive OCD subjects (mean age +/- SD: 10.4 +/- 2.8), and 13 
+drug-naive ADHD subjects (mean age +/- SD: 10.5 +/- 2.2) were included in the 
+study. Cerebral blood flow (CBF) was evaluated with 
+Tc-99m-hexamethylpropyleneamine oxime (Tc99m HMPAO) brain single photon emission 
+tomography (SPECT) during standard resting conditions in all cases. P value was 
+set to <.006 after Bonferroni correction.
+RESULTS: OCD cases had significantly higher right prefrontal (p=.003) CBF than 
+ADHD cases. There were no significant CBF differences in other brain regions. 
+OCD symptom severity was not related to CBF.
+DISCUSSION: This is one of the very few studies which directly investigated 
+brain imaging in pediatric OCD subjects. Results are consistent with previous 
+studies reporting increased prefrontal CBF in OCD subjects. We also found that, 
+consistent with the previous literature, ADHD subjects had lower prefrontal 
+cortex CBF. Studies which compare subjects with comorbid ADHD and OCD with pure 
+forms of these disorders are necessary to have a better understanding of 
+similarities and differences of these two disorders.
+
+PMID: 18330739 [Indexed for MEDLINE]

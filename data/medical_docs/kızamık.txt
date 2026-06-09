@@ -1,0 +1,180 @@
+=== PubMed: kızamık ===
+1. Turk Hij Tecr Biyol Derg (1961). 1967;27(2-3):137-50.
+
+[Field trial of attenuated measles vaccine].
+
+[Article in Turkish]
+
+Ari A.
+
+PMID: 5634331 [Indexed for MEDLINE]
+
+
+2. Mikrobiyol Bul. 2024 Oct;58(4):471-479. doi: 10.5578/mb.20249653.
+
+[Measles, Rubella, Mumps and Varicella Seropositivity in Health Technician 
+Students: A Seroprevalence Study].
+
+[Article in Turkish]
+
+Açikgöz A(1), Kizildağ S(1), Appak Ö(2), Çimrin D(1), Esen N(2), Sayiner AA(2).
+
+Author information:
+(1)Dokuz Eylül University Vocational School of Health Services, Department of 
+Medical Services and Techniques, İzmir, Türkiye.
+(2)Dokuz Eylül University Faculty of Medicine, Department of Medical 
+Microbiology, İzmir, Türkiye.
+
+Measles, rubella, mumps and chickenpox infections are among the childhood 
+diseases that can be prevented by vaccination. Healthcare workers are at greater 
+risk of diseases transmitted through contact with patients' respiratory 
+secretions, infected blood and body fluids. Students studying in the field of 
+health are at the risk of encountering infectious diseases as much as healthcare 
+personnel during their internship and practice experience in healthcare 
+institutions during their education. In addition, due to the risk of these 
+students becoming a source of contamination to the patients they encounter, it 
+is important to know their immunity against infectious diseases, to take 
+protective measures before encountering patients and to implement the necessary 
+vaccination programs. The aim of this study was to determine the seroprevalence 
+of vaccine-preventable diseases such as measles, rubella, mumps and chickenpox 
+among health technician students studying at Dokuz Eylül University Vocational 
+School of Health Services. The population of this cross-sectional study 
+consisted of second-year students at Dokuz Eylül University Vocational School of 
+Health Services. Five hundred fifty health technician students participated in 
+the research. The data of the study was obtained by survey and serology results. 
+The survey included questions regarding the students' sociodemographic 
+characteristics (age, gender, place of residence during childhood); information 
+about their families (education level of mother and father, economic status of 
+the family); presence of a history of measles, rubella, mumps and chickenpox; 
+and history of vaccination against measles, rubella, mumps and chickenpox. 
+Specific IgG type antibodies to measles, rubella, mumps and varicella viruses 
+were determined using ELISA kits. IgG test results of these diseases were 
+classified as qualitative (positive or negative). In this study, measles, 
+rubella, mumps and chickenpox seropositivity in students was found to be 21.8%, 
+89.3%, 64.7%, 92.9%, respectively. Measles seropositivity was higher in students 
+aged ≥21 years and with low income levels. Rubella seropositivity was higher in 
+students who lived in rural areas and had low income during their childhood. 
+Mumps and chickenpox seropositivity was higher in students who reported having 
+mumps and chickenpox. Chickenpox seropositivity was higher in students who lived 
+in rural areas during their childhood. In conclusion, in this study, we found 
+that there was a significant proportion of health students who did not have 
+protective levels of measles and mumps antibodies. This was much more evident 
+for measles. Considering the higher risk of infection in health technician 
+students, these vulnerable students may be recommended to receive the third dose 
+of measles-mumps-rubella vaccine, regardless of their vaccination history. 
+Additionally, conducting larger-scale studies on students with definitive 
+vaccination records may allow obtaining more detailed information about the 
+status of protection against these diseases.
+
+DOI: 10.5578/mb.20249653
+PMID: 39745218 [Indexed for MEDLINE]
+
+
+3. Mikrobiyol Bul. 2012 Oct;46(4):716-8.
+
+[Subacute sclerosing panencephalitis cases diagnosed by increased CSF/serum 
+measles antibody indices].
+
+[Article in Turkish]
+
+Samlıoğlu P, Unalp A, Gökçay A, Altuğlu I, Oztürk A, Zeytinoğlu A.
+
+Subacute sclerosing panencephalitis (SSPE) caused by persistent defective 
+measles virus strains, is a progressive neurological disorder of children and 
+adolescents. The aim of this letter was to share the data from SSPE-suspected 
+cases who were definitely diagnosed by the detection of increased antibody index 
+in serum and cerebrospinal fluid (CSF) samples. A total of 11 patients (mean 
+age: 14.3 years) with suspected SSPE between February 2006 to August 2008, were 
+included in the study. Simultaneously obtained serum and CSF samples from 
+patients were analyzed in terms of albumin, total IgG and measles-specific IgG 
+levels (Measles Virus IgG ELISA for CSF Diagnostics, Euroimmun, Germany). The 
+value of CSQrel (relative CSF/serum quotient) ≥ 1.5 was accepted indicative for 
+intrathecal measles antibody synthesis. Seven (63.6%) of the 11 patients' 
+diagnosis were confirmed with the demonstration of elevated CSF/serum indices 
+(CSQrel range: 2.3-36.9; mean: 12.9). Mean age of those seven cases was 12.3 
+years (age range: 7-21) and four of them were male. The history of patients with 
+high antibody indices indicated that three of four patients who had measles 
+infection had not been vaccinated against measles. These three unvaccinated 
+patients had measles infection at 3rd, 8th and 30th months of age, respectively, 
+and the period of SSPE development were 15, 6 and 4.5 years, respectively. With 
+this letter we would like to emphasize once more that effective measles 
+vaccination is the only way for the prevention of measles and SSPE and the 
+demonstration of increased measles antibody index in simultaneously obtained 
+serum and CSF samples is crucial for the diagnosis of SSPE.
+
+PMID: 23188587 [Indexed for MEDLINE]
+
+
+4. Tip Tarihi Arastirmalari. 2000;6:11-85.
+
+[Dermatological diseases and treatment described in the Turkish manuscripts 
+(XIV-XVth centuries)].
+
+[Article in Turkish]
+
+Tokac M.
+
+This study deals with skin diseases described in the earliest compiled or 
+translated Turkish medical manuscripts of the 14th and 15th centuries in 
+Anatolia. The manuscripts studies are: Müntehab-i Sifa, Edviye-i Müfrede, 
+Tervihü'l-Ervah, Yadigâr, Cerrahiyyetü'l-Haniyye, Kamilü's-Sinaatü't-Tibbiye 
+Tercü-mesi, Kitab-i Müntehab-i fi't-Tibb, Haza'inü's-Sa'adat, Akrabadin 
+Tercümesi, Mücerrebname, Müfredât-Ibn-i Baytar Tercümesi, Tuhfe-i Mübarizi, 
+Tuhfe-i Muradi. The skin disease know at that time are studied under the 
+following topics: Cüderi (Ciçek, Variola, Small-pox); Hasbe (Kizamik, Rubeola, 
+Measles); Cüzzam (Lepra, Leprosy, Hansen's disease); Demregü (Temriye, 
+Dermatophtosis, Tinea coproris); Behak (There are two types: the white and the 
+black; the black is Addison's disease ); Baras (Ala, Vitilio); Nemle (Isirga, 
+Makül); Ateş paresi (Nar-i farisi, frunculosis); Cemre (Kara kabarcik, Sirpenşe, 
+Karbonkül, Carbuncle); Caversiye (Kabarcik hastaliği, blisters disease); 
+Sivilceler (Various types of pimples; Humre: Yilancik, Erizipel, Erysipelas, St. 
+Anthony's fire; Başbert: Ciban, Fronkül, Boil, Fruncle; Dümmel: Kan çibani, 
+Abse, Abscess); Abile (Kabarcik, Bule); Seretan (Kanser, Cancer); Hanaziz 
+(Siraca, Scrofuloderma); Akile (Yinürbaş, Gangren); Kurdeşen (Urtiker, 
+Urticeria); Uyuz (Gale, Scabies); Giciyik (Kaşinti, Prutitus); Sa'fe (Konak, 
+Seboreik dermatit, Scurf); Kel (Aloposi, Favus); Evram (Sişler, Urlar, Tumours); 
+Yara (Karha, Cerahat, Wound). The terminology and symptoms of these diseases are 
+studied and tired to find their equivalents of today. The causes and the 
+treatment of the skin diseases known then are presented.
+
+PMID: 15049324 [Indexed for MEDLINE]
+
+
+5. Yeni Tip Tarihi Arastirmalari. 2001;7:161-244.
+
+[Dermatological diseases and treatment described in the Turkish manuscripts 
+(XIV-XVth centuries) (part II)].
+
+[Article in Turkish]
+
+Tokaç M(1).
+
+Author information:
+(1)Istanbul Il Sağlik Müdürlüğü. mtokac@turk.net
+
+This study deals with skin diseases described in the earliest compiled or 
+translated Turkish medical manuscripts of the 14th and 15th centuries in 
+Anatolia. The manuscripts studied are: Müntehab-i Sifa, Edviye-i Müfrede, 
+Tervihü'l-Ervah, Yadigâr, Cerrahiyyetü'l-Haniyye, Kamilü's-Sinaatü't-Tibbiye 
+Tercü-mesi, Kitab-i Müntehab-i fi't-Tibb, Haza'inü's-Sa'adat, Akrabadin 
+Tercümesi, Mücerrebname, Müfredât-i Ibn-i Baytar Tercümesi, Tuhfe-i Mübarizi and 
+Tuhfe-i Muradi. The skin diseases known at that time are studied under the 
+following topics: Cüderi (Ciçek, Variola, Small-pox); Hasbe (Kizamik, Rubeola, 
+Measles); Cüzzam (Lepra, Leprosy, Hansen's disease); Demregü (Temriye, 
+Dermatophtosis, Tinea corporis); Behak (There are two types: the white and the 
+black; the black is Addison's disease); Baras (Ala, Vitilio); Nemle (Isirga, 
+Makül); Ateş paresi (Nar-i farisi, frunculosis); Cemre (Kara kabarcik, Sirpençe, 
+Karbonkül, Carbuncle); Caversiye (Kabarcik hastaliği, blisters disease); 
+Sivilceler (Various types of pimples; Humre: Yilancik, Erizipel, Erysipelas, St. 
+Anthony's fire; Başbert: Ciban, Fronkül, Boil, Fruncle; Dümmel: Kan çibani, 
+Abse, Abscess); Abile (Kabarcik, Bule); Seretan (Kanser, Cancer); Hanazir 
+(Siraca, Scrofuloderma); Akile (Yinürbaş, Gangren); Kurdeşen (Urtiker, 
+Urticeria); Uyuz (Gale, Scabies); Giciyik (Kaşinti, Pruritus); Sa'fe (Konak, 
+Seboreik dermatit, Scurf; Kel (Alopesi, Favus); Evram (Sişler, Urlar, Tumours); 
+Yara (Karha, Cerahat, Wound). The terminology and symptoms of these diseases are 
+studied and tried to find their equivalents of today. The causes and the 
+treatment of the skin diseases known then are presented. The second part of 
+Tokaç's article continues to deal with the etiology, symptoms and treatment of 
+dermatological diseases.
+
+PMID: 14570017 [Indexed for MEDLINE]

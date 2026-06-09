@@ -1,0 +1,105 @@
+=== PubMed: varicose veins ===
+1. Vasc Med. 2015 Feb;20(1):88-90. doi: 10.1177/1358863X14566224.
+
+Varicose veins.
+
+Heller JA(1), Evans NS(2).
+
+Author information:
+(1)Johns Hopkins Veins Centers, Johns Hopkins University School of Medicine, 
+Baltimore, MD, USA.
+(2)Section of Vascular Medicine, Department of Cardiovascular Medicine, 
+Cleveland Clinic, Cleveland, OH, USA evansn2@ccf.org.
+
+DOI: 10.1177/1358863X14566224
+PMID: 25722421 [Indexed for MEDLINE]
+
+
+2. Circulation. 2014 Aug 12;130(7):582-7. doi: 10.1161/CIRCULATIONAHA.113.008331.
+
+Varicose veins.
+
+Piazza G(1).
+
+Author information:
+(1)From the Cardiovascular Division, Department of Medicine, Brigham and Women's 
+Hospital, Harvard Medical School, Boston, MA. gpiazza@partners.org.
+
+DOI: 10.1161/CIRCULATIONAHA.113.008331
+PMID: 25114187 [Indexed for MEDLINE]
+
+
+3. Med Clin North Am. 2023 Sep;107(5):895-909. doi: 10.1016/j.mcna.2023.05.002. 
+Epub 2023 Jun 20.
+
+Varicose Veins: Approach, Assessment, and Management to the Patient with Chronic 
+Venous Disease.
+
+Sassaki VS(1), Fukaya E(2).
+
+Author information:
+(1)Stanford Heart and Vascular Clinic- Vascular Laboratory, Stanford, CA 94305, 
+USA.
+(2)Division of Vascular Surgery, Stanford University School of Medicine, 
+Stanford, CA, USA. Electronic address: efukaya@stanford.edu.
+
+Varicose veins are tortuous and dilated veins commonly seen in chronic venous 
+disease. This article will review chronic venous disease, including its 
+differential diagnosis, workup, and treatment.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2023.05.002
+PMID: 37541715 [Indexed for MEDLINE]
+
+
+4. Dis Mon. 2009 Apr;55(4):212-22. doi: 10.1016/j.disamonth.2008.12.003.
+
+Varicose veins.
+
+Bhayani R, Lippitz J.
+
+DOI: 10.1016/j.disamonth.2008.12.003
+PMID: 19286055 [Indexed for MEDLINE]
+
+
+5. Vasa. 2014 Mar;43(2):88-99. doi: 10.1024/0301-1526/a000335.
+
+Pathogenesis of varicose veins - lessons from biomechanics.
+
+Pfisterer L(1), König G(1), Hecker M(1), Korff T(1).
+
+Author information:
+(1)Department of Physiology and Pathophysiology, University of Heidelberg, 
+Germany.
+
+The development of varicose veins or chronic venous insufficiency is preceded by 
+and associated with the pathophysiological remodelling of the venous wall. 
+Recent work suggests that an increase in venous filling pressure is sufficient 
+to promote varicose remodelling of veins by augmenting wall stress and 
+activating venous endothelial and smooth muscle cells. In line with this, known 
+risk factors such as prolonged standing or an obesity-induced increase in venous 
+filling pressure may contribute to varicosis. This review focuses on 
+biomechanically mediated mechanisms such as an increase in wall stress caused by 
+venous hypertension or alterations in blood flow, which may be involved in the 
+onset of varicose vein development. Finally, possible therapeutic options to 
+counteract or delay the progress of this venous disease are discussed.
+
+Publisher: Eine maladaptive Reorganisation der venösen Gefäßwand geht der 
+Entstehung von varikösen Venen bzw. der Etablierung einer chronischen venösen 
+Insuffizienz voraus, ist aber auch mit deren weiterer Progression assoziiert. 
+Jüngste Arbeiten legen nahe, dass ein Anstieg des Füllungsdrucks durch die 
+resultierende Erhöhung der Wandspannung und die Aktivierung venöser Endothel- 
+und glatter Gefäßmuskelzellen ausreicht, um in Venen variköse Veränderungen zu 
+initiieren. In Übereinstimmung mit dieser Hypothese scheinen bekannte 
+Risikofaktoren wie langes Stehen oder eine durch Übergewicht verursachte 
+Erhöhung des hydrostatischen Drucks die Bildung variköser Venen zu begünstigen. 
+Der vorliegende Übersichtsartikel befasst sich mit verschiedenen biomechanisch 
+induzierten Mechanismen wie etwa eine durch venösen Hochdruck oder Veränderungen 
+im Blutfluss hervorgerufene Erhöhung der Wandspannung, die in der Frühphase der 
+Varizenbildung eine Rolle spielen könnten. Abschließend werden mögliche 
+therapeutische Ansatzpunkte diskutiert, die die Progression dieser venösen 
+Erkrankung verhindern bzw. verzögern könnten.
+
+DOI: 10.1024/0301-1526/a000335
+PMID: 24627315 [Indexed for MEDLINE]

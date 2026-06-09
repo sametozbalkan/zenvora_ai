@@ -1,0 +1,174 @@
+=== PubMed: pantoprazole drug interactions ppi absorption ===
+1. Int J Clin Pharmacol Ther. 1994 Aug;32(8):385-99.
+
+Lack of pantoprazole drug interactions in man.
+
+Steinijans VW(1), Huber R, Hartmann M, Zech K, Bliesath H, Wurst W, Radtke HW.
+
+Author information:
+(1)Byk Gulden Pharmaceuticals, Konstanz, Germany.
+
+This review summarizes the results of pharmacokinetic and pharmacodynamic drug 
+interaction studies in man with pantoprazole, a new, selective proton pump 
+inhibitor. Different mechanisms have to be considered as causes for potential 
+drug-drug interactions. Proton pump inhibitors (PPIs) in general may alter the 
+absorption of drugs by increasing the intragastric pH. Due to the presence of an 
+imidazole ring, the PPIs of the class of substituted benzimidazole sulfoxides 
+may interfere with the metabolism of other drugs by altering the activity of 
+drug metabolizing enzymes of the cytochrome P450 system, via either induction or 
+inhibition. With the increasing use of PPIs, their interaction potential gains 
+therapeutic importance as was the case with the first and second generation of 
+H2-blockers (cimetidine and ranitidine, respectively). The enhanced selectivity 
+of pantoprazole to the gastric H+/K(+)-ATPase characterizes the new PPI 
+generation. In comparison to omeprazole and lansoprazole, pantoprazole showed a 
+much lower affinity to cytochrome P450 in vitro and a markedly lower potency in 
+the in vivo rat model for interaction with diazepam. In contrast to omeprazole, 
+pantoprazole does not interact with the cytochrome P450 system in man. In the 
+drug interaction studies conducted so far, pantoprazole did not affect the 
+pharmacokinetics or pharmacodynamics of antipyrine, diazepam, digoxin, a 
+hormonal contraceptive, nifedipine, phenytoin, theophylline and warfarin in man. 
+Also pantoprazole neither induced the drug metabolism of antipyrine nor 
+increased urinary excretion of the induction markers D-glucaric acid and 6 
+beta-hydroxycortisol. Vice versa, the investigated drugs had no relevant 
+influence on the pharmacokinetics of pantoprazole.
+
+PMID: 7981922 [Indexed for MEDLINE]
+
+
+2. Int J Clin Pharmacol Ther. 1996 Jun;34(6):243-62.
+
+Lack of pantoprazole drug interactions in man: an updated review.
+
+Steinijans VW(1), Huber R, Hartmann M, Zech K, Bliesath H, Wurst W, Radtke HW.
+
+Author information:
+(1)Byk Gulden Pharmaceuticals, Konstanz, Germany.
+
+This review summarizes the results of pharmacokinetic and pharmacodynamic drug 
+interaction studies in man with pantoprazole, a new, selective proton pump 
+inhibitor. Various mechanisms have to be considered as causes for potential 
+drug-drug interactions. Proton pump inhibitors (PPIs) in general may alter the 
+absorption of drugs by increasing the intragastric pH. Due to the presence of an 
+imidazole ring, the PPIs of the class of substituted benzimidazole sulfoxides 
+may interfere with the metabolism of other drugs by altering the activity of 
+drug metabolizing enzymes of the cytochrome P450 system, via either induction or 
+inhibition. With the increasing use of PPIs, their interaction potential gains 
+therapeutic importance as was the case with the first and second generation of 
+H2-blockers (cimetidine and ranitidine, respectively). The enhanced selectivity 
+of pantoprazole to the gastric H+/K(+)-ATPase characterizes the new PPI 
+generation. In contrast to omeprazole, pantoprazole has a low potential to 
+interact with the cytochrome P450 system in man. In the drug interaction studies 
+conducted so far, substrates for all relevant cytochrome P450 families involved 
+in the metabolism of drugs in man were investigated. Pantoprazole did not affect 
+the pharmacokinetics or pharmacodynamics of antipyrine, caffeine, carbamazepine, 
+diazepam, diclofenac, digoxin, ethanol, glibenclamide, a hormonal contraceptive 
+(combination of levonorgestrel and ethinylestradiol), metoprolol, nifedipine, 
+phenprocoumon, phenytoin, theophylline and warfarin in man. Pantoprazole also 
+neither induced the metabolism of antipyrine or caffeine, nor increased urinary 
+excretion of the induction markers D-glucaric acid and 6 beta-hydroxycortisol. 
+Vice versa, the investigated drugs had no relevant influence on the 
+pharmacokinetics of pantoprazole.
+
+PMID: 8793611 [Indexed for MEDLINE]
+
+
+3. Int J Clin Pharmacol Ther. 1996 May;34(1 Suppl):S31-50.
+
+Lack of pantoprazole drug interactions in man: an updated review.
+
+Steinijans VW(1), Huber R, Hartmann M, Zech K, Bliesath H, Wurst W, Radtke HW.
+
+Author information:
+(1)Byk Gulden Pharmaceuticals, Konstanz, Germany.
+
+This review summarizes the results of pharmacokinetic and pharmacodynamic drug 
+interaction studies in man with pantoprazole, a new, selective proton pump 
+inhibitor. Various mechanisms have to be considered as causes for potential 
+drug-drug interactions. Proton pump inhibitors (PPIs) in general may alter the 
+absorption of drugs by increasing the intragastric pH. Due to the presence of an 
+imidazole ring, the PPIs of the class of substituted benzimidazole sulfoxides 
+may interfere with the metabolism of other drugs by altering the activity of 
+drug metabolizing enzymes of the cytochrome P450 system, via either induction or 
+inhibition. With the increasing use of PPIs, their interaction potential gains 
+therapeutic importance as was the case with the first and second generation of 
+H2-blockers (cimetidine and ranitidine, respectively). The enhanced selectivity 
+of pantoprazole to the gastric H+/K(+)-ATPase characterizes the new PPI 
+generation. In contrast to omeprazole, pantoprazole has a low potential to 
+interact with the cytochrome P450 system in man. In the drug interaction studies 
+conducted so far, substrates for all relevant cytochrome P450 families involved 
+in the metabolism of drugs in man were investigated. Pantoprazole did not affect 
+the pharmacokinetics or pharmacodynamics of antipyrine, caffeine, carbamazepine, 
+diazepam, diclofenac, digoxin, ethanol, glibenclamide, a hormonal contraceptive 
+(combination of levonorgestrel and ethinylestradiol), metoprolol, nifedipine, 
+phenprocoumon, phenytoin, theophylline and warfarin in man. Pantoprazole also 
+neither induced the metabolism of antipyrine or caffeine, nor increased urinary 
+excretion of the induction markers D-glucaric acid and 6 beta-hydroxycortisol. 
+Vice versa, the investigated drugs had no relevant influence on the 
+pharmacokinetics of pantoprazole.
+
+PMID: 8793602 [Indexed for MEDLINE]
+
+
+4. Trials. 2020 Jun 29;21(1):584. doi: 10.1186/s13063-020-04476-y.
+
+Impact of pantoprazole on absorption and disposition of hydroxychloroquine, a 
+drug used in Corona Virus Disease-19 (Covid-19): A structured summary of a study 
+protocol for a randomised controlled trial.
+
+Stoll F(1), Blank A(2), Mikus G(1), Czock D(1), Foerster KI(1), Hermann S(1), 
+Häußler K(1), Muhareb A(1), Hummler S(1), Weiss J(1), Burhenne J(1), Haefeli 
+WE(1).
+
+Author information:
+(1)Heidelberg University Hospital, Heidelberg, Baden-Württemberg, Germany.
+(2)Heidelberg University Hospital, Heidelberg, Baden-Württemberg, Germany. 
+antje.blank@med.uni-heidelberg.de.
+
+OBJECTIVES: Primary objective: Evaluation of the effect of the proton pump 
+inhibitor (PPI) pantoprazole on the absorption of hydroxychloroquine (HCQ). 
+Secondary objectives: • Evaluation of the relationship between HCQ 
+concentrations in whole blood, plasma and intracellular concentrations in target 
+cells - peripheral blood mononuclear cells (PBMCs). • Evaluation of HCQ as a 
+potential perpetrator in drug-drug interactions at the level of cytochrome P450 
+(CYP) 3A4 and CYP2D6 (major drug metabolizing enzymes).
+TRIAL DESIGN: Single centre, open-label, parallel group, two-arm, phase I 
+drug-drug interaction trial.
+PARTICIPANTS: Healthy volunteers (18-60 years old) are treated in the Clinical 
+Pharmacological Trial Center of Heidelberg University Hospital, Germany.
+INTERVENTION AND COMPARATOR: • Participants are randomized in a group to either 
+receive a nine-day course of pantoprazole, or to a control group without 
+pantoprazole. All participants receive a single dose of HCQ 400 mg. • 
+Additionally, CYP3A4 and CYP2D6 phenotyping with microdosed probe drugs is 
+performed using midazolam and yohimbine as enzyme activity markers, 
+respectively.
+MAIN OUTCOMES: Primary endpoint: Area under the curve (AUC)0-72 h and maximum 
+concentration (Cmax) of a single oral dose of 400 mg HCQ with and without 
+pantoprazole (changes in these two values describe relevant aspects of exposure 
+to HCQ with and without administration of pantoprazole). Secondary endpoints: • 
+AUC2-4 h, AUC0-6 h and Cmax of midazolam and yohimbine. • Correlation of HCQ 
+concentrations in whole blood with concentrations in plasma and peripheral blood 
+mononuclear cells (PBMC).
+RANDOMISATION: Participants are assigned to treatment groups by using a 
+randomisation list (1:1, block size = 4) and consecutive enrolment.
+BLINDING (MASKING): The trial is an open-label trial, participants and 
+investigators are not blinded.
+NUMBERS TO BE RANDOMISED (SAMPLE SIZE): A total number of 24 participants (12 
+per group) are planned to be randomised.
+TRIAL STATUS: Protocol version 2.1 dated 24/04/2020, first patient first visit. 
+April 30th, 2020, recruitment ongoing, anticipated end of study June 30th, 2020.
+TRIAL REGISTRATION: EudraCT Number: 2020-001470-30 , registered on 31 March 2020 
+German Clinical trials register number / International Clinical Trials Registry 
+Platform: DRKS00021573, registered on 27 April 2020 FULL PROTOCOL: The full 
+trial protocol is attached as an additional file, accessible from the Trials 
+website (Additional file 1). In the interest in expediting dissemination of this 
+material, the familiar formatting has been eliminated; this Letter serves as a 
+summary of the key elements of the full trial protocol. The trial protocol has 
+been reported in accordance with the Standard Protocol Items: Recommendations 
+for Clinical Interventional Trials (SPIRIT) guidelines (Additional file 2).
+
+DOI: 10.1186/s13063-020-04476-y
+PMCID: PMC7322698
+PMID: 32600363 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

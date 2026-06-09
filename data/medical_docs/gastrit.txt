@@ -1,0 +1,111 @@
+=== PubMed: gastrit ===
+1. Zh Mikrobiol Epidemiol Immunobiol. 1989 Apr;(4):96-103.
+
+[Campylobacter-induced gastritis].
+
+[Article in Russian]
+
+Chaĭka NA.
+
+PMID: 2660481 [Indexed for MEDLINE]
+
+
+2. Klin Khir (1962). 1986;(8):69-72.
+
+[Acute emphysematous gastritis].
+
+[Article in Russian]
+
+Ponomarev AA, Zakharov IN.
+
+PMID: 3537471 [Indexed for MEDLINE]
+
+
+3. Klin Med (Mosk). 1990 Sep;68(9):22-7.
+
+[Postoperative reflux gastritis].
+
+[Article in Russian]
+
+Riabtsev VG, Chistov LV, Ismailov NB.
+
+PMID: 2290319 [Indexed for MEDLINE]
+
+
+4. Vestn Khir Im I I Grek. 1986 Oct;137(10):13-7.
+
+[Postvagotomy reflux gastritis].
+
+[Article in Russian]
+
+Maĭstrenko NA.
+
+The author gives a comparative analysis of gastric alterations of the stomach 
+mucosa after various organ-preserving operations in remote terms (up to 15 
+years) in 108 patients with duodenal ulcers. Proximal selective vagotomy without 
+drainage and in combination with instrumental pyloric dilatation was shown to 
+reliably prevent an aggravation of antral and fundal gastritis and to decrease 
+risk of the development of gastric carcinoma.
+
+PMID: 3798649 [Indexed for MEDLINE]
+
+
+5. Ter Arkh. 2017;89(8):129-133. doi: 10.17116/terarkh2017898129-133.
+
+[Chronic gastritis: Instructions for use of medications].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Simanenkov VI(1), Vyalov SS(2).
+
+Author information:
+(1)I.I. Mechnikov North-Western State Medical University, Ministry of Health of 
+Russia, Saint Petersburg, Russia.
+(2)Peoples' Friendship University of Russia, Ministry of Education and Science 
+of Russia, Moscow, Russia.
+
+The paper highlights the features of drug use in the legal aspect. It analyzes 
+instructions for medical use of proton pump inhibitors (PPIs) and gastric 
+protective agents. Taking into account the characteristics of indications 
+registered in the instruction, the authors discuss the possibility of using 
+various PPIs. The instruction for medical application is an official document 
+approved by the Ministry of Health, the basis of which is the data of trials 
+carried out by a manufacturer, and it should be a key or fundamental source for 
+a physician in choosing a medication. The use of a drug with no indications 
+given in the manual (the so-called 'off-label' use in foreign practice), is a 
+clinical trial of a sort conducted by a physician individually, by taking upon 
+himself/herself a legal liability. If arguments break out over the correct 
+choice of this or that drug in treating the specific patient, the instruction 
+containing the indications for use of specific medications to treat a specific 
+disease is one of the proofs that the physician has correctly chosen the drug or 
+a criterion for skilled medical care. The inclusion of chronic gastritis as a 
+primary and only diagnosis into the primary documentation substantially limits 
+the possibilities of using PPIs. When a PPI is indicated for therapy of erosive 
+gastritis, a formal rationale is contained only in the instruction for use of 
+Controloc. There are no registered indications for PPI use to treat chronic 
+non-erosive gastritis; the gastric protective agent Rebagit is indicated.
+
+Publisher: В статье освещаются особенности назначения лекарственных препаратов в 
+юридическом аспекте. Анализируются инструкции по медицинскому применению 
+ингибиторов протонного насоса (ИПН) и гастропротекторов. Учитывая особенности 
+зарегистрированных в инструкции показаний, обсуждается возможность использования 
+различных ИПН. Инструкция по медицинскому применению является официальным 
+документом, утвержденным Минздравом, в основание ее положены данные 
+исследований, проведенные самим производителем, и она должна являться ключевым 
+или основополагающим источником для врача при выборе препарата. Назначение 
+препарата без наличия показаний в инструкции (в зарубежной практике называемое 
+'off-label') является своего рода 'клиническим исследованием', которое проводит 
+врач индивидуально под свою юридическую ответственность. При возникновении 
+споров о правильности выбора того или иного препарата в лечении конкретного 
+пациента инструкция, содержащая в показаниях к применению конкретные заболевание 
+пациента, служит одним из доказательств правоты врача или критерием оказания 
+квалифицированной медицинской помощи. Внесение в первичную документацию 
+хронического гастрита в качестве основного и единственного диагноза существенно 
+ограничивает возможности применения ИПН. При назначении ИПН для лечения 
+эрозивного гастрита формальное обоснование содержится только в инструкции 
+препарата контролок. Для лечения хронического неэрозивного гастрита нет 
+зарегистрированных показаний у ИПН, показано назначение гастропротектора 
+ребагита.
+
+DOI: 10.17116/terarkh2017898129-133
+PMID: 28914863 [Indexed for MEDLINE]

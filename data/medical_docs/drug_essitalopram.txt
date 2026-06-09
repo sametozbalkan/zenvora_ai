@@ -1,0 +1,156 @@
+=== PubMed: escitalopram drug interactions serotonin qt prolongation ===
+1. Mult Scler Relat Disord. 2015 May;4(3):273-80. doi:
+10.1016/j.msard.2015.04.002.  Epub 2015 Apr 13.
+
+Fingolimod first-dose effects in patients with relapsing multiple sclerosis 
+concomitantly receiving selective serotonin-reuptake inhibitors.
+
+Bermel RA(1), Hashmonay R(2), Meng X(2), Randhawa S(2), von Rosenstiel P(2), 
+Sfikas N(2), Kantor D(3).
+
+Author information:
+(1)Mellen Center for Multiple Sclerosis, Cleveland Clinic, Cleveland, OH, USA. 
+Electronic address: BERMELR@ccf.org.
+(2)Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.
+(3)Neurologique, Ponte Vedra, FL, USA.
+
+Selective serotonin-reuptake inhibitors (SSRIs), commonly administered for 
+depression and anxiety in patients with multiple sclerosis, are associated with 
+QT interval prolongation. Fingolimod (FTY720; Gilenya(®), Novartis Pharma AG) is 
+a first-in-class sphingosine 1-phosphate receptor modulator approved for 
+relapsing forms of multiple sclerosis. Fingolimod first-dose administration is 
+associated with a transient, generally asymptomatic, slowing of heart rate, 
+which may also prolong QT interval. This posthoc analysis compared cardiac 
+outcomes in over 3300 patients with relapsing multiple sclerosis who were or 
+were not receiving SSRIs during fingolimod treatment initiation, including a 
+subset of patients receiving citalopram or escitalopram. Vital signs were 
+recorded hourly for 6h, and electrocardiograms were obtained pre-dose and 6 h 
+post-dose. Changes in mean hourly heart rate from baseline (pre-dose) to 6 h 
+post-dose were similar among patients not receiving SSRIs (fingolimod 0.5 mg, 
+-7.5 bpm; placebo, 0.0 bpm) and those receiving SSRIs (fingolimod 0.5 mg, -6.6 
+bpm; placebo, 0.3 bpm). In patients treated with fingolimod 0.5 mg, the mean 
+change in corrected QT interval from baseline to 6 h after treatment initiation 
+was under 10 ms, and few patients had absolute corrected QT intervals of over 
+450 ms (men) or 470 ms (women), calculated according to Bazett׳s or Fridericia׳s 
+correction methods, irrespective of whether or not they were receiving an SSRI; 
+similar findings were reported in the placebo group. Co-administration of SSRIs 
+and fingolimod was not associated with an increased incidence of any 
+electrocardiogram findings compared with fingolimod therapy alone, and the 
+majority of patients receiving fingolimod (83-86%) were discharged from 
+first-dose monitoring at 6 h irrespective of whether they were also receiving 
+SSRIs. These analyses provide reassurance that concomitant use of SSRIs does not 
+affect cardiac outcomes associated with fingolimod treatment initiation.
+
+Copyright © 2015 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msard.2015.04.002
+PMID: 26008945 [Indexed for MEDLINE]
+
+
+2. Ann Emerg Med. 2009 Sep;54(3):404-8. doi: 10.1016/j.annemergmed.2009.04.016. 
+Epub 2009 Jun 25.
+
+Clinical and ECG effects of escitalopram overdose.
+
+van Gorp F(1), Whyte IM, Isbister GK.
+
+Author information:
+(1)Department of Pharmaceutical Sciences, Utrecht University, Utrecht, The 
+Netherlands.
+
+Comment in
+    Ann Emerg Med. 2010 Jan;55(1):128-9; author reply 129-30. doi: 
+10.1016/j.annemergmed.2009.07.031.
+
+STUDY OBJECTIVE: We investigate the clinical effects of escitalopram overdose 
+and determine the risk of QT prolongation and serotonin toxicity.
+METHODS: A review of escitalopram overdoses to a clinical toxicology unit was 
+undertaken. Patient demographics, details of the ingestion, clinical effects, 
+including evidence of serotonin toxicity, complications (arrhythmias and 
+seizures), ICU admission, and length of stay were obtained. QT and QRS intervals 
+were manually measured on ECGs by using a standardized approach. In a subgroup 
+of 34 prospectively recruited patients, escitalopram was detected in blood from 
+33 patients. Medians and interquartile ranges (IQR) were reported, and QT versus 
+pulse rate was plotted on a QT nomogram to investigate QT prolongation.
+RESULTS: Median ingested dose in the 79 presentations was 140 mg (IQR 75 to 260 
+mg; range 20 to 560 mg), and escitalopram was the only drug ingested or all 
+coingested drugs were nontoxic in 46 cases. Median length of stay for patients 
+receiving clinically important coingestants was 19 hours (IQR 9 to 33 hours) 
+compared with that of patients receiving escitalopram alone (median 12 hours; 
+IQR 7 to 19 hours). Serotonin toxicity occurred in 7 of the 46 
+escitalopram-alone ingestions (15%) but in only 1 of the 33 patients coingesting 
+other medications. Common features were inducible clonus and hyperreflexia. 
+Central nervous system depression and ICU admission were rare in 
+escitalopram-alone overdoses compared with those in cases with sedative 
+coingestants. Bradycardia (pulse rate <60 beats/min) occurred in 11 cases (14%) 
+and an abnormal QT-HR pair in 11 (14%), which was associated with normal or slow 
+pulse rates. There were no deaths, seizures, or arrhythmias.
+CONCLUSION: Major manifestations of escitalopram overdose were serotonin 
+toxicity, QT prolongation, and bradycardia. The study suggests a potential for 
+cardiac arrhythmias in escitalopram overdose.
+
+DOI: 10.1016/j.annemergmed.2009.04.016
+PMID: 19556032 [Indexed for MEDLINE]
+
+
+3. Pharmacoepidemiol Drug Saf. 2022 Jun;31(6):670-679. doi: 10.1002/pds.5428.
+Epub  2022 Mar 24.
+
+Proton pump inhibitors may enhance the risk of citalopram- and 
+escitalopram-associated sudden cardiac death among patients receiving 
+hemodialysis.
+
+Assimon MM(1), Pun PH(2)(3), Al-Khatib SM(3)(4), Brookhart MA(5), Gaynes 
+BN(6)(7), Winkelmayer WC(8), Flythe JE(1)(9).
+
+Author information:
+(1)University of North Carolina Kidney Center, Division of Nephrology and 
+Hypertension, Department of Medicine, UNC School of Medicine, Chapel Hill, North 
+Carolina, USA.
+(2)Division of Nephrology, Department of Medicine, Duke University School of 
+Medicine, Durham, North Carolina, USA.
+(3)Duke Clinical Research Institute, Durham, North Carolina, USA.
+(4)Division of Cardiology, Duke University Medical Center, Durham, North 
+Carolina, USA.
+(5)Department of Population Health Sciences, Duke University School of Medicine, 
+Durham, North Carolina, USA.
+(6)Department of Psychiatry, UNC School of Medicine, Chapel Hill, North 
+Carolina, USA.
+(7)Department of Epidemiology, UNC Gillings School of Global Public Health, 
+Chapel Hill, North Carolina, USA.
+(8)Selzman Institute for Kidney Health, Section of Nephrology, Baylor College of 
+Medicine, Houston, Texas, USA.
+(9)Cecil G. Sheps Center for Health Services Research, University of North 
+Carolina, Chapel Hill, North Carolina, USA.
+
+PURPOSE: Polypharmacy is common in the hemodialysis population and increases the 
+likelihood that patients will be exposed to clinically significant drug-drug 
+interactions. Concurrent use of proton pump inhibitors (PPIs) with citalopram or 
+escitalopram may potentiate the QT-prolonging effects of these selective 
+serotonin reuptake inhibitors through pharmacodynamic and/or pharmacokinetic 
+interactions.
+METHODS: We conducted a retrospective cohort study using data from the U.S. 
+Renal Data System (2007-2017) and a new-user design to examine the differential 
+risk of sudden cardiac death (SCD) associated with citalopram/escitalopram 
+initiation vs. sertraline initiation in the presence and absence of PPI use 
+among adults receiving hemodialysis. We studied 72 559 patients:14 983 (21%) 
+citalopram/escitalopram initiators using a PPI; 26 503 (36%) 
+citalopram/escitalopram initiators not using a PPI;10 779 (15%) sertraline 
+initiators using a PPI; and 20 294 (28%) sertraline initiators not using a PPI 
+(referent). The outcome of interest was 1-year SCD. We used inverse probability 
+of treatment weighted survival models to estimate weighted hazard ratios (HRs) 
+and 95% confidence intervals (CIs).
+RESULTS: Compared with sertraline initiators not using a PPI, 
+citalopram/escitalopram initiators using a PPI had the numerically highest risk 
+of SCD (HR [95% CI] = 1.31 [1.11-1.54]), followed by citalopram/escitalopram 
+initiators not using a PPI (HR [95% CI] = 1.22 [1.06-1.41]). Sertraline 
+initiators using a PPI had a similar risk of SCD compared with those not using a 
+PPI (HR [95% CI] = 1.03 [0.85-1.26]).
+CONCLUSIONS: Existing PPI use may elevate the risk of SCD associated with 
+citalopram or escitalopram initiation among hemodialysis patients.
+
+© 2022 John Wiley & Sons Ltd.
+
+DOI: 10.1002/pds.5428
+PMCID: PMC9064943
+PMID: 35285107 [Indexed for MEDLINE]

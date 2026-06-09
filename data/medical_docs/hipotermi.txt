@@ -1,0 +1,126 @@
+=== PubMed: hipotermi ===
+1. Ulus Travma Acil Cerrahi Derg. 2020 Sep;26(5):719-727. doi: 
+10.14744/tjtes.2020.55237.
+
+Guideline implementation and raising awareness for unintended perioperative 
+hypothermia: Single-group 'before and after' study.
+
+[Article in English]
+
+Şenkal S(1), Kara U(2).
+
+Author information:
+(1)Department of Anesthesiology and Reanimation, Health Sciences University, 
+Gülhane Faculty of Medicine, Ankara-Turkey.
+(2)Department of Anesthesiology and Reanimation, Health Sciences University, 
+Gülhane Training and Research Hospital, Ankara-Turkey.
+
+BACKGROUND: Unintended Perioperative Hypothermia (UPH) is defined as a core body 
+temperature less than 36°C. The Turkish Society of Anesthesiology and 
+Reanimation [Türk Anesteziyoloji ve Reanimasyon Derneği (TARD)] published a 
+'Guideline for the Prevention of the Unintended Perioperative Hypothermia' in 
+2013. This study aims to decrease the incidence of unintended UPH in our 
+hospital using a protocol, which is prepared according to the recommendations in 
+the Guideline for the prevention of unintended perioperative hypothermia.
+METHODS: A prospective quality improvement study was conducted with the 
+protocol, which was prepared to decrease the incidence of unintended 
+perioperative hypothermia in patients undergoing surgery. We measured and 
+compared the perioperative hypothermia incidence before the implementation 
+(November 24th, 2015 - January 15th, 2016) and after the implementation (April 
+6th, 2016 - July 21st, 2017).
+RESULTS: The incidence of unintended perioperative hypothermia was 35% and 23.8% 
+in the pre-implementation and postimplementation sections, respectively, and the 
+difference was statistically significant (p=0.002).
+CONCLUSION: The incidence of unintended perioperative hypothermia can be 
+significantly decreased with the evidence-based implementations.
+
+DOI: 10.14744/tjtes.2020.55237
+PMID: 32946096 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2019 Jun;47(4):315-318. doi: 10.5543/tkda.2018.30513.
+
+Osborn wave and new-onset atrial fibrillation related to hypothermia after 
+synthetic cannabis (bonsai) abuse.
+
+[Article in English]
+
+Topçu H(1), Aksan G(2), Karakuş Yılmaz B(1), Tezcan M(2), Sığırcı S(2).
+
+Author information:
+(1)Department Of Emergency Medicine, Şişli Hamidiye Etfal Training And Research 
+Hospital, İstanbul; Turkey.
+(2)Department Of Cardiology, Şişli Hamidiye Etfal Training And Research 
+Hospital, İstanbul; Turkey.
+
+An Osborn wave may be observed on an electrocardiogram (ECG) as a late delta 
+wave at the end of the QRS complex in cases of hypothermia. An 18-year-old male 
+known to be a synthetic cannabinoid user was found unconscious and hypothermic. 
+The patient's body temperature was 33ºC, and an Osborn wave and atrial 
+fibrillation were detected in ECG readings. Following the application of heating 
+and supportive therapy, consciousness returned and the ECG findings improved. 
+Rewarming and supportive treatment can be life-saving in a hypothermic patient 
+when initiated as soon as possible.
+
+DOI: 10.5543/tkda.2018.30513
+PMID: 31219440 [Indexed for MEDLINE]
+
+
+3. Glasnik. 1952;(5):61-5.
+
+[Calcium, potassium and sodium metabolism in the blood serum of animals in deep 
+hypothermia].
+
+[Article in Undetermined Language]
+
+DRASKOCI M.
+
+PMID: 13060727 [Indexed for MEDLINE]
+
+
+4. Endokrynol Pol. 1993;44(1):23-35.
+
+[Effect of insulin on temperature and metabolic responses in rats during 
+normothermia and hypothermia].
+
+[Article in Polish]
+
+Torlińska T(1), Koźlik J, Krauss H, Paluszak J.
+
+Author information:
+(1)Katedra i Zakład Fizjologii AM, Poznaniu.
+
+As shown in our previous study, hypothermia provokes a variety of hormonal 
+changes including inhibition of insulin secretion and increase in blood serum 
+glucagon level. According to Therminarias et al. the administration of exogenous 
+insulin to dogs subjected to hypothermia causes a calorigenic effect by 
+enhancing oxygen consumption and rising the intensity of shivering 
+thermogenesis. The study was aimed at establishing whether exogenous insulin 
+administered to rats subjected to brief hypothermia and having the shivering 
+thermogenesis blocked by thiobutabarbital anesthesia can influence rectal 
+temperature, the levels of some hormones and energy metabolism. The results 
+obtained suggest that 1) insulin administration causes an increase in the energy 
+charge potential (ECP) both in the liver and in skeletal muscle of the rat, 
+indicating the domination of anabolic processes both in normothermic and 
+hypothermic conditions, 2) there is a negative correlation between the levels of 
+insulin and free fatty acids and the activity of isocitric dehydrogenase in rat 
+liver mitochondria, and 3) the administration of insulin at a dose provoking 
+metabolic response both in normothermic and hypothermic conditions was 
+ineffective in provoking temperature response, indicating the existence of a 
+functional dissociation between the various effects of the same dose of 
+exogenous insulin.
+
+PMID: 8050387 [Indexed for MEDLINE]
+
+
+5. Pol Arch Med Wewn. 1964;34:299-306.
+
+[TREATMENT OF CARDIAC DEFECTS WITH THE USE OF THE MPS 1 APPARATUS AND DEEP 
+HYPOTHEMIA].
+
+[Article in Polish]
+
+MOLL J, TYBORSKI H, STASINSKI T, LORKIEWICZ Z, LUKOMSKA B, SLIWINSKI M, ADAMSKI 
+S, SOKOLOWSKI K, SKOTNICKI S.
+
+PMID: 14159669 [Indexed for MEDLINE]

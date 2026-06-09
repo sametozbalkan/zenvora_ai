@@ -1,0 +1,71 @@
+=== PubMed: hepatitis B ===
+1. N Engl J Med. 2004 Mar 11;350(11):1118-29. doi: 10.1056/NEJMra031087.
+
+Hepatitis B virus infection--natural history and clinical consequences.
+
+Ganem D(1), Prince AM.
+
+Author information:
+(1)Department of Microbiology and Immunology and the Howard Hughes Medical 
+Institute, University of California, San Francisco, USA.
+
+Erratum in
+    N Engl J Med. 2004 Sep 16;351(12):351.
+
+Comment in
+    N Engl J Med. 2004 Jun 24;350(26):2719-20. doi: 10.1056/NEJM200406243502620.
+
+DOI: 10.1056/NEJMra031087
+PMID: 15014185 [Indexed for MEDLINE]
+
+
+2. Nat Rev Dis Primers. 2018 Jun 7;4:18036. doi: 10.1038/nrdp.2018.36.
+
+Hepatitis B virus infection.
+
+[No authors listed]
+
+DOI: 10.1038/nrdp.2018.36
+PMID: 29877317 [Indexed for MEDLINE]
+
+
+3. Pathol Biol (Paris). 2010 Aug;58(4):243-4. doi: 10.1016/j.patbio.2010.04.002. 
+Epub 2010 Jul 17.
+
+The hepatitis B.
+
+Tiollais P, Chen Z.
+
+DOI: 10.1016/j.patbio.2010.04.002
+PMID: 20638800 [Indexed for MEDLINE]
+
+
+4. Hepatogastroenterology. 2007 Mar;54(74):545-8.
+
+Hepatitis B today.
+
+Safioleas M(1), Lygidakis NJ, Manti C.
+
+Author information:
+(1)2nd Department of Propedeutic Surgery, School of Medicine, Athens University, 
+Greece. geosiam@yahoo.com
+
+Hepatitis B remains a major problem for public health worldwide and represents a 
+challenging disease for practicing physicians. Of the 2 billion people who have 
+been infected with the hepatitis B virus, more than 350 million have chronic 
+infections. These chronically infected individuals are at high risk of death 
+from cirrhosis and liver cancer. The use of new antiviral drugs, such us 
+nucleotides analogues, offer good hope in the prognosis of patients suffering 
+from chronic hepatitis B.
+
+PMID: 17523319 [Indexed for MEDLINE]
+
+
+5. Nephron. 2002 Mar;90(3):241-51. doi: 10.1159/000049058.
+
+Hepatitis B virus and renal transplantation.
+
+Fabrizi F, Martin P, Ponticelli C.
+
+DOI: 10.1159/000049058
+PMID: 11867943 [Indexed for MEDLINE]

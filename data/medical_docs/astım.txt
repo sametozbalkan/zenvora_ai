@@ -1,0 +1,173 @@
+=== PubMed: astım ===
+1. Turk Thorac J. 2020 Mar 1;21(2):122-133. doi: 10.5152/TurkThoracJ.2019.19084. 
+Print 2020 Mar.
+
+ARIA 2019, Allerjik Rinite Tedavi Yaklaşımı-Türkiye.
+
+[Article in English]
+
+Yorgancıoğlu AA(1), Gemicioğlu B(2), Cingi C(3), Kalaycı Ö(4), Kalyoncu AF(5), 
+Bachert C(6), Hellings P(7), Pfaar O(8), Schünemann HJ(9), Wallace D(10), 
+Bedbrook A(11), Czarlewski W(12), Bousquet J(11).
+
+Author information:
+(1)Department of Chest Diseases, Celal Bayar University School of Medicine, 
+Manisa, Turkey.
+(2)Department of Chest Diseases, İstanbul University-Cerrahpaşa, Cerrahpasa 
+School of Medicine, İstanbul, Turkey.
+(3)Department of Ear Nose Throat, Eskişehir Osmangazi University School of 
+Medicine, Eskişehir, Turkey.
+(4)Department of Pediatric Allergy, Hacettepe University School of Medicine, 
+Ankara, Turkey.
+(5)Department of Chest Diseases, Hacettepe University School of Medicine, 
+Ankara, Turkey.
+(6)Upper Airways Research Laboratory, ENT Dept, Ghent University Hospital, 
+Ghent, Belgium.
+(7)Department of Otorhinolaryngology, University Hospitals Leuven, Belgium, and 
+Academic Medical Center, University of Amsterdam, The Netherlands and Euforea, 
+Brussels, Belgium.
+(8)Department of Otorhinolaryngology, Head and Neck Surgery, Section of 
+Rhinology and Allergy, University Hospital Marburg, Phillipps-Universität 
+Marburg, Germany.
+(9)Department of Health Research Methods, Evidence, and Impact, Division of 
+Immunology and Allergy, McMaster University, Hamilton, ON, Canada.
+(10)Nova Southeastern University, Fort Lauderdale, Florida, USA.
+(11)MACVIA-France, Fondation partenariale FMC VIA-LR, Montpellier, France.
+(12)Medical Consulting Czarlewski, Levallois, France.
+
+Gerçek yaşamda, çevresel maruziyetlerin de etkilediği rinit ve astım 
+mültimorbidite durumlarında, dijitalleşmiş ve kişiye odaklanan tedaviler için 
+bütünleştirilmiş tedavi yollarının değerlendirilmesi önerilmektedir. Gerçek 
+yaşamdaki bu durum mültisipliner bir yaklaşımla basamaklandırılıp, 
+rehberilerinde ülkelerdeki gereksinimlere göre değiştilmesini gerektirebilir. 
+Allerjik rinitte hem farmakoterapi hem immünoterapi açısından acil yeni 
+yaklaşımlara ihtiyaç olduğu görülmüştür. 3. Aralık 2018'de Paris'te bir toplantı 
+yapılmış ve iki ayrı belge hazırlanmıştır. Bu yayında bunlara ait bir özet 
+sunulup, ülkeye ve sağlık sistemine uygun kullanımın çerçevesi oluşturulmak 
+istenmiştir.
+
+The evaluation of real-life integrated care pathways (ICPs) was recommended for 
+digitally enabled, integrated, person-centered care for rhinitis and asthma 
+multimorbidity embedding environmental exposure. ICPs are structured 
+multidisciplinary care plans detailing key steps of patient care. They promote 
+the translation of guideline recommendations into local protocols and their 
+application to clinical practice. In allergic rhinitis, there is an urgent need 
+to develop next-generation guidelines for pharmacotherapy and ICPs for allergen 
+immunotherapy. A meeting was held in Paris on December 3, 2018, during which two 
+separate documents were produced. An executive summary is presented in this 
+article, which will be customized in different countries or regions in order to 
+adjust the conclusions of the papers for local use and health systems.
+
+DOI: 10.5152/TurkThoracJ.2019.19084
+PMCID: PMC7089699
+PMID: 32203003
+
+Conflict of interest statement: Conflict of Interest: The authors have no 
+conflicts of interest to declare.
+
+
+2. Tuberk Toraks. 2015;63(4):265-77. doi: 10.5578/tt.9885.
+
+[Asthma-COPD overlap syndrome].
+
+[Article in Turkish]
+
+Şen E(1), Oğuzülgen K, Bavbek S, Günen H, Kıyan E, Türktaş H, Yorgancıoğlu A, 
+Polatlı M, Yıldız F, Çelik G, Demir T, Gemicioğlu B, Mungan D, Saryal S, Sayıner 
+A, Yıldırım N.
+
+Author information:
+(1)Department of Chest Diseases, Faculty of Medicine, Ankara University, Ankara, 
+Turkey. esen@ankara.edu.tr.
+
+Asthma and chronic obstructive pulmonary disease (COPD) are common lung diseases 
+characterized by chronic airway inflammation and airway obstruction. Among 
+patient with COPD and asthma; there is a group of patients with an overlap 
+between clinical, functional characteristics and airway inflammation patterns, 
+named "Asthma-COPD Overlap Syndrome" (ACOS). ACOS is a syndrome characterized by 
+reversible but persistant airflow limitation (postbronchodilator FEV1/FVC < 70%) 
+which has some features of both asthma and COPD. ACOS should be suspected in a 
+patient > 40 years, with smoking history, previous asthma diagnosis or history 
+of childhood asthma who has persistant airflow limitation and reversible ariway 
+obstruction (defined by an increase of > %12 of FEV1 pred or increase of FEV1 > 
+200 mL after inhalation of 400 mcg salbutamol or 1000 mcg terbutaline). The 
+prevalence for ACOS has been reported 11-55% in different case series to date 
+and increases by age and is more frequent in females in different age groups. 
+Patients with ACOS are younger than COPD patients and older than asthma 
+patients. Frequent and severe exacerbations and related hospitalization and 
+emergency room visits are common in ACOS and this causes an impaired quality of 
+life. Current recommendations of guidelines for pharmacologic treatment of ACOS 
+have been composed of a combination with optimal COPD and asthma treatment. 
+Future therapeutic approaches should be based on endotypes. Clinical phenotype 
+and underlying endotype driven clinical studies may be the base of ACOS 
+guidelines.
+
+DOI: 10.5578/tt.9885
+PMID: 26963310 [Indexed for MEDLINE]
+
+
+3. Tuberk Toraks. 2021 Jun;69(2):288-290. doi: 10.5578/tt.20219821.
+
+Asthma phenotype and endotype definitions.
+
+[Article in English]
+
+Yılmaz İ(1), Paçacı Çetin G(1).
+
+Author information:
+(1)Division of Immunology and Allergy, Department of Chest Diseases, Erciyes 
+University Faculty of Medicine, Kayseri, Turkey.
+
+DOI: 10.5578/tt.20219821
+PMID: 34256522
+
+
+4. Tuberk Toraks. 2020 Jul;68(2):141-147. doi: 10.5578/tt.69775.
+
+Asthma and COVID-19: What do we know?
+
+[Article in English]
+
+Sarıoğlu N(1).
+
+Author information:
+(1)Department of Chest Diseases, Faculty of Medicine, Balikesir University, 
+Balikesir, Turkey.
+
+There are limited data about the coexistence of asthma and the Coronavirus 
+disease-2019 (COVID-19). The COVID-19 pandemic is a new disease for the whole 
+world. In this study, we aimed to examine the published case series with the 
+COVID-19 and asthma coexistence, by reviewing existing studies and other 
+publications. We discussed the suggestions of guidelines such as The Global 
+Initiative for Asthma (GINA), The National Institute for Health and Care 
+Excellence (NICE), and the Canadian Respiratory Guideline about the management 
+of asthma during the COVID-19 pandemic and the experiences of different 
+countries. We analyzed the publications, reports, and expert opinions about 
+asthma and COVID-19, that were released and expressed from the onset of the 
+disease in Wuhan. In this review, we aimed to summarize the approach to patients 
+with asthma during the pandemic and to make recommendations concerning it.
+
+DOI: 10.5578/tt.69775
+PMID: 32755114 [Indexed for MEDLINE]
+
+
+5. Tuberk Toraks. 2003;51(1):78-90.
+
+[Occupational asthma].
+
+[Article in Turkish]
+
+Oner F(1), Numanoğlu N.
+
+Author information:
+(1)Ankara University Faculty of Medicine, Pulmonary Diseases, Ankara, Turkey. 
+onerferda@hotmail.com
+
+In the work places the worker may be exposed to environmental materials and 
+substances that in some cases trigger respiratory problems. In this ambience, 
+asthma is a common occupational problem that far exceeds other causes of 
+occupational pulmonary disease. The epidemiology and the predisposing factors of 
+occupational asthma, some of agents that causes occupational asthma, and the 
+diagnosis of the disease will be reviewed in this brief discussion.
+
+PMID: 15100910 [Indexed for MEDLINE]

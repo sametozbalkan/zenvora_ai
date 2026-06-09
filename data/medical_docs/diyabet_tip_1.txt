@@ -1,0 +1,183 @@
+=== PubMed: diyabet tip 1 ===
+1. Tip Fak Mecm. 1968;31(1):160-7.
+
+[Diabetes and surgery].
+
+[Article in Turkish]
+
+Sasmaz O.
+
+PMID: 4895398 [Indexed for MEDLINE]
+
+
+2. Pituitary. 2010 Sep;13(3):242-8. doi: 10.1007/s11102-010-0224-9.
+
+Thyroid cancer is the most common cancer associated with acromegaly.
+
+Gullu BE(1), Celik O, Gazioglu N, Kadioglu P.
+
+Author information:
+(1)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Cerrahpasa Tip Fakültesi, Cerrahpasa Medical School, University of Istanbul, Ic 
+Hastaliklari Anabilim Dali, Endokrinoloji-Metabolizma ve Diyabet Bilim Dali, 
+Cerrahpasa, 34303, Istanbul, Turkey.
+
+The aim of the study was to screen the malignancy in an acromegalic patient 
+group and to determine whether there was any increased risk and the incidence of 
+malignancy and its association with disease characteristics such as duration of 
+disease, latency in diagnosis, and GH and IGF-1 levels. One hundred-five (65 
+female, 40 male) patients with acromegaly followed and treated at Cerrahpasa 
+Medical School, Endocrinology and Metabolism outpatient clinic between 1983 and 
+2007 were included in this study. The patients were screened with colonoscopy, 
+mammography, and thyroid and prostate ultrasonography (US). Malignancy was 
+detected in 16 (15%) patients. Thyroid cancer was found in 5 patients (4.7%), 
+breast cancer in 3 (2.8%), colon cancer in 2 (1.9%), lung cancer in 2 (1.9%), 
+cervix cancer in 1 (0.9%), myelodysplastic syndrome (MDS) in 1 (0.9%), 
+cholangiocarcinoma in 1 (0.9%), and multiple endocrine neoplasm (MEN) type 1 in 
+1 patient (0.9%). Cancer was more common in the male patients (P = 0.046) and 
+high levels of GH increased the risk of cancer development (P = 0.046). In this 
+series, the most commonly detected cancer types were thyroid followed by breast 
+and colon cancers. Although high levels of initial GH seemed to increase the 
+risk of cancer development in acromegalic patients, age, gender, age at the time 
+of diagnosis, duration of disease, and initial IGF-I levels were not associated 
+with cancer development.
+
+DOI: 10.1007/s11102-010-0224-9
+PMID: 20217483 [Indexed for MEDLINE]
+
+
+3. Turk Kardiyol Dern Ars. 2014 Sep;42(6):511-6. doi: 10.5543/tkda.2014.27543.
+
+[Turkish Adult Risk Factor survey 2013: rapid rise in the prevalence of 
+diabetes].
+
+[Article in Turkish]
+
+Onat A(1), Cakır H(2), Karadeniz Y(3), Dönmez I(4), Karagöz A(5), Yüksel M(6), 
+Can G(7).
+
+Author information:
+(1)İstanbul University, Cerrahpaşa Faculty of Medicine, Retired Member, 
+İstanbul, Turkey. alt_onat@yahoo.com.tr.
+(2)Department of Cardiology, Kartal Koşuyolu Training and Research Hospital, 
+İstanbul, Turkey.
+(3)Department of Internal Medicine, Haseki Training and Research Hospital, 
+İstanbul, Turkey.
+(4)Department of Cardiology, Abant İzzet Baysal University Faculty of Medicine, 
+Bolu, Turkey.
+(5)Department of Cardiology, Giresun University Faculty of Medicine, Giresun, 
+Turkey.
+(6)Dicle Üniversitesi Tıp Fakültesi, Kardiyoloji Anabilim Dalı, Diyarbakır.
+(7)Department of Public Health, İstanbul University, Cerrahpaşa Faculty of 
+Medicine, İstanbul, Turkey.
+
+OBJECTIVES: To analyze (1) the sex-specific and age-bracket defined all-cause 
+and coronary mortality in the 23-years' follow-up of the Turkish Adult Risk 
+Factor Study, and (2) to determine the nation-wide prevalence of Type-2 diabetes 
+and its recent trend.
+STUDY DESIGN: Information on the mode of death was obtained from first-degree 
+relatives and/or health personnel of local heath office. Information collected 
+in survivors was based on history, physical examination of the cardiovascular 
+system and Minnesota coding of resting electrocardiograms. Diabetes was defined 
+by criteria of the American Diabetes Association without the use of glycated 
+hemoglobin.
+RESULTS: Of the 1370 participants to be surveyed, 768 were examined, in 452 
+subjects information was gathered, and 29 men, 18 women were ascertained to have 
+died. Cumulative assessment of the entire cohort in the age bracket 45-74 years 
+disclosed coronary mortality to be 7.5/1000 person-years in men and 3.74 in 
+women, persisting to be high among the European countries. The recent decline 
+observed in overall mortality seemed to halt as well. Of greatest concern was 
+the finding in the past 12 years that the rate of rise in the age-controlled 
+prevalence of Type-2 diabetes was as high as 5% annually.
+CONCLUSION: Overall and coronary mortality in Turkish adults continue to be 
+high, while an elicited annual increase of 5% in the age-controlled prevalence 
+of diabetes is virtually alarming and requires new public health policies.
+
+DOI: 10.5543/tkda.2014.27543
+PMID: 25362940 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2019 Jan;47(1):29-37. doi: 10.5543/tkda.2018.35005.
+
+[Macrophage migration inhibitory factor (MIF) gene -173 G>C polymorphism and its 
+relationship to coronary artery disease and type 2 diabetes].
+
+[Article in Turkish]
+
+Çoban N(1), Erkan AF, Ekici B, Kaşit M, Erginel Ünaltuna N, Vurgun E.
+
+Author information:
+(1)Department of Genetics, İstanbul University Aziz Sancar Experimental Medicine 
+Research Institute, İstanbul, Turkey. neslic@istanbul.edu.tr.
+
+OBJECTIVE: Recent studies indicate that macrophage migration inhibitory factor 
+(MIF) is a potent proinflammatory cytokine which mediates the inflammatory 
+process during atherosclerosis. The purpose of the study was to investigate an 
+association between MIF gene polymorphism and type 2 diabetes mellitus (T2DM) 
+and coronary artery disease (CAD) in the Turkish population.
+METHODS: A total of 139 unselected Turkish patients with significant CAD 
+(coronary lesion with 50-100% stenosis) and 120 control participants (coronary 
+lesion with <30% stenosis) were genotyped for MIF rs755622 polymorphisms using 
+hybridization probes in a Roche LightCycler 480 Real-Time Polymerase Chain 
+Reaction 480 device. Blood samples were drawn before coronary angiography. 
+Gensini and SYNTAX scores were used to determine the angiographic extent and 
+severity of CAD.
+RESULTS: When the groups were stratified according to T2DM, polymorphism of MIF 
+was not associated with T2DM in CAD patients (p>0.05). In the same subgroups, 
+carriers of the MIF common allele in the control group demonstrated a protection 
+against developing T2DM compared with noncarriers (p<0.05). In addition, MIF C 
+allele carriage was associated with higher glycated hemoglobin (HbA1c) in the 
+T2DM group (p=0.038).
+CONCLUSION: The MIF rs755622 polymorphism was associated with HbA1c. This result 
+suggests that the MIF gene variant may contribute to CAD risk through diabetes 
+in the Turkish population.
+
+DOI: 10.5543/tkda.2018.35005
+PMID: 30628898 [Indexed for MEDLINE]
+
+
+5. Anadolu Kardiyol Derg. 2001 Mar;1(1):17-21; AXIII.
+
+[Quantitative ultrasonic myocardial texture analysis of the diabetic heart].
+
+[Article in Turkish]
+
+Akdemir O(1), Dağdeviren B, Altun A, Uğur B, Arikan E, Tuğrul A, Ozbay G.
+
+Author information:
+(1)Trakya Universitesi Tip Fakültesi Kardiyoloji ve Iç Hastaliklari Anabilim 
+Dallari, Edirne. oakdemir@superonline.com
+
+Comment in
+    Anadolu Kardiyol Derg. 2001 Mar;1(1):22.
+
+OBJECTIVE: Contraction and relaxation of the heart cause decrease and increase 
+in myocardial video intensity (MVI) recorded from echocardiographic images, 
+respectively. The present study was planned to compare this physiological cyclic 
+variations of MVI in patients with type 1 diabetes mellitus and healthy 
+subjects.
+METHODS: For this purpose, standard echocardiographic examination was performed 
+to 18 young patients (age 23.2+6.4; range: 15-37 years) with insulin dependent 
+type 1 diabetes mellitus (diabetes duration: 7.8+5.6; range: 1-17 years) and 14 
+age and sex matched controls. In all subjects, end-diastolic and end-systolic 2D 
+echocardiographic images of 3 consecutive beats that had been recorded on 
+videotapes were digitized. The quantitative analysis of digitized imaging was 
+performed with the help of a calibrated digitization system in order to 
+calculate the septum and the posterior wall textural parameters. The cyclic 
+variation index (CVI) of the mean gray level (MGL) was calculated according the 
+formula: (MGL dias- MGL diast x 100.
+RESULTS: Among the groups, left ventricular diastolic dimension-index, 
+fractional shortening, E/A ratio, and isovolumic relaxation time showed no 
+statistically significant differences, while septum and (8.3+1.1 vs. 7.3+0.9 mm; 
+p=0.016) and posterior wall thickness (8+0.6 vs. 6.8+1.1mm; p=0.004) and 
+E-deceleration time (167+23 vs. 140=19 msec.; p=0.003) were significantly higher 
+in diabetics. The diabetic patients showed significantly lower CVI both for 
+septum (18.2+11.5% vs. 39.3+11.5%; p=0.0001) and posterior wall (16.4+16% vs. 
+40.5+9.2%; p=0.0001), respectively.
+CONCLUSIONS: Altered videoensitometric parameters possibly represent a 
+preclinical alteration, conceivably related to the myocardial collagen content 
+increase, which does not necessarily indicate an actual disease but may be 
+considered an early marker of the histopathologic findings of diabetic 
+cardiomyopathy.
+
+PMID: 12122966 [Indexed for MEDLINE]

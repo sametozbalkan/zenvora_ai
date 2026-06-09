@@ -1,0 +1,152 @@
+=== PubMed: platelet count high low causes treatment ===
+1. Front Cell Infect Microbiol. 2026 Apr 16;16:1795720. doi: 
+10.3389/fcimb.2026.1795720. eCollection 2026.
+
+Early risk stratification for carbapenem resistance among Pseudomonas aeruginosa 
+infected patients using a clinico-laboratory machine-learning model based on 
+routine complete blood count parameters.
+
+Yu J(#)(1), Gao W(#)(2), Chen Y(#)(1).
+
+Author information:
+(1)Department of Clinical Laboratory, Zigong First People's Hospital, 
+Zigong, China.
+(2)Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, China.
+(#)Contributed equally
+
+INTRODUCTION: To address the delayed identification of carbapenem-resistant 
+Pseudomonas aeruginosa (CRPA), we developed an interpretable machine-learning 
+(ML) model for early risk stratification. Utilizing routine complete blood count 
+(CBC) and demographic data, this tool targets the critical 48-72 hour interval 
+before final antimicrobial susceptibility results.
+METHODS: Data from 1,666 patients with P. aeruginosa infection (223 CRPA) at a 
+primary center were retrospectively analyzed, alongside an independent external 
+validation cohort (n=471). Following the least absolute shrinkage and selection 
+operator (LASSO) regression on 32 variables, eight ML algorithms were trained. 
+Model interpretability and clinical utility were evaluated using Shapley 
+Additive Explanations (SHAP) and decision curve analysis (DCA). Eight ML 
+algorithms were trained using 5-fold cross-validation and Bayesian 
+hyperparameter optimization. To ensure reproducibility and handle class 
+imbalance, fixed random seeds were set, and a sensitivity analysis using the 
+Synthetic Minority Over-sampling Technique (SMOTE) was conducted. Model 
+calibration was assessed using the Brier score.
+RESULTS: LASSO identified seven predictors: sex, age, mean corpuscular volume 
+(MCV), hemoglobin (HGB), platelet-to-lymphocyte ratio (PLR), systemic 
+inflammatory response index (SIRI), and intensive care unit (ICU) admission 
+status. Among the evaluated algorithms, the random forest (RF) model achieved 
+the best discrimination. The training area under the receiver operating 
+characteristic curve (AUC) was 0.993; it achieved an average 5-fold 
+cross-validation AUC of 0.929 ± 0.005. In the internal test set, it achieved an 
+AUC of 0.837 (95% CI: 0.779-0.893), specificity of 0.972, and sensitivity of 
+0.507, with excellent calibration (Brier score = 0.084). The model retained 
+strong performance externally (AUC: 0.898, specificity: 0.985, sensitivity: 
+0.600, Brier score: 0.073). SHAP analysis indicated that HGB was the most 
+influential feature, inversely associated with CRPA risk. Decision curve 
+analysis supported the clinical utility across threshold probabilities ranging 
+from 15% to 65%.
+DISCUSSION: This clinlabomics-based RF model provides a rapid, low-cost adjunct 
+for early CRPA stratification. Given its exceptionally high specificity (>0.97) 
+and modest sensitivity, it functions exclusively as a reliable clinical 
+"rule-in" tool. Positive predictions can confidently guide early targeted 
+therapy and strict infection control. However, negative predictions cannot 
+safely rule out CRPA, emphasizing its role alongside standard empirical 
+practices rather than as a standalone screening instrument.
+
+Copyright © 2026 Yu, Gao and Chen.
+
+DOI: 10.3389/fcimb.2026.1795720
+PMCID: PMC13128656
+PMID: 42079745 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Pain Med Case Rep. 2026 Apr;10(2):223-226.
+
+Intradiscal Platelet-Rich Plasma Delivery via Modified Transdural Interlaminar 
+Computed Tomography-Guided Access in Severe L5-S1 Disc Collapse: A Technical 
+Case Report.
+
+Sherif Z(1), Sherif K(1).
+
+Author information:
+(1)Mermaid Beach Radiology, Gold Coast, Queensland, Australia.
+
+BACKGROUND: Intradiscal platelet-rich plasma (PRP) has emerging evidence for the 
+treatment of discogenic low back pain. However, procedural access becomes 
+technically challenging at the L5-S1 level in the presence of severe disc 
+collapse, steep lumbosacral lordosis, or high iliac crest morphology, which may 
+preclude standard posterolateral or transforaminal trajectories.
+CASE REPORT: A 42-year-old man with chronic discogenic low back pain 
+demonstrated severe L5-S1 degeneration (modified Pfirrmann grade 6) with 
+approximately 3-mm residual disc height, rendering conventional intradiscal 
+access unsafe or impossible. A modified computed tomography-guided interlaminar 
+trajectory passing briefly through the thecal sac was used to achieve 
+intradiscal access. Two milliliters of ultra-high cell-count PRP was injected 
+into the disc nucleus. During controlled needle withdrawal, small aliquots of 
+PRP were deposited at the dural puncture sites to biologically reinforce the 
+needle tract.
+CONCLUSIONS: Our case describes a technically feasible intradiscal PRP delivery 
+route for end-stage L5-S1 disc collapse when all conventional access methods are 
+obstructed. No postprocedure cerebrospinal fluid leak symptoms or neurological 
+complications occurred, and early symptomatic improvement was reported. Further 
+investigation is warranted to evaluate safety, reproducibility, and broader 
+clinical applicability.
+
+Copyright: 2026, American Society of Interventional Pain Physicians.
+
+PMID: 42066283 [Indexed for MEDLINE]
+
+Conflict of interest statement: Each author certifies that he or she, or a 
+member of his or her immediate family, has no commercial association (i.e., 
+consultancies, stock ownership, equity interest, patent/licensing arrangements, 
+etc.) that might pose a conflict of interest in connection with the submitted 
+manuscript.
+
+
+3. Hematology. 2026 Dec 31;31(1):2657628. doi: 10.1080/16078454.2026.2657628.
+Epub  2026 Apr 13.
+
+A survival prognostic model for high-risk myelodysplastic syndrome patients 
+treated with decitabine.
+
+Liu Y(1), Niu H(2), Wei Y(1), Yang L(1), Jiang H(1), Li L(1), Xing L(1), Shao 
+Z(1), Fu R(1), Wang H(1).
+
+Author information:
+(1)Department of Hematology, Tianjin Medical University General Hospital, 
+Tianjin, China.
+(2)Department of Hematology, Beijing Friendship Hospital, Capital Medical 
+University, Beijing, China.
+
+BACKGROUND: Decitabine is widely used in China for high-risk myelodysplastic 
+syndromes (MDS). However, the prognostic factors associated with overall 
+survival (OS) remain incompletely defined.
+METHODS: We retrospectively analyzed 130 high-risk MDS patients treated with 
+decitabine. Clinical characteristics and laboratory parameters were collected. 
+Treatment response was assessed, and survival outcomes were evaluated using Cox 
+regression models. A prognostic nomogram was developed to improve risk 
+stratification beyond the conventional IPSS/IPSS-R systems.
+RESULTS: The median age was 60.5 years, with 57.7% male patients. Median OS was 
+15.5 months. Univariate analysis showed that age ≥50 years, bone marrow blasts 
+≥10%, and iron overload (serum ferritin ≥500 µg/L) were significantly associated 
+with inferior OS. Multivariate Cox regression confirmed age ≥50 (HR = 2.31, 95% 
+CI: 1.21-4.40, p = 0.011) and elevated bone marrow blasts (HR = 1.92, 95% CI: 
+1.16-3.17, p = 0.012) as independent adverse prognostic factors. Poor karyotype 
+also conferred poor outcomes. Next-generation sequencing data were available for 
+92 patients. Given the low mutation rate, the mutational analysis was conducted 
+exploratorily; results suggested that TP53 mutations were significantly 
+associated with adverse prognosis. A prognostic nomogram integrating age, ECOG 
+score, bone marrow blasts, cytogenetics, hemoglobin, platelet count, absolute 
+neutrophil count, ring sideroblasts, and ferritin demonstrated improved risk 
+stratification, though validation was limited to internal cohorts.
+CONCLUSION: Decitabine provides short-term hematologic benefits in high-risk 
+MDS, but overall prognosis remains poor. Age, bone marrow blasts, iron overload, 
+and high-risk cytogenetics are key prognostic factors. Incorporating clinical, 
+cytogenetic, and mutational variables into new prognostic models may enhance 
+individualized treatment decision-making for high-risk MDS patients.
+
+DOI: 10.1080/16078454.2026.2657628
+PMID: 41972336 [Indexed for MEDLINE]

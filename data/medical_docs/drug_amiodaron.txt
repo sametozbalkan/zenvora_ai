@@ -1,0 +1,37 @@
+İLAÇ: Amiodaron (Cordarone, Pacerone)
+SINIF: Antiaritmik (Sınıf III), iyot içerir
+
+ENDİKASYONLAR:
+- Ventriküler taşikardi ve fibrilasyon
+- Atriyal fibrilasyon ve flutter
+- Supraventriküler taşikardi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ (ÇOK GENİŞ ETKİLEŞİM PROFİLİ):
+- Warfarin: INR'yi ciddi artırır; warfarin dozu %30-50 azaltılmalı, INR sık izlenmeli
+- Digoksin: Digoksin toksisitesi riski; digoksin dozu yarıya indirilmeli
+- Statinler (simvastatin, atorvastatin): Miyopati/rabdomiyoliz riski; simvastatin 20 mg üzeri kullanılmamalı
+- QT uzatan ilaçlar (ketiapin, olanzapin, siprofloksasin, haloperidol): Torsades de pointes riski
+- Metoprolol, bisoprolol: Bradikardi ve kalp bloğu riski
+- Siklosporin: Toksik düzey artışı
+- Fenitoin: Karşılıklı toksik artış
+- Apixaban, rivaroksaban: Antikoagülan etki artar
+
+UYARILAR:
+- Tiroid fonksiyonları her 6 ayda izlenmeli (hipo/hipertiroidi yapabilir)
+- Akciğer toksisitesi: Kuru öksürük, nefes darlığı — yıllık AC grafisi
+- Karaciğer enzim takibi
+- Fotosensitivite: Güneşten korunma şart
+- Kornea mikrodepoziları (görme bulanıklığı)
+- Yarı ömrü 40-55 gün — ilaç kesilse bile etkileşimler haftalarca sürer
+
+KONTRENDİKASYONLAR:
+- Sinüs bradikardisi, SA blok
+- Tiroid hastalığı (rölatif)
+- İyot alerjisi
+
+YAN ETKİLER:
+- Tiroid disfonksiyonu
+- Akciğer toksisitesi (pnömonit, fibrozis)
+- Hepatotoksisite
+- Kornea mikrodepoziları
+- Ciltte mavi-gri renk değişimi

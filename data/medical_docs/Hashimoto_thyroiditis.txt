@@ -1,0 +1,223 @@
+=== PubMed: Hashimoto thyroiditis ===
+1. Autoimmun Rev. 2014 Apr-May;13(4-5):391-7. doi: 10.1016/j.autrev.2014.01.007. 
+Epub 2014 Jan 13.
+
+Hashimoto thyroiditis: clinical and diagnostic criteria.
+
+Caturegli P(1), De Remigis A(2), Rose NR(3).
+
+Author information:
+(1)Department of Pathology, The Johns Hopkins University School of Medicine, 
+Baltimore, MD, United States; Feinstone Department of Molecular Microbiology and 
+Immunology, The Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+United States. Electronic address: pcat@jhmi.edu.
+(2)Department of Pathology, The Johns Hopkins University School of Medicine, 
+Baltimore, MD, United States.
+(3)Department of Pathology, The Johns Hopkins University School of Medicine, 
+Baltimore, MD, United States; Feinstone Department of Molecular Microbiology and 
+Immunology, The Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+United States.
+
+Hashimoto thyroiditis (HT), now considered the most common autoimmune disease, 
+was described over a century ago as a pronounced lymphoid goiter affecting 
+predominantly women. In addition to this classic form, several other 
+clinico-pathologic entities are now included under the term HT: fibrous variant, 
+IgG4-related variant, juvenile form, Hashitoxicosis, and painless thyroiditis 
+(sporadic or post-partum). All forms are characterized pathologically by the 
+infiltration of hematopoietic mononuclear cells, mainly lymphocytes, in the 
+interstitium among the thyroid follicles, although specific features can be 
+recognized in each variant. Thyroid cells undergo atrophy or transform into a 
+bolder type of follicular cell rich in mitochondria called Hürthle cell. Most HT 
+forms ultimately evolve into hypothyroidism, although at presentation patients 
+can be euthyroid or even hyperthyroid. The diagnosis of HT relies on the 
+demonstration of circulating antibodies to thyroid antigens (mainly 
+thyroperoxidase and thyroglobulin) and reduced echogenicity on thyroid sonogram 
+in a patient with proper clinical features. The treatment remains symptomatic 
+and based on the administration of synthetic thyroid hormones to correct the 
+hypothyroidism as needed. Surgery is performed when the goiter is large enough 
+to cause significant compression of the surrounding cervical structures, or when 
+some areas of the thyroid gland mimic the features of a nodule whose cytology 
+cannot be ascertained as benign. HT remains a complex and ever expanding disease 
+of unknown pathogenesis that awaits prevention or novel forms of treatment.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.autrev.2014.01.007
+PMID: 24434360 [Indexed for MEDLINE]
+
+
+2. Hell J Nucl Med. 2017 Jan-Apr;20(1):51-56. doi: 10.1967/s002449910507. Epub
+2017  Mar 20.
+
+A concise review of Hashimoto thyroiditis (HT) and the importance of iodine, 
+selenium, vitamin D and gluten on the autoimmunity and dietary management of HT 
+patients.Points that need more investigation.
+
+Liontiris MI(1), Mazokopakis EE.
+
+Author information:
+(1)Department of Internal Medicine, Naval Hospital of Crete, Chania, Greece. 
+emazokopakis@yahoo.gr.
+
+Hashimoto's thyroiditis (HT) is a chronic autoimmune thyroid disease caused by 
+an interaction between genetic factors and environmental conditions, both of 
+which are yet to be fully understood. The management of HT depends on its 
+clinical manifestations, commonly including diffuse or nodular goiter with 
+euthyroidism, subclinical hypothyroidism and permanent hypothyroidism. However, 
+in most cases of patients with HT, lifelong levothyroxine substitution is 
+required. The additional role of diet for the management of HT is usually 
+overlooked. A literature search regarding the importance and the influence of 
+iodine, selenium, vitamin D and gluten on HT was conducted. In HT careful 
+supplementation of possible deficiencies is recommended for the dietary 
+management of these patients. The use of a diet low in gluten among HT patients 
+with or without celiac disease (CD) is discussed.
+
+DOI: 10.1967/s002449910507
+PMID: 28315909 [Indexed for MEDLINE]
+
+
+3. Thyroid. 2024 Mar;34(3):295-313. doi: 10.1089/thy.2023.0556. Epub 2024 Feb 16.
+
+Selenium Supplementation in Patients with Hashimoto Thyroiditis: A Systematic 
+Review and Meta-Analysis of Randomized Clinical Trials.
+
+Huwiler VV(1)(2), Maissen-Abgottspon S(1), Stanga Z(1), Mühlebach S(2), Trepp 
+R(1), Bally L(1), Bano A(3).
+
+Author information:
+(1)Department of Diabetes, Endocrinology, Nutritional Medicine and Metabolism, 
+Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.
+(2)Division of Clinical Pharmacy and Epidemiology, Department of Pharmaceutical 
+Sciences, University of Basel, Basel, Switzerland.
+(3)Institute of Social and Preventive Medicine, University of Bern, Bern, 
+Switzerland.
+
+Background: Hashimoto thyroiditis (HT) is the most common cause of 
+hypothyroidism in iodine-sufficient areas. Selenium is an essential trace 
+element required for thyroid hormone synthesis and exerts antioxidant effects. 
+Therefore, it may be of relevance in the management of HT. Methods: We conducted 
+a systematic review and meta-analysis of randomized controlled trials (RCTs) to 
+evaluate the effect of selenium supplementation on thyroid function (thyrotropin 
+[TSH], free and total thyroxine [fT4, T4], free and total triiodothyronine [fT3, 
+T3]), thyroid antibodies (thyroid peroxidase antibodies [TPOAb], thyroglobulin 
+antibodies [TGAb], thyrotropin receptor antibody [TRAb]), ultrasound findings 
+(echogenicity, thyroid volume), immune markers, patient-reported outcomes, and 
+adverse events in HT. The study protocol was registered on PROSPERO 
+(CRD42022308377). We systematically searched MEDLINE, Embase, CINHAL, Web of 
+Science, Google Scholar, and the Cochrane CENTRAL Register of Trials from 
+inception to January 2023 and searched citations of eligible studies. Two 
+independent authors reviewed and coded the identified literature. The primary 
+outcome was TSH in patients without thyroid hormone replacement therapy (THRT); 
+the others were considered secondary outcomes. We synthesized the results as 
+standardized mean differences (SMD) or odds ratio (OR), assessed risk of bias 
+using the Cochrane RoB 2 tool, and rated the evidence using the Grading of 
+Recommendations Assessment, Development, and Evaluation (GRADE) approach. 
+Results: We screened 687 records and included 35 unique studies. Our 
+meta-analysis found that selenium supplementation decreased TSH in patients 
+without THRT (SMD -0.21 [confidence interval, CI -0.43 to -0.02]; 7 cohorts, 869 
+participants; I2 = 0%). In addition, TPOAb (SMD -0.96 [CI -1.36 to -0.56]; 29 
+cohorts; 2358 participants; I2 = 90%) and malondialdehyde (MDA; SMD -1.16 [CI 
+-2.29 to -0.02]; 3 cohorts; 248 participants; I2 = 85%) decreased in patients 
+with and without THRT. Adverse effects were comparable between the intervention 
+and control groups (OR 0.89 [CI 0.46 to 1.75]; 16 cohorts; 1339 participants; 
+I2 = 0%). No significant changes were observed in fT4, T4, fT3, T3, TGAb, 
+thyroid volume, interleukin (IL)-2, and IL-10. Overall, certainty of evidence 
+was moderate. Conclusions: In people with HT without THRT, selenium was 
+effective and safe in lowering TSH, TPOAb, and MDA levels. Indications for 
+lowering TPOAb were found independent of THRT.
+
+DOI: 10.1089/thy.2023.0556
+PMCID: PMC10951571
+PMID: 38243784 [Indexed for MEDLINE]
+
+Conflict of interest statement: All the authors have no conflicts of interest to 
+declare.
+
+
+4. Pol Arch Intern Med. 2022 Mar 30;132(3):16222. doi: 10.20452/pamw.16222. Epub 
+2022 Mar 3.
+
+Hashimoto thyroiditis: an evidence-based guide to etiology, diagnosis and 
+treatment.
+
+Klubo-Gwiezdzinska J(1), Wartofsky L(2).
+
+Author information:
+(1)National Institutes of Health, Bethesda, United States. 
+joanna.klubo-gwiezdzinska@nih.gov
+(2)Georgetown University School of Medicine, Washington, United States
+
+Hashimoto thyroiditis (HT) is a common autoimmune disorder, affecting women 7-10 
+times more often than men, that develops because of genetic susceptibility, 
+Xchromosome inactivation patterns modulated by environmental factors as well as 
+microbiome composition, and leads to an imbalance in self‑tolerance mechanisms. 
+The consequential thyroid infiltration by lymphocytes, potentiated by 
+antibody‑mediated autoimmune response through the antibodies against thyroid 
+peroxidase (TPOAbs), leads to a destruction of thyrocytes. The presence of 
+TPOAbs is associated with a 2 to 4‑fold increase in the risk of recurrent 
+miscarriages and preterm birth in pregnant women. The clinical presentation of 
+HT includes: (A) thyrotoxicosis, when stored thyroid hormones are released to 
+circulation from destroyed thyroid follicles; (B) euthyroidism, when preserved 
+thyroid tissue compensates for destroyed thyrocytes; and (C) hypothyroidism, 
+when thyroid hormone production by the affected thyroid gland is insufficient. 
+The management of Hashitoxicosis is based on symptoms control usually with 
+β‑blockers, euthyroidism requires periodical thyroid stimulating hormone 
+measurements to assess for progression to hypothyroidism, and hypothyroidism is 
+treated with thyroid hormone replacement therapy. The dose of levothyroxine 
+(LT4) used for treatment is based on the degree of preserved thyroid 
+functionality and lean body mass, and usually ranges from 1.4 to 1.8 mcg/kg/day. 
+There is insufficient evidence to recommend for or against therapy with 
+triiodothyronine (T3), apart from in pregnancy when only levothyroxine is 
+indicated, as T3 does not sufficiently cross fetal blood‑brain barrier. HT is 
+associated with 1.6 times higher risk of papillary thyroid cancer and 60 times 
+higher risk of thyroid lymphoma than in general the population.
+
+DOI: 10.20452/pamw.16222
+PMCID: PMC9478900
+PMID: 35243857 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST None declared.
+
+
+5. Medicina (Kaunas). 2023 Apr 13;59(4):757. doi: 10.3390/medicina59040757.
+
+Autoimmune Thyroiditis Shifting from Hashimoto's Thyroiditis to Graves' Disease.
+
+Daramjav N(1), Takagi J(1), Iwayama H(2), Uchino K(3), Inukai D(4), Otake K(1), 
+Ogawa T(4), Takami A(3).
+
+Author information:
+(1)Department of Internal Medicine, Division of Endocrinology and Metabolism, 
+Aichi Medical University School of Medicine, Nagakute 480-1195, Aichi, Japan.
+(2)Department of Pediatrics, Aichi Medical University School of Medicine, 
+Nagakute 480-1195, Aichi, Japan.
+(3)Department of Internal Medicine, Division of Hematology, Aichi Medical 
+University School of Medicine, Nagakute 480-1195, Aichi, Japan.
+(4)Department of Otorhinolaryngology Head and Neck Surgery, Aichi Medical 
+University School of Medicine, Nagakute 480-1195, Aichi, Japan.
+
+In 15-20% of cases, Graves' disease (GD) shifts to Hashimoto's thyroiditis (HT), 
+while the shift from HT to GD is rare. We present a case of a patient in whom HT 
+shifted to GD, along with a literature review. A 50-year-old woman with myxedema 
+was diagnosed with Hashimoto's disease due to hypothyroidism and the presence of 
+antibodies against thyroid peroxidase (TPOAb) and thyroglobulin (TgAb); she also 
+had thyroid stimulating antibodies (TSAb) without any signs of GD. Although 
+thyroid hormone replacement therapy improved her thyroid function, 2 months 
+later, hyperthyroidism appeared and did not improve after discontinuation of the 
+replacement therapy. The patient was diagnosed with GD, which improved with 
+antithyroid agent administration. To date, only 50 cases regarding conversion 
+from HT to GD have been reported. The median age is 44 years (range, 23-82 
+years), and the median time of conversion is 7 years (range, 0.1-27 years). The 
+male-to-female ratio of HT conversion to GD is 1:9, closer to that of regular GD 
+(1:10) than that of general HT (1:18). All patients received thyroid hormone 
+replacement therapy for hypothyroidism due to HT. Continuous evaluation of TSAb 
+levels is recommended in HT, particularly in cases of TSAb-positive and those 
+under replacement, since it may help predict conversion to GD. Evaluating the 
+clinical characteristics of patients with HT preceding GD is crucial to ensure 
+appropriate treatment and reduce the risk of adverse events.
+
+DOI: 10.3390/medicina59040757
+PMCID: PMC10141468
+PMID: 37109715 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

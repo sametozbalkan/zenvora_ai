@@ -1,0 +1,345 @@
+=== PubMed: amoxicillin drug interactions allergy penicillin ===
+1. Otolaryngol Head Neck Surg. 2004 Jan;130(1 Suppl):1-45. doi: 
+10.1016/j.otohns.2003.12.003.
+
+Antimicrobial treatment guidelines for acute bacterial rhinosinusitis.
+
+Anon JB(1), Jacobs MR, Poole MD, Ambrose PG, Benninger MS, Hadley JA, Craig WA; 
+Sinus And Allergy Health Partnership.
+
+Author information:
+(1)University of Pittsburgh, School of Medicine, USA.
+
+Erratum in
+    Otolaryngol Head Neck Surg. 2004 Jun;130(6):794-6.
+
+Treatment guidelines developed by the Sinus and Allergy Health Partnership for 
+acute bacterial rhinosinusitis (ABRS) were originally published in 2000. These 
+guidelines were designed to: (1) educate clinicians and patients (or patients’ 
+families) about the differences between viral and bacterial rhinosinusitis; (2) 
+reduce the use of antibiotics for nonbacterial nasal/sinus disease; (3) provide 
+recommendations for the diagnosis and optimal treatment of ABRS; (4) promote the 
+use of appropriate antibiotic therapy when bacterial infection is likely; and 
+(5) describe the current understanding of pharmacokinetic and pharmacodynamics 
+and how they relate to the effectiveness of antimicrobial therapy. The original 
+guidelines are updated here to include the most recent information on management 
+principles, antimicrobial susceptibility patterns, and therapeutic options.
+BURDEN OF DISEASE: An estimated 20 million cases of ABRS occur annually in the 
+United States. According to National Ambulatory Medical Care Survey (NAMCS) 
+data, sinusitis is the fifth most common diagnosis for which an antibiotic is 
+prescribed. Sinusitis accounted for 9% and 21% of all pediatric and adult 
+antibiotic prescriptions, respectively, written in 2002. The primary diagnosis 
+of sinusitis results in expenditures of approximately $3.5 billion per year in 
+the United States.
+DEFINITION AND DIAGNOSIS OF ABRS: ABRS is most often preceded by a viral upper 
+respiratory tract infection (URI). Allergy, trauma, dental infection, or other 
+factors that lead to inflammation of the nose and paranasal sinuses may also 
+predispose individuals to developing ABRS. Patients with a “common cold” (viral 
+URI) usually report some combination of the following symptoms: sneezing, 
+rhinorrhea, nasal congestion, hyposmia/anosmia, facial pressure, postnasal drip, 
+sore throat, cough, ear fullness, fever, and myalgia. A change in the color or 
+the characteristic of the nasal discharge is not a specific sign of a bacterial 
+infection. Bacterial superinfection may occur at any time during the course of a 
+viral URI. The risk that bacterial superinfection has occurred is greater if the 
+illness is still present after 10 days. Because there may be cases that fall out 
+of the “norm” of this typical progression, practicing clinicians need to rely on 
+their clinical judgment when using these guidelines. In general, however, a 
+diagnosis of ABRS may be made in adults or children with symptoms of a viral URI 
+that have not improved after 10 days or worsen after 5 to 7 days. There may be 
+some or all of the following signs and symptoms: nasal drainage, nasal 
+congestion, facial pressure/pain (especially when unilateral and focused in the 
+region of a particular sinus), postnasal drainage, hyposmia/anosmia, fever, 
+cough, fatigue, maxillary dental pain, and ear pressure/fullness. Physical 
+examination provides limited information in the diagnosis of ABRS. While 
+sometimes helpful, plain film radiographs, computed tomography (CT), and 
+magnetic resonance imaging scans are not necessary for cases of ABRS.
+MICROBIOLOGY OF ABRS: The most common bacterial species isolated from the 
+maxillary sinuses of patients with ABRS are Streptococcus pneumoniae, 
+Haemophilus influenzae, and Moraxella catarrhalis, the latter being more common 
+in children. Other streptococcal species, anaerobic bacteria and Staphylococcus 
+aureus cause a small percentage of cases.
+BACTERIAL RESISTANCE IN ABRS: The increasing prevalence of penicillin 
+nonsusceptibility and resistance to other drug classes among S pneumoniae has 
+been a problem in the United States, with 15% being penicillin-intermediate and 
+25% being penicillin-resistant in recent studies. Resistance to macrolides and 
+trimethoprim/sulfamethoxazole (TMP/SMX) is also common in S pneumoniae. The 
+prevalence of β-lactamase-producing isolates of H influenzae is approximately 
+30%, while essentially all M catarrhalis isolates produce β-lactamases. 
+Resistance of H influenzae to TMP/SMX is also common.
+ANTIMICROBIAL TREATMENT GUIDELINES FOR ABRS: These guidelines apply to both 
+adults and children. When selecting antibiotic therapy for ABRS, the clinician 
+should consider the severity of the disease, the rate of progression of the 
+disease, and recent antibiotic exposure. The guidelines now divide patients with 
+ABRS into two general categories: (1) those with mild symptoms who have not 
+received antibiotics within the past 4 to 6 weeks, and (2) those with mild 
+disease who have received antibiotics within the past 4 to 6 weeks or those with 
+moderate disease regardless of recent antibiotic exposure. The difference in 
+severity of disease does not imply infection with a resistant pathogen. Rather, 
+this terminology indicates the relative degree of acceptance of possible 
+treatment failure and the likelihood of spontaneous resolution of 
+symptoms—patients with more severe symptoms are less likely to resolve their 
+disease spontaneously. The primary goal of antibiotic therapy is to eradicate 
+bacteria from the site of infection, which, in turn, helps (1) return the 
+sinuses back to health; (2) decrease the duration of symptoms to allow patients 
+to resume daily activities more quickly; (3) prevent severe complications such 
+as meningitis and brain abscess; and (4) decrease the development of chronic 
+disease. Severe or life-threatening infections with or without complications are 
+rare, and are not addressed in these guidelines. Prior antibiotic use is a major 
+risk factor associated with the development of infection with 
+antimicrobial-resistant strains. Because recent antimicrobial exposure increases 
+the risk of carriage of and infection due to resistant organisms, antimicrobial 
+therapy should be based upon the patient’s history of recent antibiotic use. The 
+panel’s guidelines, therefore, stratify patients according to antibiotic 
+exposure in the previous 4 to 6 weeks. Lack of response to therapy at ≥72 hours 
+is an arbitrary time established to define treatment failures. Clinicians should 
+monitor the response to antibiotic therapy, which may include instructing the 
+patient to call the office or clinic if symptoms persist or worsen over the next 
+few days. The predicted bacteriologic and clinical efficacy of antibiotics in 
+adults and children has been determined according to mathematical modeling of 
+ABRS developed by Michael Poole, MD, PhD, based on pathogen distribution, 
+resolution rates without treatment, and in vitro microbiologic activity. 
+Antibiotics can be placed into the following relative rank order of predicted 
+clinical efficacy for adults: 90% to 92% = respiratory fluoroquinolones 
+(gatifloxacin, levofloxacin, moxifloxacin), ceftriaxone, high-dose 
+amoxicillin/clavulanate (4 g/250 mg/day), and amoxicillin/clavulanate (1.75 
+g/250 mg/day); 83% to 88% = high-dose amoxicillin (4 g/day), amoxicillin (1.5 
+g/day), cefpodoxime proxetil, cefixime (based on H influenzae and M catarrhalis 
+coverage), cefuroxime axetil, cefdinir, and TMP/SMX; 77% to 81% = doxycycline, 
+clindamycin (based on gram-positive coverage only), azithromycin, clarithromycin 
+and erythromycin, and telithromycin; 65% to 66% = cefaclor and loracarbef. The 
+predicted spontaneous resolution rate in patients with a clinical diagnosis of 
+ABRS is 62%. Antibiotics can be placed into the following relative rank order of 
+predicted clinical efficacy in children with ABRS: 91% to 92% = ceftriaxone, 
+high-dose amoxicillin/clavulanate (90 mg/6.4 mg per kg per day) and 
+amoxicillin/clavulanate (45 mg/6.4 mg per kg per day); 82% to 87% = high-dose 
+amoxicillin (90 mg/kg per day), amoxicillin (45 mg/kg per day), cefpodoxime 
+proxetil, cefixime (based on H influenzae and M catarrhalis coverage only), 
+cefuroxime axetil, cefdinir, and TMP/SMX; and 78% to 80% = clindamycin (based on 
+gram-positive coverage only), cefprozil, azithromycin, clarithromycin, and 
+erythromycin; 67% to 68% = cefaclor and loracarbef. The predicted spontaneous 
+resolution rate in untreated children with a presumed diagnosis of ABRS is 63%. 
+Recommendations for initial therapy for adult patients with mild disease (who 
+have not received antibiotics in the previous 4 to 6 weeks) include the 
+following choices: amoxicillin/clavulanate (1.75 to 4 g/250 mg per day), 
+amoxicillin (1.5 to 4 g/day), cefpodoxime proxetil, cefuroxime axetil, or 
+cefdinir. While TMP/SMX, doxycycline, azithromycin, clarithromycin, 
+erythromycin, or telithromycin may be considered for patients with β-lactam 
+allergies, bacteriologic failure rates of 20% to 25% are possible. Failure to 
+respond to antimicrobial therapy after 72 hours should prompt either a switch to 
+alternate antimicrobial therapy or reevaluation of the patient (see Table 
+4).When a change in antibiotic therapy is made, the clinician should consider 
+the limitations in coverage of the initial agent. Recommendations for initial 
+therapy for adults with mild disease who have received antibiotics in the 
+previous 4 to 6 weeks or adults with moderate disease include the following 
+choices: respiratory fluoroquinolone (eg, gatifloxacin, levofloxacin, 
+moxifloxacin) or high-dose amoxicillin/clavulanate (4 g/250 mg per day). The 
+widespread use of respiratory fluoroquinolones for patients with milder disease 
+may promote resistance of a wide spectrum of organisms to this class of agents. 
+Ceftriaxone (parenteral, 1 to 2 g/day for 5 days) or combination therapy with 
+adequate gram-positive and negative coverage may also be considered. Examples of 
+appropriate regimens of combination therapy include high-dose amoxicillin or 
+clindamycin plus cefixime, or high-dose amoxicillin or clindamycin plus 
+rifampin. While the clinical effectiveness of ceftriaxone and these combinations 
+for ABRS is unproven; the panel considers these reasonable therapeutic options 
+based on the spectrum of activity of these agents and on data extrapolated from 
+acute otitis media studies. Rifampin should not be used as monotherapy, 
+casually, or for longer than 10 to 14 days, as resistance quickly develops to 
+this agent. Rifampin is also a well-known inducer of several cytochrome p450 
+isoenzymes and therefore has a high potential for drug interactions. Failure of 
+a patient to respond to antimicrobial therapy after 72 hours of therapy should 
+prompt either a switch to alternate antimicrobial therapy or reevaluation of the 
+patient (see Table 4). When a change in antibiotic therapy is made, the 
+clinician should consider the limitations in coverage of the initial agent. 
+Patients who have received effective antibiotic therapy and continue to be 
+symptomatic may need further evaluation. A CT scan, fiberoptic endoscopy or 
+sinus aspiration and culture may be necessary. Recommendations for initial 
+therapy for children with mild disease and who have not received antibiotics in 
+the previous 4 to 6 weeks include the following: high-dose 
+amoxicillin/clavulanate (90 mg/6.4 mg per kg per day), amoxicillin (90 mg/kg per 
+day), cefpodoxime proxetil, cefuroxime axetil, or cefdinir. TMP/SMX, 
+azithromycin, clarithromycin, or erythromycin is recommended if the patient has 
+a history of immediate Type I hypersensitivity reaction to β-lactams. These 
+antibiotics have limited effectiveness against the major pathogens of ABRS and 
+bacterial failure of 20% to 25% is possible. The clinician should differentiate 
+an immediate hypersensitivity reaction from other less dangerous side effects. 
+Children with immediate hypersensitivity reactions to β-lactams may need: 
+desensitization, sinus cultures, or other ancillary procedures and studies. 
+Children with other types of reactions and side effects may tolerate one 
+specific β-lactam, but not another. Failure to respond to antimicrobial therapy 
+after 72 hours should prompt either a switch to alternate antimicrobial therapy 
+or reevaluation of the patient (see Table 5).When a change in antibiotic therapy 
+is made, the clinician should consider the limitations in coverage of the 
+initial agent. The recommended initial therapy for children with mild disease 
+who have received antibiotics in the previous 4 to 6 weeks or children with 
+moderate disease is high-dose amoxicillin/clavulanate (90 mg/6.4 mg per kg per 
+day). Cefpodoxime proxetil, cefuroxime axetil, or cefdinir may be used if there 
+is a penicillin allergy (eg, penicillin rash); in such instances, cefdinir is 
+preferred because of high patient acceptance. TMP/SMX, azithromycin, 
+clarithromycin, or erythromycin is recommended if the patient is β-lactam 
+allergic, but these do not provide optimal coverage. Clindamycin is appropriate 
+if S pneumoniae is identified as a pathogen. Ceftriaxone (parenteral, 50 mg/kg 
+per day for 5 days) or combination therapy with adequate gram-positive and 
+-negative coverage may also be considered. Examples of appropriate regimens of 
+combination therapy include high-dose amoxicillin or clindamycin plus cefixime, 
+or high-dose amoxicillin or clindamycin plus rifampin. The clinical 
+effectiveness of ceftriaxone and these combinations for ABRS is unproven; the 
+panel considers these reasonable therapeutic options based on spectrum of 
+activity and on data extrapolated from acute otitis media studies. Rifampin 
+should not be used as monotherapy, casually, or for longer than 10 to 14 days as 
+resistance quickly develops to this agent. Failure to respond to antimicrobial 
+therapy after 72 hours of therapy should prompt either a switch to alternate 
+antimicrobial therapy or reevaluation of the patient (see Table 5). When a 
+change in antibiotic therapy is made, the clinician should consider the 
+limitations in coverage of the initial agent. Patients who have received 
+effective antibiotic therapy and continue to be symptomatic may need further 
+evaluation. A CT scan, fiberoptic endoscopy or sinus aspiration and culture may 
+be necessary.
+
+DOI: 10.1016/j.otohns.2003.12.003
+PMCID: PMC7118847
+PMID: 14726904 [Indexed for MEDLINE]
+
+
+2. Mayo Clin Proc. 1983 Jan;58(1):21-32.
+
+The penicillins.
+
+Wright AJ, Wilkowske CJ.
+
+The penicillins as a group are the most frequently and widely used of the 
+antimicrobial agents because they are effective, low in toxicity, and relatively 
+inexpensive. Effectiveness is due to the bactericidal action, the excellent 
+distribution throughout the body spaces, and the wide spectrum of activity. 
+Knowledge of the variation in spectrum of activity of the various types of 
+penicillins is needed for effective use of the appropriate drug against 
+individual infections. Allergenicity is the most frequent and serious problem 
+associated with the use of penicillins. Individual penicillins, however, do have 
+different side effects. The older penicillins are so inexpensive that the cost 
+of their use need hardly be considered, whereas the newer penicillins are 
+expensive and should be used only when they are clearly more effective for 
+treatment than are drugs such as penicillin G.
+
+PMID: 6218348 [Indexed for MEDLINE]
+
+
+3. Curr Allergy Asthma Rep. 2014 Mar;14(3):418. doi: 10.1007/s11882-013-0418-0.
+
+Genotyping for severe drug hypersensitivity.
+
+Karlin E(1), Phillips E.
+
+Author information:
+(1)Vanderbilt University School of Medicine, 1161-21 St Avenue South, A-2200 
+Medical Center North, Nashville, TN, 37232-2582, USA.
+
+Over the past decade, there have been significant advances in our understanding 
+of the immunopathogenesis and pharmacogenomics of severe 
+immunologically-mediated adverse drug reactions. Such T-cell-mediated adverse 
+drug reactions such as Stevens-Johnson syndrome/toxic epidermal necrolysis 
+(SJS/TEN), drug-induced liver disease (DILI) and other drug hypersensitivity 
+syndromes have more recently been shown to be mediated through interactions with 
+various class I and II HLA alleles. Key examples have included the associations 
+of HLA-B*15:02 and carbamazepine induced SJS/TEN in Southeast Asian populations 
+and HLA-B*57:01 and abacavir hypersensitivity. HLA-B*57:01 screening to prevent 
+abacavir hypersensitivity exemplifies a successful translational roadmap from 
+pharmacogenomic discovery through to widespread clinical implementation. 
+Ultimately, our increased understanding of the interaction between drugs and the 
+MHC could be used to inform drug design and drive pre-clinical toxicity programs 
+to improve drug safety.
+
+DOI: 10.1007/s11882-013-0418-0
+PMCID: PMC4014135
+PMID: 24429903 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Eric Karlin declares that 
+he has no conflict of interest.
+
+
+4. mBio. 2025 Aug 13;16(8):e0137225. doi: 10.1128/mbio.01372-25. Epub 2025 Jul
+10.
+
+Exploring β-lactam interactions with DacB1: unraveling optimal therapies for 
+combating drug-resistant Mycobacterium tuberculosis.
+
+Nantongo M(1)(2), Nguyen DC(3), Shin E(2)(4), Bethel CR(2), Taracila MA(2)(4), 
+Dousa KM(4)(5), Li Q(4), Fletcher S(4), Kurz SG(6), Kreiswirth BN(7), Boom 
+WH(1)(4)(8), Holland S(9), Rubin EJ(10), Bonomo RA(1)(4)(5)(11).
+
+Author information:
+(1)Department of Molecular Biology and Microbiology, Case Western Reserve 
+University (CWRU), Cleveland, Ohio, USA.
+(2)Research Service, Louis Stokes Veterans Affairs Medical Center, Cleveland, 
+Ohio, USA.
+(3)Division of Infectious Diseases, Department of Pediatrics and Division of 
+Infectious Diseases, Department of Internal Medicine, Rush University Medical 
+Center, Chicago, Illinois, USA.
+(4)Department of Medicine, CWRU, Cleveland, Ohio, USA.
+(5)Medical Service, Veterans Affairs Northeast Ohio Healthcare System (VANEOHS), 
+Cleveland, Ohio, USA.
+(6)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, Yale School of Medicine, New Haven, Connecticut, USA.
+(7)Center for Discovery and Innovation, Hackensack, New Jersey, USA.
+(8)Division of Infectious Diseases and HIV Medicine, University Hospitals 
+Cleveland Medical Center, Cleveland, Ohio, USA.
+(9)Laboratory of Clinical Immunology and Microbiology, National Institutes of 
+Health, National Institute of Allergy and Infectious Diseases, Bethesda, 
+Maryland, USA.
+(10)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School 
+of Public Health, Boston, Massachusetts, USA.
+(11)Departments of Biochemistry, Pharmacology, and Proteomics and 
+Bioinformatics, CWRU; Cleveland Geriatrics Research Education and Clinical 
+Center (GRECC), VANEOHS; CWRU Cleveland VAMC Center for Antibiotic Resistance 
+and Epidemiology (Case VA CARES), Cleveland, Ohio, USA.
+
+Tuberculosis (TB) continues to pose a global public health threat, exacerbated 
+by rising drug-resistant strains of Mycobacterium tuberculosis (Mtb). DacB1, a 
+D,D-carboxypeptidase critical in Mtb peptidoglycan biosynthesis, is a promising 
+target for β-lactam antibiotics (BLs), which remain underutilized in TB 
+treatment. Dual BL therapy may enhance efficacy by inactivating multiple targets 
+within the peptidoglyan synthesis pathway. Minimum inhibitory concentrations 
+(MICs) for β-lactams and β-lactamase inhibitors against Mtb H37Ra, H37Rv, and 
+clinical isolates showed that imipenem, meropenem, or tebipenem MICs were 
+reduced when combined with amoxicillin or ceftriaxone or β-lactamase inhibitors 
+such as clavulanate or durlobactam. Timed electrospray ionization mass 
+spectrometry (ESI-MS) captured acyl-enzyme adducts between DacB1 and BLs, 
+revealing binding interactions with carbapenems (imipenem, meropenem, and 
+tebipenem) but not most penicillins or cephalosporins except cloxacillin and 
+cefoxitin. Differential scanning fluorimetry (DSF) combined with circular 
+dichroism (CD) confirmed physical and structural changes in DacB1 upon BL 
+binding despite no alteration in melting temperature. Carbapenem-DacB1 
+interactions were notably faster with imipenem, likely due to reduced steric 
+hindrance compared to meropenem and tebipenem. Molecular modeling revealed 
+conserved penicillin-binding protein motifs within the active site of DacB1: 
+S121XXK124, S176XN178, and K282TG284 (PDB ID # 4PPR). Building on this, 
+molecular docking suggested favorable interactions between these motifs and the 
+carbapenems: the carbapenem carbonyl group aids in positioning within DacB1's 
+oxyanion hole, ready for acylation, while hydrophobic interactions with the 
+cyclic R2 side chains and C1 methyl groups in meropenem and tebipenem contribute 
+to steric hindrance hence slow acyl-enzyme formation. These findings enhance our 
+understanding of DacB1 inhibition and suggest that carbapenems, particularly in 
+combination therapies, hold promise as effective TB treatments.
+IMPORTANCE: TB remains a significant public health threat, particularly due to 
+the rising prevalence of drug-resistant Mtb strains. Current treatment options 
+for drug-resistant TB are costly, toxic, and often ineffective, necessitating 
+the exploration of alternative therapeutic strategies. This study is of critical 
+importance as it investigates the potential of β-lactam antibiotics (BLs), a 
+class historically considered ineffective against Mtb, for repurposing in TB 
+treatment. By targeting DacB1, a key enzyme in Mtb peptidoglycan biosynthesis, 
+this research provides new insights into the mechanism of β-lactam interactions 
+and their potential to disrupt cell wall synthesis. The findings demonstrate 
+that dual β-lactam therapy and β-lactam/β-lactamase inhibitor combinations 
+enhance antibiotic efficacy, suggesting a promising avenue for combating 
+drug-resistant TB. Furthermore, structural and molecular analyses confirm that 
+carbapenems, particularly imipenem, meropenem, and tebipenem, effectively bind 
+to DacB1, paving the way for optimized treatment strategies. Given the 
+challenges in developing new TB drugs, repurposing β-lactams offers a 
+cost-effective and readily implementable solution to address antimicrobial 
+resistance. This study contributes valuable knowledge that could accelerate the 
+development of novel TB therapies, improve treatment success rates, and 
+ultimately reduce TB-related mortality worldwide.
+
+DOI: 10.1128/mbio.01372-25
+PMCID: PMC12345272
+PMID: 40637416 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

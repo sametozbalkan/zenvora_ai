@@ -1,0 +1,149 @@
+=== PubMed: valproate drug interactions anticonvulsant teratogenic ===
+1. Neuropsychopharmacol Rep. 2021 Sep;41(3):336-351. doi: 10.1002/npr2.12196.
+Epub  2021 Jul 23.
+
+Neuropharmacology of Antiseizure Drugs.
+
+Hakami T(1).
+
+Author information:
+(1)The Faculty of Medicine, Jazan University, Jazan, Saudi Arabia.
+
+BACKGROUND: Antiseizure drugs (ASDs) are the primary therapy for epilepsy, with 
+more than 20 drugs introduced into clinical practice to date. These drugs are 
+typically grouped by their mechanisms of action and therapeutic spectrum. This 
+article aims to educate non-neurologists and medical students about the new 
+frontiers in the pharmacology of ASDs and presents the current state of the 
+literature on the efficacy and tolerability of these agents.
+METHODS: Randomized controlled trials, observational studies, and evidence-based 
+meta-analyses of ASD efficacy and tolerability as initial monotherapy for 
+epileptic seizures and syndromes were identified in PubMed, EMBASE, the Cochrane 
+Library, and Elsevier Clinical Pharmacology.
+RESULTS: The choice of ASD varies primarily according to the seizure type. 
+Practical guidelines for ASD selection in patients with new-onset and 
+drug-resistant epilepsy were recently published. The guidelines have shown that 
+the newer-generation drugs, which have unique mechanistic and pharmacokinetic 
+properties, are better tolerated but have similar efficacy compared with the 
+older drugs. Several ASDs are effective as first-line monotherapy in focal 
+seizures, including lamotrigine, carbamazepine, phenytoin, levetiracetam, and 
+zonisamide. Valproate remains the first-line drug for many patients with 
+generalized and unclassified epilepsies. However, valproate should be avoided, 
+if possible, in women of childbearing potential because of teratogenicity. 
+Toxicity profile precludes several drugs from use as first-line treatment, for 
+example, vigabatrin, felbamate, and rufinamide.
+CONCLUSIONS: Antiseizure drugs have different pharmacologic profiles that should 
+be considered when selecting and prescribing these agents for epilepsy. These 
+include pharmacokinetic properties, propensity for drug-drug interactions, and 
+adverse effects.
+
+© 2021 The Authors. Neuropsychopharmacology Reports published by John Wiley & 
+Sons Australia, Ltd on behalf of The Japanese Society of 
+Neuropsychopharmacology.
+
+DOI: 10.1002/npr2.12196
+PMCID: PMC8411307
+PMID: 34296824 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+2. Epilepsia. 1992;33 Suppl 1:S13-22. doi: 10.1111/j.1528-1157.1992.tb05896.x.
+
+Drug interactions in epilepsy.
+
+Brodie MJ(1).
+
+Author information:
+(1)University Department of Medicine & Therapeutics, Western Infirmary, Glasgow, 
+Scotland.
+
+The abolition of seizures using a single antiepileptic agent can be expected in 
+more than 80% of patients, although not necessarily with the first drug tried. 
+The remainder often receive polypharmacy, and current evidence suggests that 
+perhaps only around 10% of these benefit significantly in terms of improved 
+seizure control. Many more experience complicated drug interactions. 
+Carbamazepine, phenytoin, phenobarbital, and primidone (metabolized in part to 
+phenobarbital) all induce the synthesis of hepatic monooxygenase and conjugating 
+enzymes. This will result in an acceleration in the metabolism of other 
+lipid-soluble drugs with likely attenuation of their pharmacological effects. 
+Valproate, on the other hand, is a minor enzyme inhibitor. Pharmacokinetic 
+interactions are almost invariable when more than one antiepileptic drug is 
+coprescribed. The extent and direction of interactions with combinations of 
+these drugs are varied and unpredictable. Discontinuation of an enzyme inducer 
+or inhibitor will influence the concentrations of the remaining drug(s). 
+Pharmacodynamic interactions also cause problems in epileptic patients. A number 
+of commonly prescribed psychoactive drugs, such as tricyclic antidepressants and 
+neuroleptics, can worsen seizure control by reducing the convulsion threshold. 
+In addition, there seems little doubt that ethanol abuse and withdrawal can 
+precipitate seizures in susceptible patients. Antiepileptic polypharmacy is more 
+likely to impair cognitive function than the same drugs used singly. In 
+addition, the more antiepileptic drugs received by a patient in the first 
+trimester of pregnancy, the higher the risk of teratogenesis in the exposed 
+infant. Drug interactions prolong and complicate the process of new drug 
+assessment, particularly when introduced in treated patients with refractory 
+epilepsy. The candidate antiepileptic drug may alter the concentration of 
+concomitant therapy, or its own breakdown may be influenced by coprescribed 
+enzyme inducers or inhibitors. Even if the new drug is excreted unchanged by the 
+kidney, unexpected interactions can be uncovered. Pharmacodynamic interactions 
+need not always be detrimental. Currently, there is no rational approach to the 
+treatment of intractable epilepsy. As more new drugs with single mechanisms of 
+action become available, the potential exists for combining these 
+synergistically. This approach may revolutionize the pharmacological management 
+of the epileptic patient in the 21st century.
+
+DOI: 10.1111/j.1528-1157.1992.tb05896.x
+PMID: 1644052 [Indexed for MEDLINE]
+
+
+3. Ned Tijdschr Geneeskd. 1998 Feb 7;142(6):289-93.
+
+[Antiepileptics].
+
+[Article in Dutch]
+
+Overweg J(1).
+
+Author information:
+(1)Instituut voor Epilepsiebestrijding Meer en Bosch, De Cruquiushoeve, 
+Heemstede.
+
+Despite introduction of new antiepileptic drugs the established drugs phenytoin, 
+carbamazepine and valproate still provide the treatment of choice in most forms 
+of epilepsy, being efficacious in approximately two-thirds of all newly referred 
+patients. In 20-60% of patients resistant to treatment with the older drugs, a 
+50% reduction of seizure frequency can be achieved by adding ethosuximide, 
+clobazam, vigabatrine, oxcarbazepine, lamotrigine, felbamate, tiagabine or 
+topiramate to the classic treatment. The majority of the new drugs are free of 
+the problematic enzyme induction of the older compounds, making monotherapy as 
+well as combination therapy much easier. To what extent the new antiepileptic 
+drugs are going to be used for the treatment of patients with epilepsy will 
+depend on the analysis of cost and benefits. This will be based on efficacy, 
+side effects, interactions and teratogenicity of these new compounds.
+
+PMID: 9562728 [Indexed for MEDLINE]
+
+
+4. Psychopharmacol Bull. 2003;37 Suppl 2:43-53.
+
+Divalproex and epilepsy.
+
+Willmore LJ(1).
+
+Author information:
+(1)Saint Louis University School of Medicine, 1402 South Grand Boulevard (M226), 
+St. Louis, MO 63104, USA. willmore@slu.edu
+
+Valproic acid, a branched chain carboxylic acid, has a broad spectrum of action 
+as an antiepilepsy drug. While effective in myoclonus syndromes and absence 
+epilepsy, the drug has efficacy for patients with generalized convulsive and 
+partial seizures as well. Mechanisms of action are similar to other drugs used 
+to treat epilepsy, in that valproate limits sustained repetitive firing by 
+actions on the voltage sensitive sodium channel. However, the drug facilitates 
+the removal of glutamate from synaptic regions by up regulating glial glutamate 
+transporters while prolonging the action of GABA by limiting production of 
+inhibitory transmitter transporter proteins. Adverse effects include 
+hepatotoxicity that requires informing patients and establishing clinical 
+monitoring plans. Teratogenicity occurs with valproate and requires informing 
+patients and careful monitoring in women during pregnancy.
+
+PMID: 15021860 [Indexed for MEDLINE]

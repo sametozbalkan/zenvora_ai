@@ -1,0 +1,166 @@
+=== PubMed: cellulitis skin infection ===
+1. Med Clin North Am. 2021 Jul;105(4):723-735. doi: 10.1016/j.mcna.2021.04.009.
+
+Cellulitis: A Review of Pathogenesis, Diagnosis, and Management.
+
+Rrapi R(1), Chand S(1), Kroshinsky D(2).
+
+Author information:
+(1)Department of Dermatology, Massachusetts General Hospital, 50 Staniford 
+Street, 2nd Floor, Boston, MA 02114, USA.
+(2)Department of Dermatology, Massachusetts General Hospital, 50 Staniford 
+Street, 2nd Floor, Boston, MA 02114, USA. Electronic address: 
+dkroshinsky@partners.org.
+
+Cellulitis is a common skin infection resulting in increasing hospitalizations 
+and health care costs. There is no gold standard diagnostic test, making 
+cellulitis a potentially challenging condition to distinguish from other 
+mimickers. Physical examination typically demonstrates poorly demarcated 
+unilateral erythema with warmth and tenderness. Thorough history and clinical 
+examination can narrow the differential diagnosis of cellulitis and minimize 
+unnecessary hospitalization. Antibiotic selection is determined by patient 
+history and risk factors, severity of clinical presentation, and the most likely 
+microbial culprit.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2021.04.009
+PMID: 34059247 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have no conflicts of 
+interest to declare.
+
+
+2. Infect Dis Clin North Am. 2021 Mar;35(1):49-60. doi:
+10.1016/j.idc.2020.10.002.
+
+Cellulitis.
+
+Bystritsky RJ(1).
+
+Author information:
+(1)Department of Medicine, Infectious Diseases, University of California-San 
+Francisco, 350 Parnassus, Rm 808B, UCSF Box 0654, San Francisco, CA 94117, USA. 
+Electronic address: Rachel.bystritsky@ucsf.edu.
+
+Cellulitis is a common infection of the skin and subcutaneous tissue caused 
+predominantly by gram-positive organisms. Risk factors include prior episodes of 
+cellulitis, cutaneous lesions, tinea pedis, and chronic edema. Cellulitis is a 
+clinical diagnosis and presents with localized skin erythema, edema, warmth, and 
+tenderness. Uncomplicated cellulitis can be managed in the outpatient setting 
+with oral antibiotics. Imaging often is not required but can be helpful. 
+Recurrent cellulitis is common and predisposing conditions should be assessed 
+for and treated at the time of initial diagnosis. For patients with frequent 
+recurrences despite management of underlying conditions, antimicrobial 
+prophylaxis can be effective.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.idc.2020.10.002
+PMID: 33494874 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+3. Infect Dis Clin North Am. 2021 Mar;35(1):1-48. doi: 10.1016/j.idc.2020.10.011.
+
+Approach to the Patient with a Skin and Soft Tissue Infection.
+
+Watkins RR(1), David MZ(2).
+
+Author information:
+(1)Division of Infectious Diseases, Cleveland Clinic Akron General, 224 West 
+Exchange Street, Akron, OH 44302, USA; Department of Medicine, Northeast Ohio 
+Medical University, Rootstown, OH, USA.
+(2)Division of Infectious Diseases, Department of Medicine, University of 
+Pennsylvania, Blockley Hall 707, Philadelphia, PA 19104, USA; Department of 
+Epidemiology, Biostatistics and Informatics, University of Pennsylvania, 
+Philadelphia, PA, USA. Electronic address: michdav@pennmedicine.upenn.edu.
+
+The diagnosis of a skin and soft tissue infection (SSTI) requires careful 
+attention to a patient's history, physical examination, and diagnostic test 
+results. We review for many bacterial, viral, fungal, and parasitic pathogens 
+that cause SSTIs the clues for reaching a diagnosis, including reported past 
+medical history, hobbies and behaviors, travel, insect bites, exposure to other 
+people and to animals, environmental exposures to water, soil, or sand, as well 
+as the anatomic site of skin lesions, their morphology on examination, and their 
+evolution over time. Laboratory and radiographic tests are discussed that may be 
+used to confirm a specific diagnosis.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.idc.2020.10.011
+PMID: 33494872 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure M.Z. David has served as a consultant 
+to GSK and to Baxter. R.R. Watkins has served on the speakers’ bureau and 
+received grant support from Allergan.
+
+
+4. Neth J Med. 2017 Nov;75(9):366-378.
+
+Cellulitis: current insights into pathophysiology and clinical management.
+
+Cranendonk DR(1), Lavrijsen APM, Prins JM, Wiersinga WJ.
+
+Author information:
+(1)Department of Medicine, Academic Medical Center, Amsterdam, the Netherlands.
+
+Cellulitis is a bacterial skin and soft tissue infection which occurs when the 
+physical skin barrier, the immune system and/or the circulatory system are 
+impaired. Diabetes, obesity and old age are associated with defects in all of 
+these areas and as a result are major predisposing factors for cellulitis. In 
+this review, we summarise current insights into the pathophysiology of 
+cellulitis and place the Dutch guidelines on the clinical management of 
+cellulitis of the lower extremities in perspective. Recent evidence on 
+diagnostic strategies is discussed, the importance of which is underscored by 
+findings that venous insufficiency, eczema, deep vein thrombosis and gout are 
+frequently mistaken for cellulitis. Empiric antibiotic choices are designed 
+against the background of a low prevalence of multi-resistant Staphylococcus 
+aureus. Novel antimicrobial agents registered for cellulitis are also discussed. 
+Relapses occur frequently due to a high prevalence of risk factors associated 
+with cellulitis in combination with the ccurrence of persistent 
+post-inflammatory lymphatic damage. Lastly, we identify knowledge gaps which, if 
+addressed, will advance our understanding of the pathophysiology of cellulitis 
+and improve its clinical management.
+
+PMID: 29219814 [Indexed for MEDLINE]
+
+
+5. Infect Dis Clin North Am. 2021 Mar;35(1):81-105. doi:
+10.1016/j.idc.2020.10.003.  Epub 2020 Dec 7.
+
+Staphylococcal Skin and Soft Tissue Infections.
+
+Hatlen TJ(1), Miller LG(2).
+
+Author information:
+(1)Division of Infectious Diseases, Harbor-UCLA Medical Center, Torrance, CA, 
+USA; Division of HIV, Harbor-UCLA Medical Center, Torrance, CA, USA; Lundquist 
+Institute for Biomedical Innovation at Harbor-UCLA Medical Center, Torrance, CA, 
+USA; David Geffen School of Medicine at UCLA, Los Angeles, CA, USA. Electronic 
+address: Timothy.hatlen@lundquist.org.
+(2)Division of Infectious Diseases, Harbor-UCLA Medical Center, Torrance, CA, 
+USA; Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical 
+Center, Torrance, CA, USA; David Geffen School of Medicine at UCLA, Los Angeles, 
+CA, USA; Harbor-UCLA Medical Center, 1000 West Carson Street, Box 466, Torrance, 
+CA 90509, USA.
+
+Staphylococcus aureus is the most common bacteria causing purulent skin and soft 
+tissue infections. Many disease-causing S aureus strains are methicillin 
+resistant; thus, empiric therapy should be given to cover methicillin-resistant 
+S aureus. Bacterial wound cultures are important for characterizing local 
+susceptibility patterns. Definitive antibiotic therapy is warranted, although 
+there are no compelling data demonstrating superiority of any one antibiotic 
+over another. Antibiotic choice is predicated by the infection severity, local 
+susceptibility patterns, and drug-related safety, tolerability, and cost. 
+Response to therapy is expected within the first days; 5 to 7 days of therapy is 
+typically adequate to achieve cure.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.idc.2020.10.003
+PMID: 33303329 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Dr L.G. Miller has received grants 
+from Merck. Dr T.J. Hatlen has nothing to disclose.

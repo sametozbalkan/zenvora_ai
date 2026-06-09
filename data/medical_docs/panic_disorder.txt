@@ -1,0 +1,153 @@
+=== PubMed: panic disorder ===
+1. Neurosci Bull. 2024 Jun;40(6):795-814. doi: 10.1007/s12264-023-01088-9. Epub 
+2023 Jul 21.
+
+Brain Mechanisms Underlying Panic Attack and Panic Disorder.
+
+Guan X(1)(2), Cao P(3)(4).
+
+Author information:
+(1)Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua 
+University, Beijing, 102206, China. guanxuyan@nibs.ac.cn.
+(2)National Institute of Biological Sciences (NIBS), Beijing, 102206, China. 
+guanxuyan@nibs.ac.cn.
+(3)Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua 
+University, Beijing, 102206, China.
+(4)National Institute of Biological Sciences (NIBS), Beijing, 102206, China.
+
+Erratum in
+    Neurosci Bull. 2024 Jun;40(6):856. doi: 10.1007/s12264-024-01203-4.
+
+Panic disorder is a psychiatric disorder characterized by recurrent panic 
+attacks, with a prevalence of ~ 4% in the general population, causing heavy 
+personal and socioeconomic burdens. The similarities of animal defense responses 
+to clinical panic attack symptoms in humans make it possible to translate 
+neuroanatomical pathways identified in animal studies to panic disorder in 
+humans. Therefore, in this review we first present a basic overview of panic 
+disorder in humans including the main subtypes, models commonly used to trigger 
+panic attacks, related hypotheses, the neurotransmitter systems that may be 
+involved, and the current clinical treatments to give the reader a comprehensive 
+understanding of panic disorder. The animal section introduces the models that 
+trigger panic-like behavior in animals and the brain regions that may be 
+involved, providing insights for future elucidation of the neural circuit 
+mechanisms behind panic attacks.
+
+© 2023. Center for Excellence in Brain Science and Intelligence Technology, 
+Chinese Academy of Sciences.
+
+DOI: 10.1007/s12264-023-01088-9
+PMCID: PMC11178723
+PMID: 37477800 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interests.
+
+
+2. Lancet. 2006 Sep 16;368(9540):1023-32. doi: 10.1016/S0140-6736(06)69418-X.
+
+Panic disorder.
+
+Roy-Byrne PP(1), Craske MG, Stein MB.
+
+Author information:
+(1)Department of Psychiatry and Behavioral Sciences, University of Washington 
+School of Medicine at Harborview Medical Center, Seattle, WA 98104-2499, USA. 
+roybyrne@u.washington.edu
+
+Panic disorder is a common mental disorder that affects up to 5% of the 
+population at some point in life. It is often disabling, especially when 
+complicated by agoraphobia, and is associated with substantial functional 
+morbidity and reduced quality of life. The disorder is also costly for 
+individuals and society, as shown by increased use of health care, absenteeism, 
+and reduced workplace productivity. Some physical illnesses (eg, asthma) 
+commonly occur with panic disorder, and certain lifestyle factors (eg, smoking) 
+increase the risk for the disorder, but causal pathways are still unclear. 
+Genetic and early experiential susceptibility factors also exist, but their 
+exact nature and pathophysiological mechanisms remain unknown. Despite an 
+imprecise, although increased, understanding of cause, strong evidence supports 
+the use of several effective treatments (eg, pharmacological, 
+cognitive-behavioural). The adaptation and dissemination of these treatments to 
+the frontlines of medical-care delivery should be urgent goals for the 
+public-health community.
+
+DOI: 10.1016/S0140-6736(06)69418-X
+PMID: 16980119 [Indexed for MEDLINE]
+
+
+3. Am Fam Physician. 1995 Nov 15;52(7):2055-63, 2067-8.
+
+Panic disorder.
+
+Weinstein RS(1).
+
+Author information:
+(1)Potomac Hospital, Woodbridge, Virginia, USA.
+
+Comment in
+    Am Fam Physician. 1995 Nov 15;52(7):1999-2000.
+
+Panic disorder is a chronic illness that affects at least 3 percent of the 
+population. Panic disorder is associated with significant morbidity and an 
+increased risk of suicide. Patients generally present with multiple somatic and 
+psychologic complaints, including heart palpitations, chest pain, tremor, 
+shortness of breath, choking, nausea or abdominal distress, dizziness, 
+derealization, fear of losing control or going crazy, fear of dying, 
+paresthesias, chills or hot flushes, headache, diarrhea, insomnia, chronic 
+fatigue, anxiety and depression. To make the correct diagnosis, these symptoms 
+must be evaluated carefully since they also occur with serious cardiovascular, 
+pulmonary, endocrinologic and neurologic disorders. Many effective treatments 
+are available, including tricyclic antidepressants, selective serotonin reuptake 
+inhibitors, monoamine oxidase inhibitors, benzodiazepines such as alprazolam and 
+clonazepam, and psychotherapy.
+
+PMID: 7484706 [Indexed for MEDLINE]
+
+
+4. Curr Psychiatry Rep. 2001 Aug;3(4):295-301. doi: 10.1007/s11920-001-0022-1.
+
+Panic disorder.
+
+Rapaport MH(1), Barrett C.
+
+Author information:
+(1)Department of Psychiatry, University of California at San Diego and 
+Psychiatric Service San Diego Veterans Affairs Healthcare System, 8950 La Jolla 
+Drive, La Jolla, CA 92037, USA. mrapaport@UCSD.edu
+
+In this article, the authors review the most recent advances in the 
+pharmacotherapy, psychotherapy, and combined therapy for panic disorder. The 
+authors focus on peer-reviewed data and on pragmatic clinical approaches that 
+may help patients suffering from panic disorder.
+
+DOI: 10.1007/s11920-001-0022-1
+PMID: 11470036 [Indexed for MEDLINE]
+
+
+5. Fortschr Neurol Psychiatr. 2025 Jul;93(7-08):311-327. doi:
+10.1055/a-2557-8259.  Epub 2025 Jul 3.
+
+[Panic disorder and agoraphobia: understanding and therapy].
+
+[Article in German]
+
+Wannemüller A, Margraf J.
+
+Recurrent and unexpected panic attacks, persistent concerns about their 
+implications, and the avoidance of numerous situations in which panic attacks 
+are particularly feared significantly impact the lives of affected individuals. 
+These symptoms are key characteristics of the co-occurrence of panic disorder 
+and agoraphobia. This article provides an overview of these disorders and 
+discusses effective therapeutic approaches.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2557-8259
+PMID: 40609545 [Indexed for MEDLINE]
+
+Conflict of interest statement: Erklärung zu finanziellen Interessen 
+Forschungsförderung erhalten: nein; Honorar/geldwerten Vorteil für 
+Referententätigkeit erhalten: nein; Bezahlter Berater/interner 
+Schulungsreferent/Gehaltsempfänger: nein; Patent/Geschäftsanteile/Aktien 
+(Autor/Partner, Ehepartner, Kinder) an Firma (Nicht-Sponsor der Veranstaltung): 
+ja Patent/Geschäftsanteile/Aktien (Autor/Partner, Ehepartner, Kinder) an Firma 
+(Sponsor der Veranstaltung): nein. Erklärung zu nichtfinanziellen Interessen Die 
+Autorinnen/Autoren geben an, dass kein Interessenkonflikt besteht.

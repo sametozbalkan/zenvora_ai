@@ -1,0 +1,169 @@
+=== PubMed: acute liver failure ===
+1. Nutr Clin Pract. 2020 Feb;35(1):24-29. doi: 10.1002/ncp.10459. Epub 2019 Dec
+15.
+
+Pathophysiology of Acute Liver Failure.
+
+Dong V(1), Nanchal R(2), Karvellas CJ(3)(4).
+
+Author information:
+(1)Interdepartmental Division of Critical Care, University of Toronto, Toronto, 
+Canada.
+(2)Division of Pulmonary, Critical Care, and Sleep Medicine, Medical College of 
+Wisconsin and the Medical Intensive Care Unit at Froedtert Hospital, Milwaukee, 
+Wisconsin, USA.
+(3)Division of Gastroenterology (Liver Unit), University of Alberta, Edmonton, 
+Canada.
+(4)Department of Critical Care Medicine, University of Alberta, Edmonton, 
+Canada.
+
+Acute liver failure (ALF) is a rare syndrome resulting from an acute insult to 
+the liver in patients without known underlying chronic liver disease. It is 
+characterized by loss of synthetic function in the form of jaundice and 
+coagulopathy and development of hepatic encephalopathy. Multiorgan failure (MOF) 
+eventually develops, leading to death. Many different etiologies have been 
+identified, with acetaminophen (APAP) overdose and viral hepatitis being the 
+most common causes worldwide. The pathophysiology of ALF can be divided into 
+cause-specific liver injury pathophysiologies and pathophysiology related to 
+occurrence of secondary MOF. In terms of liver injury pathophysiology, APAP 
+toxicity is the most well known. Secondary MOF is often a result of the initial 
+massive proinflammatory response generating a systemic inflammatory response 
+syndrome followed by a compensatory anti-inflammatory response leading to immune 
+cell dysfunction and sepsis. As the liver is a tremendously important metabolic 
+organ involved in energy metabolism, protein synthesis, fat metabolism, and 
+glycemic control, multiple aspects of nutrition also need to be considered as 
+part of the overall pathophysiology of ALF.
+
+© 2019 American Society for Parenteral and Enteral Nutrition.
+
+DOI: 10.1002/ncp.10459
+PMID: 31840297 [Indexed for MEDLINE]
+
+
+2. Rev Gastroenterol Mex (Engl Ed). 2024 Jul-Sep;89(3):404-417. doi: 
+10.1016/j.rgmxen.2024.05.002. Epub 2024 Jul 20.
+
+Acute liver failure: Management update and prognosis.
+
+Martínez-Martínez LM(1), Rosales-Sotomayor G(2), Jasso-Baltazar EA(2), 
+Torres-Díaz JA(2), Aguirre-Villarreal D(2), Hurtado-Díaz de León I(2), 
+Páez-Zayas VM(3), Sánchez-Cedillo A(3), Martínez-Vázquez SE(2), Tadeo-Espinoza 
+HN(2), Guerrero-Cabrera JP(2), García-Alanis M(4), García-Juárez I(5).
+
+Author information:
+(1)Departamento de Medicina Interna, Hospital Central Dr. Ignacio Morones 
+Prieto, San Luis Potosí, Mexico.
+(2)Departamento de Gastroenterología, Instituto Nacional de Ciencias Médicas y 
+Nutrición Salvador Zubirán, Mexico City, Mexico.
+(3)Departamento de Trasplante de Órganos, Hospital General de México Dr. Eduardo 
+Liceaga, Mexico City, Mexico.
+(4)Departamento de Neurología y Psiquiatría, Instituto Nacional de Ciencias 
+Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.
+(5)Departamento de Gastroenterología, Clínica de Hígado y Trasplante Hepático, 
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico 
+City, Mexico. Electronic address: drinter77@gmail.com.
+
+Acute liver failure is a rare but serious syndrome, with an incidence of 
+approximately 2,000 to 3,000 cases per year in North America. Its 
+pathophysiology and clinical course vary, depending on the cause of the primary 
+liver injury, and can lead to high morbidity and mortality or the need for liver 
+transplantation, despite available therapies. This syndrome involves excessive 
+activation of the immune system, with damage in other organs, contributing to 
+its high mortality rate. The most accepted definition includes liver injury with 
+hepatic encephalopathy and coagulopathy within the past 26 weeks in a patient 
+with no previous liver disease. The main causes are paracetamol poisoning, viral 
+hepatitis, and drug-induced liver injury, among others. Identifying the cause is 
+crucial, given that it influences prognosis and treatment. Survival has improved 
+with supportive measures, intensive therapy, complication prevention, and the 
+use of medications, such as N-acetylcysteine. Liver transplantation is a 
+curative option for nonresponders to medical treatment, but adequate evaluation 
+of transplantation timing is vital for improving results. Factors such as 
+patient age, underlying cause, and severity of organ failure influence the 
+post-transplant outcomes and survival.
+
+Copyright © 2024 Asociación Mexicana de Gastroenterología. Published by Masson 
+Doyma México S.A. All rights reserved.
+
+DOI: 10.1016/j.rgmxen.2024.05.002
+PMID: 39033039 [Indexed for MEDLINE]
+
+
+3. Liver Transpl. 2016 May;22(5):677-85. doi: 10.1002/lt.24433.
+
+Neonatal acute liver failure.
+
+Taylor SA(1), Whitington PF(1).
+
+Author information:
+(1)Department of Pediatrics, Ann and Robert H. Lurie Children's Hospital of 
+Chicago, Feinberg School of Medicine, Northwestern University, Chicago, IL.
+
+Neonatal acute liver failure (NALF) is a rare disease about which there is 
+little published data; however, NALF is an extremely important condition as it 
+is distinct from acute liver failure seen in older children and adults. First, 
+unlike acute liver failure in older patients, NALF can be diagnosed in an infant 
+with cirrhosis. This is due to the fetal-neonatal continuum of liver disease, or 
+the principle that neonatal liver failure may be the result of a liver disease 
+that began in utero. Further differences exist in the mechanism of disease, 
+diagnostic principles, and the common etiologies of NALF when compared with 
+pediatric and adult acute liver failure. This review will address many of the 
+distinguishing features of NALF and focus on the most common etiologies of NALF, 
+including gestational alloimmune liver disease (GALD), the most common cause of 
+NALF. Additionally, this review will provide insight into the pathogenesis, 
+diagnosis, and treatment of this rare condition. Liver Transplantation 22 
+677-685 2016 AASLD.
+
+© 2016 American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/lt.24433
+PMID: 26946058 [Indexed for MEDLINE]
+
+
+4. N Engl J Med. 2013 Dec 26;369(26):2525-34. doi: 10.1056/NEJMra1208937.
+
+Acute liver failure.
+
+Bernal W(1), Wendon J.
+
+Author information:
+(1)From the Liver Intensive Therapy Unit, Institute of Liver Studies, King's 
+College London, London.
+
+Comment in
+    N Engl J Med. 2014 Mar 20;370(12):1170-1. doi: 10.1056/NEJMc1400974.
+    N Engl J Med. 2014 Mar 20;370(12):1170. doi: 10.1056/NEJMc1400974.
+    N Engl J Med. 2014 Mar 20;370(12):1170. doi: 10.1056/NEJMc1400974.
+
+DOI: 10.1056/NEJMra1208937
+PMID: 24369077 [Indexed for MEDLINE]
+
+
+5. Crit Care Nurs Clin North Am. 2022 Sep;34(3):241-258. doi: 
+10.1016/j.cnc.2022.04.002. Epub 2022 Jul 20.
+
+Acute Liver Failure in Children.
+
+Haut C(1), Flynn L(2).
+
+Author information:
+(1)Nemours Children's Hospital, Nursing Administration, 1600 Rockland Road, 
+Wilmington, DE 19803, USA; Pediatrix Medical Group, Baltimore, MD, USA. 
+Electronic address: Catherine.haut@nemours.org.
+(2)APRN, Solid Organ Transplant, Nemours Children's Hospital, Wilmington, DE, 
+USA; Department, Solid Organ Transplant, Nemours Children's Health, 1600 
+Rockland Road, Wilmington, DE 19803, USA.
+
+Pediatric acute liver failure is a rare diagnosis which can result in death or 
+multiorgan system failure with a potential need for liver transplantation. The 
+causative factors are many, but etiology, definitive pathophysiology, and 
+directed therapies are still under investigation contributing to the difficulty 
+in planning and providing both medical and nursing care. Clinical practice 
+guidelines for acute liver failure are available for adult patients and through 
+a national published position paper for pediatrics, but quality evidence is 
+limited, especially with regard to testing and treatment recommendations, 
+providing challenges in pediatric critical care decision making.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnc.2022.04.002
+PMID: 36049844 [Indexed for MEDLINE]

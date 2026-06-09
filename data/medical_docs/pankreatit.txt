@@ -1,0 +1,71 @@
+=== PubMed: pankreatit ===
+1. Lakartidningen. 2020 Mar 20;117:FX4I.
+
+[Swedish guidelines for chronic pancreatitis].
+
+[Article in Swedish]
+
+Regnér S(1), Löhr JM(2).
+
+Author information:
+(1)universitetslektor, överläkare, Skånes universitetssjukhus; institutionen för 
+kliniska vetenskaper, Lunds universitet, Malmö.
+(2)professor, överläkare, Karolinska universitetssjukhuset, CLINTEC, Karolinska 
+institutet.
+
+Patients with chronic pancreatitis have an impaired quality of life and are at 
+risk for several long-term complications. It is important to diagnose and treat 
+these patients to minimize the effects of the disease. Clinical manifestations 
+of chronic pancreatitis include a wide range of symptoms and patients are 
+managed differenth between medical centers. In recent years, there have been 
+improvements in knowledge about treatment and management of patients with 
+chronic pancreatitis. This is a short report of the recently published Swedish 
+guidelines for chronic pancreatitis, which are based on international guidelines 
+as well as original publications and are related to the Swedish healthcare 
+system.
+
+PMID: 32315440 [Indexed for MEDLINE]
+
+
+2. Sov Med. 1985;(4):41-6.
+
+[Chronic pancreatitis].
+
+[Article in Russian]
+
+Tsimmerman IaS.
+
+PMID: 4012413 [Indexed for MEDLINE]
+
+
+3. Khirurgiia (Mosk). 1963 Dec;39:11-7.
+
+[CHRONIC PANCREATITIS].
+
+[Article in Russian]
+
+NAPALKOV PN, MIRZAEV AP.
+
+PMID: 14150056 [Indexed for MEDLINE]
+
+
+4. Klin Med (Mosk). 1983 Jun;61(6):92-6.
+
+[Pancreatitis].
+
+[Article in Russian]
+
+Shnitser IS.
+
+PMID: 6887779 [Indexed for MEDLINE]
+
+
+5. Khirurgiia (Mosk). 1983 Sep;(9):134-9.
+
+[Postoperative pancreatitis].
+
+[Article in Russian]
+
+Gostishchev VK, Zalit SV.
+
+PMID: 6355631 [Indexed for MEDLINE]

@@ -1,0 +1,170 @@
+=== PubMed: peripheral neuropathy ===
+1. Med Clin North Am. 2019 Mar;103(2):383-397. doi: 10.1016/j.mcna.2018.10.006. 
+Epub 2018 Dec 17.
+
+Peripheral Neuropathy.
+
+Barrell K(1), Smith AG(2).
+
+Author information:
+(1)Department of Neurology, University of Utah School of Medicine, 175 North 
+Medical Drive, Salt Lake City, UT 84132, USA. Electronic address: 
+Kelsey.barrell@hsc.utah.edu.
+(2)Department of Neurology, Virginia Commonwealth University, 417 North 11th 
+Street, Richmond, VA 23298, USA.
+
+Peripheral neuropathy is a commonly encountered disorder in clinical practice. 
+In light of an aging population and the diabetes and obesity pandemic, the 
+prevalence of peripheral neuropathy is increasing, posing a significant public 
+health concern. This article provides a diagnostic framework for neuropathies 
+and summarizes treatment options.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2018.10.006
+PMID: 30704689 [Indexed for MEDLINE]
+
+
+2. Mayo Clin Proc. 2015 Jul;90(7):940-51. doi: 10.1016/j.mayocp.2015.05.004.
+
+Peripheral Neuropathy: A Practical Approach to Diagnosis and Symptom Management.
+
+Watson JC(1), Dyck PJ(2).
+
+Author information:
+(1)Department of Neurology, Mayo Clinic, Rochester, MN; Department of 
+Anesthesiology, Division of Pain Medicine, Mayo Clinic, Rochester, MN. 
+Electronic address: Watson.james@mayo.edu.
+(2)Department of Neurology, Mayo Clinic, Rochester, MN.
+
+Peripheral neuropathy is one of the most prevalent neurologic conditions 
+encountered by physicians of all specialties. Physicians are faced with 3 
+distinct challenges in caring for patients with peripheral neuropathy: (1) how 
+to efficiently and effectively screen (in less than 2 minutes) an asymptomatic 
+patient for peripheral neuropathy when they have a disorder in which peripheral 
+neuropathy is highly prevalent (eg, diabetes mellitus), (2) how to clinically 
+stratify patients presenting with symptoms of neuropathy to determine who would 
+benefit from specialty consultation and what testing is appropriate for those 
+who do not need consultation, and (3) how to treat the symptoms of painful 
+peripheral neuropathy. In this concise review, we address these 3 common 
+clinical scenarios. Easily defined clinical patterns of involvement are used to 
+identify patients in need of neurologic consultation, the yield of laboratory 
+and other diagnostic testing is reviewed for the evaluation of length-dependent, 
+sensorimotor peripheral neuropathies (the most common form of neuropathy), and 
+an algorithmic approach with dosing recommendations is provided for the 
+treatment of neuropathic pain associated with peripheral neuropathy.
+
+Copyright © 2015 Mayo Foundation for Medical Education and Research. Published 
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mayocp.2015.05.004
+PMID: 26141332 [Indexed for MEDLINE]
+
+
+3. J Neurol. 2019 Dec;266(12):2907-2919. doi: 10.1007/s00415-018-9123-1. Epub
+2018  Nov 22.
+
+Alcohol-related peripheral neuropathy: a systematic review and meta-analysis.
+
+Julian T(1), Glascow N(1), Syeed R(1), Zis P(2)(3).
+
+Author information:
+(1)The Medical School, University of Sheffield, Beech Hill Rd, Sheffield, S10 
+2RX, UK.
+(2)Academic Department of Neurosciences, Sheffield Teaching Hospitals NHS Trust, 
+Sheffield, UK. takiszis@gmail.com.
+(3)Medical School, University of Cyprus, Nicosia, Cyprus. takiszis@gmail.com.
+
+The primary aim of this systematic review was to establish the prevalence, 
+character, and risk factors of peripheral neuropathy amongst chronic alcohol 
+abusers and to identify the most appropriate management strategies. In this 
+review, possible pathogenetic mechanisms are also discussed. A systematic, 
+computer-based search was conducted using the PubMed database. Data regarding 
+the above parameters were extracted. 87 articles were included in this review, 
+29 case-control studies, 52 prospective/retrospective cohort studies and 2 
+randomised control trials, 1 cross sectional study, and 3 population-based 
+studies. The prevalence of peripheral neuropathy amongst chronic alcohol abusers 
+is 46.3% (CI 35.7- 57.3%) when confirmed via nerve conduction studies. 
+Alcohol-related peripheral neuropathy generally presents as a progressive, 
+predominantly sensory axonal length-dependent neuropathy. The most important 
+risk factor for alcohol-related peripheral neuropathy is the total lifetime dose 
+of ethanol, although other risk factors have been identified including genetic, 
+male gender, and type of alcohol consumed. At present, it is unclear what the 
+pathogenetic mechanisms for the development of neuropathy amongst those who 
+chronically abuse alcohol are, and therefore, it is unknown whether it is 
+attributed to the direct toxic effects of ethanol or another currently 
+unidentified factor. There is presently sparse data to support a particular 
+management strategy in alcohol-related peripheral neuropathy, but the limited 
+data available appears to support the use of vitamin supplementation, 
+particularly of B-vitamin regimens inclusive of thiamine.
+
+DOI: 10.1007/s00415-018-9123-1
+PMCID: PMC6851213
+PMID: 30467601 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+4. Continuum (Minneap Minn). 2020 Feb;26(1):58-71. doi: 
+10.1212/CON.0000000000000825.
+
+Autonomic Peripheral Neuropathy.
+
+Freeman R.
+
+PURPOSE OF REVIEW: This article provides a summary of the autonomic 
+neuropathies, including neuropathies associated with diabetes mellitus, 
+neuropathies due to amyloid deposition, immune-mediated autonomic neuropathies 
+(including those associated with a paraneoplastic syndrome), inherited autonomic 
+neuropathies, and toxic autonomic neuropathies. The presenting features, 
+diagnostic investigations, and natural history of these neuropathies are 
+discussed.
+RECENT FINDINGS: Recent findings in autonomic peripheral neuropathy include data 
+on the epidemiology and atypical presentations of diabetic autonomic neuropathy, 
+treatment-induced neuropathy of diabetes mellitus, the presentation of 
+immune-mediated neuropathies, and advances in hereditary neuropathy associated 
+with amyloidosis and other hereditary neuropathies.
+SUMMARY: Knowledge and recognition of the clinical features of the autonomic 
+neuropathies, combined with appropriate laboratory and electrophysiologic 
+testing, will facilitate accurate diagnosis and management.
+
+DOI: 10.1212/CON.0000000000000825
+PMID: 31996622 [Indexed for MEDLINE]
+
+
+5. Curr Cancer Drug Targets. 2022;22(1):49-76. doi: 
+10.2174/1568009621666210720142542.
+
+Drug-Induced Peripheral Neuropathy: Diagnosis and Management.
+
+Merheb D(1), Dib G(2), Zerdan MB(3), Nakib CE(3), Alame S(4), Assi HI(3).
+
+Author information:
+(1)Department of Internal Medicine, Saint George Hospital University Medical 
+Center, Beirut, Lebanon.
+(2)Department of Internal Medicine, Division of Neurology, American University 
+of Beirut Medical Center, Beirut, Lebanon.
+(3)Department of Internal Medicine, Division of Hematology and Oncology, Naef K. 
+Basile Cancer Institute, American University of Beirut Medical Center, Beirut, 
+Lebanon.
+(4)Department of Pediatrics, Clemenceau Medical Center, Faculty of Medical 
+Sciences, Lebanese University, Beirut, Lebanon.
+
+Peripheral neuropathy comes in all shapes and forms and is a disorder which is 
+found in the peripheral nervous system. It can have an acute or chronic onset 
+depending on the multitude of pathophysiologic mechanisms involving different 
+parts of nerve fibers. A systematic approach is highly beneficial when it comes 
+to cost-effective diagnosis. More than 30 causes of peripheral neuropathy exist 
+ranging from systemic and auto-immune diseases, vitamin deficiencies, viral 
+infections, diabetes, etc. One of the major causes of peripheral neuropathy is 
+drug-induced disease, which can be split into peripheral neuropathy caused by 
+chemotherapy or by other medications. This review deals with the latest causes 
+of drug-induced peripheral neuropathy, the population involved, the findings on 
+physical examination and various workups needed and how to manage each case.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1568009621666210720142542
+PMID: 34288840 [Indexed for MEDLINE]

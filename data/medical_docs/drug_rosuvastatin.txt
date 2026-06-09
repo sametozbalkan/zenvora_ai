@@ -1,0 +1,148 @@
+=== PubMed: rosuvastatin drug interactions statin myopathy ===
+1. Expert Opin Drug Metab Toxicol. 2020 Sep;16(9):809-822. doi: 
+10.1080/17425255.2020.1801634. Epub 2020 Aug 6.
+
+An updated review of pharmacokinetic drug interactions and pharmacogenetics of 
+statins.
+
+Hirota T(1), Fujita Y(1), Ieiri I(1).
+
+Author information:
+(1)Department of Clinical Pharmacokinetics, Division of Clinical Pharmacy, 
+Graduate School of Pharmaceutical Sciences, Kyushu University , Fukuoka, Japan.
+
+INTRODUCTION: Hydroxymethylglutaryl-coenzyme A reductase inhibitors (statins) 
+lower cholesterol synthesis in patients with hypercholesterolemia. Increased 
+statin exposure is an important risk factor for skeletal muscle toxicity. Potent 
+inhibitors of cytochrome P450 (CYP) 3A4 significantly increase plasma 
+concentrations of the active forms of simvastatin, lovastatin, and atorvastatin. 
+Fluvastatin is metabolized by CYP2C9, whereas pravastatin, rosuvastatin, and 
+pitavastatin are unaffected by inhibition by either CYP. Statins also have 
+different affinities for membrane transporters involved in processes such as 
+intestinal absorption, hepatic absorption, biliary excretion, and renal 
+excretion.
+AREAS COVERED: In this review, the pharmacokinetic aspects of drug-drug 
+interactions with statins and genetic polymorphisms of CYPs and drug 
+transporters involved in the pharmacokinetics of statins are discussed.
+EXPERT OPINION: Understanding the mechanisms underlying statin interactions can 
+help minimize drug interactions and reduce the adverse side effects caused by 
+statins. Since recent studies have shown the involvement of drug transporters 
+such as OATP and BCRP as well as CYPs in statin pharmacokinetics, further 
+clinical studies focusing on the drug transporters are necessary. The 
+establishment of biomarkers based on novel mechanisms, such as the leakage of 
+microRNAs into the peripheral blood associated with the muscle toxicity, is 
+important for the early detection of statin side effects.
+
+DOI: 10.1080/17425255.2020.1801634
+PMID: 32729746 [Indexed for MEDLINE]
+
+
+2. Br J Clin Pharmacol. 2023 Aug;89(8):2636-2638. doi: 10.1111/bcp.15757. Epub
+2023  May 8.
+
+Rhabdomyolysis and statins: A pharmacovigilance comparative study between 
+statins.
+
+Montastruc JL(1).
+
+Author information:
+(1)Medical and Clinical Pharmacology, Toulouse, France.
+
+Rhabdomyolysis is a serious adverse drug reaction of statins. There are few 
+studies comparing the risk of rhabdomyolysis between the different statins. 
+Using the WHO pharmacovigilance database, VigiBase®, we compared the risk of 
+rhabdomyolysis reporting of seven statins (atorvastatin, fluvastatin, 
+lovastatin, pitavastatin, pravastatin, rosuvastatin and simvastatin, with 
+cerivastatin excluded). All reports of rhabdomyolysis in VigiBase® in adults 
+with statins until 31 December 2022 were included. Results are expressed as 
+reporting odds ratio (ROR, 95% CI). Among 10 657 reports with rhabdomyolysis 
+with statins, simvastatin was the highest risk statin in comparison with others: 
+ROR = 2.20 (2.11-2.29). The risk was higher in men, older than 74 years and in 
+cases of drug interactions.
+
+© 2023 British Pharmacological Society.
+
+DOI: 10.1111/bcp.15757
+PMID: 37186323 [Indexed for MEDLINE]
+
+
+3. Curr Drug Metab. 2021;22(5):328-341. doi: 10.2174/1389200222666210114122729.
+
+HMG-CoA Reductase Inhibitors (Statins) and their Drug Interactions Involving CYP 
+Enzymes, P-glycoprotein and OATP Transporters-An Overview.
+
+Balasubramanian R(1), Maideen NMP(2).
+
+Author information:
+(1)Department of Pharmacology, J.K.K. Nattraja College of Pharmacy, 
+Komarapalayam 638 183, India.
+(2)Dubai Health Authority, P.O. Box: 4545, Dubai, United Arab Emirates.
+
+BACKGROUND: Hydroxymethyl glutaryl-CoA (HMG-CoA) reductase inhibitors (Statins) 
+are used to treat dyslipidemia. Generally, the statins are the substrates of CYP 
+enzymes, P-glycoprotein (P-gp), and organic anion transporting polypeptides 
+transporters (OATP1B1).
+OBJECTIVE: This review article focuses on the clinical significance of statins, 
+and their interactions in real practice.
+METHODS: The databases like Medline/PubMed Central/PubMed, Google Scholar, 
+Science Direct, Cochrane Library, Directory of open access journals (DOAJ), and 
+reference lists were searched to identify relevant articles.
+RESULTS: Most of the drug interactions of statins result in elevated plasma 
+concentrations and toxicity of statins due to the inhibition of CYP3A4, P-gp 
+and/or OATP1B1 transporters. The toxicity of statins includes myopathy, 
+rhabdomyolysis, elevated liver enzymes, acute kidney injury, and diabetes. The 
+statins like simvastatin, lovastatin, and atorvastatin are substrates of CYP3A4 
+enzyme and P-glycoprotein and their concomitant use with the drugs inhibiting or 
+inducing them would result in changes in plasma concentrations and 
+toxicity/efficacy. However, the statins like pravastatin, rosuvastatin and 
+pitavastatin are not substrates of CYP enzymes and hence the concomitant use of 
+CYP inhibitors or inducers does not affect them. Almost all the statins are the 
+substrates of OATP1B1 transporter, and the co-prescription of inhibitors of 
+OATP1B1 elevates the plasma concentrations and muscle toxicity of statins.
+CONCLUSION: Understanding the interacting potential of each statin will enable 
+the prescribers, pharmacists, and other health care professionals to use statins 
+effectively without compromising patient safety.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1389200222666210114122729
+PMID: 33459228 [Indexed for MEDLINE]
+
+
+4. Expert Opin Drug Metab Toxicol. 2015;11(9):1435-47. doi: 
+10.1517/17425255.2015.1056149. Epub 2015 Jun 11.
+
+Drug-drug interactions that interfere with statin metabolism.
+
+Hirota T(1), Ieiri I.
+
+Author information:
+(1)a Kyushu University, Division of Clinical Pharmacy, Graduate School of 
+Pharmaceutical Sciences, Department of Clinical Pharmacokinetics , Fukuoka 
+8128582, Japan +81 92 642 6657 ; +81 92 642 6660 ; ieiri-ttr@umin.ac.jp.
+
+INTRODUCTION: Lipid-lowering drugs, especially hydroxymethylglutaryl-CoA 
+reductase inhibitors (statins), are widely used in the treatment and prevention 
+of atherosclerotic diseases. The benefits of statins are well documented. 
+However, myotoxic side effects, which can sometimes be severe, including 
+myopathy or rhabdomyolysis, have been associated with the use of statins. In 
+some cases, this toxicity is associated with pharmacokinetic alterations. Potent 
+inhibitors of CYP 3A4 significantly increase plasma concentrations of the active 
+forms of simvastatin, lovastatin and atorvastatin. Fluvastatin is metabolized by 
+CYP2C9, while pravastatin, rosuvastatin and pitavastatin are not susceptible to 
+inhibition by any CYP.
+AREAS COVERED: This review discusses the pharmacokinetic aspects of the 
+drug-drug interaction with statins and genetic polymorphisms in CYPs, which are 
+involved in the metabolism of statins, and highlights the importance of 
+establishing a system utilizing electronic medical information practically to 
+avoid adverse drug reactions.
+EXPERT OPINION: An understanding of the mechanisms underlying statin 
+interactions will help to minimize drug interactions and develop statins that 
+are less prone to adverse interactions. Quantitatively analyzed information for 
+the low-density lipoprotein cholesterol lowering effects of statin based on 
+electronic medical records may be useful for avoiding the adverse effect of 
+statins.
+
+DOI: 10.1517/17425255.2015.1056149
+PMID: 26058399 [Indexed for MEDLINE]

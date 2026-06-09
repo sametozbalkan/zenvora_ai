@@ -1,0 +1,154 @@
+=== PubMed: polymyalgia rheumatica ===
+1. Cleve Clin J Med. 2020 Aug 31;87(9):549-556. doi: 10.3949/ccjm.87a.20008.
+
+Polymyalgia rheumatica: An updated review.
+
+Mahmood SB(1), Nelson E(1), Padniewski J(1), Nasr R(2).
+
+Author information:
+(1)Department of Medicine, Hennepin Healthcare, Minneapolis, MN.
+(2)Rheumatology Division Director, Department of Medicine, Hennepin Healthcare, 
+Minneapolis, MN rawad.nasr@hcmed.org.
+
+Polymyalgia rheumatica should be suspected in older patients with bilateral 
+shoulder and hip stiffness that is worse in the morning and improves with use. 
+An array of nonspecific musculoskeletal complaints, constitutional symptoms, and 
+elevated serum inflammatory markers may be present, so other conditions should 
+also be considered. Prolonged glucocorticoids with patient-tailored dosing and 
+duration are the mainstay of treatment. Corticosteroid-sparing therapy with 
+adjunctive methotrexate may benefit select patients.
+
+Copyright © 2020 The Cleveland Clinic Foundation. All Rights Reserved.
+
+DOI: 10.3949/ccjm.87a.20008
+PMID: 32868305 [Indexed for MEDLINE]
+
+
+2. Lancet. 1997 Jul 5;350(9070):43-7. doi: 10.1016/S0140-6736(97)05001-0.
+
+Polymyalgia rheumatica.
+
+Salvarani C(1), Macchioni P, Boiardi L.
+
+Author information:
+(1)Servizio di Reumatologica, Azlenda Ospedallera, Arcispedale S Maria Nuova, 
+Reggio Emilla, Italy.
+
+DOI: 10.1016/S0140-6736(97)05001-0
+PMID: 9217726 [Indexed for MEDLINE]
+
+
+3. Rheum Dis Clin North Am. 1990 May;16(2):325-39.
+
+Polymyalgia rheumatica.
+
+Cohen MD(1), Ginsburg WW.
+
+Author information:
+(1)Division of Rheumatology and Internal Medicine, Mayo Clinic Jacksonville, 
+Florida.
+
+Polymyalgia rheumatica is a syndrome that occurs in the elderly and is 
+characterized by pain and stiffness involving the neck, the shoulder girdle, and 
+the hip girdle. The aching should be present for greater than one month. 
+Polymyalgia rheumatica may be more common than reported. The etiology remains 
+unknown. There is generally little found pathologically in this disease. The 
+physical examination is often not impressive. Synovitis may be a main 
+contributing factor to many of the symptoms seen in patients with polymyalgia 
+rheumatica. Symptoms often do not correlate with physical findings. Polymyalgia 
+rheumatica must be differentiated from many conditions since the diagnosis 
+remains entirely clinical. Osteoarthritis, flu syndromes, inflammatory 
+myopathies, fibromyalgia, and depression all have features that may mimic 
+polymyalgia rheumatica. Malignancies and infections may also be difficult to 
+separate from polymyalgia rheumatica. Polymyalgia rheumatica may also be 
+extremely difficult to differentiate from seronegative rheumatoid arthritis in 
+patients older than 50 years. Although some patients with polymyalgia rheumatica 
+have underlying giant cell arteritis, the majority apparently do not. The 
+distinction between polymyalgia rheumatica and giant cell arteritis cannot be 
+made on the basis of laboratory studies and relies solely on clinical symptoms 
+and physical findings. Although nonsteroidal antiinflammatory medications may 
+control symptoms in patients with mild disease, most patients with polymyalgia 
+rheumatica require low-dose corticosteroids. The tapering schedule for the 
+corticosteroids is contingent upon the response of symptoms and laboratory 
+parameters. Polymyalgia rheumatica usually follows a benign course with almost 
+complete response to an adequate treatment program. Recently, there have been 
+several studies suggesting that the course of polymyalgia rheumatica may not be 
+as short and simple as once proposed. Nevertheless, many patients may be 
+completely weaned from corticosteroids. Other agents have been used in this 
+disease, but for the most part their use remains somewhat controversial. 
+Patients must be monitored carefully. Most patients do well, and treatment is 
+effective.
+
+PMID: 2189154 [Indexed for MEDLINE]
+
+
+4. Orv Hetil. 2016 Jan 3;157(1):2-12. doi: 10.1556/650.2016.30314.
+
+[Polymyalgia rheumatica update, 2015].
+
+[Article in Hungarian]
+
+Schmidt Z(1), Poór G(1).
+
+Author information:
+(1)Országos Reumatológiai és Fizioterápiás Intézet Budapest.
+
+Polymyalgia rheumatica is an inflammatory musculoskeletal disorder of people 
+aged 50 years or over, characterised by pain, aching and morning stiffness in 
+the shoulder girdle and often hip girdle and neck. Marked systemic inflammation 
+and rapid response to corticosteroid therapy are characteristic features. Giant 
+cell arteritis is a well-known association of polymyalgia rheumatica. Recent 
+clinical evidence and scientific results in the field have provided new 
+challenges for rheumatologists. Besides the aspecific - although characteristic 
+- proximal syndrome, less well recognizable and more variable distal 
+musculoskeletal manifestations were observed. Magnetic resonance and ultrasound 
+studies showed mild, remitting and non-erosive synovitis, with dominating 
+inflammation of the extraarticular synovial structures. As no pathognostic sign 
+is known, the diagnosis of polymyalgia rheumatica is based on its differential 
+diagnosis, differentiation from the polymyalgia mimics; particularly from 
+elderly onset inflammatory arthritides, such as elderly onset rheumatoid 
+arthritis and late onset seronegative spondylarthritis. In 2012 the 
+international polymyalgia rheumatica work group under the guidance of the 
+American College of Rheumatology and European League Against Rheumatism 
+elaborated new classification criteria, the scoring algorythm of which is based 
+on clinical symptoms, with ultrasonography increasing the specificity. 
+Corticosteroids remain the cornerstone of the therapy of polymyalgia rheumatica. 
+No effective steroid-sparing drug has been found to date. Corticosteroids are 
+generally needed for 1-1.5 years, though some patients have a chronic-relapsing 
+course and require corticosteroids for several years. Well known 
+corticosteroid-related side effects (diabetes, hypertension, hyperlipidaemia and 
+osteoporosis) cause significant morbidity and economic burden on the society. 
+Novel therapeautic approaches are on trial. Early recognition of the disease, 
+early start of corticosteroids and a well-defined course, prevention and 
+management of side effects are everyday tasks for rheumatologists and family 
+doctors. Knowledge of polymyalgia rheumatica is essential for all medical 
+specialties.
+
+DOI: 10.1556/650.2016.30314
+PMID: 26708681 [Indexed for MEDLINE]
+
+
+5. CMAJ. 2021 Nov 22;193(46):E1770. doi: 10.1503/cmaj.210541.
+
+Polymyalgia rheumatica.
+
+Rosenberg H(1), Halman S(2), Yadav K(2).
+
+Author information:
+(1)Departments of Emergency Medicine (Rosenberg, Yadav) and of Medicine 
+(Halman), University of Ottawa and the Ottawa Hospital, Ottawa, Ont. 
+hrosenberg@toh.ca.
+(2)Departments of Emergency Medicine (Rosenberg, Yadav) and of Medicine 
+(Halman), University of Ottawa and the Ottawa Hospital, Ottawa, Ont.
+
+DOI: 10.1503/cmaj.210541
+PMCID: PMC8608453
+PMID: 34810164 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Samantha Halman reports 
+receiving grants from the Medical Council of Canada, Royal College of Physicians 
+and Surgeons of Canada, the Department of Medicine at the Ottawa Hospital, the 
+Department of Innovation in Medical Education at the University of Ottawa, and 
+the Canadian Society for Internal Medicine, all outside the submitted work. Hans 
+Rosenberg reports receiving honoraria from Podcast CAMP. No other competing 
+interests were declared.

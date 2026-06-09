@@ -1,0 +1,195 @@
+=== PubMed: familial Mediterranean fever ===
+1. Int J Mol Sci. 2023 May 31;24(11):9584. doi: 10.3390/ijms24119584.
+
+An Update on Familial Mediterranean Fever.
+
+Lancieri M(1), Bustaffa M(1), Palmeri S(1), Prigione I(1), Penco F(1), Papa 
+R(1), Volpi S(1), Caorsi R(1), Gattorno M(1).
+
+Author information:
+(1)UOC Malattie Autoinfiammatorie e Immunodeficenze, IRCCS Istituto Giannina 
+Gaslini, 16147 Genova, Italy.
+
+(1) Background: Familial Mediterranean Fever (FMF) is the prototypal 
+autoinflammatory disease, characterized by recurrent bursts of neutrophilic 
+inflammation. (2) Methods: In this study we look at the most recent literature 
+on this condition and integrate it with novel information on treatment 
+resistance and compliance. (3) Results: The canonical clinical presentation of 
+FMF is in children with self-limited episodes of fever and polyserositis, 
+associated with severe long-term complications, such as renal amyloidosis. It 
+has been described anecdotally since ancient times, however only recently it has 
+been characterized more accurately. We propose an updated overview on the main 
+aspects of pathophysiology, genetics, diagnosis and treatment of this intriguing 
+disease. (4) Conclusions: Overall, this review presents the all the main 
+aspects, including real life outcome of the latest recommendation on treatment 
+resistance of FMF, a disease, that not only helped understanding the 
+pathophysiology of the auto inflammatory process but also the functioning of the 
+innate immune system itself.
+
+DOI: 10.3390/ijms24119584
+PMCID: PMC10253709
+PMID: 37298536 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.G.: speaker fees, consultancies and 
+unrestricted grants from Novartis and SOBI; RC speaker fees from Novartis and 
+SOBI, SV speaker fees from SOBI.
+
+
+2. Turk J Med Sci. 2020 Nov 3;50(SI-2):1591-1610. doi: 10.3906/sag-2008-11.
+
+Familial Mediterranean fever, from pathogenesis to treatment: a contemporary 
+review.
+
+Tufan A(1), Lachmann HJ(2).
+
+Author information:
+(1)Department of Internal Medicine, Division of Rheumatology, Gazi University, 
+Ankara, Turkey
+(2)National Amyloidosis Centre, Royal Free London NHS Foundation Trust and 
+University College London, London, UK
+
+Familial Mediterranean fever (FMF) (OMIM #249100) is the most common hereditary 
+autoinflammatory disease in the world. FMF is caused by gain of function 
+mutations of MEFV gene which encodes an immune regulatory protein, pyrin. Over 
+the last few years, we have witnessed several new developments in the 
+pathogenesis, genetic testing, diagnosis, comorbidities, disease related damage 
+and treatment approaches to FMF. Elucidation of some of the pathogenic 
+mechanisms has led to the discovery of pathways involved in inflammatory, 
+metabolic, cardiovascular and degenerative diseases. The use of next generation 
+sequencing in FMF has revealed many new gene variants whose clinical 
+significance may be clarified by developing functional assays and biomarkers. 
+Clinically, although FMF is considered an episodic disease characterized by 
+brief attacks, recent systematic studies have defined several associated chronic 
+inflammatory conditions. Colchicine is the mainstay of FMF treatment, and 
+interleukin (IL)-1 antagonists are the treatment of choice in refractory or 
+intolerant cases. Experience of IL-1 antagonists, anakinra and canakinumab, is 
+now available in thousands of colchicine resistant or intolerant FMF patients. 
+In this contemporary review, we surveyed current FMF knowledge in the light of 
+these recent advances.
+
+This work is licensed under a Creative Commons Attribution 4.0 International 
+License.
+
+DOI: 10.3906/sag-2008-11
+PMCID: PMC7672358
+PMID: 32806879 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: none declared
+
+
+3. Obstet Gynecol Surv. 2024 Oct;79(10):611-616. doi:
+10.1097/OGX.0000000000001316.
+
+Familial Mediterranean Fever in Pregnancy.
+
+Davidson A(1), Kuller JA(2), Dotters-Katz SK(3), Wood RL(4).
+
+Author information:
+(1)Medical Student, Duke University Medical School.
+(2)Professor.
+(3)Associate Professor.
+(4)Assistant Professor, Department of Obstetrics and Gynecology, Duke 
+University, Durham, NC.
+
+IMPORTANCE: Though the incidence of familial Mediterranean fever (FMF) in 
+pregnancy is rare, understanding the etiology and symptomatology of FMF is 
+essential for obstetric treatment of patients with FMF.
+OBJECTIVE: Familial Mediterranean fever is a hereditary periodic fever syndrome 
+that has unique obstetric considerations. Familial Mediterranean fever is 
+typically characterized by recurrent episodes of high-grade fevers, 
+pleuritis/pericarditis, and arthritis lasting 1-3 days with complete recovery 
+seen in between episodes. Familial Mediterranean fever is seen worldwide, but 
+particularly in patients of Mediterranean descent. Its incidence varies across 
+ethnicities.
+EVIDENCE ACQUISITION: This article provides a comprehensive review of existing 
+literature.
+RESULTS: It is well established that colchicine is safe and effective to use 
+during pregnancy in patients with FMF to control and prevent flares. Although 
+most pregnancies progress without negative outcomes, FMF has been shown in the 
+literature to be associated with preterm birth and premature rupture of 
+membranes. Its impact on increasing the rate of fetal growth restriction and 
+hypertensive disorders is less understood. Additionally, FMF flares may be 
+suppressed in pregnancy, whereas other sources report that flares are similar to 
+those outside of pregnancy in terms of frequency, type of symptoms, and 
+severity. Breastfeeding is safe in patients with FMF who are taking colchicine. 
+Genetic counseling can be offered to patients with FMF, but in utero diagnostic 
+testing is generally not pursued solely for the indication of FMF diagnosis in 
+the fetus.
+CONCLUSIONS AND RELEVANCE: Further investigation of the impact of FMF on 
+pregnancy is needed for advancing our understanding of the condition and 
+optimizing care for pregnant individuals with FMF.
+
+DOI: 10.1097/OGX.0000000000001316
+PMID: 39437379 [Indexed for MEDLINE]
+
+
+4. Acta Medica (Hradec Kralove). 2014;57(3):97-104. doi:
+10.14712/18059694.2014.47.
+
+Familial Mediterranean Fever.
+
+Kucuk A(1), Gezer IA(2), Ucar R(3), Karahan AY(4).
+
+Author information:
+(1)Necmettin Erbakan Üniversitesi Romatoloji Bilim Dalı Konya,Turkey.
+(2)Eğitim ve Araştırma Hastanesi Fiziksel Tıp ve Rehabilitasyon Bölümü Konya, 
+Turkey.
+(3)Konya Eğitim ve Araştırma Hastanesi, Dahiliye Kliniği, Konya, Turkey.
+(4)Devlet Hastanesi Fiziksel Tıp ve Rehabilitasyon Bölümü Konya, Turkey.
+
+Familial Mediterranean Fever is an autosomal recessive inherited disease with a 
+course of autoinflammation, which is characterized by the episodes of fever and 
+serositis. It affects the populations from Mediterranean basin. Genetic mutation 
+of the disease is on MEFV gene located on short arm of Chromosome 16. The 
+disease is diagnosed based on clinical evaluation. Amyloidosis is the most 
+important complication. The only agent that decreases the development of 
+amyloidosis and the frequency and severity of the episodes is colchicine, which 
+has been used for about 40 years. In this review, we aimed to discuss especially 
+the most recent advances about Familial Mediterranean Fever which is commonly 
+seen in our population.
+
+DOI: 10.14712/18059694.2014.47
+PMID: 25649364 [Indexed for MEDLINE]
+
+
+5. Pediatr Surg Int. 2022 Aug;38(8):1099-1104. doi: 10.1007/s00383-022-05153-8. 
+Epub 2022 Jun 23.
+
+Familial Mediterranean fever may mimic acute appendicitis in children.
+
+Wekell P(1)(2), Wester T(3)(4).
+
+Author information:
+(1)Department of Pediatrics, NU-Hospital Group, Uddevalla, Sweden.
+(2)Department of Pediatrics, Sahlgrenska Academy, Institute of Clinical 
+Sciences, University of Gothenburg, Gothenburg, Sweden.
+(3)Department of Pediatric Surgery, Karolinska University Hospital, Stockholm, 
+Sweden. tomas.wester@regionstockholm.se.
+(4)Department of Women's and Children's Health, Karolinska Institutet, 
+Stockholm, Sweden. tomas.wester@regionstockholm.se.
+
+Acute appendicitis is the most common surgical emergency in children. Diagnosis 
+and management are often straightforward. However, familial Mediterranean fever 
+is an important condition to consider in the assessment of children with acute 
+abdominal pain, particularly in children with an origin in eastern Mediterranean 
+basin where the disease is common. The key feature of familial Mediterranean 
+fever is relapsing episodes of fever and serositis including peritonitis, 
+pleurisy, or arthritis. The disease is treated with colchicine that prevents 
+acute attacks, control subclinical inflammation between the attacks and the 
+long-term complication of amyloidosis. The acute attacks may be a challenge to 
+identify and distinguish from other causes of acute abdomen, including acute 
+appendicitis, but also small bowel obstruction. Ultrasound and CT scan findings 
+are nonspecific during acute attacks of familial Mediterranean fever, but 
+imaging is useful to identify acute appendicitis and small bowel obstruction. 
+The purpose of this article was to increase the awareness and knowledge of 
+familial Mediterranean fever and provide support for the paediatric surgeon in 
+the clinical care of these children in parts of the world where familial 
+Mediterranean fever is rare.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00383-022-05153-8
+PMCID: PMC9259538
+PMID: 35737103 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

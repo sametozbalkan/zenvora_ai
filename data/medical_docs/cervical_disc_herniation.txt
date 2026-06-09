@@ -1,0 +1,268 @@
+=== PubMed: cervical disc herniation ===
+1. Int Orthop. 2019 Apr;43(4):761-766. doi: 10.1007/s00264-018-4221-3. Epub 2018 
+Nov 8.
+
+Cervical disc herniation: which surgery?
+
+Mazas S(1), Benzakour A(2), Castelain JE(2), Damade C(2), Ghailane S(2), Gille 
+O(2).
+
+Author information:
+(1)Service de chirurgie orthopédique, Unité Rachis 1, CHU Bordeaux Pellegrin, 
+Bordeaux, France. sim.mazas@gmail.com.
+(2)Service de chirurgie orthopédique, Unité Rachis 1, CHU Bordeaux Pellegrin, 
+Bordeaux, France.
+
+PURPOSE: Cervical disc herniation is a common pathology. It can be treated by 
+different surgical procedures. We aimed to list and analyzed every available 
+surgical option. We focused on the comparison between anterior cervical 
+decompression and fusion and cervical disc arthroplasty.
+RESULTS: The anterior approach is the most commonly used to achieve 
+decompression and fusion by the mean of autograft or cage that could also be 
+combined with anterior plating. Anterior procedures without fusion have shown 
+good outcomes but are limited by post-operative cervicalgia and kyphotic events. 
+Posterior cervical foraminotomy achieved good outcomes but is not appropriate in 
+a case of a central hernia or ossification of the posterior ligament. Cervical 
+disc arthroplasty is described to decrease the rate of adjacent segment 
+degeneration. It became very popular during the last decades with numerous 
+studies with different implant device showing encouraging results but it has not 
+proved its superiority to anterior cervical decompression and fusion. Anterior 
+bone loss and heterotopic ossification are still to be investigated.
+CONCLUSION: Anterior cervical decompression and fusion remain the gold standard 
+for surgical treatment of cervical disc herniation.
+
+DOI: 10.1007/s00264-018-4221-3
+PMID: 30411247 [Indexed for MEDLINE]
+
+
+2. BMC Musculoskelet Disord. 2022 Jul 30;23(1):728. doi: 
+10.1186/s12891-022-05670-6.
+
+Outcomes of active cervical therapeutic exercise on dynamic intervertebral 
+foramen changes in neck pain patients with disc herniation.
+
+Wu SK(#)(1), Chen HY(#)(1), You JY(2), Bau JG(3), Lin YC(4), Kuo LC(5)(6).
+
+Author information:
+(1)Department of Physical Therapy, HungKuang University, Taichung, Taiwan.
+(2)Department of Physical Therapy, I-Shou University, Kaohsiung, Taiwan.
+(3)Department of Biomedical Engineering, HungKuang University, Taichung, Taiwan.
+(4)Department of Occupational Therapy, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(5)Department of Occupational Therapy, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan. jkkuo@mail.ncku.edu.tw.
+(6)Medical Device Innovation Center, National Cheng Kung University, Tainan, 
+Taiwan. jkkuo@mail.ncku.edu.tw.
+(#)Contributed equally
+
+BACKGROUND: To better understand biomechanical factors that affect 
+intervertebral alignment throughout active therapeutic exercise, it is necessary 
+to determine spinal kinematics when subjects perform spinal exercises. This 
+study aims to investigate the outcomes of active cervical therapeutic exercise 
+on intervertebral foramen changes in neck pain patients with disc herniation.
+METHODS: Thirty diagnosed C4/5 and/or C5/6 disc-herniated patients receiving an 
+8-week cervical therapeutic exercise program were followed up with 
+videofluoroscopic images. The dynamic changes in the foramen were computed at 
+different timepoints, including the neutral position, end-range positions in 
+cervical flexion-extension, protrusion-retraction, and lateral flexion 
+movements.
+RESULTS: The results showed that the active cervical flexion, retraction, and 
+lateral flexion away from the affected side movements increased the area of the 
+patients' intervertebral foramen; while the active extension, protrusion, and 
+lateral flexion toward the affected side reduced the areas of intervertebral 
+foramen before treatment. After the treatment, the active cervical flexion 
+significantly increased the C2/3, C3/4, and C6/7 foramen area by 5.02-8.67% 
+(p = 0.001 ~ 0.029), and the extension exercise significantly reduced the C2/3 
+and C4/5 area by 5.12-9.18% (p = 0.001 ~ 0.006) compared to the baseline. Active 
+retraction movement significantly increased the foramen area from C2/3 to C6/7 
+by 3.82-8.66% (p = 0.002 ~ 0.036 with exception of C5/6). Active lateral flexion 
+away from the affected side significantly increased the foramen by 3.71-6.78% 
+(p = 0.007 ~ 0.046 with exception of C6/7).
+CONCLUSIONS: The 8-week therapeutic exercises including repeated cervical 
+retraction, extension, and lateral flexion movements to the lesion led to 
+significant changes and improvements in intervertebral foramen areas of the 
+patients with disc herniation.
+TRIAL REGISTRATION: ISRCTN61539024.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12891-022-05670-6
+PMCID: PMC9338473
+PMID: 35906546 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors wish to declare no known conflicts 
+of interest associated with this study, and there has been no significant 
+financial support for this work that could have influenced the outcome.
+
+
+3. Spine J. 2014 Aug 1;14(8):1781-9. doi: 10.1016/j.spinee.2014.02.032. Epub 2014
+ Mar 12.
+
+The course and prognostic factors of symptomatic cervical disc herniation with 
+radiculopathy: a systematic review of the literature.
+
+Wong JJ(1), Côté P(2), Quesnele JJ(3), Stern PJ(4), Mior SA(4).
+
+Author information:
+(1)UOIT-CMCC Centre for the Study of Disability Prevention and Rehabilitation, 
+6100 Leslie Street, Toronto, Ontario, Canada; Division of Undergraduate 
+Education, Canadian Memorial Chiropractic College, 6100 Leslie Street, Toronto, 
+Ontario, Canada. Electronic address: jwong@cmcc.ca.
+(2)UOIT-CMCC Centre for the Study of Disability Prevention and Rehabilitation, 
+6100 Leslie Street, Toronto, Ontario, Canada; Canada Research Chair in 
+Disability Prevention and Rehabilitation, University of Ontario Institute of 
+Technology, 2000 Simcoe Street North, Oshawa, Ontario, Canada; Faculty of Health 
+Sciences, University of Ontario Institute of Technology, 2000 Simcoe Street 
+North, Oshawa, Ontario, Canada.
+(3)Division of Undergraduate Education, Canadian Memorial Chiropractic College, 
+6100 Leslie Street, Toronto, Ontario, Canada.
+(4)Department of Graduate Studies, Canadian Memorial Chiropractic College, 6100 
+Leslie Street, Toronto, Ontario, Canada.
+
+BACKGROUND CONTEXT: Cervical spine disc herniation is a disabling source of 
+cervical radiculopathy. However, little is known about its course and prognosis. 
+Understanding the course and prognosis of symptomatic cervical disc herniation 
+is necessary to guide patients' expectations and assist clinicians in managing 
+patients.
+PURPOSE: To describe the natural history, clinical course, and prognostic 
+factors of symptomatic cervical disc herniations with radiculopathy.
+STUDY DESIGN: Systematic review of the literature and best evidence synthesis.
+METHODS: A systematic search of MEDLINE, EMBASE, CINAHL, SportsDiscus, and the 
+Cochrane Central Register of Controlled Trials from inception to 2013 was 
+conducted to retrieve eligible articles. Eligible articles were critically 
+appraised using the Scottish Intercollegiate Guidelines Network criteria. The 
+results from articles with low risk of bias were analyzed using best evidence 
+synthesis principles.
+RESULTS: We identified 1,221 articles. Of those, eight articles were eligible 
+and three were accepted as having a low risk of bias. Two studies pertained to 
+course and one study pertained to prognosis. Most patients with symptomatic 
+cervical disc herniations with radiculopathy initially present with intense pain 
+and moderate levels of disability. However, substantial improvements tend to 
+occur within the first 4 to 6 months post-onset. Time to complete recovery 
+ranged from 24 to 36 months in, approximately, 83% of patients. Patients with a 
+workers' compensation claim appeared to have a poorer prognosis.
+CONCLUSIONS: Our best evidence synthesis describes the best available evidence 
+on the course and prognosis of cervical disc herniations with radiculopathy. 
+Most patients with symptomatic cervical spine disc herniation with radiculopathy 
+recover. Possible recurrences and time to complete recovery need to be further 
+studied. More studies are also needed to understand the prognostic factors for 
+this condition.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spinee.2014.02.032
+PMID: 24614255 [Indexed for MEDLINE]
+
+
+4. Orthopadie (Heidelb). 2026 Jan;55(1):69-79. doi: 10.1007/s00132-025-04738-0. 
+Epub 2025 Nov 26.
+
+[Cervical and thoracic disc herniation].
+
+[Article in German; Abstract available in German from the publisher]
+
+Benditz A(1), Koehl P(2), Mahmoud M(3), Schuh A(4).
+
+Author information:
+(1)Sektion für Orthopädie und Wirbelsäulenchirurgie, Klinik für Orthopädie und 
+Unfallchirurgie, Klinikum Fichtelgebirge, Schillerhain 1-8, 95615, Marktredwitz, 
+Deutschland. Unfallchirurgie@klinikum-fichtelgebirge.de.
+(2)Klinik für Orthopädie und Unfallchirurgie, Klinikum Fichtelgebirge, 95615, 
+Marktredwitz, Deutschland.
+(3)Sektion für Orthopädie und Wirbelsäulenchirurgie, Klinik für Orthopädie und 
+Unfallchirurgie, Klinikum Fichtelgebirge, Schillerhain 1-8, 95615, Marktredwitz, 
+Deutschland.
+(4)Klinik für Orthopädie und Unfallchirurgie, Sektion für Muskuloskelettale 
+Forschung, Klinikum Fichtelgebirge, 95615, Marktredwitz, Deutschland.
+
+In principle, vertebral disc degeneration can occur in any segment of the spine. 
+Epidemiological studies show that 36% of cases occur in the cervical spine, 2% 
+in the thoracic spine and 62% in the lumbar spine. Different symptoms occur 
+depending on the region of the herniated disc (HD). Radicular pain caused by 
+a cervical herniated disc radiates segmentally into the arms (brachialgia), 
+thoracic herniated discs radiate into the thorax (intercostal neuralgia), 
+whereby physicians should be aware that not every herniated disc causes symptoms 
+and approximately 50% of herniated discs are recognized as incidental findings 
+in imaging but are asymptomatic. In the case of herniated discs the medical 
+history and clinical examination are of great importance; it is always necessary 
+to pay careful attention to so-called red flags. Herniated discs lose up to 40% 
+of their volume during the course of the disease. This means that a significant 
+percentage of patients experience a spontaneous improvement in pain and mild 
+neurological deficits. Most HDs can be treated conservatively.
+
+Publisher: Bandscheibendegenerationen können prinzipiell in jedem 
+Wirbelsäulenabschnitt auftreten. Epidemiologische Studien zeigen, dass 36 % der 
+Erkrankungen auf die Halswirbelsäule, 2 % auf die Brustwirbelsäule und 62 % auf 
+die Lendenwirbelsäule entfallen. In Abhängigkeit von der Region des 
+Bandscheibenvorfalls (BSV) treten unterschiedliche Symptome auf. Radikuläre 
+Schmerzen, die durch einen zervikalen BSV hervorgerufen werden, strahlen 
+segmental in die Arme (Brachialgie) aus, thorakale Bandscheibenvorfälle strahlen 
+in den Thorax aus (Interkostalneuralgien), wobei man sich bewusst sein muss, 
+dass nicht jeder BSV Symptome verursacht, ca. 50 % der BSV erkennt man als 
+Zufallsbefund in der Bildgebung, sie sind jedoch asymptomatisch. Beim BSV kommt 
+der Anamnese und Untersuchung eine große Bedeutung zu, es ist immer sorgfältig 
+auf sog. „red flags“ zu achten! BSV verlieren im Verlauf bis zu 40 % an Volumen. 
+Somit kommt es bei einem nicht unerheblichen Prozentsatz der Patienten zu einer 
+spontanen Besserung der Schmerzen und milden neurologischen Defiziten. Die 
+meisten BSV können konservativ behandelt werden.
+
+© 2025. The Author(s), under exclusive licence to Springer Medizin Verlag GmbH, 
+ein Teil von Springer Nature.
+
+DOI: 10.1007/s00132-025-04738-0
+PMID: 41295983 [Indexed for MEDLINE]
+
+Conflict of interest statement: Einhaltung ethischer Richtlinien. 
+Interessenkonflikt: Gemäß den Richtlinien des Springer Medizin Verlags werden 
+Autoren und Wissenschaftliche Leitung im Rahmen der Manuskripterstellung und 
+Manuskriptfreigabe aufgefordert, eine vollständige Erklärung zu ihren 
+finanziellen und nichtfinanziellen Interessen abzugeben. Autoren: P. Koehl: 
+A. Finanzielle Interessen: P. Koehl gibt an, dass kein finanzieller 
+Interessenkonflikt besteht. – B. Nichtfinanzielle Interessen: Ärztlicher 
+Direktor und Chefarzt Klinik für Orthopädie und Unfallchirurgie, Klinikum 
+Fichtelgebirge. M. Mahmoud: A. Finanzielle Interessen: M. Mahmoud gibt an, dass 
+kein finanzieller Interessenkonflikt besteht. – B. Nichtfinanzielle Interessen: 
+Oberarzt Wirbelsäulenchirurgie Klinikum Fichtelgebirge. A. Schuh: A. Finanzielle 
+Interessen: A. Schuh gibt an, dass kein finanzieller Interessenkonflikt besteht. 
+– B. Nichtfinanzielle Interessen: Leiter Sektion für Muskuloskelettale 
+Forschung, Klinik für Orthopädie und Unfallchirurgie, Klinikum Fichtelgebirge, 
+Schillerhain 1–8, 95615 Marktredwitz, Deutschland. | Mitgliedschaften DGOOC, 
+BVOU, SICOT. A. Benditz: A. Finanzielle Interessen: A. Benditz gibt an, dass 
+kein finanzieller Interessenkonflikt besteht. – B. Nichtfinanzielle Interessen: 
+Leiter Orthopädie und Wirbelsäulentherapie Klinikum Fichtelgebirge | 
+Stellvertretender Geschäftsführer IGOST, Generalsekretär DLGOU. 
+Wissenschaftliche Leitung: Die vollständige Erklärung zum Interessenkonflikt der 
+Wissenschaftlichen Leitung finden Sie am Kurs der zertifizierten Fortbildung auf 
+www.springermedizin.de/cme . Der Verlag: erklärt, dass für die Publikation 
+dieser CME-Fortbildung keine Sponsorengelder an den Verlag fließen. Für diesen 
+Beitrag wurden von den Autoren keine Studien an Menschen oder Tieren 
+durchgeführt. Für die aufgeführten Studien gelten die jeweils dort angegebenen 
+ethischen Richtlinien.
+
+
+5. Clin Sports Med. 2021 Jul;40(3):513-539. doi: 10.1016/j.csm.2021.03.006.
+
+Cervical Disc Herniations, Radiculopathy, and Myelopathy.
+
+Watkins RG 4th(1), Watkins RG 3rd(2).
+
+Author information:
+(1)Marina Spine Center, 4640 Admiralty Way, Suite 600, Marina del Rey, CA, 
+90292, USA. Electronic address: robertwatkinsmd@yahoo.com.
+(2)Marina Spine Center, 4640 Admiralty Way, Suite 600, Marina del Rey, CA, 
+90292, USA.
+
+The key to successful treatment of elite athletes is optimizing the medical care 
+at every step: injury prevention and sport-specific training; comprehensive 
+history and physical examination; high-quality and complete diagnostic studies; 
+accurate diagnosis; control and completion of rehabilitation program; minimally 
+invasive, safe, and effective surgeries; risk assessment for return to sport; 
+guided and gradual return to sport; and continued rehabilitation and exercise 
+program after return to sport.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.csm.2021.03.006
+PMID: 34051944 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.

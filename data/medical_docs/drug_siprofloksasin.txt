@@ -1,0 +1,43 @@
+İLAÇ: Siprofloksasin (Cipro, Siprosan)
+SINIF: Florokinolon grubu antibiyotik
+
+ENDİKASYONLAR:
+- İdrar yolu enfeksiyonları
+- Solunum yolu enfeksiyonları
+- GİS enfeksiyonları, salmonella
+- Prostatit
+- Kemik-eklem enfeksiyonları
+- Antraks profilaksisi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- QT uzatan ilaçlar (amiodaron, ketiapin, olanzapin, haloperidol, metadon, eritromisin): Torsades de pointes, ölümcül aritmi
+- Warfarin: INR ciddi artar; kanama riski — INR sık izlenmeli
+- Teofilin: Teofilin toksisitesi (nöbet, aritmi) riski — doz %50 azaltılmalı
+- Metotreksat: Toksisite riski artar
+- Antasitler, demir, çinko, kalsiyum, magnezyum: Siprofloksasin emilimini ciddi azaltır — 2 saat arayla alınmalı
+- NSAİD'ler: Nöbet eşiğini düşürür
+- Siklosporin: Böbrek toksisitesi riski
+- Metformin: Metformin düzeyi artabilir
+- Duloksetin: Duloksetin düzeyi belirgin artar
+
+UYARILAR:
+- Tendon rüptürü riski (özellikle Aşil tendonu): Tendon ağrısında derhal kesilmeli; kortikosteroid ile birlikte risk artar
+- QTc izlenmeli
+- Miyastenia gravis'i kötüleştirebilir — dikkatli kullanım
+- Güneş ışığından korunma (fotosensitivite)
+- <18 yaş kıkırdak gelişimini etkiler — rutin kullanım önerilmez
+- Böbrek yetmezliğinde doz azaltılmalı
+- Nöbet riski (özellikle epileptiklerde)
+
+KONTRENDİKASYONLAR:
+- Kinolona aşırı duyarlılık
+- QT uzaması
+- Miyastenia gravis (rölatif)
+
+YAN ETKİLER:
+- GİS: Bulantı, ishal (sık)
+- Baş dönmesi, baş ağrısı
+- Tendinit, tendon rüptürü
+- Fotosensitivite
+- Karaciğer enzim yüksekliği
+- Nöbet (nadir)

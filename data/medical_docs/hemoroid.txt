@@ -1,0 +1,99 @@
+=== PubMed: hemoroid ===
+1. Ann Ital Chir. 2022;93:439-442.
+
+Does choroidal thickness change in advanced hemorrhoids patients?
+
+Bolat H, Kuçuk E, Zor KR.
+
+BACKGROUND: This study was conducted to examine the choroidal thickness of 
+patients with grade 4 hemorrhoids to see if vascular abnormalities in hemorrhoid 
+patients may affect other `parts of the body.
+METHODS: 51 patients diagnosed with grade 4 hemorrhoids in the last two years 
+and 49 healthy volunteers were included. Choroidal evaluation was done by 
+measurements from various points of the choroid using a spectral domain Cirrus 
+HD-OCT (Carl Zeiss Meditec Inc.) in enhanced-depth imaging mode. Choroidal 
+thicknesses were compared between the two groups.
+RESULTS: Nasal choroidal thickness, temporal choroidal thickness and mean 
+choroidal thickness measurements were significantly higher in the hemoroid group 
+(p<0.05), while subfoveal choroidal thickness did not differ significantly 
+between the groups. Macular thickness was also significantly higher in the 
+hemoroid group compared to the control group (p<0.05).
+CONCLUSION: There was an increase in choroidal thickness in patients with grade 
+4 hemorrhoids.
+KEY WORDS: Choroidal thickness, Hemorrhoids, Macular thickness, Optical 
+coherence tomography, Vascular pathologies.
+
+Publisher: Questo studio è stato condotto per esaminare lo spessore della 
+coroide dei pazienti con emorroidi di 4° grado per verificare se le anomalie 
+vascolari a livello emorroidale possono influenzare altre parti del corpo. Lo 
+studio è stato condotto negli ultimi due anni su 51 pazienti affetti da 
+emorroidi di 4° grado e su 49 volontari sani. La valutazione della coroide è 
+stata fatta con misurazioni su vari punti con spettrometro domain Cirrus HD-OCT 
+(Carl Zeiss Meditec Inc.) in modo imaging ad aumentata profondità. È stato 
+paragonato lo spessore della coroide nei due gruppi. RISULTATI: lo spessore 
+della coroide nel versante nasale, di quello temporale e quello medio è 
+risultato significativamente maggiore nel gruppo con le emorroidi (p<0.05), 
+mentre lo spessore della coroide subfoveale non differisce significativamente 
+nei due gruppi. Anche lo spessore della macula è significativamente maggiore nel 
+gruppo con le emorroidi rispetto al gruppo di controllo (p<0.05). CONCLUSIONE: È 
+stato verificato un incremento dello spessore coroideo nei pazienti con 
+emorroidi di 4° grado.
+
+PMID: 35174789 [Indexed for MEDLINE]
+
+
+2. Tech Coloproctol. 2025 Jul 22;29(1):147. doi: 10.1007/s10151-025-03184-6.
+
+Anatomical distribution of hemorrhoidal piles in advanced disease: clinical 
+insights and correlations.
+
+Osmanov I(1)(2), Ergüder E(3), Ahmadov J(2), Ersak C(4), Leventoğlu S(5), Menteş 
+BB(2).
+
+Author information:
+(1)Department of Surgery, Ufuk University Dr. Rıdvan Ege Hospital, Ankara, 
+Turkey.
+(2)Proctology Unit, Ankara Memorial Hospital, Ankara, Turkey.
+(3)Department of Surgery, Ankara Etlik City Hospital, Ankara, Turkey.
+(4)Department of Surgery, Kızılcahamam State Hospital, Ankara, Turkey.
+(5)Department of Surgery, Gazi University Faculty of Medicine, Ankara, Turkey. 
+sezaileventoglu@hotmail.com.
+
+BACKGROUND: A precise evaluation of the positional distribution of hemorrhoidal 
+piles has not been distinctly conducted. We hypothesized that the distribution 
+of hemorrhoidal piles follows a predictable anatomical pattern influenced by 
+disease duration and recurrence.
+METHODS: Our retrospective study analyzed the demographic data, surgical 
+records, operative photographs, previous treatments, and associated colorectal 
+symptoms of patients who underwent invasive procedures for advanced hemorrhoidal 
+disease (2020-2024).
+RESULTS: Of the 171 patients (123 male; 71.9%; median age 41 ± 12.04 years, 
+range 18-88), 35 had prior interventions (recurrent cases). The largest pile was 
+most commonly in the left lateral quadrant (40.14%), followed by right posterior 
+(31.97%), right anterior (23.47%), and atypical locations (4.42%). Left lateral 
+predominance was significantly higher in primary cases than in recurrent 
+cases (p = 0.031). Most patients had more than one pile (87.7%). Symptom 
+duration positively correlated with pile number (Spearman's 
+rho = 0.229, p = 0.013), but not with hemoroid grade (p = 0.977). No significant 
+differences in pile distribution were observed in patients with defecation 
+disorders, labor history, or concomitant anal fissure (p > 0.05). Of the 48 
+patients with anal fissure had significantly shorter symptom duration compared 
+to those without fissure (p = 0.011).
+CONCLUSION: The classical three-quadrant distribution is confirmed, with the 
+left lateral pile being predominant in primary cases. The association between 
+prolonged symptom duration and increased pile number offers novel insights, 
+highlighting left lateral predominance in primary cases and its reduction in 
+recurrence, enhancing clinical understanding and management.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s10151-025-03184-6
+PMCID: PMC12283807
+PMID: 40696028 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests. Ethics approval and consent to participate: The 
+study received ethical approval from the Memorial Ankara Hospital Ethical 
+Committee and was conducted in accordance with the principles outlined in the 
+Declaration of Helsinki and all the patients provided informed consent. Consent 
+for publication: Not applicable. Clinical trial number: Not applicable.

@@ -1,0 +1,122 @@
+=== PubMed: anemi ===
+1. Lakartidningen. 2024 Nov 12;121:23215.
+
+Anemi vanligt bland idrottare.
+
+[Article in Swedish]
+
+Lahti A(1), Sandström G(1), Börjesson M(2).
+
+Author information:
+(1).
+(2)professor, överläkare , Sahlgrenska akademin, Östra sjuk-huset, Göteborg.
+
+PMID: 39533788
+
+
+2. Tidsskr Nor Laegeforen. 2020 Dec 14;140(18). doi: 10.4045/tidsskr.20.0139.
+Print  2020 Dec 15.
+
+[Aplastic anaemia].
+
+[Article in Norwegian]
+
+Hagestande S, Kvam AK, Lothe IMB, Gjelberg HK, Bruserud Ø, Tvedt THA.
+
+Aplastic anaemia is a rare form of bone marrow failure characterised by loss of 
+haematopoietic stem cells, bone marrow suppression and insufficient production 
+of blood cells. If left untreated, the condition is very serious with short life 
+expectancy, but a large proportion of patients recover with the aid of 
+immunosuppression or allogeneic stem cell transplantation.
+
+DOI: 10.4045/tidsskr.20.0139
+PMID: 33322881 [Indexed for MEDLINE]
+
+
+3. Dia Med. 1956 Jun 14;28(40):1110-8.
+
+[Cooley's anemi; thalassemia major; splenectomy].
+
+[Article in Spanish]
+
+CASIELLO A, FERRERO HM, FAZZIO M.
+
+PMID: 13344292 [Indexed for MEDLINE]
+
+
+4. Rev Fac Cien Med Univ Nac Cordoba. 2004;61(2):60-4.
+
+[Castleman disease].
+
+[Article in Spanish]
+
+Belletti GA(1), Savio V, Minoldo D, Caminos S, Yorio MA.
+
+Author information:
+(1)Servicio de Clínica Médica del Hospital Italiano Cba.
+
+A 66 years female, who was since last year under astenia, arthralgias, pimply 
+lesions in spread plates and tests showing eritrosedimentation over 100 mm, 
+anemi, leucocitosis with neutrofilia, policlonal hypergammaglobulinemia, slight 
+proteinuria and IgE on 900. This patient was sporadically treated with 
+corticoids. When made the medical consult had lost 34lb., was under anorexy, as 
+well as dyspepsia. Hemoglobyn 6.9 gr/dl, leucocytes 20000/mm3, neutrofils at 
+90%, proteinogram the same as former, with hypoalbuminemia. She was taking 
+prednisona, 16 mg/day. When examined showed depress of conscience, astenia, and 
+dermic lesions already quoted. 4 cm nonpainful right axillary adenopaty adhered 
+to deep planes. Medulogram with increased iron, hyperegenerative. Ganglionar 
+biopsia: linfoid hyperplasic process linked to inmune response. Toracoabdominal 
+tomography with adenomegalia in torax and retroperitoneo. Skin biopsia: 
+neutrofilic vasculitis. The patient suspends the 16 mg of prednisona and fever 
+as well as generalized adenopatias come up. After laying aside other 
+ethiologies, and understanding as Castleman Multicentric disease, it is started 
+to supply prednisona 1 mg/kg of weight with a clinical and biochemical fast and 
+outstanding response. After 7 months it was progressively suspended the 
+esteroids and 60 days later, the process fall back; for that, corticoids are 
+restarted, with a good evolution. The illness of Castleman although it is not 
+very frequent, it should be considered as differential diagnosis in those 
+clinical cases that are accompanied with important general commitment, 
+linphadenopaties and respons to steroid therapy.
+
+PMID: 16211996 [Indexed for MEDLINE]
+
+
+5. Tidsskr Nor Laegeforen. 2009 Nov 5;129(21):2226-31. doi: 
+10.4045/tidsskr.09.0161.
+
+[Autoimmune hemolytic anemia].
+
+[Article in Norwegian]
+
+Berentsen S(1), Sundic T, Hervig T, Tjønnfjord GE.
+
+Author information:
+(1)Medisinsk klinikk, Haugesund sjukehus, Helse Fonna, 5504 Haugesund, Norway. 
+sigbjorn.berentsen@haugnett.no
+
+BACKGROUND: Knowledge of autoimmune hemolytic anemia is rapidly increasing, 
+especially on pathogenesis, associated disorders and aspects of transfusion 
+immunology. New treatment options have emerged.
+MATERIAL AND METHOD: This review is based on selected publications, a 
+non-systematic search in PubMed and the authors' own research.
+RESULTS: Autoimmune hemolytic anemia is a heterogeneous group of diseases. The 
+warm-antibody type is frequently associated with chronic lymphocytic leukemia or 
+autoimmune systemic disease. Corticosteroids are still the first-line therapy 
+and splenectomy is second-line, while rituximab has become an option in 
+refractory disease. Blood transfusions require specific precautions such as 
+restrictive use, extensive phenotyping of antigens and testing for 
+alloantibodies and biological compatibility. Primary chronic cold agglutinin 
+disease, a subgroup of cold-antibody autoimmune hemolytic anemia, is a clonal 
+lymphoproliferative bone marrow disease. This subgroup is usually refractory to 
+corticosteroids and patients with few clinical symptoms and slight anemia may 
+not require drug therapy. However, in a majority, effective drugs are needed. 
+The best documented therapy is infusions with rituximab, but new options are 
+being tested. Immune hemolytic anemia associated with drugs occurs less 
+frequently now than before.
+INTERPRETATION: Subgroups and associated or underlying disease should be 
+identified in patients with autoimmune hemolytic anemia. The therapeutic 
+implications of subclassification are important. Patients who have cold 
+agglutinin disease and need therapy should be included in prospective trials.
+
+DOI: 10.4045/tidsskr.09.0161
+PMID: 19898570 [Indexed for MEDLINE]

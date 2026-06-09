@@ -1,0 +1,196 @@
+=== PubMed: demir eksikliği ===
+1. Turk J Haematol. 2015 Mar 5;32(1):1-14. doi: 10.4274/tjh.2014.0288.
+
+Iron-refractory iron deficiency anemia.
+
+Yılmaz Keskin E(1), Yenicesu İ.
+
+Author information:
+(1)Samsun Education and Research Hospital, Clinic of Pediatric Hematology and 
+Oncology, Samsun, Turkey. E-mail: ebruyilmaz81@hotmail.com.
+
+Iron is essential for life because it is indispensable for several biological 
+reactions, such as oxygen transport, DNA synthesis, and cell proliferation. Over 
+the past few years, our understanding of iron metabolism and its regulation has 
+changed dramatically. New disorders of iron metabolism have emerged, and the 
+role of iron as a cofactor in other disorders has begun to be recognized. The 
+study of genetic conditions such as hemochromatosis and iron-refractory iron 
+deficiency anemia (IRIDA) has provided crucial insights into the molecular 
+mechanisms controlling iron homeostasis. In the future, these advances may be 
+exploited to improve treatment of both genetic and acquired iron disorders. 
+IRIDA is caused by mutations in TMPRSS6, the gene encoding matriptase-2, which 
+downregulates hepcidin expression under conditions of iron deficiency. The 
+typical features of this disorder are hypochromic, microcytic anemia with a very 
+low mean corpuscular volume of erythrocytes, low transferrin saturation, no (or 
+inadequate) response to oral iron, and only a partial response to parenteral 
+iron. In contrast to classic iron deficiency anemia, serum ferritin levels are 
+usually low-normal, and serum or urinary hepcidin levels are inappropriately 
+high for the degree of anemia. Although the number of cases reported thus far in 
+the literature does not exceed 100, this disorder is considered the most common 
+of the "atypical" microcytic anemias. The aim of this review is to share the 
+current knowledge on IRIDA and increase awareness in this field.
+
+Publisher: Demir, oksijenin taşınması, DNA sentezi ve hücre çoğalması gibi 
+çeşitli biyolojik reaksiyonlar için vazgeçilmez olduğundan, yaşam için 
+zorunludur. Demir metabolizması ve bu elementin düzenlenmesiyle ilgili 
+bilgilerimiz, son yıllarda belirgin şekilde değişmiştir. Demir metabolizması ile 
+ilgili yeni bozukluklar tanımlanmış ve demirin başka bozuklukların kofaktörü 
+olduğu anlaşılmaya başlamıştır. Hemokromatozis ve demir tedavisine dirençli 
+demir eksikliği anemisi (IRIDA; “iron-refractory iron deficiency anemia”) gibi 
+genetik durumlar üzerinde yapılan çalışmalar, vücuttaki demir dengesini kontrol 
+eden moleküler mekanizmalar ile ilgili önemli ipuçları sunmuştur. Bu 
+ilerlemeler, gelecekte, hem genetik hem de kazanılmış demir bozukluklarının daha 
+etkili şekilde tedavi edilmesi amacıyla kullanılabilir. IRIDA, demir eksikliği 
+ile giden durumlarda, hepsidin üretimini baskılayan matriptaz-2’yi kodlayan 
+TMPRSS6 genindeki mutasyonlardan kaynaklanmaktadır. Hastalığın tipik 
+özellikleri, hipokrom, mikrositer anemi, çok düşük ortalama eritrosit hacmi, 
+oral demir tedavisine yanıtsızlık (veya yetersiz yanıt) ve parenteral demire 
+kısmi yanıttır. Klasik demir eksikliği anemisinin aksine, serum ferritin değeri 
+genellikle hafif düşük ya da normal aralıkta; serum ve idrar hepsidin değerleri 
+ise, aneminin derecesi ile orantısız şekilde yüksek bulunur. Şimdiye kadar 
+literatürde bildirilmiş olguların sayısı 100’ü geçmediği halde, IRIDA’nın, 
+“atipik” mikrositik anemilerin en sık nedeni olduğu düşünülmektedir. Bu 
+derlemenin amacı, IRIDA hakkındaki güncel bilgileri araştırıcılar ile paylaşmak 
+ve bu alandaki farkındalıklarını arttırmaktır.
+
+DOI: 10.4274/tjh.2014.0288
+PMCID: PMC4439901
+PMID: 25805669
+
+Conflict of interest statement: Conflict of Interest Statement The authors of 
+this paper have no conflicts of interest, including specific financial 
+interests, relationships, and/or affiliations relevant to the subject matter or 
+materials included.
+
+
+2. Turk Kardiyol Dern Ars. 2017 Mar;45(Suppl 2):1-38. doi:
+10.5543/tkda.2017.79584.
+
+Iron deficiency and anemia in heart failure.
+
+[Article in English]
+
+Çavuşoğlu Y(1), Altay H, Çetiner M, Güvenç TS, Temizhan A, Ural D, Yeşilbursa D, 
+Yıldırım N, Yılmaz MB.
+
+Author information:
+(1)Department of Cardiology, Eskişehir Osmangazi University Faculty of Medicine, 
+Eskişehir, Turkey. yukselc@ogu.edu.tr.
+
+Heart failure is an important community health problem. Prevalence and incidence 
+of heart failure have continued to rise over the years. Despite recent advances 
+in heart failure therapy, prognosis is still poor, rehospitalization rate is 
+very high, and quality of life is worse. Co-morbidities in heart failure have 
+negative impact on clinical course of the disease, further impair prognosis, and 
+add difficulties to treatment of clinical picture. Therefore, successful 
+management of co-morbidities is strongly recommended in addition to conventional 
+therapy for heart failure. One of the most common co-morbidities in heart 
+failure is presence of iron deficiency and anemia. Current evidence suggests 
+that iron deficiency and anemia are more prevalent in patients with heart 
+failure and reduced ejection fraction, as well as those with heart failure and 
+preserved ejection fraction. Moreover, iron deficiency and anemia are referred 
+to as independent predictors for poor prognosis in heart failure. There is 
+strong relationship between iron deficiency or anemia and severity of clinical 
+status of heart failure. Over the last two decades, many clinical investigations 
+have been conducted on clinical effectiveness of treatment of iron deficiency or 
+anemia with oral iron, intravenous iron, and erythropoietin therapies. Studies 
+with oral iron and erythropoietin therapies did not provide any clinical benefit 
+and, in fact, these therapies have been shown to be associated with increase in 
+adverse clinical outcomes. However, clinical trials in patients with iron 
+deficiency in the presence or absence of anemia have demonstrated considerable 
+clinical benefits of intravenous iron therapy, and based on these positive 
+outcomes, iron deficiency has become target of therapy in management of heart 
+failure. The present report assesses current approaches to iron deficiency and 
+anemia in heart failure in light of recent evidence.
+
+DOI: 10.5543/tkda.2017.79584
+PMID: 28446734 [Indexed for MEDLINE]
+
+
+3. Turk Psikiyatri Derg. 2022 Summer;33(2):90-96. doi: 10.5080/u25503.
+
+Relationship Between Sleep Disorders and Attention Deficit- Hyperactivity 
+Disorder Symptoms in University Students.
+
+[Article in English, Turkish]
+
+Eroğlu EÖ, Aykut DS, Karahan S, Demir B.
+
+OBJECTIVE: Sleep disorders increase the symptoms of attention deficit 
+hyperactivity disorder (ADHD). The aim of this study was to investigate whether 
+or not sleep related problems give rise to symptoms of attention deficit and 
+hyperactivity-impulsivity in university students.
+METHODS: The 252 university students between the ages of 18-25 years included in 
+the study were assessed on the Pittsburgh Sleep Quality Index (PSQI), the Adult 
+Attention-Deficit Hyperactivity Disorder Scale, the Beck Depression Inventory 
+(BDI) and the Beck Anxiety Inventory (BAI).
+RESULTS: The participants of the study comprised 38.5% males and 61.5% females 
+with a mean age of 22.39 (±1.93) years. The mean score data were 5.78 (± 2.72) 
+on the PSQI, 41.77 (± 20.38) on the Adult Attention-Deficit Hyperactivity 
+Disorder Scale, 8.53 (± 6.97) on the BDI and 9.05 (± 7.92) on the BAI. The total 
+score and the scores on the attention-deficit and the general problems 
+subsections of the Adult Attention-Deficit Hyperactivity Disorder Scale were 
+significantly higher in participants with poor sleep quality (P<0.001). The PSQI 
+and the Adult Attention-Deficit Hyperactivity Disorder Scale scores were 
+significantly above the cut-off values in the participants with depression and 
+anxiety symptoms as compared to those without these symptoms (P<0.001). The PSQI 
+total score positively correlated with the Adult Attention-Deficit Hyperactivity 
+Disorder Scale total score (P<0.001).
+CONCLUSION: University students with sleep disorder have more ADHD symptoms and 
+poor quality of sleep increase ADHD sypmtoms. Therefore it's important to 
+evaluate quality of sleep in young people suffering from attention problems in 
+terms of treatment approaches and interventions.
+
+DOI: 10.5080/u25503
+PMID: 35730509 [Indexed for MEDLINE]
+
+
+4. Turk J Haematol. 2011 Sep 5;28(3):248. doi: 10.5152/tjh.2011.68.
+
+Iron deficiency anemia and total antioxidant capacity.
+
+[Article in English]
+
+Wiwanitkit V(1).
+
+Author information:
+(1)Wiwanitkit House, Bangkhae, 10160 Bangkok, Thailand, Phone: 662-4132436 
+E-mail: wviroj@yahoo.com.
+
+DOI: 10.5152/tjh.2011.68
+PMID: 27264381
+
+
+5. Turk J Haematol. 2016 Jun 5;33(2):156-8. doi: 10.4274/tjh.2015.0206.
+
+Serum Zinc Levels in Iron Deficient Women: A Case-Control Study.
+
+Özhan O, Erdem N(1), Aydoğdu İ, Erkurt A, Kuku İ.
+
+Author information:
+(1)Celal Bayar University Faculty of Medicine, Department of Internal Medicine, 
+Manisa, Turkey, Phone : +90 555 729 88 22, E-mail : neslihnerdem@gmail.com.
+
+Since similar symptoms and findings can be seen in the deficiencies of both iron 
+and zinc, we aimed to evaluate the serum zinc levels of women with iron 
+deficiency anemia (IDA). This study was conducted with women with iron 
+deficiency and a healthy control group. When serum zinc levels were compared, 
+they were found to be lower in the IDA group, which was statistically 
+significant. With the help of these studies, iron and zinc treatment instead of 
+only iron replacement may be considered in cases of iron deficiency.
+
+Publisher: Demir ve çinko eksikliği benzer belirti ve bulgularla giden 
+hastalıklar olması sebebiyle, demir eksikliği anemisi (DEA) olan kadınlarda 
+serum çinko düzeylerinin değerlendirilmesini planladık. Bu çalışma DEA’lı 
+kadınlar ile sağlıklı kontrol olarak alınan kadınlar üzerinde yapıldı. Serum 
+çinko düzeyleri karşılaştırıldığında, DEA grubunda istatistiksel olarak düşük 
+saptandı. Bu çalışmaların yardımıyla sadece demir değil, demir ve çinkonun 
+beraber tedavisi demir eksikliği olan olgularda düşünülebilir.
+
+DOI: 10.4274/tjh.2015.0206
+PMCID: PMC5100729
+PMID: 27211046 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors of this paper have no conflicts of 
+interest, including specific financial interests, relationships, and/or 
+affiliations relevant to the subject matter or materials included.

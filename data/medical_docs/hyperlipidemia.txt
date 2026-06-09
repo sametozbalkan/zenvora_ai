@@ -1,0 +1,169 @@
+=== PubMed: hyperlipidemia ===
+1. Endokrynol Pol. 2019;70(6):511-519. doi: 10.5603/EP.a2019.0041.
+
+Endocrine diseases as causes of secondary hyperlipidemia.
+
+Bułdak Ł(1), Marek B(2), Kajdaniuk D(2), Urbanek A(3), Janyga S(3), Bołdys A(4), 
+Basiak M(4), Maligłówka M(4), Okopień B(4).
+
+Author information:
+(1)Department of Internal Medicine and Clinical Pharmacology, Medical University 
+of Silesia, Katowice, Poland. lbuldak@gmail.com.
+(2)Department of Pathophysiology and Endocrinology, Medical University of 
+Silesia, Zabrze, Poland.
+(3)Department of Endocrinology and Diabetology, Regional Specialist Hospital, 
+Rybnik, Poland.
+(4)Department of Internal Medicine and Clinical Pharmacology, Medical University 
+of Silesia, Katowice, Poland.
+
+Cardiovascular diseases are among the leading causes of increased morbidity and 
+mortality in developed and developing countries. One of the most important risk 
+factors responsible for atherosclerosis and subsequent cardiovascular diseases 
+is hyperlipidaemia. Currently, hyperlipidaemias are divided into several 
+clinical entities. The greatest risk is associated with hypercholesterolaemia. 
+As a result, modern guidelines for the treatment and prevention of 
+atherosclerosis focus predominantly on the reduction of LDL-cholesterol. 
+Hypertriglyceridaemia and atherogenic dyslipidaemia, which are responsible for a 
+less significant increase in the cardiovascular risk, are nowadays secondary 
+targets of the treatment. During the work-up for hyperlipidaemia one of the 
+essential actions is the exclusion of secondary causes of the lipid 
+abnormalities. Those include, among others, endocrine diseases, diabetes, drugs, 
+nephrotic syndrome, and pregnancy. Data regarding the impact of endocrine 
+disease and diabetes on the lipid profile are scattered. In this review, the 
+authors aimed to perform a thorough analysis of the available publications 
+regarding the topic and the preparation of a comprehensive review dealing with 
+the incidence, clinical features, and the therapy of hyperlipidaemias in 
+patients with endocrine disease.
+
+DOI: 10.5603/EP.a2019.0041
+PMID: 31891414 [Indexed for MEDLINE]
+
+
+2. J Small Anim Pract. 2015 Oct;56(10):595-605. doi: 10.1111/jsap.12396.
+
+Canine hyperlipidaemia.
+
+Xenoulis PG(1), Steiner JM(1)(2).
+
+Author information:
+(1)Clinic of Medicine, Faculty of Veterinary Medicine, University of Thessally, 
+Trikalon 224, Karditsa 43100, Greece and Animal Medical Center of Athens, 
+Mesogeion 267, 15451, Athens, Greece.
+(2)Gastrointestinal Laboratory, Department of Small Animal Clinical Sciences, 
+College of Veterinary Medicine and Biomedical Sciences, Texas A&M University, 
+College Station, TX, 77843, USA.
+
+Hyperlipidaemia refers to an increased concentration of lipids in the blood. 
+Hyperlipidaemia is common in dogs and has recently emerged as an important 
+clinical condition that requires a systematic diagnostic approach and 
+appropriate treatment. Hyperlipidaemia can be either primary or secondary to 
+other diseases. Secondary hyperlipidaemia is the most common form in dogs, and 
+it can be a result of endocrine disorders, pancreatitis, cholestasis, 
+protein-losing nephropathy, obesity, as well as other conditions and the use of 
+certain drugs. Primary hyperlipidaemia is less common in the general canine 
+population but it can be very common within certain breeds. 
+Hypertriglyceridaemia of Miniature Schnauzers is the most common form of primary 
+hyperlipidaemia in dogs but other breeds are also affected. Possible 
+complications of hyperlipidaemia in dogs include pancreatitis, liver disease, 
+atherosclerosis, ocular disease and seizures. Management of primary 
+hyperlipidaemia in dogs is achieved by administration of ultra low-fat diets 
+with or without the administration of lipid lowering drugs such as omega-3 fatty 
+acids, fibrates, niacin and statins.
+
+© 2015 British Small Animal Veterinary Association.
+
+DOI: 10.1111/jsap.12396
+PMID: 26456868 [Indexed for MEDLINE]
+
+
+3. Orv Hetil. 2006 Jul 9;147(27):1284-5.
+
+[Hyperlipidemia].
+
+[Article in Hungarian]
+
+Márk L(1).
+
+Author information:
+(1)Békés Megyei Képviselo-testület Pándy Kálmán Kórháza, II 
+Belgyógyászat-Kardiológia, Gyula. mark@pandy.hu
+
+PMID: 16927886 [Indexed for MEDLINE]
+
+
+4. Ann Med. 2022 Dec;54(1):1287-1296. doi: 10.1080/07853890.2022.2059559.
+
+Bempedoic acid and its role in contemporary management of hyperlipidemia in 
+atherosclerosis.
+
+Tummala R(1), Gupta M(2), Devanabanda AR(3), Bandyopadhyay D(4), Aronow WS(4), 
+Ray KK(5), Mamas M(6), Ghosh RK(7).
+
+Author information:
+(1)Department of Cardiology, Mount Sinai Beth Israel, New York, NY, USA.
+(2)Department of Internal Medicine, University of Connecticut Health Center, 
+Farmington, CT, USA.
+(3)Department of Cardiology, Donald and Barbara Zucker School of Medicine at 
+Hofstra/Northwell, Manhasset, NY, USA.
+(4)Department of Cardiology, Westchester Medical Center and New York Medical 
+College, New York, NY, USA.
+(5)Imperial Centre for Cardiovascular Disease Prevention, London, UK.
+(6)Keele Cardiac Research Group, Institutes of Science and Technology in 
+Medicine and Primary Care Keele University, Stoke-on-Trent, UK.
+(7)MedStar Heart and Vascular Institute, Union Memorial Hospital, Baltimore, MD, 
+USA.
+
+Atherosclerotic heart disease is the leading cause of mortality and morbidity in 
+the USA. Low density lipoprotein (LDL) has been the target for many 
+hypolipidemic agents to modify atherosclerotic risk. Bempedoic acid is a novel 
+hypolipidemic drug that inhibits the enzymatic activity of ATP citrate lyase in 
+the cholesterol synthesis pathway. CLEAR Harmony, CLEAR Wisdom, CLEAR 
+Tranquillity and CLEAR Serenity have shown safety and efficacy associated with 
+long term administration of this drug. Studies have shown effectiveness in 
+reducing LDL-C in both statin intolerant patients and in patients on maximally 
+tolerated doses of statin. The fixed drug combination of bempedoic acid and 
+ezetimibe in a recent phase III showed significant reduction in LDL compared 
+with placebo, which might be a promising future for LDL reduction among statin 
+intolerant patients. Bempedoic acid also reduced inflammatory markers like 
+hs-CRP. Given these results, bempedoic acid alone and in combination with 
+ezetimibe received the USA FDA approval for adults with heterozygous familial 
+hypercholesterolaemia or established atherosclerotic cardiovascular disease. We 
+present a comprehensive review exploring the underlying mechanism, pre-clinical 
+studies, and clinical trials of bempedoic acid and discuss the potential future 
+role of the drug in treating hyperlipidaemia.
+
+DOI: 10.1080/07853890.2022.2059559
+PMCID: PMC9090378
+PMID: 35533049 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+5. Rev Med Interne. 1991 Mar-Apr;12(2):146-52. doi:
+10.1016/s0248-8663(05)81380-3.
+
+[Hyperlipidemia and osteoarticular manifestations].
+
+[Article in French]
+
+Goupille P(1), Soutif D, Fouquet B, Valat JP.
+
+Author information:
+(1)Service de Rhumatologie, CHU Trousseau.
+
+Hyperlipoproteinaemia, notably types II and IV, may give rise to various 
+musculoskeletal disorders. Mono-, oligo- or polyarthritis, or even simple 
+arthralgias, are often encountered in patients with severe type IIa 
+hyperlipoproteinaemia, the most satisfactory tentative explanation for this 
+being a microcrystalline pathology. Tendinitis is also frequent, particularly in 
+children. The same manifestations have also been reported, although more 
+occasionally, in type IV hyperlipoproteinaemia. Skeletal lesions, such as 
+xanthoma or lipoma ossificans, are extremely rare. Other musculoskeletal 
+disorders, including gout and aseptic osteonecrosis, are often associated with 
+hyperlipidaemia. Some diseases may induce secondary hyperlipidaemia but have 
+their own rheumatological manifestations. Finally, lipid-lowering drugs, such as 
+fibrates and statines, sometimes induce disabling myalgias.
+
+DOI: 10.1016/s0248-8663(05)81380-3
+PMID: 1852998 [Indexed for MEDLINE]

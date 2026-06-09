@@ -1,0 +1,220 @@
+=== PubMed: levetiracetam drug interactions anticonvulsant ===
+1. JAMA. 2022 Apr 5;327(13):1269-1281. doi: 10.1001/jama.2022.3880.
+
+Antiseizure Medications for Adults With Epilepsy: A Review.
+
+Kanner AM(1), Bicchi MM(1).
+
+Author information:
+(1)Comprehensive Epilepsy Center and Epilepsy Division, Department of Neurology, 
+University of Miami, Miller School of Medicine, Miami, Florida.
+
+Comment in
+    JAMA. 2022 Aug 16;328(7):680. doi: 10.1001/jama.2022.10597.
+    JAMA. 2022 Aug 16;328(7):680. doi: 10.1001/jama.2022.10594.
+
+IMPORTANCE: Epilepsy affects approximately 65 million people worldwide. 
+Persistent seizures are associated with a 20% to 40% risk of bodily injuries 
+(eg, fractures, burns, concussions) over 12-month follow-up. The primary goal of 
+epilepsy treatment is to eliminate seizures while minimizing adverse effects of 
+antiseizure drugs (ASDs).
+OBSERVATIONS: An epileptic seizure is defined as a sudden occurrence of 
+transient signs and symptoms caused by abnormal and excessive or synchronous 
+neuronal activity in the brain. Focal and generalized epilepsy are the 2 most 
+frequent types of epilepsy; diagnosis is based on the type of seizures. There 
+are 26 US Food and Drug Administration-approved medications for epilepsy, of 
+which 24 have similar antiseizure efficacy for focal epilepsy and 9 have similar 
+efficacy for generalized epilepsy. The decision to initiate an ASD should be 
+individualized, but should be strongly considered after 2 unprovoked seizures or 
+after 1 unprovoked seizure that occurred during sleep and/or in the presence of 
+epileptiform activity on an electroencephalogram and/or in the presence of a 
+structural lesion on the brain magnetic resonance imaging. The ASDs must be 
+selected based on the seizure and epilepsy types, the epilepsy syndrome, and the 
+adverse effects associated with the drug. For focal epilepsy, oxcarbazepine and 
+lamotrigine are first-line therapy, while levetiracetam can be also considered 
+if there is no history of psychiatric disorder. For generalized epilepsy, the 
+selection of the ASD is based on the type of epilepsy syndrome and the patient's 
+sex, age, and psychiatric history. Seizure freedom is achieved in approximately 
+60% to 70% of all patients. A total of 25% to 50% of patients also experience 
+neurologic, psychiatric, cognitive, or medical disorders, such as mood, anxiety, 
+and attention deficit disorders and migraines. For these patients, selecting an 
+ASD should consider the presence of these disorders and concomitant use of 
+medications to treat them. ASDs with cytochrome P450 enzyme-inducing properties 
+(eg, carbamazepine, phenytoin) may worsen comorbid coronary and cerebrovascular 
+disease by causing hyperlipidemia and accelerating the metabolism of concomitant 
+drugs used for their treatment. They can also facilitate the development of 
+osteopenia and osteoporosis.
+CONCLUSIONS AND RELEVANCE: Epilepsy affects approximately 65 million people 
+worldwide and is associated with increased rates of bodily injuries and 
+mortality when not optimally treated. For focal and generalized epilepsy, 
+selection of ASDs should consider the seizure and epilepsy types and epilepsy 
+syndrome, as well as the patient's age and sex, comorbidities, and potential 
+drug interactions.
+
+DOI: 10.1001/jama.2022.3880
+PMID: 35380580 [Indexed for MEDLINE]
+
+
+2. Neuropsychopharmacol Rep. 2021 Sep;41(3):336-351. doi: 10.1002/npr2.12196.
+Epub  2021 Jul 23.
+
+Neuropharmacology of Antiseizure Drugs.
+
+Hakami T(1).
+
+Author information:
+(1)The Faculty of Medicine, Jazan University, Jazan, Saudi Arabia.
+
+BACKGROUND: Antiseizure drugs (ASDs) are the primary therapy for epilepsy, with 
+more than 20 drugs introduced into clinical practice to date. These drugs are 
+typically grouped by their mechanisms of action and therapeutic spectrum. This 
+article aims to educate non-neurologists and medical students about the new 
+frontiers in the pharmacology of ASDs and presents the current state of the 
+literature on the efficacy and tolerability of these agents.
+METHODS: Randomized controlled trials, observational studies, and evidence-based 
+meta-analyses of ASD efficacy and tolerability as initial monotherapy for 
+epileptic seizures and syndromes were identified in PubMed, EMBASE, the Cochrane 
+Library, and Elsevier Clinical Pharmacology.
+RESULTS: The choice of ASD varies primarily according to the seizure type. 
+Practical guidelines for ASD selection in patients with new-onset and 
+drug-resistant epilepsy were recently published. The guidelines have shown that 
+the newer-generation drugs, which have unique mechanistic and pharmacokinetic 
+properties, are better tolerated but have similar efficacy compared with the 
+older drugs. Several ASDs are effective as first-line monotherapy in focal 
+seizures, including lamotrigine, carbamazepine, phenytoin, levetiracetam, and 
+zonisamide. Valproate remains the first-line drug for many patients with 
+generalized and unclassified epilepsies. However, valproate should be avoided, 
+if possible, in women of childbearing potential because of teratogenicity. 
+Toxicity profile precludes several drugs from use as first-line treatment, for 
+example, vigabatrin, felbamate, and rufinamide.
+CONCLUSIONS: Antiseizure drugs have different pharmacologic profiles that should 
+be considered when selecting and prescribing these agents for epilepsy. These 
+include pharmacokinetic properties, propensity for drug-drug interactions, and 
+adverse effects.
+
+© 2021 The Authors. Neuropsychopharmacology Reports published by John Wiley & 
+Sons Australia, Ltd on behalf of The Japanese Society of 
+Neuropsychopharmacology.
+
+DOI: 10.1002/npr2.12196
+PMCID: PMC8411307
+PMID: 34296824 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+3. Ther Drug Monit. 2018 Oct;40(5):526-548. doi: 10.1097/FTD.0000000000000546.
+
+Therapeutic Drug Monitoring of Antiepileptic Drugs in Epilepsy: A 2018 Update.
+
+Patsalos PN(1)(2), Spencer EP(1), Berry DJ(1).
+
+Author information:
+(1)Epilepsy Society, Therapeutic Drug Monitoring Unit, Chalfont Centre for 
+Epilepsy, Chalfont St Peter, Buckinghamshire.
+(2)Department of Clinical and Experimental Epilepsy, UCL-Institute of Neurology, 
+Queen Square, London, United Kingdom.
+
+BACKGROUND: Antiepileptic drugs (AEDs) are the mainstay of epilepsy treatment. 
+Since 1989, 18 new AEDs have been licensed for clinical use and there are now 27 
+licensed AEDs in total for the treatment of patients with epilepsy. Furthermore, 
+several AEDs are also used for the management of other medical conditions, for 
+example, pain and bipolar disorder. This has led to an increasingly widespread 
+application of therapeutic drug monitoring (TDM) of AEDs, making AEDs among the 
+most common medications for which TDM is performed. The aim of this review is to 
+provide an overview of the indications for AED TDM, to provide key information 
+for each individual AED in terms of the drug's prescribing indications, key 
+pharmacokinetic characteristics, associated drug-drug pharmacokinetic 
+interactions, and the value and the intricacies of TDM for each AED. The concept 
+of the reference range is discussed as well as practical issues such as choice 
+of sample types (total versus free concentrations in blood versus saliva) and 
+sample collection and processing.
+METHODS: The present review is based on published articles and searches in 
+PubMed and Google Scholar, last searched in March 2018, in addition to 
+references from relevant articles.
+RESULTS: In total, 171 relevant references were identified and used to prepare 
+this review.
+CONCLUSIONS: TDM provides a pragmatic approach to epilepsy care, in that bespoke 
+dose adjustments are undertaken based on drug concentrations so as to optimize 
+clinical outcome. For the older first-generation AEDs (carbamazepine, 
+ethosuximide, phenobarbital, phenytoin, primidone, and valproic acid), much data 
+have accumulated in this regard. However, this is occurring increasingly for the 
+new AEDs (brivaracetam, eslicarbazepine acetate, felbamate, gabapentin, 
+lacosamide, lamotrigine, levetiracetam, oxcarbazepine, perampanel, piracetam, 
+pregabalin, rufinamide, stiripentol, sulthiame, tiagabine, topiramate, 
+vigabatrin, and zonisamide).
+
+DOI: 10.1097/FTD.0000000000000546
+PMID: 29957667 [Indexed for MEDLINE]
+
+
+4. Expert Rev Neurother. 2024 Aug;24(8):773-786. doi: 
+10.1080/14737175.2024.2365946. Epub 2024 Jun 13.
+
+An update on pharmacotherapy for trigeminal neuralgia.
+
+Pergolizzi JV Jr(1), LeQuang JA(1), El-Tallawy SN(2)(3), Wagner M(1), Ahmed 
+RS(4), Varrassi G(5).
+
+Author information:
+(1)NEMA Research, Pain management, Naples, FL, USA.
+(2)Anesthesia and Pain Department, King Khalid University Hospital, College of 
+Medicine, King Saud University, Riyadh, Saudi Arabia.
+(3)Anesthesia Department, Medicine, Minia University & NCI, Minia, Egypt.
+(4)College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+(5)Paolo Procacci Foundation, Rome, Italy.
+
+INTRODUCTION: Trigeminal neuralgia is a rare condition that can be effectively 
+treated by carbamazepine or oxcarbazepine but these older drugs are associated 
+with dose-dependent and potentially treatment-limiting adverse effects. 
+Third-generation anticonvulsants, new calcitonin gene-related peptide blockers 
+for migraine, and older drugs such as ketamine and cannabinoids may be promising 
+adjuvants or monotherapeutic options.
+AREAS COVERED: The new drugs, their presumed mechanisms of action, safety and 
+efficacy are discussed herein. There is a paucity of robust clinical evidence in 
+support of these drugs for trigeminal neuralgia. New migraine agents are 
+considered as well although migraines and trigeminal neuralgia are distinct, 
+albeit similar, conditions. No new drugs have been released to market in recent 
+years with the specific indication of trigeminal neuralgia.
+EXPERT OPINION: In real-world clinical practice, about half of trigeminal 
+neuralgia patients take more than one agent for prevention and combination 
+therapy may be the optimal approach. Combination therapy might allow for lower 
+doses of carbamazepine or oxcarbazepine, thus reducing the number and severity 
+of potential adverse events but the potential for pharmacokinetic drug-drug 
+interactions must be considered. Drug therapy for trigeminal neuralgia involves 
+acute or abortive treatments, often administered in hospital versus long-term 
+preventive therapy, usually involving oral agents.
+
+Plain Language Summary: Trigeminal neuralgia is a relatively rare condition that 
+usually affects one side of the face below the eye around the cheekbone. The 
+cause of trigeminal neuralgia is sometimes a damaged nerve or a nerve that has 
+lost part of its outer protective sheath (myelin). However, trigeminal neuralgia 
+may have other neurological causes as well. Pain can be triggered by touch, 
+pressure, or chewing and it tends to occur in very painful brief attacks 
+followed by pauses with little or no pain. There are two types of drug treatment 
+for trigeminal neuralgia: drugs to stop an ongoing attack (which are often 
+administered in an emergency room or hospital intravenously) and drugs that are 
+taken orally over the long term to reduce or prevent attacks.The two most 
+effective drugs for trigeminal neuralgia are carbamazepine and oxcarbazepine, 
+which are actually drugs to prevent seizures. They are effective in reducing the 
+pain intensity and number of attacks of trigeminal neuralgia but they have side 
+effects. In fact, these side effects can be so severe that people stop taking 
+the drugs.Many new drugs have come to market recently that may work for 
+trigeminal neuralgia, although none was specifically developed for this use. The 
+newest generation of anti-seizure medications including eslicarbazepine, 
+lacosamide, levetiracetam, and retigabine, may be just as effective as the older 
+carbamazepine and oxcarbazepine drugs with fewer side effects. Clinical studies 
+are needed to test them in trigeminal neuralgia patients but their mechanisms of 
+action suggest that they might work well.There are some new drugs developed for 
+migraine headache that inhibit a substance in the body called CGRP. Migraine 
+headaches and trigeminal neuralgia have some of the same symptoms but they are 
+different conditions but both involve too much CGRP.Other new drugs include 
+lasmiditan, pimozide (used for Tourette syndrome), tizanidine (muscle relaxant), 
+lamotrigine and vixotrigine (anti-seizure drugs) may also be beneficial. It may 
+be that people with trigeminal neuralgia will have to take combination therapy, 
+the use of two or more drugs with different mechanisms of action. Older drugs 
+like ketamine and cannabinoids are also being considered as possible add-on 
+agents for therapy for trigeminal neuralgia.
+
+DOI: 10.1080/14737175.2024.2365946
+PMID: 38870050 [Indexed for MEDLINE]

@@ -1,0 +1,381 @@
+=== PubMed: akne ===
+1. J Dtsch Dermatol Ges. 2017 Jul;15(7):709-722. doi: 10.1111/ddg.30_13278.
+
+Akne.
+
+Degitz K(1), Ochsendorf F(2).
+
+Author information:
+(1)Dermatologische Gemeinschaftspraxis, München, Klinik und Poliklinik für 
+Dermatologie und Allergologie der Ludwig-Maximilians-Universität München.
+(2)Klinik für Dermatologie, Venerologie und Allergologie, Universitätsklinikum, 
+Frankfurt am Main.
+
+Akne ist eine chronische Erkrankung mit hoher Prävalenz unter Jugendlichen. 
+Pathogenetische Hauptfaktoren (und ihre klinischen Korrelate) sind gesteigerte 
+Talgproduktion (Seborrhoe), follikuläre Hyperkeratose (Komedonen) und 
+perifollikuläre Entzündungsvorgänge (Papulopusteln). Die Krankheit wird von 
+endogenen (Androgene, IGF-1, neuroendokrine Faktoren) und exogenen 
+(Propionibacterium acnes, Diät, mechanische Irritation, Inhaltsstoffe 
+medizinischer oder kosmetischer Externa) Einflüssen moduliert. Akne geht mit zum 
+Teil hoher Morbidität einher und kann bereits bei leichter Ausprägung eine 
+erhebliche Verschlechterung der Lebensqualität bewirken. Zu Therapie stehen 
+wirksame topische und systemische Behandlungsverfahren zur Verfügung. Eine 
+optimale Behandlung erfordert eine stadiengerechtes Management und 
+kontinuierliche ärztliche Begleitung der Patienten über den erforderlichen 
+Behandlungszeitraum.
+
+© 2017 Deutsche Dermatologische Gesellschaft (DDG). Published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/ddg.30_13278
+PMID: 28677193 [Indexed for MEDLINE]
+
+
+2. J Eur Acad Dermatol Venereol. 2025 May;39(5):899-941. doi: 10.1111/jdv.20472. 
+Epub 2024 Dec 19.
+
+European S2k guidelines for hidradenitis suppurativa/acne inversa part 2: 
+Treatment.
+
+Zouboulis CC(1)(2), Bechara FG(2)(3), Benhadou F(2)(4), Bettoli V(2)(5), Bukvić 
+Mokos Z(2)(6)(7), Del Marmol V(2)(4), Dolenc-Voljč M(2)(8)(9), 
+Giamarellos-Bourboulis EJ(2)(10), Grimstad Ø(2)(11)(12), Guillem P(2)(13), 
+Horváth B(2)(14), Hunger RE(2)(15), Ingram JR(2)(16), Ioannidis D(2)(17), Just 
+E(18), Kemény L(2)(19), Kirby B(2)(20), Liakou AI(2)(21), McGrath BM(2)(22), 
+Marzano AV(23)(24), Matusiak Ł(2)(25), Molina-Leyva A(2)(26), Nassif A(2)(27), 
+Podda M(2)(28), Prens EP(2)(29), Prignano F(2)(30), Raynal H(2)(31), Romanelli 
+M(2)(32), Saunte DML(2)(33)(34)(35), Szegedi A(2)(36), Szepietowski JC(2)(25), 
+Tzellos T(2)(11)(12), Valiukevičienė S(2)(37)(38), van der Zee HH(2)(29), van 
+Straalen KR(2)(29), Villumsen B(2)(39), Jemec GBE(2)(34)(35).
+
+Author information:
+(1)Departments of Dermatology, Venereology, Allergology and Immunology, 
+Staedtisches Klinikum Dessau, Brandenburg Medical School Theodor Fontane and 
+Faculty of Health Sciences Brandenburg, Dessau, Germany.
+(2)European Hidradenitis Suppurativa Foundation e.V., Dessau, Germany.
+(3)Department of Dermatology, Venereology and Allergology, International Centre 
+for Hidradenitis Suppurativa/Acne Inversa (ICH), Ruhr-University Bochum, Bochum, 
+Germany.
+(4)Dermatology Unit, Hôpitaux Unviversitaires de Bruxelles, Université Libre de 
+Bruxelles, Brussels, Belgium.
+(5)HS Clinic, O.U. of Dermatology, Azienda Ospedaliera - University of Ferrara, 
+Ferrara, Italy.
+(6)University of Zagreb School of Medicine, Zagreb, Croatia.
+(7)Department of Dermatology and Venereology, University Hospital Centre Zagreb, 
+Zagreb, Croatia.
+(8)Department of Dermatovenereology, Faculty of Medicine, University of 
+Ljubljana, Ljubljana, Slovenia.
+(9)Department of Dermatovenereology, University Medical Centre Ljubljana, 
+Ljubljana, Slovenia.
+(10)4th Department of Internal Medicine, National and Kapodistrian University of 
+Athens, Athens, Greece.
+(11)Department of Clinical Medicine, UiT - The Arctic University of Norway, 
+Tromsø, Norway.
+(12)Department of Dermatology, University Hospital of North Norway, Tromsø, 
+Norway.
+(13)Department of Surgery, Clinique du Val d'Ouest, Lyon, France.
+(14)Department of Dermatology, Center for Blistering Diseases, University 
+Medical Center Groningen, Groningen, The Netherlands.
+(15)Department of Dermatology, Inselspital, Bern University Hospital, University 
+of Bern, Bern, Switzerland.
+(16)Division of Infection and Immunity, Dermatology Department, Cardiff 
+University, Cardiff, UK.
+(17)1st Department of Dermatology-Venereology, Aristotle University Medical 
+School, Thessaloniki, Greece.
+(18)Deutsche Akne Inversa Patientenvereinigung, Coesfeld, Germany.
+(19)Department of Dermatology and Allergology, University of Szeged, Szeged, 
+Hungary.
+(20)Charles Department of Dermatology, St Vincent's University Hospital and 
+Charles Institute of Dermatology, University College Dublin, Dublin, Ireland.
+(21)1st Department of Dermatology-Venereology, "Andreas Sygros" Hospital for 
+Venereal and Cutaneous Diseases, National and Kapodistrian University of Athens 
+Medical School, Athens, Greece.
+(22)HS Ireland, Hidradenitis Suppurativa Association, County Clare, Ireland.
+(23)Dermatology Unit, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, 
+Milan, Italy.
+(24)Department of Pathophysiology and Transplantation, Università Degli Studi di 
+Milano, Milan, Italy.
+(25)Faculty of Medicine, Wroclaw University of Science and Technology, Wroclaw, 
+Poland.
+(26)Department of Dermatology and Venereology, Hospital Universitario Virgen de 
+las Nieves - Ibs Granada, Granada, Spain.
+(27)Centre d'Infectiologie Necker-Pasteur, Institut Pasteur, Centre Médical and 
+Université Paris-Cité, Paris, France.
+(28)Department of Dermatology, Medical Center Klinikum Darmstadt, Teaching 
+Hospital Goethe-University Frankfurt, Darmstadt, Germany.
+(29)Department of Dermatology, Erasmus University Medical Center, Rotterdam, The 
+Netherlands.
+(30)Section of Dermatology, Department of Health Sciences, University of 
+Florence, Florence, Italy.
+(31)Solidarité Verneuil, Lyon, France.
+(32)Department of Dermatology, University of Pisa, Pisa, Italy.
+(33)Department of Dermatology and Allergy, Copenhagen University Hospital - 
+Herlev-Gentofte Hospital, Hellerup, Denmark.
+(34)Department of Dermatology, Zealand University Hospital, Roskilde, Denmark.
+(35)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Copenhagen, Denmark.
+(36)Department of Dermatology, Faculty of Medicine and Clinical Center, 
+University of Debrecen, Debrecen, Hungary.
+(37)Department of Skin and Venereal Diseases, The Lithuanian University of 
+Health Sciences, Kaunas, Lithuania.
+(38)Department of Skin and Venereal Diseases, The Hospital of Lithuanian 
+University of Health Sciences Kauno klinikos, Kaunas, Lithuania.
+(39)Danish HS Patients' Association, Soborg, Denmark.
+
+INTRODUCTION: This second part of the S2k guidelines is an update of the 2015 S1 
+European guidelines.
+OBJECTIVE: These guidelines aim to provide an accepted decision aid for the 
+selection, implementation and assessment of appropriate and sufficient therapy 
+for patients with hidradenitis suppurativa/acne inversa (HS).
+METHODS: The chapters have been selected after a Delphi procedure among the 
+experts/authors. Certain passages have been adopted without changes from the 
+previous version. Potential treatment complications are not included, being 
+beyond the scope of these guidelines.
+RESULTS: Since the S1 guidelines publication, validation of new therapeutic 
+approaches has almost completely overhauled the knowledge in the field of HS 
+treatment. Inflammatory nodules/abscesses/draining tunnels are the primary 
+lesions, which enable the classification of the disease severity by new 
+validated tools. In relation to the degree of detectable inflammation, HS is 
+classified into the inflammatory and the predominantly non-inflammatory forms. 
+While the intensity of the inflammatory form can be subdivided by the IHS4 
+classification in mild, moderate and severe HS and is treated by medication 
+accordingly, the decision on surgical treatment of the predominantly 
+non-inflammatory form is based on the Hurley stage of the affected localization. 
+The effectiveness of oral tetracyclines as an alternative to the oral 
+combination of clindamycin/rifampicin should be noted. The duration of systemic 
+antibiotic therapy can be shortened by a 5-day intravenous clindamycin 
+treatment. Adalimumab, secukinumab and bimekizumab subcutaneous administration 
+has been approved by the EMA for the treatment of moderate-to-severe HS. Various 
+surgical procedures are available for the predominantly non-inflammatory form of 
+the disease. The combination of a medical therapy to reduce inflammation with a 
+surgical procedure to remove irreversible tissue damage is currently considered 
+a holistic therapeutic approach.
+CONCLUSIONS: Suitable therapeutic options while considering HS severity in the 
+therapeutic algorithm according to standardized criteria are aimed at ensuring a 
+proper therapy.
+
+© 2024 The Author(s). Journal of the European Academy of Dermatology and 
+Venereology published by John Wiley & Sons Ltd on behalf of European Academy of 
+Dermatology and Venereology.
+
+DOI: 10.1111/jdv.20472
+PMCID: PMC12023723
+PMID: 39699926 [Indexed for MEDLINE]
+
+Conflict of interest statement: CCZ has received advisory board and consultancy 
+fees from Almirall, Boehringer Ingelheim, Eli Lilly, Idorsia, Incyte, L'OREAL, 
+MSD, NAOS‐BIODERMA, Novartis, Pfizer, PPM, Sanofi and UCB, and lecture honoraria 
+from Almirall, Amgen, Biogen, Novartis, Pfizer and UCB. His departments have 
+received grants from Astra Zeneca, Boehringer Ingelheim, the Brandenburg Medical 
+School Theodor Fontane, the EADV, the European Union, the German Federal 
+Ministry of Education and Research, GSK, Inflarx, MSD, Novartis, Relaxera and 
+UCB for his participation as clinical and research investigator. He is the 
+president of the EHSF e.V., coordinator of the ALLOCATE Skin group of the ERN 
+Skin and chair of the ARHS Task Force group of the EADV. He is the editor of the 
+EADV News and co‐copyright holder of IHS4 on behalf of the EHSF e.V. FGB has 
+received honoraria for participation in advisory boards, in clinical trials, 
+and/or as a speaker from AbbVie, Acelyrin, Boehringer Ingelheim, Celltrion, Dr. 
+Wolff, Incyte, Inflarx, Janssen, Merck, Mölnlycke, Moonlake, Novartis, Sanofi, 
+Sitala and UCB. VB has acted as consultant, advisory board member, research 
+investigator and received honoraria from AbbVie, Avene, Beiersdorf, Bioderma, 
+Biogena, Difa‐Cooper, Exeltis, Galderma, Ganassini, Giuliani, GSK, ICF, Isdin, 
+Leo Pharma, L'OREAL, Meda, Menarini–Relife, Mylan, Novartis, Pharcos‐Biodue, 
+Pierre‐Fabre and UCB. His institution has received research support from AbbVie. 
+VDM has participated as clinical investigator for AbbVie, Amgen, Boehringer 
+Ingelheim, BMS, Incyte, Leo Pharma, Novartis, Pfizer, Sanofi, UCB. Her 
+department received grants from Almirall, BMS and Sanofi. She is the president 
+of the Belgian Society of Dermatology, board member of the ESPCR and EDF, and 
+chair of the EADV‐PPRC committee and the Euromelanoma skin cancer prevention 
+campaign for Europe. EJG‐B reports honoraria and consultation fees from Abbott 
+Products Operations, bioMérieux, Brahms GmbH, GSK and Sobi (granted to the 
+National and Kapodistrian University of Athens); independent educational grants 
+from AbbVie, InCyte, Novartis and UCB (granted to the National and Kapodistrian 
+University of Athens) and from Abbott Products Operations, bioMérieux Inc., 
+Johnson & Johnson, MSD and Swedish Orphan Biovitrum AB (granted to the Hellenic 
+Institute for the Study of Sepsis), support for attending the HS guidelines 
+meeting from the EHSF e.V., and funding from the Horizon 2020 European Grants 
+ImmunoSep and RISCinCOVID and the Horizon Health grants EPIC‐CROWN‐2 and POINT 
+(granted to the Hellenic Institute for the Study of Sepsis). MD‐V has received 
+lecture honoraria from AbbVie, Novartis and SwixxBioPharma. PG has received 
+advisory board and consultancy fees and support for attending meetings from 
+AbbVie, Cicaplus, Inresa, Novartis and UCB. REH has received lecture honoraria 
+from AbbVie, Galderma, Novartis, Sandoz and UCB. BH has received advisory board 
+and consultancy fees from AbbVie, Akari, Argenx, Janssen, Novartis, Regeneron, 
+Roche, Sanofi, UCB and HS studies support from Akari and Janssen. JRI has 
+received advisory board fees, lecture honoraria and support for attending 
+meetings from Abbvie, Boehringer Ingelheim, ChemoCentryx, Citryll, Insmed, 
+Kymera, MoonLake, Novartis, UCB, UNION and Viela Bio. He is a co‐copyright 
+holder of HiSQoL, Investigator Global Assessment and Patient Global Assessment 
+instruments for HS. His department receives income from copyright of the 
+Dermatology Life Quality Index and related instruments. He is officer of the 
+British Association of Dermatologists 2019–2024 and has received a stipend as 
+Editor‐in‐Chief of the British Journal of Dermatology 2019–2024 and an ongoing 
+authorship honorarium from UpToDate. DI reports honoraria for lectures and fees 
+for consultation of AbbVie, Amgen, Genesis, Jannsen, Leo Pharma, Novartis, 
+Pfizer, Sanofi and UCB (granted to the Aristotle University of Thessaloniki). He 
+is treasurer and committee chair of the EADV and board member of the Hellenic 
+Society of Dermatology and Venereology. EJ has received consultancy fees from 
+Novartis and support for attending meetings from the EHSF e.V. and Novartis. LK 
+has received advisory board fees from AbbVie, BMS, Eli Lilly, Novartis, Pfizer, 
+Sanofi, UCB, consultancy fees from AbbVie, Amgen, Boehringer Ingelheim, BMS, 
+Incyte, Leo Pharma, Novartis, Pfizer, Sanofi, UCB, lecture honoraria from 
+AbbVie, BMS, Eli Lilly, Novartis, Pfizer, Sanofi and UCB, and support for 
+attending meetings from AbbVie, Novartis and Sanofi. BK has received advisory 
+board and consultancy fees from Abbvie, Almirall, Amgen, BMS, Celgene, Eli 
+Lilly, GSK, Janssen, Leo Pharma, MC2 Therapeutics, Moonlake, Novartis, Pfizer, 
+UCB, Union and has participated at a Data Safety Monitoring Board of Arctic 
+Bioscience. He has received lecture honoraria from Abbvie, Almirall, BMS, 
+Celgene, Eli Lilly, Janssen, Leo Pharma, MC2 Therapeutics, Moonlake, Novartis 
+and UCB, and support for attending meetings from. Abbvie, Almirall, BMS, Eli 
+Lilly, Janssen, Moonlake, Novartis, UCB and Union. AIL has received advisory 
+board fees from Novartis, lecture honoraria and support for attending meetings 
+from AbbVie, Boehringer Ingelheim Novartis, UCB Pharma. She is sub‐investigator 
+in clinical trials of AbbVie, Boehringer Ingelheim, Insmed, Novartis, Sanofi and 
+UCB. His institution has received grants from Abbvie, Almirall, the British Skin 
+Foundation, the City of Dublin Skin and Cancer Charity, the Irish Research 
+Council, Janssen, Moonlake, Novartis, the Science Foundation Ireland and UCB for 
+his participation as clinical and research investigator. He is member of the 
+EHSF e.V. scientific committee, steering committee BADBIR and interim chair of 
+the Dermatology Clinical Advisory Group, Ireland. AVM has received advisory 
+board and consultancy fees, disease‐relevant lecture honoraria and support for 
+attending meetings from AbbVie, Amgen, Boehringer Ingelheim, BMS, Incyte, Leo 
+Pharma, Novartis, Pfizer, Sanofi, UCB. BMMG has received consultancy fees, 
+honoraria and support for attending meetings from Novartis and UCB, and 
+consultancy fees from Incyte. ŁM has received advisory board and consultancy 
+fees from AbbVie, Leo Pharma, Novartis and UCB, and lecture honoraria from 
+Almirall, AbbVie, Aristo Pharma, Janssen, Leo Pharma, Medac, Novartis, Pfizer, 
+Pierre‐Fabre, La Roche‐Posay and UCB. He obtained support for attending meetings 
+from AbbVie and Novartis and was investigator of RCT of AbbVie, Almirall, Amgen, 
+AnaptysBio, BMS, Boehringer Ingelheim, Celltrion, Galderma, Helm, Incyte, 
+InfraRX, Janssen, Kliniksa, Leo Pharma, Medimmune, Menlo, Merck, Novartis, 
+Pfizer, Regeneron, Takeda, Teva, Trevi and UCB. He is a member of the Polish 
+Dermatology Society Guideline Committee for HS. AM‐L has received advisory board 
+fees, lecture honoraria and support for attending meetings from Abbvie, 
+Almirall, Amgen, Novartis and UCB. MP has received advisory board fees from 
+AbbVie, Boehringer Ingelheim, CSL, Galderma, Janssen, MoonLake, Novartis, 
+L'OREAL and UCB, and consultancy fees from AbbVie, CSL, Galderma, Janssen, 
+Novartis and UCB. He has obtained lecture honoraria and support for attending 
+meetings from AbbVie, Beiersdorf, BMS, Eli Lilly, Galderma, Janssen, Leo Pharma, 
+L'OREAL, Novartis, MSD and UCB. EPP has received consultancy fees from GSK, 
+Janssen, MSD, Novartis, UCB and lecture honoraria from Janssen and UCB. FP has 
+received advisory board and consultancy fees from AbbVie, Amgen, Almirall, BMS, 
+Boehringer Ingelheim, Eli Lilly, Leo Pharma, Novartis, Pfizer, Sanofi, Takeda 
+and UCB, and lecture honoraria from AbbVie, Amgen, Biogen, BMS, 
+Böhringer‐Ingelheim, Eli Lilly, Leo Pharma, Novartis, Sanofi and UCB. MR has 
+received advisory board and consultancy fees from AbbVie, BMS, Eli Lilly, 
+Janssen and Sanofi. DMLS has received advisory board and consultancy fees from 
+Novartis, Sanofi and UCB, and lecture honoraria from Jamjoom Pharma, Leo Pharma, 
+Novartis, Sanofi and UCB. She obtained support for attending meetings from 
+Novartis, Pfizer and Sanofi. She has received support for the present manuscript 
+from Novartis und UCB. She is EADV Board Member, Chair of the Danish Dermatology 
+Society Guideline Committee for HS, and Section Editor of Dermatology and the 
+JEADV. JCS has received consultancy fees from AbbVie, Almirall, Galderma, Leo 
+Pharma, Novartis, Pfizer, Sanofi‐Genzyme, Trevi, Vifor, Sandoz and UCB, and 
+lecture honoraria from AbbVie, Almirall, Janssen, Eli Lilly, Leo Pharma, 
+Novartis, Pfizer, Sanofi‐Genzyme, Novartis, Teva and UCB. He obtained support 
+for attending meetings from Leo Pharma, Novartis, Sanofi‐Genzyme and UCB and has 
+participated as clinical investigator for AbbVie, Aceleryn, Almirall, Amgen, 
+AnaptysBio, Argenx, ASLAN, Biocom, Biogen, Bio‐Thera, BMS, Boehringer Ingelheim, 
+Celtrion, CuraTeQ, DICE, Galapagos, Galderma, Helm AG, Incyte, InfraRX, Janssen, 
+Kliniksa, Leo Pharma, Medimmune, Menlo Therapeutics, Merck, Moonlake, Novartis, 
+Pfizer, Regeneron, Takeda, Teva, Trevi, UCB, Uni Therapeutics and Ventyx. He is 
+president of the Polish Dermatological Society. TT has received advisory board 
+and consultancy fees and lecture honoraria from Abbvie, Almirall, Boehringer 
+Ingelheim, Novartis, Pfizer and UCB. He is the treasurer of the EHSF e.V. and 
+EADV executive committee member. SV has received advisory board fees, lecture 
+honoraria and support for attending meetings from Abbvie, Amgen, Johnson & 
+Johnson, Leo Pharma, Novartis, Pfizer, Roche and Sanofi. She is principal 
+investigator and sub‐investigator in clinical trial of Boehringer Ingelheim and 
+Novartis. HHvdZ has received consultancy fees and lecture honoraria from Abbvie, 
+Incyte, InflaRx, Insmed, Novartis and UCB. KRvS has received consultancy fees 
+and lecture honoraria from Novartis and UCB. AS has received advisory board, 
+consultancy fees and lecture honoraria from AbbVie, Eli Lilly, Janssen, 
+Novartis, Pfizer, Sanofi and UCB. She obtained support for attending meetings 
+from AbbVie, Janssen and UCB. She is board member of European Society of 
+Dermatological Research and member of the Editorial Board of JEADV. GBEJ has 
+served as a consultant for AbbVie, Coloplast, InflaRx, Leo Pharma, Novartis and 
+UCB, and on advisory boards for AbbVie, Janssen, MSD, Novartis, UCB and as a 
+speaker for AbbVie, Coloplast, Galderma and Leo Pharma. He has served as an 
+investigator for AbbVie, InflaRx, Leo Pharma, Novartis, Regeneron and UCB, and 
+has received unrestricted grants from AbbVie, Leo Pharma and Novartis. He is a 
+vice president of the EHSF e.V. FB, ØG, ZBM, AN, HR and BV declare no conflict 
+of interest.
+
+
+3. J Dtsch Dermatol Ges. 2018 Oct;16(10):1177-1179. doi: 10.1111/ddg.13666.
+
+Adulte Akne (Acne tarda) der Frau: Eine Herausforderung für den Dermatologen.
+
+Zouboulis CC.
+
+DOI: 10.1111/ddg.13666
+PMID: 30300483
+
+
+4. J Dtsch Dermatol Ges. 2018 Oct;16(10):1185-1196. doi: 10.1111/ddg.13664_g.
+
+Akne bei erwachsenen Frauen: Physiologische und psychologische Erwägungen und 
+Management.
+
+Dreno B(1), Bagatin E(2), Blume-Peytavi U(3), Rocha M(2), Gollnick H(4).
+
+Author information:
+(1)Department of Dermatology, University of Nantes, Frankreich.
+(2)Department of Dermatology, Federal University of São Paulo - UNIFESP, São 
+Paulo, Brasilien.
+(3)Klinik für Dermatologie, Venerologie und Allergologie, Charité - 
+Universitätsmedizin Berlin.
+(4)Klinik für Dermatologie und Venerologie, Otto-von-Guericke-Universität, 
+Magdeburg.
+
+DOI: 10.1111/ddg.13664_g
+PMID: 30300500
+
+
+5. J Dtsch Dermatol Ges. 2020 Dec;18(12):1426-1436. doi: 10.1111/ddg.14338_g.
+
+Assoziation hypertropher Post-Akne-Narben mit Einzelnukleotid-Polymorphismus 
+(rs243865) im Matrix-Metalloproteinase-2-Gen.
+
+[Article in German]
+
+Gupta N(1), Bishnoi A(2), Mathew D(1), Arora A(2), Handa S(2), Kaur J(1), De 
+D(2), Pal A(1).
+
+Author information:
+(1)Department of Biochemistry, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India.
+(2)Department of Dermatology, Venereology and Leprology, Postgraduate Institute 
+of Medical Education and Research, Chandigarh, India.
+
+HINTERGRUND UND ZIEL: Bei Akne wurde eine abweichende Gewebeexpression von 
+Matrix-Metalloproteinasen beobachtet. Ziel unserer Studie war es, die Bedeutung 
+von Polymorphismen einzelner Nukleotide (single nucleotide polymorphisms, SNPs) 
+in MMP-2 (-1306 C/T, rs243865) und TIMP-2 (-418 G/C, rs8179090) bei Akne und 
+Post-Akne-Narben zu untersuchen.
+PATIENTEN UND METHODEN: 512 Patienten (169 mit Akne ohne Narbenbildung, 319 mit 
+atrophen Aknenarben, 24 mit hypertrophen Aknenarben) und 161 gleichaltrige 
+Kontrollen wurden nach Erhalt der schriftlichen Einwilligungserklärung aus der 
+Ambulanz der Hautklinik in die Studie aufgenommen. Zur Genotypisierung mittels 
+Polymerasekettenreaktion-Restriktionsfragmentlängenpolymorphismus (PCR-RFLP) 
+wurde venöses Blut (5 ml) entnommen. Der Schweregrad von Akne und Akne-bedingter 
+Narbenbildung wurde bestimmt.
+ERGEBNISSE: Männer hatten ein deutlich erhöhtes Risiko schwere Akne (p = 0,012), 
+Akne außerhalb des Gesichts (p = 0,047) und Aknenarben außerhalb des Gesichts 
+(p = 0,0001) zu entwickeln. Entzündliche Akne korrelierte positiv mit dem 
+Schweregrad der Narbenbildung (p = 0,001). Die Wahrscheinlichkeit für die 
+Bildung hypertropher Narben war bei Personen mit homozygotem CC-Genotyp von 
+MMP-2 (-1306 C/T) gegenüber Kontrollen nicht verändert (Faktor 1,0; p = 0,05; 95 
+%-KI: 0,7-1,6), jedoch gegenüber Personen mit Akne ohne Narbenbildung um den 
+Faktor 7,8 (p = 0,047; 95 %-KI: 1,0-59,9) und gegenüber Personen mit atrophen 
+Narben um den Faktor 8,2 (p = 0,041; 95 %-KI: 1,1-59,9) erhöht.
+SCHLUSSFOLGERUNGEN: Es wurde eine signifikante Assoziation zwischen der Bildung 
+hypertropher Post-Akne-Narben und dem CC-Genotyp von MMP-2 (-1306 C/T) 
+beobachtet.
+
+© 2020 Deutsche Dermatologische Gesellschaft (DDG). Published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/ddg.14338_g
+PMID: 33373159

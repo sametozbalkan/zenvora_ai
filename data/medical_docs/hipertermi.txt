@@ -1,0 +1,97 @@
+=== PubMed: hipertermi ===
+1. Ulus Travma Acil Cerrahi Derg. 2023 Aug;29(8):841-849. doi: 
+10.14744/tjtes.2023.27339.
+
+The results of designing a new prototype device and algorithm in closed method 
+intraperitoneal hyperthermia model in rats.
+
+Ulubay M(1), Sevinç EN(2), Göksel BA(3), Aksoy OA(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University of Health Sciences, 
+Gülhane School of Medicine, Ankara-Türkiye.
+(2)Department of Obstetric and Gynecology,Turkish Ministery of Health, Diyadin 
+State Hospital, Ağrı-Türkiye.
+(3)Department of Labaratuvary Animals, University of Health Sciences, Gülhane 
+Health Sciences Instutute, Ankara-Türkiye.
+
+BACKGROUND: There is currently no standard medical device and method available 
+for hyperthermic intraperitoneal therapy studies in rats. In this study, we 
+present our designed device and algorithm that operates based on our own 
+protocol for hyperthermic intraperitoneal treatment in rats. The aim was to 
+demonstrate the effectiveness of the designed device, algorithm, and 
+hyperthermia protocol by showing that the device can achieve the desired 
+temperature inside the rat's abdomen, does not cause rat loss due to 
+complications, operates autonomously, and provides warnings to the operator in 
+case of emergencies.
+METHODS: A closed method for intraperitoneal hyperthermia protocol was 
+established for 6 female 8-week-old (280-310 g) albino Wistar rats. Fluid inlet 
+and outlet tubes and a temperature probe were inserted through a 1 cm vertical 
+incision between the xiphoid and bladder in the rat's abdomen, and the skin was 
+sutured in a circular manner. A protocol for intraperitoneal hyperthermic 
+treat-ment was established using a saline solution at a flow rate of 100 mL/min 
+for 60 min, maintaining a temperature of 41°C±0.5 inside the rat's abdomen.
+RESULTS: During the study, a temperature of 41°C±0.5 was successfully achieved 
+in the abdomen of all rats at a flow rate of 100 mL/min±5 for 60 min. Due to 
+three rats reaching a rectal temperature above 38.5°C during the hyperthermia 
+protocol, external cooling was applied to the rat's tail base using ice. There 
+were no losses until the postoperative 72nd h, and the study was successfully 
+completed.
+CONCLUSION: Our designed device and algorithm, which prioritize animal welfare, 
+operate rapidly, safely, and with high accuracy sensitivity, have been 
+successful in hyperthermic intraperitoneal treatment studies in rats. We believe 
+that they can be used as a stan-dard method and approach in hyperthermic 
+intraperitoneal studies in rats.
+
+DOI: 10.14744/tjtes.2023.27339
+PMCID: PMC10560800
+PMID: 37563905 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+2. Int J Nurs Knowl. 2026 Apr 30:20473087261443269. doi:
+10.1177/20473087261443269.  Online ahead of print.
+
+Evaluation of Patients with Hyperthermia According to the Thermoregulation 
+Nursing Outcomes Classification.
+
+Korkmaz Binay Ş(1), Erden Melikoğlu S(2).
+
+Author information:
+(1)Faculty of Health Sciences, Department of Nursing Fundamentals, Erzincan 
+Binali Yıldırım University, Erzincan/Türkiye.
+(2)Department of Fundamentals of Nursing, Florence Nightingale Faculty of 
+Nursing, Istanbul University-Cerrahpasa, İstanbul/Türkiye.
+
+PurposeThis study was designed to evaluate the process of controlling body 
+temperature in patients who were diagnosed with infection and followed up with 
+the diagnosis of "hyperthermia" according to the NANDA-I nursing diagnosis 
+classification according to the outcome criterion "NOC (0800) Thermoregulation 
+Assessment."MethodThis methodological and descriptive study was conducted with 
+102 inpatients followed up with the nursing diagnosis of "hyperthermia" in the 
+Department of Infectious Diseases and Clinical Microbiology of a training and 
+research hospital between June 2024 and June 2025. The data were collected using 
+the "Patient Information Form" and the "NOC (0800) Thermoregulation Assessment 
+Scale." Statistical analyses specific to groups that were normally distributed 
+(t-test) or not (Mann-Whitney U, Kruskal-Wallis, and Spearman correlation 
+analysis) were done to analyze the data. For validity and reliability, the Davis 
+Technique, Cronbach's α coefficient, Standardized Root Mean Square Residual fit 
+indices, and item-total correlation statistical analyses were done.FindingsThe 
+content validity index of the NOC scale was calculated as 0.97. When the mean 
+scores of the patients on the NOC (0800) Thermoregulation Assessment Scale were 
+analyzed, a statistically significant difference was observed for repeated 
+assessments (p < 0.01). The indicators "dropped skin temperature", 
+"hypothermia", "heat cramps", "heat stroke", and "cold-related tissue damage" 
+were "not applicable" in the study population. No statistically significant 
+difference was found between the NOC scale mean scores of the patients according 
+to their gender, marital status, educational level, occupation, and presence of 
+chronic diseases (p > 0.05).ConclusionsThe Turkish version of the NOC (0800) 
+Thermoregulation Assessment Scale was a valid tool that could be used during the 
+process of controlling body temperature in patients with infection.Implications 
+of nursing practiceThe use of the NOC (0800) Thermoregulation Assessment Scale 
+would create a common language for delivering nursing care while assessing the 
+process of controlling body temperature.
+
+DOI: 10.1177/20473087261443269
+PMID: 42060139

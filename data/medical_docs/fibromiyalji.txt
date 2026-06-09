@@ -1,0 +1,247 @@
+=== PubMed: fibromiyalji ===
+1. Rheumatol Int. 2025 Apr 22;45(5):115. doi: 10.1007/s00296-025-05871-x.
+
+Structural changes in the upper trapezius muscle of fibromyalgia patients 
+identified by quantitative ultrasonography: a cross-sectional study.
+
+Meral HB(1), Rezvani A(2), Tolu S(2), Usen A(2), Dasdelen MF(3).
+
+Author information:
+(1)Faculty of Medicine, Department of Physical Medicine and Rehabilitation, 
+Istanbul Medipol University, Istanbul, Türkiye. meralbetigul@gmail.com.
+(2)Faculty of Medicine, Department of Physical Medicine and Rehabilitation, 
+Istanbul Medipol University, Istanbul, Türkiye.
+(3)Faculty of Medicine, Istanbul Medipol University, International School of 
+Medicine, Istanbul, Türkiye.
+
+The heterogeneity of symptoms among patients with fibromyalgia (FM) makes the 
+development of standardized diagnostic criteria challenging. No imaging 
+technique has reliably shown FM-related muscle changes to aid clinical 
+assessment. This study aimed to quantitatively analyze the upper trapezius 
+muscle in FM patients using B-mode ultrasonography and blob analysis and to 
+examine its correlation with clinical parameters. A total of 34 female FM 
+patients and 34 healthy controls were included in this cross-sectional study. 
+B-mode ultrasonography was used to image the dominant-side upper trapezius 
+muscle, and MATLAB-based blob analysis was performed to assess blob size, blob 
+count, and echointensity. These measurements were correlated with disease 
+severity indices, including the Central Sensitization Inventory (CSI), Visual 
+Analog Scale (VAS) for pain, Fibromyalgia Impact Questionnaire (FIQ), 36-Item 
+Short Form Survey (SF-36), and Beck Depression and Anxiety Inventories (BDI, 
+BAI). FM patients had significantly higher total blob size (p < 0.001) and blob 
+size per mm² (p < 0.001) than controls. Echointensity was significantly 
+increased in the FM group (p = 0.009). Total blob size showed a moderate 
+positive correlation with CSI scores (p = 0.002). Regression analysis indicated 
+that pain-VAS was a significant predictor of total blob size per mm² 
+(p < 0.001). Blob analysis demonstrated quantifiable muscle alterations in FM, 
+supporting its potential role as an objective assessment tool. Given the 
+correlation between muscle echotexture and FM severity, quantitative 
+ultrasonography may contribute to a better understanding of FM pathophysiology.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00296-025-05871-x
+PMCID: PMC12014792
+PMID: 40261374 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval: This study was 
+conducted in accordance with the ethical principles of the Declaration of 
+Helsinki and was approved by the Medipol University Ethics Committee (Approval 
+Number: E-10840098-772.02-6754). Consent to participate: Informed consent was 
+obtained from all individual participants included in the study. Consent for 
+publication: The authors affirm that human research participants provided 
+informed consent for the publication of the data included in this study. 
+Congress abstract publication: A preliminary version of this study was presented 
+at the 30th National Congress of Physical Medicine and Rehabilitation (Türkiye 
+Fiziksel Tıp ve Rehabilitasyon Derneği) as an oral presentation: Meral HB, 
+Rezvani A, Tolu S, Üşen A. “Fibromiyalji Sendromunda Trapez Kasının Kantitatif 
+Ultrason Analiz Sonuçlarının Hastalık Parametreleri İle İlişkisinin 
+Değerlendirilmesi”. 30. Ulusal Fiziksel Tıp ve Rehabilitasyon Kongresi, 2024. 
+Abstract No: S-038. The abstract is available at: 
+https://www.tftr.org.tr/dosya/8d83702d-689d-4a4f-8fe3-47df7c83aea1.pdf . 
+Disclaimer: No part of this manuscript, including text and graphics, has been 
+copied or published elsewhere in whole or in part. No AI tools were used for 
+writing or editing this manuscript. Competing Interests: The authors have no 
+competing financial or non-financial interests to declare that are relevant to 
+the content of this article.
+
+
+2. Agri. 2023 Apr;35(2):63-67. doi: 10.14744/agri.2022.54533.
+
+Does fibromyalgia affect physical activity due to pain?
+
+[Article in English]
+
+Akdoğan MR(1), Doğancı EB(2), Tüzün Z(1), Arslan S(3), Alkan Melikoğlu M(2).
+
+Author information:
+(1)Division of Rheumatology, Department of Internal Medicine, Atatürk University 
+Faculty Medicine, Erzurum, Türkiye.
+(2)Division of Rheumatology, Department of Physical Medicine and Rehabilitation, 
+Atatürk University Faculty of Medicine, Erzurum, Türkiye.
+(3)Department of Physical Medicine and Rehabilitation, Dr. Lutfi Kırdar City 
+Hospital, İstanbul, Türkiye.
+
+OBJECTIVES: The aim of this case-control study was to evaluate the physical 
+activity levels of patients with fibromyalgia syndrome (FMS) and to assess a 
+possible relation between physical activity and FMS characteristics.
+METHODS: Seventy patients with FMS and 50 age-gender-matched controls were 
+included. Pain was evaluated using the visual analog scale. The Fibromyalgia 
+Impact Questionnaire (FIQ) scoring system was used for the evaluation of the 
+impact of FMS. Furthermore, for assessing the physical activity in our 
+participants, we used the International Physical Activity Questionnaire (IPAQ). 
+The Mann-Whitney U and Pearson's correlation tests were used for group 
+comparisons and correlation analyses.
+RESULTS: The patients presented significantly less transportation-related, 
+recreational, and total physical activity levels, besides reporting 
+significantly less time spent walking and less time spent in vigorous activities 
+than controls (p<0.05). Furthermore, there was a negative correlation between 
+pain and the scores of self-reported moderate or vigorous physical activity 
+(r=-0.41, p<0.01) in patients. However, we could not find any correlation 
+between FIQ and IPAQ scores.
+CONCLUSION: Patients with FMS are physically less active than healthy 
+individuals. This reduced activity seems to be associated with pain, but not 
+with the impact of the disease. In the management of the patient with FMS, 
+considering the patient's physical activity behavior negatively affected by pain 
+may contribute to holistic approach to the patients.
+
+DOI: 10.14744/agri.2022.54533
+PMID: 37052160 [Indexed for MEDLINE]
+
+
+3. Tuberk Toraks. 2022 Mar;70(1):37-43. doi: 10.5578/tt.20229905.
+
+Coexistence of obstructive sleep apnea syndrome and fibromyalgia.
+
+[Article in English]
+
+Altıntop Geçkil A(1), Aydoğan Baykara R(2).
+
+Author information:
+(1)Department of Chest Diseases, Malatya Turgut Özal University Faculty of 
+Medicine, Malatya, Turkey.
+(2)Department of Physical Therapy and Rehabilitation, Malatya Turgut Özal 
+University Faculty of Medicine, Malatya, Turkey.
+
+INTRODUCTION: Fibromyalgia is characterized by pain all over the body, whose 
+diagnosis and treatment are not fully understood. Obstructive sleep apnea 
+syndrome (OSAS) is a disease that causes apnea, hypopnea and oxygen desaturation 
+due to collapse in the upper respiratory tract and is characterized by excessive 
+daytime sleepiness, fatigue and lack of attention. Symptoms and signs of OSAS 
+and fibromyalgia are similar. In our study, we aimed to compare the association 
+of fibromyalgia in female OSAS patients in terms of polysomnography and 
+laboratory parameters.
+MATERIALS AND METHODS: We aimed to examine the association of fibromyalgia in 
+patients with female OSAS. A total of 190 female OSAS patients were included in 
+the study. The patients were divided into two groups according to the presence 
+of fibromyalgia: 88 (46.3%) patients in the fibromyalgia group and 102 (53.7%) 
+patients in the control group. Statistical Package for the Social Sciences 
+(SPSS) program was used for the evaluation of demographic data, polysomnography 
+parameters and laboratory tests of the patients, and values with p<0.05 were 
+considered statistically significant.
+RESULT: Mean age of the patients was 52.1 ± 11.9 years and mean body mass index 
+(BMI) was 35.1 ± 7.2. There was no difference between age and BMI (p= 0.971, p= 
+0.716, respectively). Periodic leg movements (PLMS) were higher in the 
+fibromyalgia group (p= 0.02). The desaturation index (CT90) was found to be high 
+in the fibromyalgia group (p= 0.043). The minimum SaO2 value was found to be low 
+in the fibromyalgia group (p= 0.022). Sleep latency was found to be higher in 
+the fibromyalgia group (p= 0.031). Hemoglobin and hematocrit values were found 
+to be statistically significantly higher in the fibromyalgia group (p= 0.020, p= 
+0.027, respectively). Triglyceride level was found to be high in the 
+fibromyalgia group (p= 0.043).
+CONCLUSIONS: We recommend clinical evaluation of female patients with 
+fibromyalgia and we suggest polysomnography, especially in patients with 
+excessive daytime sleepiness. Early diagnosis and treatment of concomitant OSAS 
+will contribute to quality of fibromyalgia patients' life.
+
+DOI: 10.5578/tt.20229905
+PMID: 35362303 [Indexed for MEDLINE]
+
+
+4. Agri. 2023 Jul;35(3):148-152. doi: 10.14744/agri.2022.99076.
+
+Comparison of the diagnoses, the outpatient clinics they visited, and the number 
+of visits of patients with and without a diagnosis of fibromyalgia syndrome: Do 
+patients with fibromyalgia syndrome come to the hospital more often?
+
+[Article in English]
+
+Okçu M(1), Ayhan MY(2), Tuncay F(2), Koçak FA(2), Erden Y(3), Doğru YG(2), Kaya 
+SS(2).
+
+Author information:
+(1)Division of Pain Medicine, Department of Physical Medicine and 
+Rehabilitation, Marmara University Faculty of Medicine, İstanbul, Türkiye.
+(2)Department of Physical Medicine and Rehabilitation, Kırşehir Ahi Evran 
+University Faculty of Medicine, Kırşehir, Türkiye.
+(3)Department of Physical Medicine and Rehabilitation, İzzet Baysal Physical 
+Treatment Training and Research Hospital, Bolu, Türkiye.
+
+OBJECTIVES: Fibromyalgia syndrome (FMS) has a wide spectrum of symptoms that 
+includes all body parts. So FMS is a great imitator. This brings to mind the 
+possibility that fibromyalgia patients visit outpatient clinics in many 
+departments more than non-fibromyalgia patients. However, there is not enough 
+data on this subject. This study aims to compare the number of outpatient visits 
+of patients with FMS with those without a diagnosis of FMS and to examine their 
+diagnoses.
+METHODS: The diagnoses of 140 patients (70 with fibromyalgia and 70 controls), 
+and departments of the outpatient clinics they visited were analyzed 
+retrospectively. In the control group, patients who visited the same outpatient 
+clinic with the complaint of knee pain, but who did not have FMS and who had 
+never been diagnosed with FMS before, were recruited as age- and gender-matched.
+RESULTS: The total number of outpatient clinic visits, as well as the number of 
+visits to physical medicine and rehabilitation, obstetrics and gynecology, 
+general surgery, internal medicine, and psychiatry departments, were 
+significantly higher in fibromyalgia group patients compared to the control 
+group. In addition, the number of diagnoses in the 5th chapter (mental, 
+behavioral, and neurodevelopmental disorders, F01-F99) of International 
+Classification of Diseases-10 was significantly higher in the fibromyalgia 
+group.
+CONCLUSION: It should be kept in mind that patients with FMS visit more 
+hospitals and outpatient clinics than other patients. Physicians and patients 
+should be informed about this issue to reduce unnecessary health costs.
+
+DOI: 10.14744/agri.2022.99076
+PMID: 37493488 [Indexed for MEDLINE]
+
+
+5. Agri. 2024 Apr;36(2):113-119. doi: 10.14744/agri.2022.58219.
+
+Treatment of fibromyalgia among patients with mastalgia and fibromyalgia 
+improved mastalgia.
+
+[Article in English]
+
+Yılmaz TU(1), Inanır M(2), Çınar S(3), Güler SA(3), Utkan NZ(3).
+
+Author information:
+(1)Department of Organ Transplantation, Acıbadem University Atakent Hospital, 
+İstanbul, Türkiye.
+(2)Department of Physical Medicine and Rehabilitation, Kocaeli University 
+Faculty of Medicine, Kocaeli, Türkiye.
+(3)Department of General Surgery, Kocaeli University Faculty of Medicine, 
+Kocaeli, Türkiye.
+
+OBJECTIVES: The aim of this study is to examine the effect of fibromyalgia (FM) 
+treatment on mastalgia by performing fibromyalgia screening in patients who 
+applied for mastalgia and whose underlying cause could not be found.
+METHODS: Patients who applied to Kocaeli University General Surgery Outpatient 
+Clinic between November 2017 and November 2020 with breast pain were included 
+(n=120). Patients without cancer, systemic disease, previous breast surgery, and 
+breast mass larger than 3 cm (n=30) were referred to the Physical Therapy and 
+Rehabilitation Outpatient Clinic. A total of 13 patients (43%) were diagnosed 
+with FMS. Twelve of them were given selective serotonin-noradrenaline reuptake 
+inhibitor (duloxetine) treatment for 3 months. Turkish version of the Short Form 
+- 36 (SF-36) quality of life scores, Visual Analog Scale (VAS), Cardiff breast 
+pain score before and after treatment were compared. The remaining 17 patients 
+were followed as only mastalgia.
+RESULTS: Patients with fibromyalgia and mastalgia had similar demographic 
+results. At the end of the 3rd month, the complaints of breast pain completely 
+regressed in all of the patients. Statistically significant changes were 
+detected in VAS score, the number of trigger points, and SF-36 quality of life 
+scores, Cardiff breast pain score after duloxetine treatment.
+CONCLUSION: In the presence of unexplained mastalgia, fibromyalgia should be 
+kept in mind. Duloxetine treatment improved the breast pain and quality of life 
+in patients with mastalgia and fibromyalgia.
+
+DOI: 10.14744/agri.2022.58219
+PMID: 38558398 [Indexed for MEDLINE]

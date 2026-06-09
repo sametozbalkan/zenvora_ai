@@ -1,0 +1,175 @@
+=== PubMed: prolactin high low causes treatment ===
+1. Med Sci (Basel). 2026 Apr 20;14(2):205. doi: 10.3390/medsci14020205.
+
+Breast Cancer Risk in over 1.3 Million Women on Antipsychotic Therapy: 
+Life-Saving Drugs or Hidden Trigger for Breast Cancer?
+
+Giusto EA(1)(2), Oteri V(3), Guido G(4), Bogdan DA(5), Giuliani J(6), Giorgi 
+C(1)(7), Pinton P(1)(8), Fiorica F(6)(9).
+
+Author information:
+(1)Department of Medical Sciences, Section of Experimental Medicine and 
+Laboratory of Technologies for Advanced Therapy (LTTA), University of Ferrara, 
+44121 Ferrara, Italy.
+(2)Azienda Ospedaliero-Universitaria S. Anna, Via Aldo Moro 8, 44124 Ferrara, 
+Italy.
+(3)Department of Clinical and Experimental Medicine, Endocrinology Section, 
+Garibaldi-Nesima Hospital, University of Catania, Via Palermo, 636, 95122 
+Catania, Italy.
+(4)Department of Biomedical and Biotechnological Sciences, University of 
+Catania, Via S. Sofia 89, 95123 Catania, Italy.
+(5)Department of Sciences, Sapienza University of Rome, Piazzale Aldo Moro 5, 
+00185 Rome, Italy.
+(6)Department of Clinical Oncology, Section of Radiation Oncology and Nuclear 
+Medicine, AULSS 9 Scaligera, 37122 Verona, Italy.
+(7)Biomedical Research Center, Kansai Medical University, 10-15, Fumizono-cho, 
+Moriguchi-shi 570-8507, Osaka, Japan.
+(8)Maria Cecilia Hospital, GVM Care & Research, Via Corriera 1, 48033 Cotignola, 
+Italy.
+(9)Department of Clinical Oncology, Section of Medical Oncology, AULSS 9 
+Scaligera, 37122 Verona, Italy.
+
+Introduction: Antipsychotic (AP) medications are widely prescribed beyond 
+psychotic disorders, yet their long-term safety profile regarding breast cancer 
+(BC) risk remains uncertain. Methods: We conducted a systematic review and 
+meta-analysis of observational studies evaluating the association between AP 
+exposure and incident BC. Eligible studies reported adjusted odds ratios (ORs) 
+with 95% confidence intervals for any AP, prolactin-increasing antipsychotics 
+(PIAPs), or prolactin-sparing antipsychotics (PSAPs). Study quality was assessed 
+using the modified Newcastle-Ottawa Scale (mNOS), and certainty of evidence was 
+graded with the GRADE framework. Random-effect models were used to pool effect 
+estimates by exposure category, duration, and cumulative Defined Daily Dose 
+(DDD). Results: Nine high-quality observational studies encompassing 108 effect 
+estimates were included. Most studies achieved mNOS scores of 9, yet GRADE 
+certainty ranged from very low to moderate, with the overall body of evidence 
+graded as low certainty due primarily to residual confounding. Any AP exposure 
+was associated with a modestly increased BC risk, particularly with long-term 
+use: use for >5 years yielded pooled ORs around 1.5-1.6, while short-to-medium 
+duration (1-5 years) showed smaller increases (pooled ORs in the range 1.2-1.3). 
+For PIAPs, both longer duration (>5 years) and higher cumulative exposure 
+(>1000-2000 DDDs) were consistently associated with ORs/HRs in the 1.3-1.6 
+range, suggesting a possible dose-response pattern. Histological analyses 
+indicated stronger associations for ductal than lobular BC, and elevated risks 
+were observed across age strata, including women aged <55 and ≥70 years. 
+Discussion: This meta-analysis suggests that chronic exposure to 
+prolactin-increasing antipsychotics is associated with a potentially clinically 
+relevant increase in BC risk, whereas prolactin-sparing agents do not show a 
+clear signal of harm. However, the certainty of this association is limited by 
+inconsistently measured confounders and by the observational nature of the data. 
+These findings support a cautious, individualized approach in which clinicians 
+preferentially consider PSAPs when appropriate, discuss BC risk as part of 
+shared decision-making, and integrate tailored screening strategies for women 
+requiring long-term PIAP therapy. Further high-quality pharmacoepidemiologic 
+studies with better confounder control and mechanistic integration are needed to 
+refine risk estimates and inform preventive neuropsychopharmacology.
+
+DOI: 10.3390/medsci14020205
+PMID: 42029629 [Indexed for MEDLINE]
+
+
+2. Indian J Med Res. 2025 Dec;162(6):754-763. doi: 10.25259/IJMR_1525_2025.
+
+Prevalence & predictors of sexual functioning & sex hormone profiles among men 
+with opioid dependence: A community-based, cross-sectional study.
+
+Patel V(1)(2), Rao R(1), Bhad R(1), Mishra AK(1), Quraishi R(1), Gupta Y(3).
+
+Author information:
+(1)National Drug Dependence Treatment Centre, All India Institute of Medical 
+Sciences, New Delhi, India.
+(2)Department of Psychiatry, All India Institute of Medical Sciences, Raipur, 
+Chhattisgarh, India.
+(3)Department of Endocrinology, All India Institute of Medical Sciences, New 
+Delhi, India.
+
+Background & objectives Though sexual dysfunction are common in individuals with 
+opioid dependence, the relative contribution of hormonal and psychological 
+determinants remains unclear. Studies assessing sexual functioning and sex 
+hormone levels together in this population remain limited. This study aimed to 
+evaluate self-reported sexual dysfunction and sex hormone alterations, and their 
+association with demographic, psychosocial, and hormonal factors in men with 
+opioid dependence, primarily using heroin. Methods In this cross-sectional 
+study, 143 sexually active males (aged 18-50 yr) with opioid dependence were 
+recruited. Sexual functioning was assessed using the international index of 
+erectile function (IIEF-15). Hormonal assays included total testosterone, 
+prolactin (PRL), luteinising hormone (LH), follicle-stimulating hormone (FSH), 
+gonadotropin-releasing hormone (GnRH), sex hormone-binding globulin (SHBG), and 
+dehydroepiandrosterone sulphate (DHEA-S). Descriptive statistics, Spearman's 
+rank correlation with FDR (false discovery rate) correction, and hierarchical 
+multiple regression with bootstrapped confidence intervals (1000 samples) were 
+conducted. A sensitivity analysis restricted to married participants (n=78) 
+allowed inclusion of intimate partner violence as predictor. Results The median 
+age of participants (n=143) was 26 yr [Interquartile range (IQR):24-30], with 93 
+per cent identifying as heterosexual. Erectile dysfunction (93.7%, n=134), 
+orgasmic dysfunction (95.1%, n=136), low sexual desire (94.4%, n=135), 
+dissatisfaction with sexual intercourse (99.3%, n=142), and premature 
+ejaculation (72%, n=103) were highly prevalent. Hormonal analysis showed low 
+testosterone in 7.7 per cent (n=11), high PRL in 8.4 per cent (n=12), and 
+elevated GnRH in 57.3 per cent (n=82) of participants. Median hormone levels 
+were: Testosterone 20.5 (15.0-27.3) nmol/L, PRL 5.8 (3.5-11.2) ng/mL, and GnRH 
+160.3 (132.2-178.1) pg/mL. No significant correlations were observed between 
+hormone levels and sexual function. In regression analysis, demographic and 
+psychosocial variables predicted sexual functioning, while hormonal measures did 
+not contribute independently. The final model explained 17 per cent of variance 
+(adjusted R2 = 0.17). Interpretation & conclusion Sexual dysfunction in men with 
+opioid dependence primarily using heroin was driven more by psychosocial and 
+demographic determinants than by hormonal changes. Endocrine alterations were 
+not sufficient to explain the high burden of dysfunction. Addressing sexual 
+health in opioid dependence requires a multifactorial approach, with attention 
+to social and psychological contributors alongside biological assessment.
+
+DOI: 10.25259/IJMR_1525_2025
+PMCID: PMC12883138
+PMID: 41648956 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+3. Zhongguo Zhong Yao Za Zhi. 2025 Oct;50(20):5842-5850. doi: 
+10.19540/j.cnki.cjcmm.20250617.702.
+
+[Shoutai Wan improves endometrial decidualization by regulating BRD4 to activate 
+Wnt4/β-catenin signaling pathway].
+
+[Article in Chinese]
+
+Hu SC(1), Zhang ZX(2), Zhang Y(1), Chen C(1), Xing ZH(2), He M(1).
+
+Author information:
+(1)Institute of Integrative Medicine, Hebei University of Chinese Medicine 
+Shijiazhuang 050200, China Hebei Key Laboratory of Integrative Medicine on 
+Liver-Kidney Patterns Shijiazhuang 050200, China Hebei Collaborative Innovation 
+Center of Integrated Traditional and Western Medicine on Reproductive Disease 
+Shijiazhuang 050200, China.
+(2)Institute of Integrative Medicine, Hebei University of Chinese Medicine 
+Shijiazhuang 050200, China Hebei Key Laboratory of Integrative Medicine on 
+Liver-Kidney Patterns Shijiazhuang 050200, China.
+
+This study aimed to investigate the effects of Shoutai Wan(STW) on 
+bromodomain-containing protein 4(BRD4) and the Wnt family member 
+4(Wnt4)/β-catenin signaling pathway, and to explore its potential mechanism in 
+promoting endometrial decidualization for the treatment of recurrent spontaneous 
+abortion(RSA). A mouse model of RSA was established, and CBA/J female mice were 
+randomly divided into five groups(n=10 per group): normal group, model group, 
+low-dose STW group(7.5 g·kg~(-1)), high-dose STW group(15 g·kg~(-1)), and 
+dydrogesterone group(0.003 g·kg~(-1)). From gestational day 1(GD1), mice in the 
+low-dose STW, high-dose STW, and dydrogesterone groups received intragastric 
+administration of the respective drugs, while mice in the normal and model 
+groups were given distilled water instead, for 10 consecutive days. Uterine and 
+decidual tissues were collected on GD10. Human endometrial stromal cells(HESCs) 
+were cultured in vitro, and a decidualization model was induced using dibutyryl 
+cyclic AMP(db-cAMP) combined with medroxyprogesterone acetate(MPA). Cells were 
+incubated with STW-containing serum, and BRD4 was either overexpressed or 
+knocked down, followed by further incubation with STW-containing serum. 
+Hematoxylin and eosin(HE) staining was performed to assess endometrial 
+decidualization. Western blot was used to measure the protein expression levels 
+of BRD4, insulin-like growth factor-binding protein-1(IGFBP-1), prolactin(PRL), 
+Wnt4, and β-catenin. Immunohistochemistry was conducted to detect the expression 
+of BRD4, Wnt4, and β-catenin in decidual tissues. The results showed that STW 
+improved endometrial decidualization in RSA mice, and enhanced the expression of 
+PRL and IGFBP-1 proteins, thereby promoting decidualization. STW promoted 
+endometrial decidualization by activating the Wnt4/β-catenin signaling pathway 
+via BRD4.
+
+DOI: 10.19540/j.cnki.cjcmm.20250617.702
+PMID: 41508215 [Indexed for MEDLINE]

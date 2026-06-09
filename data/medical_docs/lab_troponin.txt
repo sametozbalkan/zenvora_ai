@@ -1,0 +1,216 @@
+=== PubMed: troponin cardiac marker high causes treatment ===
+1. Curr Cardiol Rev. 2026 Apr 9. doi: 10.2174/011573403X403834251204161927.
+Online  ahead of print.
+
+Unlocking the Potential of Biomarkers in Varied Cardiovascular Associated 
+Conditions with Individualized Treatment Approaches: A Comprehensive Review.
+
+Guleria M(1), Malhan A(1), Goyal D(2), Sharma D(3), Singh S(4)(5), Sahu KK(6), 
+Syukri DM(7), Chidrawar VR(8), Datta D(9), Nagime PV(10).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, Guru Nanak Dev University, Amritsar, 
+Punjab 143005, India.
+(2)Department of Pharmacology, Central University of Punjab, Ghudda, Bathinda, 
+Punjab 151401, India.
+(3)UIPS, Saraswati College of Pharmacy, Gharuan, Mohali, Punjab 140413, India.
+(4)Office of Research Administration, Chaing Mai University, Chaing Mai 50200, 
+Thailand.
+(5)Faculty of Pharmacy, Chaing Mai University, Chaing Mai 50200, Thailand.
+(6)Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh 
+281406, India.
+(7)Department of Microbiology, Faculty of Medicine, Malahayati University, 
+Bandar Lampung, Lampung, 35153, Indonesia.
+(8)School of Pharmacy and Technology Management, SVKM'S Narsee Monjee Institute 
+of Management Studies (NMIMS), Deemed-to-University, Jadcharla, Telangana 
+509301, India.
+(9)Department of Pharmaceutics, Manipal College of Pharmaceutical Sciences, 
+Manipal Academy of Higher Education, Manipal, Karnataka 576104, India.
+(10)Centre of Excellence in innovative Biotechnology for Sustainable Utilization 
+of Bioresources, Faculty of Argo Industry Thailand, Prince of Songkhla 
+University, Hat Yai 90110, Thailand.
+
+INTRODUCTION: Biomarkers play a pivotal role in the prognosis, risk 
+stratification, and management of cardiovascular diseases (CVDs), which remain 
+the foremost cause of morbidity and mortality globally.
+METHODS: A comprehensive review explores the various types of biomarkers 
+utilized in the treatment of different CVD conditions, presenting the 
+information clearly and concisely. Additionally, this overview summarizes recent 
+clinical trial findings and advances in biomarker research.
+RESULTS: Recent advancements in biomarker research have identified a range of 
+circulating biomarkers, including high-sensitivity C-reactive protein (hsCRP), 
+cardiac troponins (cTn) and various microRNAs, that enhance the predictive 
+accuracy for cardiovascular events. These biomarkers are derived from diverse 
+pathophysiological processes such as inflammation, endothelial dysfunction and 
+MI.
+DISCUSSION: As versatile tools, biomarkers serve as prognostic indicators, 
+diagnostic markers, intermediate and surrogate endpoints, and safety monitors, 
+making them essential in personalized medicine. In this context, 
+biomarker-guided cardiovascular therapies represent an advanced approach, 
+allowing clinicians to customize treatment choices and track therapeutic 
+effectiveness in real time. In addition, nanobiotechnology-based systems are 
+also pivotal in personalized medicine, offering targeted therapeutic delivery 
+for CVDs, particularly in addressing heart cell death. Moreover, artificial 
+intelligence, which is emerging as a useful tool in biomarker-guided, 
+personalized cardiovascular treatment, is improving patient care and aiding 
+cardiologists.
+CONCLUSION: Recent strides in biomarker research suggest that personalized 
+medicine guided by circulating biomarkers could revolutionize CVD management by 
+enhancing risk prediction and tailoring treatments to each patient. Future 
+research should focus on refining these biomarkers and addressing current 
+limitations to optimise their clinical utility in improving cardiovascular 
+health outcomes.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/011573403X403834251204161927
+PMID: 41968843
+
+
+2. Egypt Heart J. 2026 Apr 7;78(1):22. doi: 10.1186/s43044-026-00734-7.
+
+Myopericarditis in an emergency department patient presenting with chest pain 
+and ECG changes: a case report.
+
+Coaxum L(1), McClean C(1), Theophanous R(2).
+
+Author information:
+(1)Duke University Health System, Durham, USA.
+(2)Duke University Health System, Durham, USA. rebecca.theophanous@duke.edu.
+
+BACKGROUND: Myopericarditis is uncommon but important to consider in patients 
+presenting with chest pain. It most commonly is caused by a viral infection. 
+Myopericarditis involves both myocardial injury and pericardial sac 
+inflammation, thus may benefit from close monitoring and expedited treatment. It 
+can present like pericarditis with chest pain, cold-type symptoms, diffuse ST 
+elevations and PR depressions on electrocardiogram (ECG), and pericardial 
+effusion on ultrasound. Risk stratification depends on case severity. More 
+severe cases of myopericarditis can demonstrate elevated troponins and 
+myocardial involvement, including potential left ventricular dysfunction.
+CASE PRESENTATION: We describe an 81-year-old male patient with three days of 
+pleuritic chest pain, dyspnea on exertion, and upper respiratory infection 
+symptoms. He was evaluated by cardiology due to diffuse ST elevations on his ECG 
+but did not have reciprocal changes, making acute coronary syndrome (ACS) less 
+likely. His workup showed elevated inflammatory markers and elevated 
+high-sensitivity troponin levels, indicating myocardial injury and 
+distinguishing his diagnosis from pericarditis. His respiratory viral panel was 
+negative. Bedside ultrasound showed a small pericardial effusion and moderately 
+reduced ejection fraction (EF 40%). He was initiated on treatment for 
+myopericarditis with colchicine and high-dose ASA (650 mg three times daily) for 
+3-4 weeks, with significant symptom improvement within 1-2 days.
+CONCLUSIONS: Emergency physicians should initiate early treatment for 
+myopericarditis to reduce inflammation for improved patient outcomes while still 
+considering ACS in all patients presenting with chest pain. Point-of-care 
+ultrasound can identify a pericardial effusion or acute heart failure to guide 
+management. Patients with myocardial involvement can develop permanent heart 
+damage but can exhibit excellent recovery with appropriate treatment, which 
+includes nonsteroidal anti-inflammatories, colchicine, and high-dose ASA.
+
+© 2026. The Author(s).
+
+DOI: 10.1186/s43044-026-00734-7
+PMCID: PMC13057090
+PMID: 41945202
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study was performed according to the Declaration of Helsinski. 
+Ethics approval and consent is waived per the DUHS case report policy (below), 
+but consent was obtained from the patient in this case. Consent for publication: 
+All the authors contributed to this work and have reviewed the final manuscript. 
+All authors consent to publication of this work. No identifying patient 
+information is present in this manuscript. The patient signed written 
+institutional consent for publication of this case in a scientific journal and 
+for presentation. Also, per the institution’s case report policy 4/4/2021: 
+“Federal regulations (45CFR46.102 and 45CFR164.501) define research as a 
+systematic investigation, including research development, testing and 
+evaluation, designed to develop or contribute to generalizable knowledge. The 
+review of medical records for publication of a single case report or a case 
+series involving data from two or three patients is not considered by the 
+institutional IRB to be research involving human subjects, and therefore such a 
+report of medical cases does not require IRB review and approval. This is 
+because reporting such a small series of patients does not involve a systematic 
+investigation, including defining a hypothesis that is then investigated 
+prospectively and systematically, to develop or contribute to generalizable 
+knowledge. Thereby consent for participation and publication is waived.” 
+Competing interests: The authors declare no competing interests.
+
+
+3. J Ethnopharmacol. 2026 Jun 28;365:121572. doi: 10.1016/j.jep.2026.121572. Epub
+ 2026 Mar 23.
+
+Therapeutic potential of Olea europaea leaf extract in preventing 
+isoproterenol-induced myocardial injury: integrated biochemical, LC-MS 
+profiling, and molecular docking analyses.
+
+Benameur M(1), Belarbi M(1), Feriani A(2), Nani A(3), Ghanemi FZ(1), Bendif 
+H(4), Alsalamah SA(4), Aytar EC(5), Elfalleh W(6), Tlili N(7), Moussaoui Y(8).
+
+Author information:
+(1)Laboratory of Natural Products, Faculty of Natural and Life Sciences, Earth 
+and Universe, Abou-Bekr Belkaid university, Tlemcen, Algeria.
+(2)University of Gafsa, Faculty of Sciences of Gafsa, Laboratory of 
+Biotechnology and Biomonitoring of the Environment and Oasis Ecosystems, Gafsa, 
+Tunisia.
+(3)Faculty of Natural and Life Sciences, University of Adrar, Algeria.
+(4)Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic 
+University (IMSIU), Riyadh, 11623, Saudi Arabia.
+(5)Department of Horticulture, Faculty of Agriculture, Usak University, Uşak, 
+Turkey.
+(6)Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic 
+University (IMSIU), Riyadh, 11623, Saudi Arabia. Electronic address: 
+wbelfallah@imamu.edu.sa.
+(7)Research Laboratory for Sciences and Technologies of Environment, LR16ES09, 
+High Institute of Sciences and Technologies of Environment Borj Cedria, 
+University of Carthage, Tunisia. Electronic address: nizar.tlili@fst.rnu.tn.
+(8)Faculty of Sciences of Gafsa, University of Gafsa, Gafsa, Tunisia; Organic 
+Chemistry Laboratory (LR17ES08), Faculty of Sciences of Sfax, University of 
+Sfax, Tunisia.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: In the Mediterranean traditional medicine, Olea 
+europaea leaves are largely used to manage hypertension, a significant risk 
+factor for cardiovascular diseases (CVDs), which remain among the leading causes 
+of death worldwide. However, scientific data supporting its effect on myocardial 
+injury are still limited and need further research.
+AIM OF THE STUDY: This study assessed the cardioprotective effects of the 
+ethanolic extract of O. europaea leaves (OELE) in a rat model of isoproterenol 
+(ISO)-induced myocardial infarction (MI).
+MATERIALS AND METHODS: Wistar rats were pretreated orally with OELE (5 and 
+10 mg/kg b.w.) or aspirin (10 mg/kg b.w.) for 30 days, followed by ISO 
+injections (85 mg/kg b.w.) on days 29 and 30 to induce MI. The study examined 
+cardiac damage through the use of apoptotic, fibrotic, and oxidative stress 
+markers, along with biochemical tests, histological analysis, and infarct 
+assessment. Additionally, liquid chromatography-mass spectrometry (LC-MS) was 
+used to profile phenolic compounds, while molecular docking techniques were 
+employed to predict and examine their potential interactions with biological 
+targets.
+RESULTS: LC-MS/MS analysis identified fifteen bioactive compounds in OELE, 
+including naringenin and luteolin. OELE pretreatment significantly reduced key 
+biomarkers of cardiac injury (aspartate aminotransferase (AST), creatine 
+kinase-myocardial band (CK-MB), and lactate dehydrogenase (LDH), fibrinogen, and 
+troponin-I). It also improved plasma electrolyte balance (Na+, K+, and Ca2+) and 
+positively modulated lipid profiles by lowering total cholesterol (TC), 
+triglycerides (TG), and low-density lipoprotein cholesterol (LDL-C), while 
+increasing high-density lipoprotein cholesterol (HDL-C). Antioxidant defenses 
+were enhanced, with decreased lipid peroxidation and increased activities of 
+superoxide dismutase (SOD) and catalase (CAT). The histopathological analysis 
+showed preserved myocardial architecture and reduced inflammatory infiltration. 
+2,3,5-triphenyltetrazolium chloride (TTC) staining confirmed a significant 
+reduction in infarct size. Molecular docking simulations demonstrated strong 
+binding affinity between OELE bioactive compounds and Protein disulfide 
+isomerase (PDI) and Angiotensin-Converting Enzyme (ACE), suggesting their 
+possible contribution to the observed anti-thrombotic, anti-coagulant, and 
+cardioprotective properties of OELE.
+CONCLUSIONS: These findings highlight OELE as a promising natural agent for 
+preventing oxidative cardiac damage, with potential uses in developing 
+nutraceuticals and pharmaceuticals.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2026.121572
+PMID: 41881322 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

@@ -1,0 +1,31 @@
+=== PubMed: tamsulosin drug interactions alpha blocker hypotension pde5 ===
+1. Clin Cardiol. 2004 Apr;27(4 Suppl 1):I20-5. doi: 10.1002/clc.4960271306.
+
+Novel phosphodiesterase type 5 inhibitors: assessing hemodynamic effects and 
+safety parameters.
+
+Kloner RA(1).
+
+Author information:
+(1)Division of Cardiovascular Medicine, Keck School of Medicine of the 
+University of Southern California, Heart Institute, Good Samaritan Hospital, Los 
+Angeles, California 90017, USA. rkloner@goodsam.org
+
+The relaxing effect of the phosphodiesterase type 5 (PDE5) inhibitors on 
+vascular smooth muscle has attracted much attention, especially in persons with 
+cardiovascular disease. The results of early studies showed that sildenafil 
+slightly reduces systolic and diastolic blood pressures and has no effect on 
+heart rate, while being safe and well tolerated. Studies also indicate that 
+sildenafil does not contribute to the development of myocardial infarction or 
+ischemia. Similar benign effects on hemodynamics and cardiac events have also 
+been demonstrated for tadalafil and vardenafil. None of the PDE5 inhibitors 
+adversely affects total exercise time or time to ischemia during exercise 
+testing in men with stable angina. It is key to avoid concomitant administration 
+of nitrates with any of the PDE5 inhibitors, because this combination can cause 
+increased vasodilation and a subsequent drop in blood pressure. Sildenafil has 
+an alpha-blocker precaution; tadalafil is contraindicated with alpha blockers 
+except for 0.4 mg tamsulosin; vardenafil is contraindicated with alpha blockers.
+
+DOI: 10.1002/clc.4960271306
+PMCID: PMC6654137
+PMID: 15115192 [Indexed for MEDLINE]

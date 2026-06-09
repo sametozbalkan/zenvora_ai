@@ -1,0 +1,141 @@
+=== PubMed: diyabet tip 2 ===
+1. Turk Kardiyol Dern Ars. 2025 Mar;53(2):113-119. doi: 10.5543/tkda.2024.07280.
+
+Sodium-Glucose Cotransporter 2 Inhibitors Significantly Lower the Cardiac 
+Electrophysiological Balance Index in Type 2 Diabetes Patients.
+
+[Article in English]
+
+Özdemir E(1), Ziyrek M(1), Dönmez E(1), Özcan S(1), İnce O(1), Çolakoğlu Gevher 
+CZ(2), Özdemir B(3), Okuyan E(4).
+
+Author information:
+(1)Department of Cardiology, Biruni University Faculty of Medicine, Istanbul, 
+Türkiye.
+(2)Department of Cardiology, Kanuni Sultan Suleyman Training and Research 
+Hospital, Istanbul, Türkiye.
+(3)Department of Internal Medicine, Dr Sadi Konuk Training and Research 
+Hospital, Bakırköy, Istanbul, Türkiye.
+(4)Department of Cardiology, Bağcılar Training and Research Hospital, İstanbul, 
+Türkiye.
+
+OBJECTIVE: Sodium-glucose cotransporter 2 (SGLT2) inhibitors, a novel group of 
+oral antidiabetic drugs, have demonstrated cardioprotective benefits and 
+positive metabolic effects in patients with diabetes mellitus (DM). The cardiac 
+electrophysiological balance index (ICEB) is an eletrocardiographic ratio that 
+provides information about the equilibrium between left ventricular 
+depolarization and repolarization duration, offering valuable insights into the 
+predisposition to ventricular arrhythmias. The aim of this study is to analyze 
+the potential impact of SGLT2 inhibitors on ICEB.
+METHOD: Patients were prospectively selected from a pool of 2,789 consecutive 
+type 2 DM patients. After exclusions, 174 patients formed the monotherapy group, 
+and 143 age- and sex-matched patients who were switched to SGLT2 inhibitor 
+combination therapy constituted the combination therapy group. All treatment 
+changes were supervised by endocrinologists blinded to the patient groups. 
+Baseline and six-month electrocardiogram (ECG) data of both groups were 
+analyzed. ICEB was defined as QT/QRS, and ICEBc as QTc/QRS.
+RESULTS: Although there was no statistically significant difference between the 
+monotherapy and combination therapy groups in terms of baseline ECG parameters, 
+QT (385.05 +- 13.21 vs. 372.32 +- 4.32; P < 0.001), QTc (409.24 +- 8.17 vs. 
+383.72 +- 7.24; P < 0.001), ICEB (4.15 +- 0.51 vs. 4.03 +- 0.54; P = 0.004), and 
+ICEBc (4.40 +- 0.75 vs. 4.16 +- 0.61; P < 0.0001) values at the six-month mark 
+were significantly lower in the SGLT2 inhibitor group.
+CONCLUSION: SGLT2 inhibitors significantly lower ICEB and ICEBc, potentially 
+reducing ventricular susceptibility to arrhythmias as early as six months into 
+treatment for diabetic patients.
+
+DOI: 10.5543/tkda.2024.07280
+PMID: 40035254 [Indexed for MEDLINE]
+
+
+2. Turk Psikiyatri Derg. 2025;36:58. doi: 10.5080/u27707.
+
+The Role of Illness Representations and Metacognitive Beliefs in Mood in People 
+with Type 2 Diabetes: A study from the COVID-19 Period.
+
+Acar D, Berk ÖS.
+
+OBJECTIVE: Diabetes poses a significant global health threat due to its 
+increasing prevalence and associated comorbidities, straining healthcare systems 
+worldwide. Depression and anxiety are frequent comorbidities in individuals with 
+diabetes, and their underlying mechanisms have been a subject of research. This 
+study investigated the influence of metacognitions and metacognitions about 
+symptom control (MaSC) on depression and anxiety in people with type 2 diabetes 
+(T2D), specifically examining their effects beyond illness representations.
+METHOD: Conducted during the COVID-19 pandemic, this study involved 153 T2D 
+patients. Participants completed the Hospital Anxiety and Depression Scale 
+(HADS), Brief Illness Perception Questionnaire (B-IPQ), Metacognitions 
+Questionnaire-30 (MCQ-30), Metacognitions about Symptom Control Scale-Revised 
+(MaSCS-R), and the Protection Motivation Theory Scale for COVID-19 Preventive 
+Behaviors.
+RESULTS: Hierarchical regression analysis showed that after controlling for 
+socio-demographic variables, fear of COVID-19, and illness representations, 
+negative metacognitions about symptom control predicted 2% of anxiety and 4% of 
+depression; metacognitions predicted 10% of anxiety and 9% of depression.
+CONCLUSION: Metacognitions predicted both depression and anxiety, supporting the 
+Self-Regulatory Executive Function (S-REF) model. Metacognitive therapy could be 
+an alternative for managing emotional distress in T2D patients and may 
+contribute to future research.
+
+DOI: 10.5080/u27707
+PMCID: PMC12435342
+PMID: 41070516 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: The authors declare that 
+there is no conflict of interest.
+
+
+3. Turk Kardiyol Dern Ars. 2019 Jan;47(1):29-37. doi: 10.5543/tkda.2018.35005.
+
+[Macrophage migration inhibitory factor (MIF) gene -173 G>C polymorphism and its 
+relationship to coronary artery disease and type 2 diabetes].
+
+[Article in Turkish]
+
+Çoban N(1), Erkan AF, Ekici B, Kaşit M, Erginel Ünaltuna N, Vurgun E.
+
+Author information:
+(1)Department of Genetics, İstanbul University Aziz Sancar Experimental Medicine 
+Research Institute, İstanbul, Turkey. neslic@istanbul.edu.tr.
+
+OBJECTIVE: Recent studies indicate that macrophage migration inhibitory factor 
+(MIF) is a potent proinflammatory cytokine which mediates the inflammatory 
+process during atherosclerosis. The purpose of the study was to investigate an 
+association between MIF gene polymorphism and type 2 diabetes mellitus (T2DM) 
+and coronary artery disease (CAD) in the Turkish population.
+METHODS: A total of 139 unselected Turkish patients with significant CAD 
+(coronary lesion with 50-100% stenosis) and 120 control participants (coronary 
+lesion with <30% stenosis) were genotyped for MIF rs755622 polymorphisms using 
+hybridization probes in a Roche LightCycler 480 Real-Time Polymerase Chain 
+Reaction 480 device. Blood samples were drawn before coronary angiography. 
+Gensini and SYNTAX scores were used to determine the angiographic extent and 
+severity of CAD.
+RESULTS: When the groups were stratified according to T2DM, polymorphism of MIF 
+was not associated with T2DM in CAD patients (p>0.05). In the same subgroups, 
+carriers of the MIF common allele in the control group demonstrated a protection 
+against developing T2DM compared with noncarriers (p<0.05). In addition, MIF C 
+allele carriage was associated with higher glycated hemoglobin (HbA1c) in the 
+T2DM group (p=0.038).
+CONCLUSION: The MIF rs755622 polymorphism was associated with HbA1c. This result 
+suggests that the MIF gene variant may contribute to CAD risk through diabetes 
+in the Turkish population.
+
+DOI: 10.5543/tkda.2018.35005
+PMID: 30628898 [Indexed for MEDLINE]
+
+
+4. Turk J Haematol. 2011 Mar 5;28(1):77-8. doi: 10.5152/tjh.2011.12.
+
+The association between calcium dobesilate and pancytopenia in type 2 diabetes: 
+A case report.
+
+[Article in English]
+
+Cesur A, Aylı M, Cesur M, Ertek S(1).
+
+Author information:
+(1)Department of Endocrinology and Metabolic Diseases, Medical Faculty, Ufuk 
+University, Ankara, Turkey Phone: +90 312 204 42 30 E-mail: sibelertek@yahoo.it.
+
+DOI: 10.5152/tjh.2011.12
+PMID: 27263948

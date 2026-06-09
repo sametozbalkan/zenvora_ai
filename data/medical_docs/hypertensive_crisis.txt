@@ -1,0 +1,201 @@
+=== PubMed: hypertensive crisis ===
+1. Cureus. 2024 Aug 12;16(8):e66694. doi: 10.7759/cureus.66694. eCollection 2024 
+Aug.
+
+Management Strategies for Hypertensive Crisis: A Systematic Review.
+
+Khan NN(1), Zurayyir EJ(2), Alghamdi AM(3), Alghamdi SF(4), Alqahtani MA(5), 
+Abdalla EM(6), Jurays NS(7), Alassiri AM(8), Alzahrani HA(9), Althabet AA(8).
+
+Author information:
+(1)Internal Medicine, King Salman Armed Forces Hospital, Tabuk, SAU.
+(2)College of Medicine, Jazan University, Jazan, SAU.
+(3)Medicine and Surgery, Al Baha University, Al Baha, SAU.
+(4)College of Medicine, Al Baha University, Al Baha, SAU.
+(5)College of Medicine, King Khalid University, Abha, SAU.
+(6)General Practice, University of Khartoum, Khartoum, SDN.
+(7)Internal Medicine, King Khalid University, Abha, SAU.
+(8)Medicine, Najran University, Najran, SAU.
+(9)Medicine, Al Baha University, Al Baha, SAU.
+
+A hypertensive crisis is defined as a sudden and significant rise in blood 
+pressure. The blood pressure reading is 180/120 mmHg or higher. A hypertensive 
+crisis is a medical emergency. It can lead to a heart attack, stroke, or other 
+life-threatening medical problems. Investigating the management of the 
+hypertensive crisis was the goal of this study. English-language articles were 
+collected from 2010 to 2024 demonstrating the management of the hypertensive 
+crisis. Overall, there were 15 articles. Surveys and analyses of national 
+databases were the most widely used methods (n=15). The scientific studies 
+documented (1) all investigative studies or reports that included a hypertensive 
+crisis diagnosis, (2) data integrity and reproducibility, and (3) management 
+studies. Other studies show that acute severe hypertension in the hospital is 
+associated with high rates of mortality and morbidity, particularly with new or 
+worsening end-organ damage. The problem is linked to poor medical adherence, but 
+alarmingly low follow-up rates are likely to contribute to a high recurrence 
+rate. The treatment of acute severe hypertension varies according to the 
+hospital unit (medical ward or intensive care unit), medication, and blood 
+pressure targets or thresholds. Because of a lack of evidence-based guidance, 
+arbitrary blood pressure control targets are used, or blood pressure targets are 
+crudely extrapolated from guidelines intended primarily for outpatient 
+management. Patients with acute aortic dissection need to be administered 
+intravenous esmolol within 5 to 10 minutes in order to lower their blood 
+pressure right away. The goal is to maintain a systolic reading of less than 120 
+mm Hg. Vasodilators such as nitroglycerin or nitroprusside may be administered 
+if the blood pressure persists following beta blocking. Intravenous 
+administration of clevidipine, nicardipine, or phentolamine is required; the 
+initial dose is 5 mg, with subsequent doses given every 10 minutes as necessary 
+to achieve the desired reduction in blood pressure.
+
+Copyright © 2024, Khan et al.
+
+DOI: 10.7759/cureus.66694
+PMCID: PMC11389756
+PMID: 39262522
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.
+
+
+2. Crit Care Nurs Clin North Am. 2015 Dec;27(4):439-47. doi: 
+10.1016/j.cnc.2015.08.003. Epub 2015 Sep 26.
+
+Hypertensive Crisis: A Review of Pathophysiology and Treatment.
+
+Taylor DA(1).
+
+Author information:
+(1)Department of Pharmacy and Clinical Nutrition, Grady Health System, 80 Jesse 
+Hill Jr Drive SE, Atlanta, GA 30303, USA. Electronic address: dtaylor@gmh.edu.
+
+Hypertensive crisis presents as hypertensive urgency or hypertensive emergency, 
+the differences being the presence or absence of target organ damage (TOD) and 
+the type of treatment the patient will receive. Patients with hypertensive 
+urgency do not express TOD, which is seen only in hypertensive emergencies and 
+can involve the heart, kidneys, or brain. Recognition of hypertensive crisis at 
+initial assessment is crucial. An important first step is to obtain a full 
+medical and medication history to be used as a guide for treatment. Proper and 
+effective treatment of hypertensive urgency or emergency involves appropriate 
+use of specific agents based on knowledge of any comorbid disease state.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnc.2015.08.003
+PMID: 26567490 [Indexed for MEDLINE]
+
+
+3. Med Clin (Barc). 2018 Apr 23;150(8):317-322. doi:
+10.1016/j.medcli.2017.09.027.  Epub 2017 Nov 24.
+
+Diagnostic and therapeutic approach to the hypertensive crisis.
+
+[Article in English, Spanish]
+
+Arbe G(1), Pastor I(2), Franco J(3).
+
+Author information:
+(1)Servicio de Medicina Interna, Unidad de riesgo cardiovascular, Hospital 
+universitario Quirón Dexeus, Barcelona, España.
+(2)Servicio de Enfermería, Unidad de riesgo cardiovascular, Hospital 
+universitario Quirón Dexeus, Barcelona, España.
+(3)Servicio de Medicina Interna, Unidad de riesgo cardiovascular, Hospital 
+universitario Quirón Dexeus, Barcelona, España. Electronic address: 
+Jonathan.franco@quironsalud.es.
+
+High blood pressure is a problem with elevated prevalence in the world 
+population. The acute forms of presentation are "hypertensive crises," which 
+represent a frequent cause for emergency room and primary care consultations. 
+Hypertensive crises are divided into hypertensive emergencies and hypertensive 
+urgencies, depending on whether or not there is acute damage to the target 
+organ, respectively. Each situation has a different prognosis and treatment. 
+More specifically, hypertensive emergencies are potentially serious and usually 
+require rapid reductions in blood pressure, whereas hypertensive urgencies can 
+be treated as outpatients by reducing blood pressure in hours or days. A 
+significant number of patients who consult medical professionals regarding a 
+hypertensive crisis do not have a prior diagnosis of hypertension; therefore, it 
+is important to periodically monitor blood pressure levels in the community.
+
+Copyright © 2017 Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.medcli.2017.09.027
+PMID: 29174704 [Indexed for MEDLINE]
+
+
+4. Obstet Gynecol Clin North Am. 2022 Sep;49(3):501-519. doi: 
+10.1016/j.ogc.2022.02.016.
+
+Hypertensive Crisis in Pregnancy.
+
+Wautlet CK(1), Hoffman MC(2).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University of Colorado School of 
+Medicine, Denver, CO, USA. Electronic address: Cynthia.wautlet@cuanschutz.edu.
+(2)Department of Obstetrics and Gynecology, University of Colorado School of 
+Medicine, Denver, CO, USA; Department of Psychiatry, University of Colorado 
+School of Medicine, Denver, CO, USA.
+
+Severe hypertension in pregnancy is a medical emergency, defined as systolic 
+blood pressure (BP) ≥ 160 mm Hg and/or diastolic BP ≥ 110 mm Hg taken 15 minutes 
+to 4 or more hours apart. Outside pregnancy, acute severe hypertension (HTN) is 
+defined as a BP greater than 180/110 to 120 reproducible on 2 occasions. The 
+lower threshold for severe HTN in pregnancy reflects the increased risk for 
+adverse outcomes, particularly maternal stroke and death, and may be a source of 
+under-recognition and treatment delay, particularly in nonobstetrical health 
+care settings. Once a severe hypertension episode is recognized, 
+antihypertensive therapy should be initiated as soon as feasibly possible, at 
+least within 30 to 60 minutes. Intravenous (IV) labetalol, hydralazine, and oral 
+immediate-release nifedipine are all recommended first-line agents and should be 
+administered according to available institutional protocols and based on 
+provider knowledge and familiarity.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ogc.2022.02.016
+PMID: 36122982 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+5. Pediatr Nephrol. 2019 Dec;34(12):2523-2537. doi: 10.1007/s00467-018-4092-2.
+Epub  2018 Oct 1.
+
+Hypertensive crisis in children and adolescents.
+
+Seeman T(1)(2), Hamdani G(3), Mitsnefes M(3).
+
+Author information:
+(1)Department of Pediatrics and Biomedical Center, 2nd Faculty of Medicine and 
+Faculty of Medicine in Pilsen, Charles University in Prague, V Uvalu 84, 15006, 
+Prague 5, Czech Republic. tomas.seeman@lfmotol.cuni.cz.
+(2)Motol University Hospital, V Uvalu 84, 15006, Prague 5, Czech Republic. 
+tomas.seeman@lfmotol.cuni.cz.
+(3)Division of Nephrology and Hypertension, Cincinnati Children's Hospital 
+Medical Center, Cincinnati, OH, USA.
+
+Hypertensive crisis is a relatively rare condition in children. However, if not 
+treated, it might be life-threatening and lead to irreversible damage of vital 
+organs. Clinical presentation of patients with hypertensive crisis can vary from 
+very mild (hypertensive urgency) to severe symptoms (hypertensive emergency) 
+despite similarly high blood pressure (BP). Individualized assessment of 
+patients presenting with high BP with emphasis on the evaluation of end-organ 
+damage rather than on the specific BP number is a key in guiding physician's 
+initial management of a hypertensive crisis. The main aim of the treatment of 
+hypertensive crisis is the prevention or treatment of life-threatening 
+complications of hypertension-induced organ dysfunction, including neurologic, 
+ophthalmologic, renal, and cardiac complications. While the treatment strategy 
+must be directed toward the immediate reduction of BP to reduce the hypertensive 
+damage to these organs, it should not be at a too fast rate to cause 
+hypoperfusion of vital organs by an excessively rapid reduction of BP. Thus, 
+intravenous continuous infusions rather than intravenous boluses of 
+antihypertensive medications should be the preferable mode of initial treatment 
+of children with hypertensive emergency.
+
+DOI: 10.1007/s00467-018-4092-2
+PMID: 30276533 [Indexed for MEDLINE]

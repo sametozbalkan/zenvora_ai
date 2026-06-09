@@ -1,0 +1,122 @@
+=== PubMed: gabapentin drug interactions cns opioid respiratory ===
+1. Ment Health Clin. 2021 Mar 31;11(2):70-74. doi: 10.9740/mhc.2021.03.070. 
+eCollection 2021 Mar.
+
+Opioid toxicity due to CNS depressant polypharmacy: A case report.
+
+Lee C(1), Wanson A(2), Frangou S(3), Chong D(3), Halpape K(4).
+
+Author information:
+(1)BSP Candidate 2020, College of Pharmacy and Nutrition, University of 
+Saskatchewan, Saskatoon, Saskatchewan, Canada.
+(2)Assistant Professor, Department of Psychiatry, College of Medicine, 
+University of Saskatchewan, Saskatoon, Saskatchewan, Canada.
+(3)Psychiatry PGY-5, Department of Psychiatry, College of Medicine, University 
+of Saskatchewan, Saskatoon, Saskatchewan, Canada.
+(4)Assistant Professor, College of Pharmacy and Nutrition, University of 
+Saskatchewan 2A20.01 Health Sciences, Saskatoon, Saskatchewan, Canada, 
+katelyn.halpape@usask.ca.
+
+The interaction between methadone and central nervous system depressants can 
+cause serious adverse effects, including profound sedation, respiratory 
+depression, coma, and death. This poses a challenge in the treatment of patients 
+with concurrent psychiatric and substance use disorders as the combined use is 
+often unavoidable. We report a case of a patient with opioid use disorder, mood 
+disorder unspecified, chronic pain, and chronic obstructive pulmonary disease 
+who experienced 2 serious episodes of CNS and respiratory depression due to 
+polypharmacy-induced opioid toxicity. Careful consideration of pharmacokinetics, 
+pharmacodynamics, and patient-specific factors was imperative to identify the 
+suspected contributing medications: methadone, lorazepam, divalproex, 
+gabapentin, and cyclobenzaprine. Cognitive and system factors that contributed 
+to these adverse events and strategies to mitigate risk of recurrence were also 
+identified.
+
+© 2021 CPNP. The Mental Health Clinician is a publication of the College of 
+Psychiatric and Neurologic Pharmacists.
+
+DOI: 10.9740/mhc.2021.03.070
+PMCID: PMC8019539
+PMID: 33850686
+
+Conflict of interest statement: Disclosures: There are no actual or potential 
+conflicts of interest or financial interests to disclose.
+
+
+2. Drug Ther Bull. 2019 Aug;57(8):125-127. doi: 10.1136/dtb.2019.228354rep.
+
+Complex encephalopathy arising from the combination of opioids and gabapentin.
+
+Singh H(1)(2), Handa R(3), Kak V(4), Wasilewski A(3).
+
+Author information:
+(1)Internal Medicine, Allegiance Health, Dexter, Michigan, USA 
+harpreet91@gmail.com.
+(2)Michigan State University College of Osteopathic Medicine, East Lansing, 
+Michigan, USA.
+(3)Allegiance Health, Jackson, Michigan, USA.
+(4)Internal Medicine, Allegiance Health, Dexter, Michigan, USA.
+
+The interactions between opioids and gabapentin are more clinically relevant 
+than ever. Prescriptions dispensed for gabapentin increased from 39 million in 
+2012 to 64 million in 2018 in the USA and are ever increasing. Authors present a 
+challenging case of these interactions. A 58-year-old man presented to the 
+emergency department with acute respiratory failure and altered mental status. 
+He was on high dose opioids and gabapentin as prescription medications. Despite 
+full intensive care support and resolution of his respiratory failure with 
+non-invasive positive pressure ventilation, the patient did not regain 
+consciousness. After ruling out other causes, the diagnosis of gabapentin 
+withdrawal was considered. Gabapentin was administered by a nasogastric tube 
+that quickly resulted in a reversal of his symptoms. We concluded that severe 
+gabapentin withdrawal should be considered in patients on higher doses of 
+gabapentin when it is stopped abruptly. In such patients, gabapentin should be 
+replaced. As most patients are unable to swallow in this situation and 
+intravenous formulation is not available, nasogastric tube can be used for 
+replacement.
+
+© Author(s) (or their employer(s)) 2019. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/dtb.2019.228354rep
+PMID: 31345958 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+3. BMJ Case Rep. 2019 Apr 20;12(4):e228354. doi: 10.1136/bcr-2018-228354.
+
+Complex encephalopathy arising from the combination of opioids and gabapentin.
+
+Singh H(#)(1)(2), Handa R(#)(3), Kak V(1), Wasilewski A(3).
+
+Author information:
+(1)Internal Medicine, Allegiance Health, Dexter, Michigan, USA.
+(2)Michigan State University College of Osteopathic Medicine, East Lansing, 
+Michigan, USA.
+(3)Allegiance Health, Jackson, Michigan, USA.
+(#)Contributed equally
+
+The interactions between opioids and gabapentin are more clinically relevant 
+than ever. Prescriptions dispensed for gabapentin increased from 39 million in 
+2012 to 64 million in 2018 in the USA and are ever increasing. Authors present a 
+challenging case of these interactions. A 58-year-old man presented to the 
+emergency department with acute respiratory failure and altered mental status. 
+He was on high dose opioids and gabapentin as prescription medications. Despite 
+full intensive care support and resolution of his respiratory failure with 
+non-invasive positive pressure ventilation, the patient did not regained 
+consciousness. After ruling out other causes, the diagnosis of gabapentin 
+withdrawal was considered. Gabapentin was administered by a nasogastric tube 
+that quickly resulted in a reversal of his symptoms. We concluded that severe 
+gabapentin withdrawal should be considered in patients on higher doses of 
+gabapentin when it is stopped abruptly. In such patients, gabapentin should be 
+replaced. As most patients are unable to swallow in this situation and 
+intravenous formulation is not available, nasogastric tube can be used for 
+replacement.
+
+© BMJ Publishing Group Limited 2019. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/bcr-2018-228354
+PMCID: PMC6506108
+PMID: 31005866 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

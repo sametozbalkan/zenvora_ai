@@ -1,0 +1,181 @@
+=== PubMed: sepsis ===
+1. Curr Opin Anaesthesiol. 2021 Apr 1;34(2):71-76. doi: 
+10.1097/ACO.0000000000000958.
+
+Epidemiology of sepsis and septic shock.
+
+Chiu C(1), Legrand M(1)(2).
+
+Author information:
+(1)Department of Anesthesia and Perioperative Care, University of California, 
+San Francisco, San Francisco, California, USA.
+(2)F-CRIN INI-CRCT Network, Nancy, France.
+
+PURPOSE OF REVIEW: The epidemiology of sepsis and septic shock has been 
+challenging to study for multiple reasons. These include changing diagnostic 
+definitions, as well a high concentration of sepsis-related studies published 
+from high-income countries (HICs), despite a large global burden. This section 
+attempts to address the incidence of sepsis throughout the years and worldwide.
+RECENT FINDINGS: The incidence of sepsis and septic shock has continued to 
+increase since the first consensus definitions (Sepsis-1) were established in 
+1991, and the latest definitions (Sepsis-3) provide a better reflection of 
+mortality risk for a diagnosis of sepsis. Several studies argue that the 
+incidence of sepsis is overreported in HICs, based on billing and coding 
+practices, and may lead to overutilization of resources. However, recent 
+estimates of the true global burden of sepsis, including low-income countries, 
+are likely much higher than reported, with calls for better allocation of 
+resources.
+SUMMARY: The true epidemiology of sepsis worldwide continues to be a highly 
+debated subject, and more research is needed among low-income countries and 
+high-risk subpopulations.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/ACO.0000000000000958
+PMID: 33492864 [Indexed for MEDLINE]
+
+
+2. Crit Rev Clin Lab Sci. 2013 Jan-Feb;50(1):23-36. doi: 
+10.3109/10408363.2013.764490.
+
+Biomarkers of sepsis.
+
+Faix JD(1).
+
+Author information:
+(1)Department of Pathology, Stanford University School of Medicine, Palo Alto, 
+CA 94304, USA. jim.faix@stanford.edu
+
+Sepsis is an unusual systemic reaction to what is sometimes an otherwise 
+ordinary infection, and it probably represents a pattern of response by the 
+immune system to injury. A hyper-inflammatory response is followed by an 
+immunosuppressive phase during which multiple organ dysfunction is present and 
+the patient is susceptible to nosocomial infection. Biomarkers to diagnose 
+sepsis may allow early intervention which, although primarily supportive, can 
+reduce the risk of death. Although lactate is currently the most commonly used 
+biomarker to identify sepsis, other biomarkers may help to enhance lactate's 
+effectiveness; these include markers of the hyper-inflammatory phase of sepsis, 
+such as pro-inflammatory cytokines and chemokines; proteins such as C-reactive 
+protein and procalcitonin which are synthesized in response to infection and 
+inflammation; and markers of neutrophil and monocyte activation. Recently, 
+markers of the immunosuppressive phase of sepsis, such as anti-inflammatory 
+cytokines, and alterations of the cell surface markers of monocytes and 
+lymphocytes have been examined. Combinations of pro- and anti-inflammatory 
+biomarkers in a multi-marker panel may help identify patients who are developing 
+severe sepsis before organ dysfunction has advanced too far. Combined with 
+innovative approaches to treatment that target the immunosuppressive phase, 
+these biomarkers may help to reduce the mortality rate associated with severe 
+sepsis which, despite advances in supportive measures, remains high.
+
+DOI: 10.3109/10408363.2013.764490
+PMCID: PMC3613962
+PMID: 23480440 [Indexed for MEDLINE]
+
+
+3. Immun Inflamm Dis. 2023 Oct;11(10):e1042. doi: 10.1002/iid3.1042.
+
+Potential biomarker for diagnosis and therapy of sepsis: Lactylation.
+
+Sun Z(1)(2), Song Y(1)(2), Li J(1)(2), Li Y(1), Yu Y(1), Wang X(1).
+
+Author information:
+(1)Department of Anesthesiology, Tianjin Medical University General Hospital, 
+Tianjin, China.
+(2)Anaesthesiology, The Graduate School, Tianjin Medical University, Tianjin, 
+China.
+
+INTRODUCTION: As a disease that has plagued human health for decades, sepsis has 
+so far had no specific diagnostic or therapeutic indicators. The discovery of 
+lactylation modifications not only uncovered the deep-rooted causes of changing 
+between lactate level and pathophysiology and immunology of sepsis, but also 
+reaffirmed the inevitable link between metabolic reprogramming and epigenetic 
+reprogramming in sepsis. Lactylation modification became a potential marker for 
+diagnosis and guiding the treatment of sepsis.
+AIM: In this paper, we will summarize the discovery and regulation of 
+lactylation modifications, discuss the study of lactylation modifications in 
+sepsis, and evaluate their possibility and potential as diagnostic and 
+therapeutic indicators of sepsis.
+CONCLUSION: Lactylation modification is directly regulated by glycolysis and 
+lactate, and inhibition of glycolytic pathway-related enzymes can regulate the 
+level of lactylation modification, and more importantly, lactylation 
+modification can act on these enzymes to regulate their functions and feedback 
+regulate the level of glycolysis, this finding provides more ideas for clinical 
+treatment of sepsis. We use "epigenetic modification", "glycolysis", "lactate", 
+"lactylaiton" and "sepsis" as keywords and search the relevant literature 
+through Pubmed and Web of science up to 2023.
+
+© 2023 The Authors. Immunity, Inflammation and Disease published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1002/iid3.1042
+PMCID: PMC10571012
+PMID: 37904710 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Br J Nurs. 2020 Nov 26;29(21):1248-1251. doi: 10.12968/bjon.2020.29.21.1248.
+
+Recognition and management of sepsis: the nurse's role.
+
+Bleakley G(1), Cole M(2).
+
+Author information:
+(1)Lecturer in Adult Nursing, University of Manchester.
+(2)Senior Lecturer in Nursing, University of Manchester.
+
+Caring for a patient with suspected sepsis is a challenging nursing role. Early 
+recognition and appropriate management of a patient with sepsis saves lives. 
+Nurses play a fundamental role in detecting changes in physiological 
+observations that could indicate the onset of sepsis. Additionally, an awareness 
+of the pathophysiology of sepsis allows the nurse to better understand how rapid 
+intervention prevents the onset of septic shock. Furthermore, knowledge and use 
+of clinical guidelines and sepsis screening tools are established methods to 
+help reduce patient mortality. Nurse familiarity with 'red flag' criteria for 
+sepsis and thorough completion of early warning scores facilitate earlier 
+recognition and time critical intervention. Delivery of the 'sepsis six' within 
+1 hour of suspected sepsis saves lives.
+
+DOI: 10.12968/bjon.2020.29.21.1248
+PMID: 33242267 [Indexed for MEDLINE]
+
+
+5. Oxid Med Cell Longev. 2022 Aug 24;2022:1328729. doi: 10.1155/2022/1328729. 
+eCollection 2022.
+
+Sepsis-Induced Brain Dysfunction: Pathogenesis, Diagnosis, and Treatment.
+
+Pan S(1), Lv Z(1), Wang R(1), Shu H(1), Yuan S(1), Yu Y(1), Shang Y(1).
+
+Author information:
+(1)Department of Critical Care Medicine, Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, China.
+
+Dysregulated host response to infection, which cause life-threatening organ 
+dysfunction, was defined as sepsis. Sepsis can cause acute and long-term brain 
+dysfunction, namely, sepsis-associated encephalopathy (SAE) and cognitive 
+impairment. SAE refers to changes in consciousness without direct evidence of 
+central nervous system infection. It is highly prevalent and may cause poor 
+outcomes in sepsis patients. Cognitive impairment seriously affects the life 
+quality of sepsis patients and increases the medical burden. The pathogenesis of 
+sepsis-induced brain dysfunction is mainly characterized by the interaction of 
+systemic inflammation, blood-brain barrier (BBB) dysfunction, neuroinflammation, 
+microcirculation dysfunction, and brain dysfunction. Currently, the diagnosis of 
+sepsis-induced brain dysfunction is based on clinical manifestation of altered 
+consciousness along with neuropathological examination, and the treatment is 
+mainly involves controlling sepsis. Although treatments for sepsis-induced brain 
+dysfunction have been tested in animals, clinical treat sepsis-induced brain 
+dysfunction is still difficult. Therefore, we review the underlying mechanisms 
+of sepsis-induced brain injury, which mainly focus on the influence of systemic 
+inflammation on BBB, neuroinflammation, brain microcirculation, and the brain 
+function, which want to bring new mechanism-based directions for future basic 
+and clinical research aimed at preventing or ameliorating brain dysfunction.
+
+Copyright © 2022 Shangwen Pan et al.
+
+DOI: 10.1155/2022/1328729
+PMCID: PMC9433216
+PMID: 36062193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

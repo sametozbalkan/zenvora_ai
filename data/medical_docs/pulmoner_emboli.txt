@@ -1,0 +1,131 @@
+=== PubMed: pulmoner emboli ===
+1. Turk Kardiyol Dern Ars. 2013 Jul;41(5):463.
+
+Pulmoner tromboemboli tedavisi icin heparin kullanirken intrakraniyal kanama 
+gelisen ve masif pulmoner tromboemboli nedeniyle tekrar hastaneye yatirilan 
+hastada tedavi yonetimi.
+
+[Article in Turkish]
+
+Koza Y.
+
+Comment on
+    Turk Kardiyol Dern Ars. 2013 Apr;41(3):228-32. doi: 10.5543/tkda.2013.75031.
+
+PMID: 24059012 [Indexed for MEDLINE]
+
+
+2. Anadolu Kardiyol Derg. 2010 Sep;10 Suppl 2:31-8. doi: 10.5152/akd.2010.128.
+
+[Pulmonary thromboendarterectomy].
+
+[Article in Turkish]
+
+Yildizeli B(1), Isbir S.
+
+Author information:
+(1)Marmara Universitesi Tip Fakültesi, Göğüs Cerrahisi Anabilim Dali, Istanbul, 
+Türkiye. byildizeli@marmara.edu.tr
+
+Chronic thromboembolic pulmonary hypertension (CTEPH) is a rare disease 
+characterized by the persistence of thromboemboli obstructing the pulmonary 
+arteries as an organized tissue. The consequence is an increase in pulmonary 
+vascular resistance resulting in pulmonary hypertension (PH) and progressive 
+right heart failure. Pulmonary thromboendarterectomy (PTE) is the treatment of 
+choice of chronic thromboembolic pulmonary disease. Pulmonary 
+thromboendarterectomy is performed under hypothermia and total circulatory 
+arrest. This procedure is associated with a low mortality rate in experienced 
+centers and results in a dramatic improvement of hemodynamic parameters, 
+functional status and survival rate. This surgery should be performed as early 
+as possible in the history of this disease, preferentially before development of 
+arteriolitis in the non obstructed territories. Because of the absence of 
+clinically evident acute pulmonary embolism history in >50% of patients, the 
+diagnosis of CTEPH can be difficult. Lung scintigraphic scan showing segmentary 
+mismatched perfusion defects is the best diagnostic tool to detect CTEPH. 
+Pulmonary angiography and high-resolution computerized tomography scan are 
+required to establish the diagnosis and to assess the operability. A diagnostic 
+right heart catheterization is required to confirm the diagnosis of PH and to 
+determine the degree of hemodynamic impairment. If there is a good correlation 
+between the pulmonary vascular resistance and the anatomical obstruction, 
+pulmonary thromboendarterectomy should be proposed. Pulmonary or cardiopulmonary 
+transplantation is indicated in this setting only when the lesions are too 
+distal and thus inaccessible to endarterectomy.
+
+DOI: 10.5152/akd.2010.128
+PMID: 20819754 [Indexed for MEDLINE]
+
+
+3. Anadolu Kardiyol Derg. 2005 Sep;5(3):221-6.
+
+[Acute pulmonary embolism].
+
+[Article in Turkish]
+
+Okyay K(1), Cemri M, Cengel A.
+
+Author information:
+(1)Department of Cardiology, Medical Faculty, Gazi University, Ankara, Turkey. 
+drokyay@yahoo.com
+
+PMID: 16140655 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2015 Jan;43(1):7-11. doi: 10.5543/tkda.2015.73780.
+
+[Acute Pulmonary Embolism Diagnosis and Treatment Guidelines (ESC 2014)].
+
+[Article in Turkish]
+
+Sade LE(1).
+
+Author information:
+(1)Department of Cardiology, Başkent University Faculty of Medicine, Ankara, 
+Turkey. sadele@gmail.com.
+
+DOI: 10.5543/tkda.2015.73780
+PMID: 25655844 [Indexed for MEDLINE]
+
+
+5. Tuberk Toraks. 2020 Sep;68(3):293-304. doi: 10.5578/tt.70104.
+
+[The cost of pulmonary thromboembolism treatment].
+
+[Article in Turkish]
+
+Coşkuner MB(1), Öztuna F(2), Bülbül Y(2), Özsu S(3).
+
+Author information:
+(1)Clinic of Chest Diseases, Aksaray Training and Research Hospital, Aksaray, 
+Turkey.
+(2)Department of Chest Diseases, Faculty of Medicine, Karadeniz Technical 
+University, Trabzon, Turkey.
+(3)Clinic of Chest Diseases, Çakmak Erdem Hospital, Istanbul, Turkey.
+
+INTRODUCTION: Primary aim of this study is to determine the financial burden of 
+Vitamin K Antagonists (VKA), low molecular weight heparins (LMWH) and new oral 
+anticoagulants (NOAC) which are used in the treatment of the pulmonary 
+thromboembolism (PTE). Secondary aim is to show long term complications of the 
+treatment options.
+MATERIALS AND METHODS: The patients who are diagnosed with PTE between May 2016 
+and March 2018 at Faculty of Medicine Karadeniz Technical University Hospital 
+were observed prospectively. Hospitalization costs were calculated on patients 
+who were treated only for PTE by hospitalized in the Chest Diseases Service in 
+the acute period. Maintenance costs were calculated over all patients who 
+regulary admitted to our outpatient clinic with the diagnosis of PTE. Data were 
+presented as mean ± SD and median ± interquartilee range. A p-value of <0.05 was 
+accepted to be significant.
+RESULT: Fifty five (37.2%) of the patients were male, 93 (62.8%) were female and 
+the median age was 68 (range 18-95). The median hospitalization time and cost of 
+patients who are discharged with VKA (n: 22) compared with patients discharged 
+with LMWH (n: 22) was found to be increased (1316.82 TL 7,5 days / 803.36 TL, 5 
+days p<0.001). Statistical analysis could not be performed with NOAC (n: 2). In 
+the analysis of sixth month costs, LMWH cost was found to be higher than VKA 
+cost (6.927.15 ± 2.687.67 TL/698.29 ± 483.51 TL p<0.001). However VKA treatment 
+tended to be less expensive than treatment with NOACs (698.29 ± 483.51 
+TL/1.050.81 ± 300.28 TL p= 0.140).
+CONCLUSIONS: In the acute period of PTE, VKA increases the length of 
+hospitalization and hospital costs in patients treated at the hospital. In the 
+maintenance period, VKA tends to have a lower cost compared to NOACs.
+
+DOI: 10.5578/tt.70104
+PMID: 33295728 [Indexed for MEDLINE]

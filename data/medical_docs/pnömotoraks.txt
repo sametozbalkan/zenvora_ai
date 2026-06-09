@@ -1,0 +1,191 @@
+=== PubMed: pnömotoraks ===
+1. Tuberk Toraks. 2020 Dec;68(4):461-462. doi: 10.5578/tt.69969.
+
+Fatal contralateral pneumothorax in a patient with pneumonectomy.
+
+[Article in English]
+
+Satoh H(1), Kagohashi K(1).
+
+Author information:
+(1)Division of Respiratory Medicine, Mito Medical Center, University of Tsukuba, 
+Mito, Japan.
+
+DOI: 10.5578/tt.69969
+PMID: 33448746
+
+
+2. Tuberk Toraks. 2020 Dec;68(4):437-443. doi: 10.5578/tt.70355.
+
+COVID-19 pneumonia and pneumothorax: case series.
+
+[Article in English]
+
+Talan L(1), Şaşal Solmaz FG(2), Ercan U(2), Akdemir Kalkan İ(3), Yenigün BM(4), 
+Yüksel C(4), Altıntaş ND(1).
+
+Author information:
+(1)Department of Internal Medicine, Division of Intensive Care, Ankara 
+University Faculty of Medicine, Ankara, Turkey.
+(2)Division of Intensive Care, Ankara University Faculty of Medicine, Ankara, 
+Turkey.
+(3)Department of Infection Diseases and Clinical Microbiology, Ankara University 
+Faculty of Medicine, Ankara, Turkey.
+(4)Department of Thoracic Surgery, Ankara University Faculty of Medicine, 
+Ankara, Turkey.
+
+Barotrauma is a commonly reported complication in critically ill patients with 
+ARDS caused by different etiologies, it's rate is reported to be around %10. 
+Pneumothorax/pneumomediastinum in COVID-19 patients seem to be more common and 
+have different clinical characteristics. Here we report 9 patients who had 
+pneumothorax and/or pneumomediastinum during their stay in the ICU. Patients who 
+were admitted to ICU between March 2020 and December 2020, were reviewed for 
+presence of pneumothorax, pneumomediastinum and subcutaneous emphysema during 
+their ICU stay. Demographic characteristics, mechanical ventilation settings, 
+documented ventilation parameters, outcomes were studied. A total of 161 
+patients were admitted to ICU during the study period, 96 were invasively 
+ventilated. Nine patients had developed pneumothorax, pneumomediastinum and/or 
+subcutaneous emphysema during their admission. Five of them were men and median 
+age was 66.6 years. All patients were intubated and mechanically ventilated. All 
+patients were managed conservatively. One patient was discharged from ICU, the 
+others were lost due to other complications related to COVID-19. Upon detection 
+of pneumothorax and/or mediastinum all patients were managed conservatively by 
+limiting their PEEP and maximum inspiratory pressures and were followed by daily 
+chest X-rays (CXR) for detection of any progress. None of the patients showed 
+increase in size of their pneumothorax and/or pneumomediastinum. Hemodynamically 
+instability due to pneumothorax and/or pneumomediastinum was not observed in any 
+of the patients. Tension pneumothorax was not observed in any of the patients. 
+Most common reason for death was sepsis due to secondary bacterial infections. 
+Acute deterioration with rapid oxygen desaturation or palpation of crepitation 
+over thorax and neck in a COVID-19 patient should prompt a search for 
+pneumothorax or pneumomediastinum. Conservative management may be an option as 
+long as the patients are stable.
+
+DOI: 10.5578/tt.70355
+PMID: 33448741 [Indexed for MEDLINE]
+
+
+3. Tuberk Toraks. 2022 Sep;70(3):279-286. doi: 10.5578/tt.20229707.
+
+Comparison of clinical and radiological characteristics of COVID-19 patients 
+with and without pneumothorax and/or pneumediastinum.
+
+[Article in English]
+
+Argüder E(1), Fidan M(2), Tekdemir H(3), Mendi BAR(3), Fidan A(4), Cankar Dal 
+H(5), Özden Sertçelik Ü(2), Şerifoğlu İ(2), Günay S(2), Kazancı D(5), Turan 
+S(5), Kılıç H(1), Hasanoğlu HC(1), Karalezli A(1).
+
+Author information:
+(1)Department of Chest Diseases, Ankara Yıldırım Beyazıt University Faculty of 
+Medicine, Ankara, Türkiye.
+(2)Clinic of Chest Diseases, Ankara City Hospital, Ankara, Türkiye.
+(3)Clinic of Radiology, Ankara City Hospital, Ankara, Türkiye.
+(4)Clinic of Anestesiology, Ankara City Hospital, Ankara, Türkiye.
+(5)Intensive Care Unit, Ankara City Hospital, Ankara, Türkiye.
+
+INTRODUCTION: Pneumothorax (PTX) and pneumomediastinum (PM) are frequently 
+encountered in patients with Coronavirus disease 2019 (COVID-19) and complicate 
+the management of these patients. In this study, we aimed to evaluate the risk 
+factors that cause PTX/PM complications in patients hospitalized due to COVID-19 
+pneumonia and the effects of these complications on the course of the disease.
+MATERIALS AND METHODS: A total of 503 patients with COVID-19 hospitalized in the 
+COVID-19 ward or intensive care unit (ICU) between September 2020 and December 
+2020 were included in the study.
+RESULT: The median age of patients was 65 (min-max, 21-99) years. Of the 
+patients 299 (59.4%) were male and 204 (40.6%) were female. Of the cases, 26 
+(5.2%) developed PTX or PM. The patients who developed PTX/PM were older than 
+patients who did not [58.5 (min-max, 21-96) vs 65 years (min-max, 22-99), p= 
+0.029]. The percentage of PTX/PM development was significantly higher in male 
+patients [F/M= 4/22 (2/7.4%) vs 200/277 (98/92.6%), p= 0.007]. Hypertension as a 
+comorbidity was more commonly seen in the group without PTX/PM (p= 0.007). 
+Ground-glass opacity was the most common tomographic finding in both groups, it 
+was significantly higher in those who did not develop PTX/PM (p<0.001). The 
+length of hospital stay was shorter in patients with PTX/PM (p<0.001), but 
+mortality was higher (p= 0.04).
+CONCLUSIONS: PTX/PM were relatively more common in COVID-19 patients. These 
+complications may negatively affect the prognosis of the disease.
+
+DOI: 10.5578/tt.20229707
+PMID: 36164952 [Indexed for MEDLINE]
+
+
+4. Tuberk Toraks. 2020 Jul;68(2):188-191. doi: 10.5578/tt.69524.
+
+A very rare fatal complication: bilateral reexpansion pulmonary edema after 
+treatment of single side total pneumothothorax.
+
+[Article in English]
+
+Dumanlı A(1), Günay E(2), Öz G(1), Aydın S(1), Çilekar Ş(2), Gencer A(3), Çoşğun 
+İG(2), Balcı A(2).
+
+Author information:
+(1)Department of Chest Surgery, Faculty of Medicine, Afyonkarahisar Health 
+Sciences University, Afyonkarahisar, Turkey.
+(2)Department of Chest Diseases, Faculty of Medicine, Afyonkarahisar Health 
+Sciences University, Afyonkarahisar, Turkey.
+(3)Clinic of Chest Surgery, Afyonkarahisar State Hospital, 
+Afyonkarahisar,Turkey.
+
+Reexpansion pulmonary edema is a rare but fatal clinical condition that develops 
+during the treatment of pneumothorax, pleural effusion and collapsed lung after 
+atelectasis. A 31-year-old male patient was referred to our clinic with the 
+complaint of stinging back pain that started 3 days ago and dyspnea developed 
+during the last 24 hours. Physical examination and radiologic examinations 
+revealed total pneumothorax in the right hemithorax. After tube thoracostomy, 
+his general condition deteriorated and bilateral reexpension edema developed in 
+the lungs. The patient was admitted to the intensive care unit and was 
+discharged on the 5th day after medical treatment. Our case is the first case of 
+bilateral reexpansion pulmonary edema seen after unilateral spontaneous 
+pneumothorax when literature review is performed. In order to emphasize the 
+importance of rapid diagnosis and treatment, it is presented in the light of the 
+literature.
+
+DOI: 10.5578/tt.69524
+PMID: 32755120 [Indexed for MEDLINE]
+
+
+5. Tuberk Toraks. 2024 Mar;72(1):91-94. doi: 10.5578/tt.202401844.
+
+Birt-Hogg-Dubé syndrome with novel FLCN gene mutations and different clinical 
+presentations: Case series.
+
+Erinç A(1), Azakli D(1), Kirhan G(1), Satici C(1).
+
+Author information:
+(1)Clinic of Pulmonology, Yedikule Chest Disease and Thoracic Surgery Training 
+and Research Hospital, İstanbul, Türkiye.
+
+ABSTRACT Birt-Hogg-Dubé syndrome with novel FLCN gene mutations and different 
+clinical presentations: Case series Birt-Hogg-Dubé syndrome (BHDS) is a rare 
+genetically inherited autosomal dominant condition characterized by pulmonary 
+cysts, spontaneous pneu- mothorax, benign skin tumors (fibrofolliculoma, 
+trichodiscoma), and renal tumors. Birt et al. defined this genodermatosis as 
+being caused by numerous germline mutations in the FLCN gene, which encodes the 
+protein folliculin located in the 14th exon of the p11.2 region of the 17th 
+chromosome. Although this rare syndrome should be kept in mind in patients with 
+cystic lung disease, it can also be seen without lung involvement. Furthermore, 
+with an increasing number of reported cases, certain mutations have been cor- 
+related with specific clinical manifestations, enabling tailored follow-up pro- 
+tocols based on the type of genetic mutation. Key words: Cystic lung disease; 
+genodermatosis; rare disease ÖZ Yeni FLCN gen mutasyonu ve farklı klinik 
+prezentasyonlarla Birt Hogg Dubé sendromu: Olgu serisi Birt Hogg Dubé sendromu 
+(BHDS), pulmoner kistler, spontan pnömotoraks, iyi huylu deri tümörleri 
+(fibrofoliküloma, trikodiskoma) ve böbrek tümörleri ile karakterize nadir 
+görülen otozomal dominant geçişli bir hastalıktır. Birt ve arkadaşları bu 
+genodermatozu, 17. kromozomun p11.2 bölgesinin 14. ekzo- nunda bulunan 
+folliculin’i kodlayan FLCN genindeki çok sayıda germline mutasyonun neden olduğu 
+bir hastalık olarak tanımlamıştır. Bu nadir send- rom, kistik akciğer hastalığı 
+olan hastalarda akılda tutulması gerekse de akci- ğer tutulumu olmadan da 
+görülebilir. Ek olarak, daha fazla vaka bildirildikçe, bazı mutasyonlar klinik 
+belirtilerle ilişkilendirilmeye başlanmıştır ve takip protokolleri genetik 
+mutasyon tipine göre bireyselleştirilebilir. Anahtar kelimeler: Kistik akciğer 
+hastalığı; genodermatoz; nadir hastalık
+
+DOI: 10.5578/tt.202401844
+PMCID: PMC11390078
+PMID: 38676598 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

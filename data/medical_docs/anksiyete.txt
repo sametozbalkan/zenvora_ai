@@ -1,0 +1,176 @@
+=== PubMed: anksiyete ===
+1. Agri. 2011 Oct;23(4):139-46. doi: 10.5505/agri.2011.94695.
+
+[The effect of music therapy on pain and anxiety in intensive care patients].
+
+[Article in Turkish]
+
+Uyar M(1), Akın Korhan E.
+
+Author information:
+(1)Department of Algology, Ege University, İzmir, Turkey.
+
+In recent years, intensive care units have been using advanced technology that 
+provides significantly improved results in clinical treatment and care 
+practices. However, this results in intensive care patients experiencing pain 
+and anxiety. This pain and anxiety is generally brought under control with 
+various pharmacological preparations. When a pharmacological approach is not 
+used or is ineffective, doctors and nurses also use non-pharmacological 
+approaches such as music to control pain and anxiety. Research has found music 
+therapy to be an effective method of reducing pain intensity and anxiety levels 
+in intensive care patients. Therefore, the use of music therapy is important for 
+intensive care patients. This article will deal with the effects of music 
+therapy on pain and anxiety management in intensive care patients.
+
+DOI: 10.5505/agri.2011.94695
+PMID: 22290677 [Indexed for MEDLINE]
+
+
+2. Turk Psikiyatri Derg. 2006 Summer;17(2):139-46.
+
+[Difficulties in the diagnosis and treatment of major depressive disorder with 
+comorbid anxiety symptoms].
+
+[Article in Turkish]
+
+Akkaya C(1).
+
+Author information:
+(1)Uludağ U Tip Fak., Psikiyatri A D., Bursa. cakkaya@uludag.edu.tr
+
+Major depressive disorder (MDD) is a common and costly disorder. MDD often 
+occurs with comorbid symptoms of anxiety. While symptoms of anxiety are not part 
+of the diagnosis criteria of MDD, it has been recognized for many years that 
+anxiety may play a critical role in depressive illness. The presence of anxiety 
+has been associated with greater severity of depression and functional 
+impairment, as well as increased suicide risk. Moreover, anxiety symptoms have 
+been associated with reduced antidepressant response, in addition to greater 
+risk of relapse and chronicity. Recently, emphasis has been placed on remission 
+as the goal in the treatment of MDD. Patients who achieve remission have more 
+favorable long-term outcomes than those who have appreciable improvement, but 
+still have residual symptoms. Given the burden of illness caused by MDD, and 
+given that anxiety is a common component of MDD and that full symptom resolution 
+should be the goal of antidepressant therapy, efficacy in treating the symptoms 
+of anxiety associated with depression may be an important component of the 
+overall treatment of depression. Treatment of anxious depression presents unique 
+challenges, optimally involving pharmacological agents that are effective for 
+both depression and anxiety. The likely role of abnormal serotonergic 
+neurotransmission in anxiety is widely supported, while the role of 
+norepinephrine is less clear. A large body of evidence supports the hypothesis 
+that a perturbation in norepinephrine neurotransmission contributes to the 
+symptoms of anxiety. It has been suggested that agents with dual reuptake 
+inhibition of 5-HT and norepinephrine may be particularly effective in treating 
+anxiety.
+
+PMID: 16755414 [Indexed for MEDLINE]
+
+
+3. Agri. 2024 Jan;36(1):22-28. doi: 10.14744/agri.2023.23865.
+
+The relationship between disability and depression, anxiety, and sleep quality 
+in patients with coccydynia.
+
+[Article in English]
+
+Güler E(1), Ünal HA(2).
+
+Author information:
+(1)Division of Algology, Department of Physical Medicine and Rehabilitation, 
+Sivas Cumhuriyet University, Sivas, Türkiye.
+(2)Department of Algology, Health Sciences University Dışkapı Research and 
+Training Hospital, Ankara, Türkiye.
+
+OBJECTIVES: In this study, our aim was to investigate the relationship between 
+sleep quality, anxiety, depression, and disability in patients with coccydynia.
+METHODS: This prospective cross-sectional study evaluated 60 patients diagnosed 
+with coccydynia. Clinical and demographic characteristics of the patients were 
+recorded. Outcome measures included the Visual Analogue Scale (VAS), Oswestry 
+Disability Index (ODI), Beck Depression Inventory (BDI), Beck Anxiety Inventory 
+(BAI), and Pittsburgh Sleep Quality Index (PSQI), which were analyzed.
+RESULTS: Depressive symptoms and anxiety were detected in 47 (78.3%) and 49 
+(81.6%) of the 60 patients, respectively. Additionally, 46 (76.7%) patients were 
+identified as poor sleepers. Our results demonstrated a statistically 
+significant positive correlation between the quality of sleep and anxiety and 
+depressive symptoms scores (p<0.001); there was also a statistically weak 
+positive correlation with disability index values.
+CONCLUSION: Depressive symptoms, anxiety, and poor sleep quality are exacerbated 
+by disability in coccydynia. While coccydynia has been previously associated 
+with neurotic disorders, the mechanisms underlying poor sleep quality remain 
+unclear.
+
+DOI: 10.14744/agri.2023.23865
+PMID: 38239122 [Indexed for MEDLINE]
+
+
+4. Turk Psikiyatri Derg. 2024 Fall;35(3):207-213. doi: 10.5080/u26895. Epub 2024 
+Aug 14.
+
+Examining the Relationship Between Behçet's Disease and Depression, Anxiety, and 
+Sexual Dysfunctions.
+
+Avci İK, Sarandöl A.
+
+OBJECTIVE: People with Behçet's Disease, as many individuals with chronic 
+diseases, often face depression, anxiety, poor quality of life and sexual 
+problems. In this study, it was aimed to evaluate depression, anxiety, and 
+sexual dysfuntions in people with Behcet's Disease.
+METHOD: A total of 100 participants, 50 patients (29 female) and 50 healthy 
+volunteers (28 female), participated in the study. Beck Depression Inventory 
+(BDI), Beck Anxiety Inventory (BAI), Female Sexual Function Index (FSFI), and 
+International Index of Erectile Function (IIEF) were administered to the 
+participants.
+RESULTS: Depression and sexual dysfunctions were significantly related with 
+Behçet's Disease. In our study, all female participants with Behçet's Disease 
+had problems in sexual functions. Erectile dysfunction was more frequent in 
+participants with Behcet's. The results also showed that there is a significant 
+relationship between depression and orgasmic function (p=0.004), sexual desire 
+(p=0.028), sexual satisfaction (p=0.023), and general satisfaction (p=0.028). 
+There was a significant difference between people with Behçet's Disease 
+(10.54±6.45) and healthy group (7.36 ±6.13) in depression scores (p=0.009). 
+Patients with systemic involvement and those with mucocutaneous involvement were 
+found to be similar in terms of BDI and BAI scores (p>0.05).
+CONCLUSION: Behçet's Disease was found to be a risk factor for depression and 
+sexual dysfunctions.
+
+DOI: 10.5080/u26895
+PMCID: PMC11375742
+PMID: 39224993 [Indexed for MEDLINE]
+
+
+5. Agri. 2023 Oct;35(4):195-204. doi: 10.14744/agri.2023.48657.
+
+The relationship between screen exposure and neck disability, headache, stress, 
+depression, and anxiety in university students.
+
+[Article in English]
+
+Yılmaz H(1), Göz E(2).
+
+Author information:
+(1)Division of Anatomy, Department of Basic Science, Ordu University Faculty of 
+Medicine, Ordu, Türkiye.
+(2)Department of Physiotherapy and Rehabilitation, Tarsus University Faculty of 
+Health Sciences, Mersin, Türkiye.
+
+OBJECTIVES: In recent years, with the development of technology, screen exposure 
+among university students has increased and caused various physical and 
+psychological effects. The aim of this study is to investigate the relationship 
+between screen exposure and neck disability, headache, stress, depression, 
+anxiety, and sleep disorders in university students.
+METHODS: Two hundred and twenty-six students were evaluated online in this 
+study. Study outcomes were headache, depression, anxiety, stress, neck 
+disability, and sleep quality.
+RESULTS: When the screen exposure was examined, it was observed that the stress, 
+anxiety, and depression levels of the students increased as the smartphone use 
+increased (p<0.05). Headache severity (p=0.028) in those who use smartphones for 
+7 h or more; It was observed that the frequency of severe neck disability 
+increased in those who used a smartphone or computer for 7 h or more (p=0.005, 
+p=0.026).
+CONCLUSION: To prevent physical and psychological problems that may arise due to 
+the increase in screen use time in university students, it is necessary to 
+monitor the frequency of screen use of the students, to organize trainings that 
+explain the physical and psychological effects of long-term screen exposure and 
+increase the level of awareness.
+
+DOI: 10.14744/agri.2023.48657
+PMID: 37886871 [Indexed for MEDLINE]

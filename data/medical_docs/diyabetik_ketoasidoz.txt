@@ -1,0 +1,212 @@
+=== PubMed: diyabetik ketoasidoz ===
+1. Ulus Travma Acil Cerrahi Derg. 2023 Oct;29(10):1122-1129. doi: 
+10.14744/tjtes.2023.06713.
+
+Characteristics and management of patients undergoing emergency surgery for 
+diabetic foot attack.
+
+Ulusoy S(1), Oruc M(1).
+
+Author information:
+(1)Department of General Surgery, Bilkent City Hospital, Ankara-Türkiye.
+
+BACKGROUND: Diabetic foot attack (DFA) is considered one of the worst 
+manifestations of diabetic foot. It is necessary to act quickly to prevent 
+amputation and save the patient's life. The aim of this study is to reveal the 
+characteristic features of DFAs and be a guide to healthcare professionals to 
+manage and refer these patients.
+METHODS: Sixty-five patients with DFAs were analyzed retrospectively. 
+Demographics were collected. All patients' ınfectious dis-eases Society of 
+America/International Working Group on the Diabetic Foot (IDSA/IWDGF) stages, 
+site ıschemia neuropathy, bacterial ınfection and depth (SINBAD) and laboratory 
+risk ındicator for necrotizing fasciitis (LRINEC) scores were calculated. 
+According to these measurements, patients were categorized and statistical 
+results were obtained.
+RESULTS: We found that patients who underwent emergency surgery due to DFA 
+applied to an average of two hospitals before applying to our facility and the 
+median acceptance time since the beginning of the first complaint was 9 days. 
+All patients were IDSA/IWDGF stages three and four. Most of the patients had 
+SINBAD scores between four and six. 60% of the patients were at high risk for 
+necrotizing fasciitis according to the LRINEC score. 58.2% of patients had 
+periferic arterial stenosis and the amputation rate was 69.2%. 21.3% of the 
+patients were followed in the intensive care unit, and our patients' mortality 
+rate was 4.2%.
+CONCLUSION: DFA is an emergency surgical condition that requires high clinical 
+suspicion. If not diagnosed and treated with emergency surgery, it has a high 
+mortality and amputation rate. High white blood cell count in patients, local 
+and systemic signs of inflammation, presence of subcutaneous emphysema in the 
+lower extremities on a direct X-ray radiography, and high blood sugar should be 
+considered as warning signs for DFA. Emergency surgical intervention should be 
+performed on these patients, and if the patient is not in a suitable center for 
+emergency surgery, they should be rapidly referred to a center with experienced 
+clinicians.
+
+DOI: 10.14744/tjtes.2023.06713
+PMCID: PMC10644080
+PMID: 37791449 [Indexed for MEDLINE]
+
+
+2. Ulus Travma Acil Cerrahi Derg. 2023 Sep;29(9):1013-1018. doi: 
+10.14744/tjtes.2023.08939.
+
+Elevated HbA1c level associated with disease severity and surgical extension in 
+diabetic foot patients.
+
+Akyüz S(1), Bahçecioğlu Mutlu AB(2), Guven HE(1), Başak AM(3), Yilmaz KB(1).
+
+Author information:
+(1)Department of General Surgery Diabetic Foot, University of Health Sciences, 
+Gulhane Research and Training Hospital, Ankara-Türkiye.
+(2)Department of Endocrinology and Metabolism, University of Health Sciences, 
+Gulhane Research and Training Hospital, Ankara-Türkiye.
+(3)Department of Orthopedics and Traumatology, University of Health Sciences, 
+Gulhane Research And Training Hospital, Ankara-Türkiye.
+
+BACKGROUND: Diabetic foot is a complex syndrome that is associated with other 
+diabetic complications, such as peripheral arte-rial disease and peripheral 
+neuropathy. Optimization of plasma glucose and glycated hemoglobin (HbA1c) is 
+one of the main principles of standard care and treatment approaches in 
+individuals with diabetes mellitus (DM). In this study, the relationship of 
+HbA1c level at the time of diagnosis was evaluated with diabetic foot disease 
+severity score and surgical extension in patients with Type 2 DM.
+METHODS: This study included 301 consecutive patients who were diagnosed with 
+diabetic foot in the general surgery diabetic foot clinic and were hospitalized 
+for surgery. The relationships between the HbA1c levels of the patients with the 
+Wagner and PEDIS (Perfusion, Extent, Dept, Infection, Sensation) classification 
+system grades, and the surgical procedures performed were analyzed and the 
+treatment outcomes were evaluated.
+RESULTS: It was determined that there was a 90% statistically significant 
+relationship between HbA1c values of ≥10.1% and the de-velopment of Wagner Grade 
+4 diabetic foot ulcer (DFU) (P=0.037). A strong statistically significant 
+relationship at the rate of 85% was determined between HbA1c values of ≥10.1% 
+and the development of PEDIS Grade 3 ulcers. As the HbA1c values increased, so 
+there was determined to be a statistically significant relationship with the 
+development of PEDIS Grade 3 ulcer (P=0.003). In the comparison of the HbA1c 
+values according to the type of surgery performed, a weak relationship was 
+determined at the rate of 26%, and it was determined that as the HbA1c values 
+increased, so there could be an increase in the amputation level.
+CONCLUSION: The results of this study showed that as HbA1c values at diagnosis 
+increased in patients with diabetic foot; Wagner/PEDIS grades, disease severity, 
+surgical extension, amputation level, and tissue loss increased. To reduce the 
+severity of diabetic foot disease and prevent amputation, compliance with 
+diabetic treatment and glycemic control should be increased.
+
+DOI: 10.14744/tjtes.2023.08939
+PMCID: PMC10560815
+PMID: 37681727 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+3. Ulus Travma Acil Cerrahi Derg. 2022 Mar;28(3):262-267. doi: 
+10.14744/tjtes.2020.68202.
+
+The use of autologous epidermal grafts for diabetic foot ulcer emergencies: A 
+clinical study.
+
+Saydam M(1), Yılmaz KB(2), Bostancı MT(1), Turan M(2), Akıncı M(2), Yılmaz İ(1), 
+Öztas M(2), Güven HE(2).
+
+Author information:
+(1)Department of General Surgery, Institute of Health Sciences Dışkapı Yıldırım 
+Beyazıt Training and Research Hospital, Ankara-Turkey.
+(2)Department of General Surgery, Institute of Health Sciences, Gülhane Training 
+and Research Hospital, Ankara-Turkey.
+
+BACKGROUND: There are various surgical and invasive treatment systems such as 
+conservative skin grafts and autologous epider-mal grafting (AEG) for diabetic 
+foot ulcers. This study aims to evaluate the feasibility of using a novel 
+epidermal graft harvesting system in diabetic foot ulcer emergencies.
+METHODS: A retrospective clinical study was conducted with 15 diabetic foot 
+ulcer patients, and after written and signed consent forms were taken, AEG 
+system was applied to all patients. All of the clinical data of the patients 
+such as their American Society of Anesthesiologists (ASA) Physical Status 
+Classification System scores, size of pre-application wound area (cm2), time to 
+complete re-epithelization of the wound, pain scores using the visual analog 
+scale (VAS) for both donor and recipient sites, changes in size of wound, 
+complete dermal response time, and patients' demographics, comorbidities were 
+recorded. The age, gender, pre-post appli-cation wound area (cm2), time of 
+healing, ASA, and VAS variables were compared each other and analyzed 
+statistically. P<0.05 was considered as statistically significant.
+RESULTS: The mean of time for complete wound healing was 5.9 (range 4-8) weeks. 
+There was no statistically difference between recipient wound size and patient's 
+age; size of both types of wounds (cm2) and time (weeks) for complete reduction 
+for both types of wounds; and time to complete both types of wound healing and 
+gender (p=0.509, 0.788, and 0.233, respectively). ASA scores did not impact the 
+time required for complete healing of the wound (p=0.749).
+CONCLUSION: The current study has tried to evaluate the efficacy of the AEG 
+system in a homogenous population with diabetic foot ulcers. An epidermal 
+harvesting system may be used effectively and safely in patients with diabetic 
+foot ulcer emergencies.
+
+DOI: 10.14744/tjtes.2020.68202
+PMCID: PMC10493530
+PMID: 35485568 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+4. Ulus Travma Acil Cerrahi Derg. 2023 Feb;29(2):140-148. doi: 
+10.14744/tjtes.2022.55726.
+
+Histopathological investigation of the effect of chitosan on oral mucous wound 
+healing in experimentally established diabetic rats.
+
+Gür R(1), Büyükakyüz N(1), Aydil BA(2), Ayhan M(2).
+
+Author information:
+(1)Private Practice, İstanbul-Türkiye.
+(2)Department of Oral and Maxillfacial Surgery, İstanbul University Faculty of 
+Dentistry, İstanbul-Türkiye.
+
+BACKGROUND: In our study, it was aimed to histopathologically investigate the 
+effects of chitosan on wound healing in the oral mucosa by applying the gel form 
+of experimentally induced diabetes mellitus.
+METHODS: In our study, 42 male Sprague Dawley rats weighing 340±20 g, 14-16 
+weeks old, were used. Diabetes induction was achieved by administering 55 mg/kg 
+streptozotocin intraperitoneally (i.p.) to 32 of the subjects. Those with blood 
+glucose levels above 250 mg/dl as measured at the end of the 2nd and 7th days 
+were considered diabetic and included in the study. Afterwards, a wound of 5 mm 
+in diameter and 1 mm in depth was created in the buccal mucosa of the 
+experimental animals with a disposable punch biopsy tool. Wound healing was 
+evaluated on the 2nd and 5th days after the surgical operation. The samples were 
+evaluated histopathologically in terms of inflammation, fibrosis, epithelial 
+regeneration, necrosis, and foreign body reaction.
+RESULTS: As a result of the statistical analysis, a significant difference was 
+found between the groups in terms of inflammation levels on the 2nd and 5th days 
+(p<0.05). In the intragroup evaluations, the rate of severe inflammation on the 
+2nd day in the diabetes+chitosan group was found to be statistically 
+significantly higher than the 5th day (p<0.05). While there was no statistically 
+significant difference between the groups in terms of fibrosis levels on the 2nd 
+day (p>0.05), a statistically significant difference was found in terms of 
+fibrosis levels on the 5th day (p<0.05).
+CONCLUSION: It was observed that chitosan did not cause foreign body reaction in 
+any of the groups on the 2nd and 5th days.
+
+DOI: 10.14744/tjtes.2022.55726
+PMCID: PMC10198325
+PMID: 36748767 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+5. Anadolu Kardiyol Derg. 2007 Dec;7 Suppl 2:5-8.
+
+[Use of aspirin in diabetic patients].
+
+[Article in Turkish]
+
+Türkoğlu S(1), Abaci A.
+
+Author information:
+(1)Gazi Universitesi Tip Fakültesi Kardiyoloji Anabilim Dali, Ankara, Türkiye.
+
+Major cardiovascular events cause about 80% of the total mortality in diabetic 
+patients. It has been shown that diabetic patients have hyperactive platelets. 
+It may be expected that aspirin, through its antiplatelet action, could change 
+the risk for vascular events in people with diabetes. However, some data suggest 
+that aspirin may be less effective than expected in preventing cardiovascular 
+events in patients with diabetes. In this paper, we review the aspirin use in 
+diabetics with respect to cardiovascular endpoints.
+
+PMID: 18160360 [Indexed for MEDLINE]

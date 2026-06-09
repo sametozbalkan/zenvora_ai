@@ -1,0 +1,190 @@
+=== PubMed: creatinine kidney function high low causes treatment ===
+1. IDCases. 2026 Apr 21;44:e02583. doi: 10.1016/j.idcr.2026.e02583. eCollection 
+2026.
+
+Prerenal acute kidney injury diagnosed by urinary indices in a COVID-19 patient: 
+A critical care case report.
+
+Bereda G(1).
+
+Author information:
+(1)Department of Pharmacy, Marie Stopes International Ethiopia (MSIE), Ambo, 
+Ethiopia.
+
+Coronavirus Disease 2019 (COVID-19) primarily affects the respiratory system but 
+can also cause acute kidney injury (AKI). Infection-related circulatory 
+disturbances driven by systemic inflammation, cytokine release, and reduced 
+effective blood volume play a central role in prerenal AKI. The diagnostic 
+challenge in infection-associated AKI is distinguishing functional hypoperfusion 
+from intrinsic renal injury, particularly when relying solely on serum 
+creatinine. Laboratory investigations showed elevated blood urea nitrogen (BUN) 
+(51 mg/dL) and serum creatinine (2.7 mg/dL), with reduced estimated glomerular 
+filtration rate (eGFR) of 32.5 mL/min. Targeted urinary indices (low urine 
+sodium, high osmolality, and FeNa <1%) were instrumental in identifying a 
+reversible perfusion-related etiology, minimizing the risk of diagnostic 
+misclassification. Renal ultrasonography showed normal kidney size and 
+architecture. Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) 
+infection was confirmed by reverse transcription polymerase chain reaction 
+(RT-PCR). The patient received oxygen therapy, IV Ringer's lactate, furosemide 
+for diuresis, low-molecular-weight heparin for thromboprophylaxis, and 
+ceftriaxone for secondary infection prevention. Potassium imbalance was 
+corrected with intravenous and oral supplementation of potassium chloride. Urine 
+output improved within 48 h, and renal function recovered (eGFR 
+61 mL/min/1.73 m²) without renal replacement therapy. Two consecutive negative 
+RT-PCR tests confirmed viral clearance. The patient was discharged in stable 
+condition with outpatient follow-up.
+
+© 2026 The Authors.
+
+DOI: 10.1016/j.idcr.2026.e02583
+PMCID: PMC13127172
+PMID: 42064712
+
+Conflict of interest statement: The author declares that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+2. EuroIntervention. 2026 Apr 20;22(8):e432-e443. doi: 10.4244/EIJ-D-25-01274.
+
+Impact of renal function on edoxaban antithrombotic therapy in patients with 
+atrial fibrillation and stable coronary artery disease: a prespecified analysis 
+of the EPIC-CAD trial.
+
+Lee JM(1), Cho MS(1), Kang DY(1), Ahn JM(1), Oh YS(2), Lee CH(3), Choi EK(4), 
+Lee JH(5), Kwon CH(6), Park GM(7), Choi HO(8), Park KH(9), Park KM(10), Hwang 
+J(11), Yoo KD(12), Cho YR(13), Kim JH(14), Hwang KW(15), Jin ES(16), Kwon O(17), 
+Kim KH(18), Park SJ(1), Nam GB(1), Park DW(1).
+
+Author information:
+(1)Department of Cardiology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, South Korea.
+(2)Seoul St. Mary's Hospital, College of Medicine, Catholic University of Korea, 
+Seoul, South Korea.
+(3)Department of Cardiology, Veterans Health Service Medical Center, Seoul, 
+South Korea.
+(4)Department of Internal Medicine, Seoul National University College of 
+Medicine and Seoul National University Hospital, Seoul, South Korea.
+(5)Cardiovascular Center, Seoul National University Bundang Hospital, Seongnam, 
+South Korea and National University College of Medicine, Seongnam, South Korea.
+(6)Division of Cardiology, Department of Internal Medicine, Konkuk University 
+Medical Center, Konkuk University School of Medicine, Seoul, South Korea.
+(7)Department of Cardiology, Ulsan University Hospital, University of Ulsan 
+College of Medicine, Ulsan, South Korea.
+(8)Department of Cardiology, Soon Chun Hyang University Hospital Bucheon, 
+Bucheon, South Korea.
+(9)Department of Cardiology, Hallym University Medical Center, Anyang, South 
+Korea.
+(10)Division of Cardiology, Department of Internal Medicine, Heart Vascular 
+Stroke Institute, Samsung Medical Center, Sungkyunkwan University School of 
+Medicine, Seoul, South Korea.
+(11)Department of Cardiology, Keimyung University Dongsan Hospital, Daegu, South 
+Korea.
+(12)Department of Cardiology, St. Vincent's Hospital, College of Medicine, 
+Catholic University of Korea, Suwon, South Korea.
+(13)Department of Cardiology, Dong-A University Hospital, Dong-A University 
+College of Medicine, Busan, South Korea.
+(14)Department of Cardiology, Dongguk University Ilsan Hospital, Goyang, South 
+Korea.
+(15)Department of Cardiology, Pusan National University Yangsan Hospital, Pusan 
+National University of Medicine, Yangsan, South Korea.
+(16)Department of Cardiology, Kyung Hee University Hospital at Gangdong, Kyung 
+Hee University Medical College, Seoul, South Korea.
+(17)Division of Cardiology, Department of Internal Medicine, Eunpyeong St. 
+Mary's Hospital, College of Medicine, Catholic University of Korea, Seoul, South 
+Korea.
+(18)Department of Cardiology, Haeundae Paik Hospital, Inje University College of 
+Medicine, Busan, South Korea.
+
+BACKGROUND: Renal function is a critical factor of ischaemic and bleeding risks 
+in patients with atrial fibrillation (AF) receiving antithrombotic therapy.
+AIMS: This study aimed to evaluate the impact of renal dysfunction in patients 
+with AF and stable coronary artery disease (CAD) undergoing antithrombotic 
+therapy.
+METHODS: The Edoxaban Versus Edoxaban With antiPlatelet Agent In Patients With 
+Atrial Fibrillation and Chronic Stable Coronary Artery Disease (EPIC-CAD) trial 
+randomised patients to edoxaban monotherapy or dual antithrombotic therapy 
+(edoxaban plus a single antiplatelet agent). In this prespecified analysis, 
+patients were stratified by creatinine clearance into low (<50 mL/min) or high 
+(≥50 mL/min) groups according to edoxaban dose-reduction criteria. The primary 
+endpoint was net adverse clinical events (NACE: death from any cause, myocardial 
+infarction, stroke, systemic embolism, urgent revascularisation, or 
+major/clinically relevant non-major bleeding) at 12 months.
+RESULTS: Of 1,040 randomised patients, 252 (24.2%) had low creatinine clearance; 
+these patients were older and had more comorbidities compared with the 788 
+patients (75.8%) with high creatinine clearance. Patients with low creatinine 
+clearance experienced higher risks of NACE (hazard ratio [HR] 1.72, 95% 
+confidence interval [CI]: 1.19-2.49; p=0.004), ischaemic events (HR 2.70, 95% 
+CI: 1.09-6.70; p=0.032), and bleeding (HR 1.54, 95% CI: 1.01-2.34; p=0.046). At 
+12 months, edoxaban monotherapy reduced NACE compared with dual therapy in both 
+the low (12.1% vs 21.7%, HR 0.52, 95% CI: 0.28-0.98; p=0.042) and high 
+creatinine clearance groups (5.2% vs 14.5%, HR 0.40, 95% CI: 0.25-0.65; 
+p<0.001), with no interaction (p for interaction=0.53).
+CONCLUSIONS: In patients with AF and stable CAD, edoxaban monotherapy led to a 
+lower risk of primary NACE than dual antithrombotic therapy, regardless of renal 
+function. (ClinicalTrials.gov: NCT03718559).
+
+DOI: 10.4244/EIJ-D-25-01274
+PMCID: PMC13080388
+PMID: 42003300 [Indexed for MEDLINE]
+
+Conflict of interest statement: D.-W. Park has received research grants from the 
+Cardiovascular Research Foundation, Daewoong Pharmaceutical, and Daiichi Sankyo. 
+G.-B. Nam has received research grants from the Cardiovascular Research 
+Foundation, Daewoong Pharmaceutical, and Daiichi Sankyo. The other authors have 
+no conflicts of interest to declare.
+
+
+3. Front Endocrinol (Lausanne). 2026 Mar 26;17:1592948. doi: 
+10.3389/fendo.2026.1592948. eCollection 2026.
+
+The role of the lactate dehydrogenase-to-albumin ratio in predicting renal 
+prognosis in Chinese IgA nephropathy patients: a retrospective cohort study.
+
+Wang S(1), Dong L(1), Zhou H(1), Qin W(1).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, West China Hospital of 
+Sichuan University, Chengdu, Sichuan, China.
+
+BACKGROUND: Immunoglobulin A nephropathy (IgAN) is one of the most common types 
+of primary glomerulonephritis and is an important cause of end-stage renal 
+disease (ESRD) worldwide. Inflammation has been shown to be associated with its 
+basic pathogenesis. The lactate dehydrogenase-to-albumin ratio (LAR), a novel 
+marker of inflammation and nutritional status, has been studied in various 
+diseases. However, whether the LAR also plays a critical role in Chinese 
+patients with IgAN remains unknown. Thus, we conducted this retrospective study 
+to evaluate the role of the LAR in predicting clinicopathologic changes and 
+disease prognosis in IgAN patients.
+METHODS: A total of 1,276 patients with biopsy-proven IgAN were enrolled in this 
+study. The patients were grouped into a high LAR group (LAR ≥4.05, n = 738) and 
+a low LAR group (LAR <4.05, n = 538) based on the cutoff value of the LAR with 
+regard to the Youden index. The study endpoint was a composite endpoint that 
+referred to ESRD and/or an estimated glomerular filtration rate (eGFR) that 
+decreased by more than 50% compared with baseline. The predictive value was 
+determined by the area under the receiver operating characteristic curve 
+(AUROC). Kaplan-Meier and Cox proportional hazards analyses were performed to 
+evaluate the value of the LAR in predicting renal progression and patient 
+prognosis.
+RESULTS: IgAN patients with a high LAR had an increased incidence of anemia and 
+increased levels of proteinuria, serum creatinine, and serum lipids. 
+Multivariate Cox regression analysis indicated that a high LAR was an 
+independent risk factor for IgAN even after adjustment for important 
+clinicopathological parameters (HR = 1.844, 95% CI = 1.138-2.988, p = 0.013). 
+Kaplan-Meier analysis revealed that a high LAR was significantly associated with 
+a poor renal prognosis in patients with IgAN (p < 0.001). According to subgroup 
+analysis stratified by sex, renal function, treatment, anemia status, or 
+proteinuria level, a high LAR was consistently related to a worse renal outcome.
+CONCLUSION: An elevated LAR affects renal progression and prognosis in patients 
+with IgAN and could be a novel marker for the management of IgAN patients in the 
+future.
+
+Copyright © 2026 Wang, Dong, Zhou and Qin.
+
+DOI: 10.3389/fendo.2026.1592948
+PMCID: PMC13062791
+PMID: 41970990 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

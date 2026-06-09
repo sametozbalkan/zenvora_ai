@@ -1,0 +1,148 @@
+=== PubMed: metoprolol drug interactions beta blocker verapamil ===
+1. Med Lett Drugs Ther. 2019 Sep 9;61(1580):137-144.
+
+Drugs for atrial fibrillation.
+
+[No authors listed]
+
+Comment in
+    JAMA. 2019 Nov 12;322(18):1819-1820. doi: 10.1001/jama.2019.15892.
+
+PMID: 31599871 [Indexed for MEDLINE]
+
+
+2. J Appl Toxicol. 1991 Apr;11(2):111-4. doi: 10.1002/jat.2550110207.
+
+Interactions between verapamil and metoprolol in the developing chick embryo 
+heart.
+
+Nishikawa T(1), Kasajima T, Kanai T.
+
+Author information:
+(1)Department of Pathology, Tokyo Women's Medical College, Japan.
+
+A calcium blocking agent, verapamil, and a beta 1-adrenoreceptor blocking agent, 
+metoprolol, were administered alone or in combination to 4-day-old chick embryos 
+(Hamburger-Hamilton developmental stage 24). Embryos co-administered with 
+verapamil (0.05 nmol) and metoprolol (0.1 or 1.0 nmol), neither of which alone 
+caused significant teratogenicity, showed cardiovascular malformations, 
+including ventricular septal defects associated with or without dextroposition 
+of the aorta (overriding aorta). The alterations of calcium movement into the 
+myocyte and/or the haemodynamic change following impaired calcium transport are 
+suggested to be possible causative factors.
+
+DOI: 10.1002/jat.2550110207
+PMID: 2061547 [Indexed for MEDLINE]
+
+
+3. Clin Pharmacokinet. 1984 Jul-Aug;9(4):309-34. doi: 
+10.2165/00003088-198409040-00002.
+
+Pharmacokinetic drug interactions with theophylline.
+
+Jonkman JH, Upton RA.
+
+Since up to 90% of a theophylline dose is biotransformed, drugs influencing 
+microsomal enzyme systems in the liver may affect the elimination of 
+theophylline. Other integrated mechanisms (e.g. hepatic uptake) may also be 
+altered by concurrent administration of other drugs. Whatever the mechanism, the 
+interaction may be sufficient to necessitate adjustment of the theophylline 
+dosage, preferably guided by plasma theophylline determinations. Comedication 
+with phenobarbitone may require an increase of the theophylline dose by about 
+30% due to increased clearance resulting from enzyme induction. Similarly, with 
+phenytoin and carbamazepine a dose increase of about 40 to 50% may be required. 
+In the case of rifampicin, isoniazid or sulphinpyrazone comedication, an 
+increase of the theophylline dose by about 20 to 25% may be needed. On the other 
+hand, other drugs decrease theophylline clearance, making a reduction in the 
+dose of concurrent theophylline advisable: with usual doses of erythromycin, 
+propranolol and isoprenaline (isoproterenol), a reduction of about 25% is 
+needed; with cimetidine and oral contraceptives by about 30% or more; and with 
+triacetyloleandomycin (troleandomycin) by about 50%. In high doses, the xanthine 
+oxidase inhibitor allopurinol can also retard theophylline elimination, and a 
+reduction of the theophylline dose by about 20% may be advisable. Conflicting 
+results have been reported on the influence of frusemide (furosemide) and 
+influenza vaccines, while data regarding the effect of corticosteroids, 
+benzodiazepines and verapamil on theophylline kinetics are not yet conclusive. 
+Many drugs, however, appear not to significantly affect theophylline clearance. 
+Some are from the same therapeutic group as the drugs mentioned above and offer 
+clinical alternatives for coadministration with theophylline. Examples of drugs 
+not found to have a significant effect on theophylline pharmacokinetics are 
+ranitidine, josamycin, midecamycin, amoxycillin, tetracycline, cephalexin, 
+cefaclor, orciprenaline, metoprolol, antacids, medroxyprogesterone acetate, 
+metoclopramide and metronidazole. Most of the drugs discussed in this review 
+appear not to affect the volume of distribution of theophylline significantly.
+
+PIP: Since up to 90% of a theophylline dose is biotransformed, drugs influencing 
+microsomal enzyme systems in the liver may affect the elimination of 
+theophylline. Other integrated mechanisms (e.g., hepatic uptake) may also be 
+altered by concurrent administration of other drugs. Whatever the mechanism, the 
+interaction may be sufficient to necessitate adjustment of the theophylline 
+dosage, preferably guided by plasma theophylline determinations. Comedication 
+with phenobarbitone may require an increase in theophylline dose by about 30% 
+due to increased clearance resulting from enzyme induction. Similarly, with 
+phenytoin and carbamazepine, a dose increase of about 40-50% may be required. In 
+the case of rifampicin, isoniazid, or sulphinpyrazone comedication, an increase 
+in dose of theophylline by about 20-25% may be needed. On the other hand, other 
+drugs decrease theophylline clearance, making a reduction in the dose of 
+concurrent theophylline advisable; with usual doses of erythromycin, 
+propranolol, and isoprenaline (isoproterenol), a reduction of about 25% is 
+needed; with cimetidine and oral contraceptive by about 30% or more; and with 
+triacetyloleandomycin (troleandomycin), by about 50%. In high doses, the 
+xanthine oxidase inhibitor allopurinol can also retard theophylline elimination, 
+and a reduction of the theophylline dose by about 20% may be advisable. 
+Conflicting results have been reported on the influence of frusemide 
+(furosemide) and influenza vaccines, while data regarding the effect of 
+corticosteroids, benzodiazepines, and verapamil on theophylline kinetics are not 
+yet conclusive. Many drugs, however, appear not to significantly affect 
+theophylline clearance. Some are from the same therapeutic group as the drugs 
+mentioned above and offer clinical alternatives for coadministration with 
+theophylline. Examples of drugs not found to have a significant effect on 
+theophylline pharmacokinetics are ranitidine, josamycin, midecamycin, 
+amoxycillin, tetracycline, cephalexin, cefaclor, orciprenaline, metoprolol, 
+antacids, medroxyprogesterone acetete, metoclopramide, and metronidazole. Most 
+of the drugs discussed in this review appear to not affect the volume of 
+distribution of theophylline significantly.
+
+DOI: 10.2165/00003088-198409040-00002
+PMID: 6147220 [Indexed for MEDLINE]
+
+
+4. J Clin Pharmacol. 2000 May;40(5):533-43. doi: 10.1177/00912700022009152.
+
+Effect of metoprolol and verapamil administered separately and concurrently 
+after single doses on liver blood flow and drug disposition.
+
+Bauer LA(1), Horn JR, Maxon MS, Easterling TR, Shen DD, Strandness DE Jr.
+
+Author information:
+(1)Department of Pharmacy, University of Washington, Seattle 98195-7630, USA.
+
+Nine healthy males participated in a double-blind, placebo-controlled, 
+randomized, crossover study to determine the effects of verapamil and metoprolol 
+administered alone and concurrently on blood flow through the hepatic artery and 
+portal and hepatic veins and to detect a possible drug interaction between the 
+two agents. Single oral doses of placebo/placebo, metoprolol (50 mg)/placebo, 
+verapamil (80 mg)/placebo, or verapamil/metoprolol were separated by at least 14 
+days. Liver blood flow through individual hepatic vessels was measured up to 8 
+hours after dosage administration using a duplex Doppler ultrasound technique. 
+Cardiac output, heart rate, blood pressure, stroke volume, and total peripheral 
+resistance were measured for 3 hours after drug doses were given. In 5 subjects, 
+pharmacokinetic parameters for total drug as well as S- and R-enantiomers were 
+also measured. Verapamil given alone caused a rapid and intense increase in 
+liver blood flow (hepatic artery = 50%, portal vein = 42%, hepatic vein = 55%) 
+0.75 to 1 hour after administration because of a decrease in total peripheral 
+resistance and an increase in heart rate, stroke volume, and cardiac output. 
+Metoprolol given alone caused a slow but prolonged decrease in liver blood flow 
+(maximum decrease: hepatic artery = -54%, portal vein = -21%, hepatic vein = 
+-27%) 4 hours after administration because of a decrease in heart rate and 
+cardiac output. When the two agents were given together, a composite of the 
+changes noted after separate administration was noted: a brief peak increase in 
+liver blood flow at 0.33 to 1 hour followed by a slow, prolonged decrease that 
+reached its maximum decline 4 to 5 hours postdose. During the combined phase, 
+metoprolol and its enantiomers had an increased AUC and Cmax, while verapamil 
+and its enantiomers had an increased AUC and t1/2. These pharmacokinetic changes 
+were consistent with the magnitude and time course of liver blood flow changes 
+through the hepatic artery and portal or hepatic veins.
+
+DOI: 10.1177/00912700022009152
+PMID: 10806607 [Indexed for MEDLINE]

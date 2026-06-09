@@ -1,0 +1,182 @@
+=== PubMed: poisoning toxicology ===
+1. EXS. 2010;100:317-37. doi: 10.1007/978-3-7643-8338-1_9.
+
+Analytical toxicology.
+
+Maurer HH(1).
+
+Author information:
+(1)Department of Experimental and Clinical Toxicology, Institute of Experimental 
+and Clinical Pharmacology and Toxicology, Saarland University, Homburg, Germany. 
+hans.maurer@uks.eu
+
+This paper reviews procedures for screening, identification and quantification 
+of drugs, poisons and their metabolites in biosamples, and the corresponding 
+work-up procedures. Gas chromatography-mass spectrometry and liquid 
+chromatography-mass spectrometry are mostly used today in analytical toxicology. 
+Selection of the most appropriate biosample, e.g., ante/postmortem blood, urine, 
+or tissues or alternative matrices like hair, sweat and oral fluid, nails or 
+meconium, is discussed. The importance of quality control and possibilities and 
+limitations of interpretation of the analytical result are also discussed.
+
+DOI: 10.1007/978-3-7643-8338-1_9
+PMID: 20358688 [Indexed for MEDLINE]
+
+
+2. Emerg Med Clin North Am. 2007 May;25(2):283-308; abstract vii-viii. doi: 
+10.1016/j.emc.2007.02.011.
+
+Pediatric toxicology.
+
+Eldridge DL(1), Van Eyk J, Kornegay C.
+
+Author information:
+(1)Department of Pediatrics, Brody School of Medicine, East Carolina University, 
+Greenville, NC, USA. eldridged@ecu.edu
+
+Pediatric patients present unique concerns in the field of medical toxicology. 
+First, there are medicines that are potentially dangerous to small children, 
+even when they are exposed to very small amounts. Clinicians should be wary of 
+these drugs even when young patients present with accidental ingestions of 
+apparently insignificant amounts. Next, over-the-counter laxatives and syrup of 
+ipecac, although not commonly considered abused substances, may be misused in 
+both the setting of Munchausen's syndrome by proxy and in adolescents who have 
+eating disorders. Their use should be considered in any gastrointestinal illness 
+of uncertain origin. Finally, as the use of syrup of ipecac at home now has been 
+discouraged by many, some have explored using activated charcoal at home as a 
+new method of prehospital gastrointestinal decontamination. The literature 
+examining activated charcoal and its use in this capacity is discussed.
+
+DOI: 10.1016/j.emc.2007.02.011
+PMID: 17482021 [Indexed for MEDLINE]
+
+
+3. Toxicology. 2009 Sep 1;263(1):1. doi: 10.1016/j.tox.2009.04.038. Epub 2009 Apr
+ 19.
+
+Clinical picture of sulfur mustard poisoning.
+
+Kehe K, Thiermann H.
+
+DOI: 10.1016/j.tox.2009.04.038
+PMID: 19386280 [Indexed for MEDLINE]
+
+
+4. Arch Toxicol. 2023 Jan;97(1):93-102. doi: 10.1007/s00204-022-03389-w. Epub
+2022  Sep 28.
+
+Rhazes's methodology in the science of toxicology.
+
+Orimi JR(1)(2), Amrollahi-Sharifabadi M(3), Aghabeiglooei Z(4), Nasiri E(5), 
+Mozaffarpur SA(6)(7).
+
+Author information:
+(1)Traditional Medicine and History of Medical Sciences Research Center, Health 
+Research Institute, Babol University of Medical Sciences, Babol, Iran.
+(2)Traditional and Complementary Medicine Research Center, Arak University of 
+Medical Sciences, Arak, Iran.
+(3)Department of Basic Sciences, Faculty of Veterinary Medicine, Lorestan 
+University, Khorramabad, Iran.
+(4)Department of Traditional Medicine, School of Persian Medicine, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(5)Department of Anesthesiology and Operating Room, Traditional And 
+Complementary Medicine Research Center, Addiction Institute, Mazandaran 
+University of Medical Sciences, Sari, Iran.
+(6)Traditional Medicine and History of Medical Sciences Research Center, Health 
+Research Institute, Babol University of Medical Sciences, Babol, Iran. 
+seyyedali1357@gmail.com.
+(7)Traditional Medicine and History of Medical Sciences Research Center, Health, 
+Research Institute, Babol University of Medical Sciences, Babol, Iran. 
+seyyedali1357@gmail.com.
+
+INTRODUCTION: Toxicology has been one of the most important topics throughout 
+the history of medicine. Persian medicine (PM) textbooks such as Al-Hawi fi 
+Al-Tib of Rhazes (Razi) can be a useful source for novel information about 
+toxicology and thus we aimed to elucidate Rhazes's methodology in toxicology 
+based on this textbook.
+METHODS: This research is a historical descriptive study. Data were obtained 
+from the book Al-Hawi fi Al-Tib using keywords of poison, poisoning, and 
+relevant terminologies in ArabicAQ1, Persian, and English and also from 
+appropriate literature in PubMed, Scopus, Web of Science, Scientific Information 
+Database (SID), Magiran, and IranDoc.
+RESULTS: After introducing the types of common poisons in his era, Rhazes 
+categorized them into three main categories of plants, animals, and minerals, 
+which cause human poisoning orally or via stings and bites. To identify the 
+poison and make a diagnosis of the corresponding toxidrome, he conducted a 
+thorough physical examination of the patient, carefully observing signs and 
+symptoms, and then treated the poisoning using pharmaceutical and 
+non-pharmaceutical modalities. In the book Al-Hawi fi Al-Tib, Rhazes has 
+provided comprehensive information about the types of poisons, their effects on 
+the human body, the signs and symptoms of poisonings, and relevant diagnostic 
+and therapeutic methods.
+DISCUSSION: Rhazes had a great contributing role to the science of toxicology. 
+We suggest future research on an in-depth analysis of other PM references for 
+toxicology knowledge and how they may foster the science of toxicology.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00204-022-03389-w
+PMID: 36169679 [Indexed for MEDLINE]
+
+
+5. Clin Toxicol (Phila). 2023 Oct;61(10):717-939. doi: 
+10.1080/15563650.2023.2268981. Epub 2023 Dec 12.
+
+2022 Annual Report of the National Poison Data System(®) (NPDS) from America's 
+Poison Centers(®): 40th Annual Report.
+
+Gummin DD, Mowry JB, Beuhler MC, Spyker DA, Rivers LJ, Feldman R, Brown K, Pham 
+NPT, Bronstein AC, DesLauriers C.
+
+INTRODUCTION: This is the 40th Annual Report of America's Poison Centers 
+National Poison Data System (NPDS). As of 1 January, 2022, all 55 of the 
+nation's poison centers (PCs) uploaded case data automatically to NPDS. The 
+upload interval was 4.72 [4.40, 9.27] (median [25%, 75%]) minutes, effectuating 
+a near real-time national exposure and information database and surveillance 
+system.
+METHODS: We analyzed the case data tabulating specific indices from NPDS. The 
+methodology was similar to that of previous years. Where changes were 
+introduced, the differences are identified. Cases with medical outcomes of death 
+were evaluated by a team of medical and clinical toxicologist reviewers using an 
+ordinal scale of 1-6 to assess the Relative Contribution to Fatality (RCF) of 
+the exposure.
+RESULTS: In 2022, 2,483,183 closed encounters were logged by NPDS: 2,064,875 
+human exposures, 50,381 animal exposures, 363,099 information requests, 4,790 
+human confirmed nonexposures, and 38 animal confirmed nonexposures. Total 
+encounters showed a 12.9% decrease from 2021, and human exposure cases decreased 
+by 0.771%, while health care facility (HCF) human exposure cases increased by 
+0.214%. All information requests decreased by 48.4%, medication identification 
+(Drug ID) requests decreased by 21.2%, and medical information requests showed a 
+76.92% decrease, although these remain twice the median number before the 
+COVID-19 pandemic. Drug Information requests showed a 52.4% decrease, due to 
+declining COVID-19 vaccine calls to PCs but still comprised 5.55% of all 
+information contacts. Human exposures with less serious outcomes have decreased 
+1.70% per year since 2008, while those with more serious outcomes (moderate, 
+major or death) have increased 4.41% per year since 2000.Consistent with the 
+previous year, the top 4 substance classes most frequently involved in all human 
+exposures were analgesics (11.5%), household cleaning substances (7.23%), 
+antidepressants (5.61%), and cosmetics/personal care products (5.23%). 
+Antihistamines (4.81%) replaced sedatives/hypnotics/antipsychotics as the 5th 
+substance class. As a class, analgesic exposures increased most rapidly, by 
+1,514 cases/year (3.26%/year) over the past 10 years for cases with more serious 
+outcomes.The top 5 most common exposures in children age 5 years or less were 
+household cleaning substances (10.3%), analgesics (9.54%), cosmetics/personal 
+care products (9.49%), dietary supplements/herbals/homeopathic (6.65%), and 
+foreign bodies/toys/miscellaneous (6.61%). NPDS documented 3,255 human exposures 
+resulting in death; 2,622 (80.6%) of these were judged as related (RCF of 
+1-Undoubtedly responsible, 2-Probably responsible, or 3-Contributory).
+CONCLUSIONS: These data support the continued value of PC expertise and the need 
+for specialized medical toxicology information to manage the increasing number 
+of more serious exposures. Unintentional and intentional exposures continue to 
+be a significant cause of morbidity and mortality in the US. The near real-time 
+status of NPDS represents a national public health resource to collect and 
+monitor US exposure cases and information requests. The continuing mission of 
+NPDS is to provide a nationwide infrastructure for surveillance for all types of 
+exposures (e.g., foreign body, infectious, venomous, chemical agent, or 
+commercial product), and the identification and tracking of significant public 
+health events. NPDS is a model system for the near real-time surveillance of 
+national and global public health.
+
+DOI: 10.1080/15563650.2023.2268981
+PMID: 38084513 [Indexed for MEDLINE]

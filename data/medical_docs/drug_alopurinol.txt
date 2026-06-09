@@ -1,0 +1,127 @@
+=== PubMed: allopurinol drug interactions azathioprine mercaptopurine ===
+1. Practitioner. 1993 Oct;237(1531):789-91.
+
+Serious drug interactions.
+
+Aronson J(1).
+
+Author information:
+(1)Radcliffe Infirmary, Oxford.
+
+PIP: Of the many varieties of drug interactions, which occur when the 
+disposition or actions of one drug are changed by another, only a few are 
+serious or potentially fatal. A representative outline of some of these 
+illustrates the problem. Precipitant drugs are those which produce the 
+interaction, and object drugs are those whose effects are changed. The 
+interactions which are usually significant are those which alter the metabolism, 
+involve renal excretion, or change the effects of the object drug, especially 
+when the object drug has a low therapeutic index (cardiovascular drugs, 
+anticoagulants, drugs acting on the brain, hypoglycemic drugs, hormones, and 
+cytotoxic drugs). Warfarin toxicity, for example, is produced by aspirin, 
+phenylbutazone, and azapropazone. The dosage requirements of warfarin are 
+reduced by chloramphenicol, ciprofloxacin and other quinolones, erythromycin and 
+some of the other macrolides, metronidazole and other imidazoles, tetracyclines, 
+amiodarone, cimetidine (but not ranitidine), and fibrates. Potassium-depleting 
+drugs can potentiate the action of digoxin, and the elimination of digoxin can 
+be reduced by amiodarone, propafenone, quinidine, and verapamil. Combined oral 
+contraceptives can lose effectiveness through the interaction of carbamazepine, 
+griseofulvin, phenytoin, or rifampicin, which increase estrogen metabolism. In 
+addition, broad-spectrum antibiotics such as ampicillin or tetracyclines also 
+reduce contraceptive effectiveness by altering gut absorption. Even a single 
+drink of an alcoholic beverage may be dangerous to people taking 
+antidepressants, antihistamines, antipsychotic drugs, benzodiazepines, or 
+lithium. Antihistamines suffer inhibited metabolism in the liver if taken in 
+conjunction with the antifungal imidazoles and some of the macrolide 
+antibiotics. Cardiotoxicity of antihistamines is also enhanced by drugs with 
+similar cardiotoxic effects. Lithium potentiation is enhanced by the new 
+serotonin-reuptake inhibitors, and lithium excretion can be reduced by diuretics 
+or fluoxetine. When drugs such as antifungal imidazoles, azapropazone, or 
+phenylbutazone are permitted to inhibit the metabolism of sulphonylureas, 
+hypoglycemic effects are enhanced and, if unnoticed, may cause brain damage. 
+Fibrates should not be combined with HMG-CoA reductase inhibitors because of the 
+increased risk of myopathy. Patients taking non-selective monoamine oxidase 
+inhibitors should avoid amine-containing foods and drugs such as matured 
+cheeses, meat, yeast extracts, some wines, unfresh protein, and cold-curing 
+medications. The metabolism of azathioprine is inhibited by allopurinol, and 
+this combination requires a reduced dosage of azathioprine. Mercaptopurine, used 
+in the treatment of leukemia, is also a metabolite of azathioprine. Sources of 
+comprehensive information on drug interactions are 1) the "British National 
+Formulary," appendix 1; 2) Chapter 10 of "The Oxford Textbook of Clinical 
+Pharmacology and Drug Therapy"; and 3) a monograph by Stockley entitled "Drug 
+Interactions."
+
+PMID: 7903448 [Indexed for MEDLINE]
+
+
+2. J Intern Med. 1991 Apr;229(4):386.
+
+Allopurinol-azathioprine interaction.
+
+Boyd IW.
+
+Comment on
+    J Intern Med. 1990 Jul;228(1):69-71. doi: 
+10.1111/j.1365-2796.1990.tb00195.x.
+
+PMID: 2026995 [Indexed for MEDLINE]
+
+
+3. J Gastroenterol Hepatol. 2010 Apr;25(4):653-5. doi: 
+10.1111/j.1440-1746.2010.06254.x.
+
+Azathioprine and allopurinol: A two-edged interaction.
+
+Gearry RB, Day AS, Barclay ML, Leong RW, Sparrow MP.
+
+DOI: 10.1111/j.1440-1746.2010.06254.x
+PMID: 20492321 [Indexed for MEDLINE]
+
+
+4. Ann Pharmacother. 1996 Sep;30(9):951-4. doi: 10.1177/106002809603000906.
+
+Azathioprine and allopurinol: the price of an avoidable drug interaction.
+
+Kennedy DT(1), Hayney MS, Lake KD.
+
+Author information:
+(1)Drug Evaluation Unit, Hennepin County Medical Center, Minneapolis, MN 55407, 
+USA.
+
+OBJECTIVE: To report the price of a drug interaction between azathioprine and 
+allopurinol that resulted in pancytopenia in a patient who had undergone a heart 
+transplant.
+CASE SUMMARY: A 63-year-old white man who received an orthotopic heart 
+transplant in 1987 was hospitalized in June 1991 with a diagnosis of 
+pancytopenia. His immunosuppressive medications on admission included 
+cyclosporine 125 mg bid, azathioprine (AZA) 200 mg/d, and prednisone 2.5 mg/5 mg 
+every other day. Six weeks prior to admission, the patient's local physician 
+prescribed allopurinol for left wrist pain suspected to be gout. It was 
+determined that the pancytopenia was caused by the drug interaction between AZA 
+and allopurinol, both of which were withheld on admission. During 
+hospitalization, the patient's white blood cell count dropped to 1.1 x 10(3)/mm3 
+with an absolute neutrophil count of less than 0.5 x 10(3)/mm3, a platelet count 
+of less than 20 x 10(3)/mm3, and a hemoglobin of 3.7 g/dL. Four units of packed 
+red blood cells were transfused and regramostim (GM-CSF) therapy was begun on 
+hospital day 3 to speed the marrow recovery process. The patient was discharged 
+on hospital day 8 and AZA, which had been withheld since admission, was 
+restarted. The dosage was titrated to 200 mg/d over the following 2 weeks. The 
+price of this patient's hospital stay was $13,042.
+DISCUSSION: Not included in this price was the effect this drug interaction had 
+on the patient's quality of life. Even after discharge from the hospital, it was 
+estimated that it would take up to 3 months for the patient to fully recover his 
+previous level of strength and functional capability. This interaction between 
+AZA and allopurinol could easily have been avoided. Both the physician and the 
+pharmacist missed this well-documented and potentially life-threatening drug 
+interaction. Also, the patient failed to notify the transplant team when 
+allopurinol was prescribed by his local physician. The importance of patient 
+responsibility for medication therapy must be stressed to help avoid unnecessary 
+drug interactions.
+CONCLUSIONS: Undetected drug interactions can be life-threatening to patients as 
+well as costly to the healthcare system. Drug interactions also can have a 
+profound negative effect on the patients' quality of life, the price of which 
+cannot be measured in dollars alone. It is vital that the physician, pharmacist, 
+and patient work together to optimize therapeutic outcomes and avoid unnecessary 
+drug interactions.
+
+DOI: 10.1177/106002809603000906
+PMID: 8876853 [Indexed for MEDLINE]

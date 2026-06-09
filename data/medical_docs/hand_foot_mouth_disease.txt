@@ -1,0 +1,224 @@
+=== PubMed: hand foot mouth disease ===
+1. Recent Adv Inflamm Allergy Drug Discov. 2022;16(2):77-95. doi: 
+10.2174/1570180820666221024095837.
+
+Hand, Foot, and Mouth Disease: A Narrative Review.
+
+Leung AKC(1), Lam JM(2), Barankin B(3), Leong KF(4), Hon KL(5).
+
+Author information:
+(1)Department of Paediatrics, The University of Calgary, Alberta Children's 
+Hospital, Calgary, Alberta, Canada.
+(2)Department of Pediatrics and Department of Dermatology and Skin Sciences, 
+University of British Columbia, Vancouver, British Columbia, Canada.
+(3)Toronto Dermatology Centre, Toronto, Ontario, Canada.
+(4)Pediatric Institute, Kuala Lumpur General Hospital, Kuala Lumpur, Malaysia.
+(5)Department of Paediatrics, Hong Kong Institute of Integrative Medicine, and 
+the Jockey Club School of Public Health and Primary Care, The Chinese University 
+Hong Kong, Hong Kong.
+
+BACKGROUND: Hand, foot, and mouth disease is a common viral disease in 
+childhood. Because the disease has the potential to reach epidemic levels and 
+mortality is high in some countries, early recognition of this disease is of 
+paramount importance.
+OBJECTIVE: This purpose of this article is to familiarize pediatricians with the 
+clinical manifestations and management of hand, foot, and mouth disease.
+METHODS: A search was conducted in February 2022 in PubMed Clinical Queries 
+using the key term "hand, foot, and mouth disease". The search strategy included 
+all clinical trials, observational studies, and reviews published within the 
+past 10 years. Only papers published in English were included in this review.
+RESULTS: Hand, foot, and mouth disease is characterized by a painful oral 
+enanthem and asymptomatic exanthem on the palms and soles. Children younger than 
+5 years are most commonly affected. Hand, foot, and mouth disease caused by 
+enterovirus A71 is more severe and has a higher rate of complications than that 
+attributed to other viruses such as coxsackievirus A16. Circulatory failure 
+secondary to myocardial impairment and neurogenic pulmonary edema secondary to 
+brainstem damage are the main causes of death. Fortunately, the disease is 
+usually benign and resolves in 7 to10 days without sequelae. Given the 
+self-limited nature of most cases, treatment is mainly symptomatic and 
+supportive. Intravenous immunoglobulin should be considered for the treatment of 
+severe/complicated hand, foot, and mouth disease and has been recommended by 
+several national and international guideline committees. Currently, there are no 
+specific antiviral agents approved for the treatment of the disease. Drugs such 
+as ribavirin, suramin, mulberroside C, aminothiazole analogs, and sertraline 
+have emerged as potential candidates for the treatment of hand, foot, and mouth 
+disease. Vaccination of susceptible individuals in high-risk areas and good 
+personal hygiene are important preventative measures to combat the disease.
+CONCLUSION: Familiarity of the disease including its atypical manifestations is 
+crucial so that a correct diagnosis can be made, and appropriate treatment 
+initiated. A timely diagnosis can help avoid contact with the affected 
+individual and decrease the risk of an outbreak.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1570180820666221024095837
+PMID: 36284392 [Indexed for MEDLINE]
+
+
+2. Pathog Glob Health. 2024 Oct-Dec;118(7-8):538-548. doi: 
+10.1080/20477724.2024.2400424. Epub 2024 Sep 4.
+
+A review of enterovirus-associated hand-foot and mouth disease: preventive 
+strategies and the need for a global enterovirus surveillance network.
+
+Huang CY(1), Su SB(2), Chen KT(3)(4).
+
+Author information:
+(1)Division of Occupational Medicine, Chi-Mei Medical Center, Tainan, Taiwan.
+(2)Department of Occupational Medicine, Chi-Mei Medical Center, Tainan, Taiwan.
+(3)Department of Occupational Medicine, Tainan Municipal Hospital (managed by 
+Show Chwan Medical Care Corporation), Tainan, Taiwan.
+(4)Department of Public Health, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+
+Enterovirus (EV)-associated hand, foot, and mouth disease (HFMD) is a 
+significant public health issue worldwide, commonly occurring in children five 
+years of age or younger. The leading causes of most HFMD cases are EVs, which 
+are members of the Picornaviridae family. The typical clinical manifestations of 
+EV-associated HFMD are febrile presentations with mucosal herpangina, oral 
+ulcerations, and skin rashes on the hands and feet. The majority of HFMD cases 
+resolve without consequence; however, a subset progresses to severe neurological 
+and cardiopulmonary complications, which can be fatal. In the past two decades, 
+EV-associated HFMD has received significant attention. In this review, we 
+organize published papers and provide updates on epidemiology, pathogenesis, 
+surveillance, and vaccine developments for EV-associated HFMD. The impact of 
+EV-associated HFMD is increasing globally. Developing efficacious vaccines has 
+become a priority for preventing EV infections without adequate treatment. 
+Simultaneously, emerging EV infections (including EV-D68, EV-A71, 
+Coxsackieviruses, and echoviruses) are increasing, highlighting the need to 
+create a vigilant surveillance system for EV infections worldwide.
+
+DOI: 10.1080/20477724.2024.2400424
+PMCID: PMC11892072
+PMID: 39229797 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+3. J Clin Virol. 2020 May;126:104307. doi: 10.1016/j.jcv.2020.104307. Epub 2020
+Mar  6.
+
+Atypical hand-foot-mouth disease in Belém, Amazon region, northern Brazil, with 
+detection of coxsackievirus A6.
+
+Justino MCA(1), da S Mesquita D(2), Souza MF(3), Farias FP(4), Dos S Alves 
+JC(5), Ferreira JL(6), Lopes DP(7), Tavares FN(8).
+
+Author information:
+(1)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: mariajustino@iec.gov.br.
+(2)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: deisi_mesquita@hotmail.com.
+(3)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: mauricio.souza@ics.ufpa.br.
+(4)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: francisco.farias@ics.ufpa.br.
+(5)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: jainaraalves@iec.gov.br.
+(6)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: dlf01_@hotmail.com.
+(7)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: danmee1997@gmail.com.
+(8)Instituto Evandro Chagas, Health Surveillance Secretariat, Brazilian Ministry 
+of Health, Belém, Brazil. Electronic address: fernandotavares@iec.gov.br.
+
+BACKGROUND: Enterovirus (EV) A71 and coxsackievirus (CV) A16 were the most 
+frequent serotypes involved in hand, foot, and mouth disease (HFMD) outbreaks 
+throughout Asia. In the past 5 years, however, CV-A6 has emerged as a new 
+important pathogen worldwide, and more severe and extensive dermatologic 
+presentations has been reported.
+OBJECTIVES: Identify the clinical spectrum for atypical HFMD and enterovirus 
+serotypes in Belém, Pará, Amazon region of northern Brazil.
+STUDY DESIGN: A prospective ambulatory clinic-based surveillance conducted from 
+January to June 2019, involving patients under 15 years with symptoms of HFMD. 
+Stool, serum, oropharyngeal, and skin swab samples were analyzed. Real-time 
+RT-PCR was performed to detect the viral genome of enteroviruses. Positive 
+specimens were submitted to semi-nested PCR. Physical examinations and 
+demographic data were recorded on a standardized form.
+RESULTS: 48 patients with symptoms of HFMD were included in the study and 
+collected all samples according to protocol. Enteroviruses were detected in 83 % 
+of patients. An atypical form of HFMD with vesiculobullous exanthema was present 
+in 70 % (28/40); desquamation of the palms and soles detected in 90 % (36/40) 
+and onychomadesis in 30 % (12/40) of patients. The serotype was identified in 22 
+patients, CV- A6 occurred in 81.8 % of them.
+CONCLUSION: This is the first ambulatory surveillance and virologic 
+investigation involving HFMD performed in outpatients from Amazon region, 
+Brazil. The detection of CV-A6 was related to atypical forms HFMD. Desquamation 
+of the palms and soles and nail changes occurred with frequency, such as a late 
+sequel in the HFMD disease.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2020.104307
+PMID: 32302950 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no conflict of interest.
+
+
+4. Hautarzt. 2019 Dec;70(12):964-968. doi: 10.1007/s00105-019-4452-2.
+
+[Atypical variant of hand-foot-mouth disease].
+
+[Article in German]
+
+Kuntz T(1), Koushk-Jalali B(1), Tigges C(1), Silling S(2), di Cristanziano V(2), 
+Wieland U(2), Oellig F(3), Kreuter A(4).
+
+Author information:
+(1)Klinik für Dermatologie, Venerologie und Allergologie, HELIOS St. Elisabeth 
+Klinik Oberhausen, Universität Witten/Herdecke, Josefstr. 3, 46045, Oberhausen, 
+Deutschland.
+(2)Institut für Virologie, Universität zu Köln, Köln, Deutschland.
+(3)Institut für Pathologie, Mülheim an der Ruhr, Deutschland.
+(4)Klinik für Dermatologie, Venerologie und Allergologie, HELIOS St. Elisabeth 
+Klinik Oberhausen, Universität Witten/Herdecke, Josefstr. 3, 46045, Oberhausen, 
+Deutschland. Alexander.Kreuter@helios-gesundheit.de.
+
+An atypical variant of hand-foot-mouth disease (HFMD) has sporadically been 
+reported in recent years, with outbreaks in Europe, Asia, the USA and South 
+America. A new lineage of Coxsackie virus A6 has been identified as the 
+causative agent, a virus-type belonging to the group of enteroviruses. HFMD is 
+transmitted through droplet infection or through faecal-oral transmission. The 
+disease may begin with a prodromal stage and is often accompanied by fever and 
+malaise. Typical skin findings include a papular and vesiculobullous exanthema 
+that might be accompanied by confluent blisters (bullae), crusting, and 
+ulceration. In contrast to "classic" HFMD, predilection sites include the dorsal 
+aspects of the hands and feet, forearms, lower legs, neck and trunk. Oral 
+lesions may be present, but are less often seen compared to "classic" HFMD. The 
+course of the disease is self-limiting, with complete resolution usually within 
+7-14 days after disease onset. The treatment of atypical HFMD is usually 
+symptomatic. A diagnosis of atypical HFMD might be challenging due to the 
+polymorphous presentation of the disease. This review describes a rarely 
+reported but more frequently diagnosed viral condition.
+
+DOI: 10.1007/s00105-019-4452-2
+PMID: 31342101 [Indexed for MEDLINE]
+
+
+5. Aust Fam Physician. 2003 Aug;32(8):594-5.
+
+Hand, foot and mouth disease.
+
+Frydenberg A(1), Starr M.
+
+Author information:
+(1)Department of General Medicine, Royal Children's Hospital, Melbourne, 
+Victoria.
+
+BACKGROUND: Hand, foot and mouth disease is a common viral illness of infants 
+and children.
+OBJECTIVE: This article aims to describe the cause, presentation, management and 
+infectivity of this virus.
+DISCUSSION: Hand, foot and mouth disease is characterised by fever and vesicles 
+in the mouth and on distal extremities. It is usually caused by coxsackie A 
+virus and less commonly by coxsackie B and enterovirus 71. Hand, foot and mouth 
+disease usually affects children under 10 years of age. Enteroviruses may also 
+cause more serious disease such as meningoencephalitis and myocarditis. 
+Treatment is symptomatic. Children are particularly infectious until the 
+blisters have disappeared. Exclusion from school or childcare is not practical 
+as the virus may be present in the faeces for several weeks.
+
+PMID: 12973865 [Indexed for MEDLINE]

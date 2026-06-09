@@ -1,0 +1,129 @@
+=== PubMed: su çiçeği ===
+1. Aesthetic Plast Surg. 2025 Nov;49(21):6190-6195. doi: 
+10.1007/s00266-025-04899-5. Epub 2025 May 16.
+
+Female Sexual Function Index Outcome After Posterior Vaginal Tightening Approach 
+and Anterior Cervical Ring Repair when Indicated.
+
+Köle E(1), Akar B(2), Deniz A(3), Köle MÇ(1), Aslan E(4), Çalışkan E(5).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Alanya Alaaddin Keykubat University 
+School of Medicine, Oba Mahallesi Fidanlık Cd. 07400, Alanya, Antalya, Turkey.
+(2)Department of Obstetrics and Gynecology, Private Medar Hospital, Yeniköy 
+Merkez, Mine Çiçeği Sokak No:6, 41275, Başiskele, Kocaeli, Turkey.
+(3)Department of Obstetrics and Gynecology, Alanya Alaaddin Keykubat University 
+School of Medicine, Oba Mahallesi Fidanlık Cd. 07400, Alanya, Antalya, Turkey. 
+dralparslandeniz@gmail.com.
+(4)Department of Obstetrics and Gynecology, Private Practice, Oba Mahallesi 
+Fidanlık Cd. 07400, Alanya, Antalya, Turkey.
+(5)Department of Obstetrics and Gynecology, Private Practice, İzmit, Kocaeli, 
+Turkey.
+
+BACKGROUND: Female sexual dysfunction is believed to be associated with pelvic 
+floor dysfunction in most cases. However, correcting prolapse does not always 
+necessarily correct sexual function. The reason for this might be secondary to 
+disregarding anatomically relevant structures during surgical interventions. We 
+aimed to demonstrate that posterior vaginal tightening approach avoiding 
+anteriorly located structures, such as clitoral complex, would yield better 
+results in terms of sexual function.
+METHODS: Fifty-seven postmenopausal women with primary complaints of vaginal 
+laxity and Grade I and II prolapse were operated. All patients received 
+posterior vaginal tightening operation, and a cervical ring repair was utilized 
+when indicated (n:25). Perineal repair was done if there was any defect (n:13). 
+Levator plication is not done in any patients. FSFI (Turkish Version) was 
+applied to each patient prior to surgery and at 6th month postoperatively. A 
+Likert-type scale is also utilized to assess the patient satisfaction from the 
+procedures.
+RESULTS: All the domains and the total score of FSFI were observed to be 
+improved. Only the improvement in the pain domain scores was not statistically 
+significant. Satisfaction of the patients from the surgery on a Likert scale was 
+so as to: very satisfied 27 (47.4%), satisfied 12 (21.1%), neither satisfied nor 
+dissatisfied 8 (14%), dissatisfied 5 (8.8%), very dissatisfied 1(1.7%).
+CONCLUSION: Sexual function of women with vaginal laxity can be improved when 
+vulvovaginal erotogenic complex is not disrupted. This can be achieved via a 
+posterior approach while maintaining successful anatomic correction of both 
+posterior and anterior compartments.
+LEVEL OF EVIDENCE III: This journal requires that authors assign a level of 
+evidence to each article. For a full description of these Evidence-Based 
+Medicine ratings, please refer to the Table of Contents or the online 
+Instructions to Authors www.springer.com/00266 .
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00266-025-04899-5
+PMCID: PMC12705827
+PMID: 40379926 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: No conflict 
+of interest was declared by the authors. Ethical Approval: The approval of 
+Alaaddin Keykubat University Clinical Research Ethics Committee (decision dated 
+05.04.2023 and numbered 6/01). Informed Consent: Participation in the study was 
+voluntary, and all participants read and approved the informed consent form. 
+Peer-review: Internally peer-reviewed.
+
+
+2. Int J Pediatr Otorhinolaryngol. 2002 Sep 2;65(2):171-9. doi: 
+10.1016/s0165-5876(02)00152-0.
+
+Cochlear implantation in children with inner ear malformations: report of two 
+cases.
+
+Incesulu A(1), Vural M, Erkam U, Kocaturk S.
+
+Author information:
+(1)SSK Ankara Hospital, 2nd ENT Clinic, Portakal Cicegi Sok. No. 3/5, Cankaya, 
+Ankara 06540, Turkey. armaganincesulu@yahoo.com
+
+Cochlear implantation of congenitally deaf children with inner ear malformations 
+is gaining special interest. Although the number of the reported cases is 
+increasing, the decision for implantation needs thorough investigation. 
+Preoperative evaluation, surgical approach and postoperative follow-up can be 
+challenging.
+STUDY DESIGN: A retrospective analysis of two cases with inner ear 
+malformations.
+PATIENTS: One patient was a 3-year-old-girl who had cochlear and 
+cochleovestibular nerve aplasia on the left side and incomplete partition on the 
+other side. The other patient was a 5-year-old-boy who had hypoplastic cochlea 
+on both sides. Both of them also had vestibular anomalies. Cases were implanted 
+by using multichannel cochlear implant.
+RESULTS: No complications were encountered. Both patients responded to acoustic 
+stimuli, and their speech perception skills were improved. After 10 months of 
+cochlear implant use, their results seem encouraging.
+CONCLUSION: Except cochlear or cochleovestibular nerve agenesis, inner ear 
+malformations cannot be accepted as a contraindication for cochlear 
+implantation. Although there can be difficulties during the surgery or in the 
+postoperative period, patients with inner ear malformations can also benefit 
+from cochlear implantation. It is essential that all possible complications and 
+postoperative performance should be discussed with the parents.
+
+Copyright 2002 Elsevier Science Ireland Ltd.
+
+DOI: 10.1016/s0165-5876(02)00152-0
+PMID: 12176191 [Indexed for MEDLINE]
+
+
+3. Mikrobiyol Bul. 1992 Jul;26(3):266-70.
+
+[Fatal varicella pneumonia unresponsive to acyclovir therapy in a child with a 
+malignancy].
+
+[Article in Turkish]
+
+Ceyhan M(1), Kanra G, Seçmeer G, Okuyan K, Kale G.
+
+Author information:
+(1)Dr. Hacettepe Universitesi Tip Fakültesi, Pediatrik Enfeksiyon Hastaliklari 
+Unitesi.
+
+Acyclovir has become the drug of choice for prevention of visceral dissemination 
+of Varicella-zoster virus infections in immunocompromised individuals. This 
+article describes a 6-year-old girl taking cytotoxic therapy and radiotherapy 
+for treatment of Hodgkin lymphoma who developed cutaneous varicella infection. 
+Despite the early administration of acyclovir a fatal varicella pneumonia 
+occurred and she died on the 4th day of hospitalization. Since the resistance is 
+inducible, the increase of unresponsiveness to acyclovir in immunocompromised 
+hosts with varicella infection is a potential risk that can cause to increase in 
+fatalities in these patients.
+
+PMID: 1528147 [Indexed for MEDLINE]

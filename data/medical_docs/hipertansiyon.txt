@@ -1,0 +1,139 @@
+=== PubMed: hipertansiyon ===
+1. Turk Hemsire Derg. 1986;36(4):48-52.
+
+[Hypertension].
+
+[Article in Turkish]
+
+Köz N, Ozdemir B, Sayginer Z.
+
+PMID: 3651008 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2019 Dec;47(8):701-704. doi: 10.5543/tkda.2019.64009.
+
+[Labile hypertension in the clinic].
+
+[Article in Turkish]
+
+Özyüncü N(1), Çağlar N(1).
+
+Author information:
+(1)Department of Cardiology, Faculty of Medicine, Ankara University, Ankara, 
+Turkey.
+
+Labile hypertension is a common problem in daily clinical practice. It is 
+defined as a rapid, temporary rise in blood pressure to above 140/90 mm Hg, most 
+often due to emotional stress, followed by a return to normal values. In the 
+clinical setting, it may be due to white coat hypertension, masked hypertension, 
+pseudopheochromocytoma, orthostatic hypertension, or supine hypertension. Labile 
+hypertension can lead to increased cardiovascular risk. Ambulatory blood 
+pressure monitoring is often used for the diagnosis. Alpha blockers+beta 
+blockers and antidepressants are frequently used for treatment.
+
+DOI: 10.5543/tkda.2019.64009
+PMID: 31802769 [Indexed for MEDLINE]
+
+
+3. Turk Kardiyol Dern Ars. 2019 Sep;47(6):535-546. doi: 10.5543/tkda.2019.62565.
+
+[2019 Turkish Hypertension Consensus Report].
+
+[Article in Turkish]
+
+Aydoğdu S(1), Güler K(2), Bayram F(3), Altun B(4), Derici Ü(5), Abacı A(6), 
+Tükek T(2), Sabuncu T(7), Arıcı M(4), Erdem Y(4), Özin B(8), Sahin İ(9), Ertürk 
+Ş(10), Bitigen A(11), Tokgözoğlu L(12).
+
+Author information:
+(1)Turkey Yüksek İhtisas Hospital, Department Of Cardiology, Ankara.
+(2)Istanbul University Istanbul Medical Faculty, Department Of Internal 
+Diseases, Istanbul.
+(3)Erciyes University Medical Faculty, Department Of Internal Diseases, Division 
+Of Endocrinology And Metabolism, Kayseri.
+(4)Hacettepe University Medical Faculty, Department Of Internal Diseases, 
+Division Of Nephrology, Ankara.
+(5)Gazi University Medical Faculty, Department Of Internal Diseases, Division Of 
+Nephrology, Ankara.
+(6)Gazi University Medical Faculty, Department Of Cardiology, Ankara.
+(7)Harran University Medical Faculty, Department Of Endocrinology And 
+Metabolism, Şanlıurfa.
+(8)Baskent University Medical Faculty, Department Of Cardiology, Ankara.
+(9)Inonu University Medical Faculty, Department Of Internal Diseases, Division 
+Of Endocrinology And Metabolism, Malatya.
+(10)Ankara University Medical Faculty, Department Of Internal Diseases, Division 
+Of Nephrology, Ankara.
+(11)Medical Park Fatih Hospital, Department Of Cardiology, Istanbul.
+(12)Hacettepe University Medical Faculty, Department Of Cardiology, Ankara.
+
+DOI: 10.5543/tkda.2019.62565
+PMID: 31483311 [Indexed for MEDLINE]
+
+
+4. Tuberk Toraks. 2017 Sep;65(3):237-244. doi: 10.5578/tt.53798.
+
+[Schistosomiasis and pulmonary hypertension].
+
+[Article in Turkish]
+
+Şen N(1).
+
+Author information:
+(1)Clinic of Chest Diseases, Adana Dr. Turgut Noyan Practice and Research 
+Center, Baskent University, Adana Turkey.
+
+Schistosomiasis is one of the most prevelant parazitic diseases in the world. It 
+is endemic in more than 70 countries, and more than 200 million people worldwide 
+are infected with Schistosoma. Pulmonary hypertension (PHT) is one of the 
+chronic complications of schistosomiasis. The exact pathogenesis of 
+schistosomiasis-associated pulmonary hypertension (S-PHT) remains unclear, 
+although several mechanisms such as parazitic arterial embolisation, pulmonary 
+arteriopathy, and portopulmonary hypertension have been suggested. Pathological 
+pulmonary vascular changes in S-PHT were found similar to those in idiopathic 
+pulmonary arterial hypertension (IPAH). The fact that schistosomiasis is one of 
+the most common causes of pulmonary arterial hypertension (PAH), particularly in 
+the developing countries, underlines the importance of enhancing our knowledge 
+on this disease. Developments in the treatment of PAH have resulted in improved 
+prognosis and significant increase in life expectancy and quality of life in the 
+last two decades, which has enhanced the importance of S-PHT. Schistosomiasis is 
+treated with praziquantel. Nevertheless, there is limited evidence that this 
+treatment is effective for PHT. Although antihelmintic medications do not lead 
+to significant improvement, they have beneficial effects and may slow down 
+disease progression. Using PAH-specific treatments in the patients with 
+schistosomiasis-associated PAH (S-PAH) can improve prognosis. However, 
+inadequate clinical studies and limited sources in the endemic regions restrict 
+extensive usage of these expensive medications. Further studies are required to 
+determine the efficacy of these treatment modalities.
+
+DOI: 10.5578/tt.53798
+PMID: 29135402 [Indexed for MEDLINE]
+
+
+5. Turk Kardiyol Dern Ars. 2017 Sep;45(Suppl 5):29-31. doi: 
+10.5543/tkda.2017.95554.
+
+[Hypertension in the elderly].
+
+[Article in Turkish]
+
+Özerkan Çakan F(1).
+
+Author information:
+(1)Department of Cardiology, Ege University Faculty of Medicine, İzmir, Turkey. 
+fozerkan@yahoo.com.
+
+Hypertension (HT) is a common problem in elderly persons (age >65 years), 
+reaching a prevalence as high as 60 to 80%. Isolated systolic HT mostly occurs 
+in older patients. Treatment of HT in all patients, independent of age, consists 
+of lifestyle modifications and antihypertensive therapy. Randomized trials have 
+provided clear evidence of benefit from treating HT in elderly patients, 
+including those over the age of 80 years. Drug therapy should be started in 
+elderly hypertensive patients if lifestyle changes are insufficient and in the 
+absence of a hypertensive emergency or urgency, blood pressure reduction should 
+always be gradual. A long-acting dihydropyridine or a thiazide diuretic is 
+generally preferred because of increased blood pressure-lowering efficacy in 
+this population. Goal blood pressure recommendation for most hypertensive 
+elderly is to attain a systolic pressure below 140 mmHg.
+
+DOI: 10.5543/tkda.2017.95554
+PMID: 28976377 [Indexed for MEDLINE]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "drug_01",
+    "category": "ilaç_etkileşimi",
+    "question": "Warfarin kullanıyorum, ibuprofen alabilir miyim?",
+    "ground_truth": "Warfarin ile ibuprofen birlikte kullanılmamalıdır. İbuprofen gibi NSAİD'ler warfarinin kan sulandırıcı etkisini artırır ve ciddi kanama riskine yol açar. Alternatif olarak parasetamol daha güvenlidir, ancak yine de doktora danışılmalıdır."
+  },
+  {
+    "id": "drug_02",
+    "category": "ilaç_etkileşimi",
+    "question": "Metformin kullanırken alkol tüketmek zararlı mı?",
+    "ground_truth": "Metformin kullanırken aşırı alkol tüketimi laktik asidoz riskini artırır. Bu nadir ama ciddi bir komplikasyondur. Ayrıca alkol kan şekerini dengesizleştirebilir. Ara sıra az miktarda alkol genellikle tolere edilse de doktora danışılmalıdır."
+  },
+  {
+    "id": "drug_03",
+    "category": "ilaç_etkileşimi",
+    "question": "Ramipril ile potasyum takviyesi birlikte kullanılabilir mi?",
+    "ground_truth": "Ramipril (ACE inhibitörü) potasyum atılımını azaltır. Potasyum takviyesiyle birlikte kullanım hiperkalemi (yüksek potasyum) riskine yol açabilir. Bu durum kalp ritim bozukluklarına neden olabilir. Doktor onayı olmadan potasyum takviyesi kullanılmamalıdır."
+  },
+  {
+    "id": "drug_04",
+    "category": "ilaç_etkileşimi",
+    "question": "Sertralin ile tramadol birlikte kullanılabilir mi?",
+    "ground_truth": "Sertralin ve tramadol birlikte kullanımı serotonin sendromu riskini artırır. Bu ciddi ve potansiyel olarak hayatı tehdit eden bir durumdur. Ajitasyon, tremor, terleme, hiperrefleksi ve ateş belirtileri görülürse acil yardım alınmalıdır. Bu kombinasyondan kaçınılmalıdır."
+  },
+  {
+    "id": "drug_05",
+    "category": "ilaç_etkileşimi",
+    "question": "Atorvastatin kullanırken greyfurt suyu içebilir miyim?",
+    "ground_truth": "Greyfurt suyu atorvastatinin metabolizmasını bozar ve kan düzeyini önemli ölçüde artırır. Bu durum kas ağrısı ve miyopati riskini artırır. Atorvastatin kullanırken greyfurt ve greyfurt suyundan kaçınılmalıdır."
+  },
+  {
+    "id": "drug_06",
+    "category": "ilaç_etkileşimi",
+    "question": "Levotiroksin ilacımı kahvaltıdan önce mi sonra mı almalıyım?",
+    "ground_truth": "Levotiroksin sabah aç karnına, yemekten en az 30-60 dakika önce alınmalıdır. Besin, kalsiyum, demir takviyeleri ve bazı ilaçlar emilimini ciddi şekilde azaltır. Düzenli aynı saatte kullanım TSH kontrolü için önemlidir."
+  },
+  {
+    "id": "drug_07",
+    "category": "ilaç_etkileşimi",
+    "question": "Aspirin ile klopidogrel birlikte kullanmak tehlikeli mi?",
+    "ground_truth": "Aspirin ve klopidogrel kombinasyonu çift antiplatelet tedavi olarak kardiyovasküler hastalıklarda bilinçli olarak kullanılabilir. Ancak bu kombinasyon kanama riskini artırır, özellikle mide-bağırsak kanaması. Doktor kontrolünde kullanılmalı, mide koruyucu ilaç (PPI) eklenmelidir."
+  },
+  {
+    "id": "drug_08",
+    "category": "ilaç_etkileşimi",
+    "question": "Metoprolol kullanırken ani bırakmak zararlı mı?",
+    "ground_truth": "Metoprolol gibi beta blokerler ani bırakılmamalıdır. Aniden kesilmesi taşikardi, hipertansiyon krizi ve hatta miyokard enfarktüsü riskine yol açabilir. Doktor gözetiminde doz kademeli olarak azaltılarak kesilmelidir."
+  },
+  {
+    "id": "drug_09",
+    "category": "ilaç_etkileşimi",
+    "question": "Omeprazol ile klopidogrel birlikte kullanılmalı mı?",
+    "ground_truth": "Omeprazol klopidogrelin aktif metabolite dönüşümünü (CYP2C19 inhibisyonu) azaltabilir, bu da kardiyoprotektif etkiyi düşürebilir. Mide koruyucu gerekiyorsa pantoprazol tercih edilmesi önerilir. Kardiyoloji takibi önemlidir."
+  },
+  {
+    "id": "drug_10",
+    "category": "ilaç_etkileşimi",
+    "question": "Alprazolam kullanırken alkol almak neden tehlikelidir?",
+    "ground_truth": "Alprazolam (benzodiyazepin) ve alkol her ikisi de merkezi sinir sistemini baskılar. Birlikte kullanım solunum depresyonu, aşırı sedasyon, bilinç kaybı ve ölüm riskini ciddi artırır. Bu kombinasyondan kesinlikle kaçınılmalıdır."
+  },
+  {
+    "id": "symp_01",
+    "category": "semptom_analizi",
+    "question": "3 gündür devam eden ateş, öksürük ve nefes darlığım var. Ne yapmalıyım?",
+    "ground_truth": "Bu semptomlar pnömoni veya ciddi solunum yolu enfeksiyonuna işaret edebilir. 3 günü aşan ateş, öksürük ve özellikle nefes darlığı birlikteliği acil değerlendirme gerektirir. Göğüs hastalıkları veya acil servise başvurulmalıdır. Evde beklenmemesi önerilir."
+  },
+  {
+    "id": "symp_02",
+    "category": "semptom_analizi",
+    "question": "Sabahları tutukluk hisseden, şişen eklemlerim var, 1 haftadır devam ediyor.",
+    "ground_truth": "Sabah tutukluğu ve eklem şişliği romatoid artrit başta olmak üzere inflamatuar eklem hastalıklarını düşündürür. 1 haftayı aşan şikayetlerde romatoloji veya iç hastalıkları değerlendirmesi önerilir. Tanı için RF, anti-CCP, CRP ve tam kan sayımı istenebilir."
+  },
+  {
+    "id": "symp_03",
+    "category": "semptom_analizi",
+    "question": "Göğüs ağrısı, sol kola yayılan ağrı ve terleme hissediyorum.",
+    "ground_truth": "Bu semptomlar akut miyokard enfarktüsü (kalp krizi) belirtileridir ve tıbbi acil durumdur. Hemen 112 aranmalı veya en yakın acil servise gidilmelidir. Beklenmemeli, araç kullanılmamalıdır. Aspirin mevcut ve alerji yoksa çiğnenebilir."
+  },
+  {
+    "id": "symp_04",
+    "category": "semptom_analizi",
+    "question": "2 haftadır devam eden yorgunluk, saç dökülmesi ve üşüme hissim var.",
+    "ground_truth": "Bu semptomlar hipotiroidizmi (tiroid bezinin az çalışması) düşündürür. Yorgunluk, üşüme ve saç dökülmesi hipotiroidinin klasik belirtileridir. TSH ve serbest T4 testi için dahiliye veya endokrinoloji başvurusu önerilir."
+  },
+  {
+    "id": "symp_05",
+    "category": "semptom_analizi",
+    "question": "Yemekten sonra yanma hissi, geğirme ve gırtlağa yükselen ekşi tat var.",
+    "ground_truth": "Bu semptomlar gastroözofageal reflü hastalığının (GÖRH) tipik belirtileridir. Yatmadan 2-3 saat önce yemek yememe, baş yükseltme, asitli ve yağlı gıdalardan kaçınma önerilir. Şikayetler devam ederse gastroenteroloji değerlendirmesi ve endoskopi düşünülmelidir."
+  },
+  {
+    "id": "symp_06",
+    "category": "semptom_analizi",
+    "question": "Ani başlayan şiddetli baş ağrısı, hayatımın en kötüsü diyebileceğim türden.",
+    "ground_truth": "Ani ve şiddetli başlayan 'hayatımın en kötü baş ağrısı' subaraknoid kanama (beyin kanaması) için ciddi uyarı işaretidir. Bu tıbbi acil durumdur. Hemen 112 aranmalı veya acil servise gidilmelidir. Beklenmemelidir."
+  },
+  {
+    "id": "symp_07",
+    "category": "semptom_analizi",
+    "question": "İdrar yaparken yanma, sık idrara çıkma ve bulanık idrar var.",
+    "ground_truth": "Bu semptomlar üriner sistem enfeksiyonunun (idrar yolu enfeksiyonu) klasik belirtileridir. Bol su içilmeli, şeker tüketimi azaltılmalıdır. Antibiyotik tedavisi için aile hekimi veya üroloji başvurusu gerekir. Ateş veya yan ağrısı eklenirse pyelonefrit açısından acilen değerlendirilmelidir."
+  },
+  {
+    "id": "symp_08",
+    "category": "semptom_analizi",
+    "question": "Son 2 aydır gece terlemesi ve açıklanamayan 5 kg kilo kaybım var.",
+    "ground_truth": "Gece terlemesi ve açıklanamayan kilo kaybı birlikteliği tüberküloz, lenfoma veya diğer maligniteleri düşündüren önemli bulgulardır. Bu semptomlar mutlaka dahiliye değerlendirmesi gerektirir. Toraks grafisi, tam kan, sedimantasyon ve diğer testler istenecektir."
+  },
+  {
+    "id": "symp_09",
+    "category": "semptom_analizi",
+    "question": "Çarpıntı hissediyorum, zaman zaman başım dönüyor ve yorgunluk var.",
+    "ground_truth": "Çarpıntı, baş dönmesi ve yorgunluk birlikteliği anemi, tiroid bozukluğu veya kardiyak aritmiyi düşündürebilir. Tam kan sayımı, TSH ve EKG değerlendirmesi için dahiliye veya kardiyoloji başvurusu önerilir. Şikayetler ani ve şiddetliyse acil değerlendirme gerekebilir."
+  },
+  {
+    "id": "symp_10",
+    "category": "semptom_analizi",
+    "question": "Karın ağrısı ve ishal 3 gündür devam ediyor, kan yok ama ateş var.",
+    "ground_truth": "3 günü aşan ishal, karın ağrısı ve ateş bakteriyel gastroenteriti düşündürür. Bol sıvı alımı önemlidir. Ateşin yüksekliği ve genel duruma göre doktor değerlendirmesi gerekebilir. Kanlı ishal veya şiddetli karın ağrısı eklenirse acil başvuru şarttır."
+  },
+  {
+    "id": "prof_01",
+    "category": "profil_bazlı",
+    "question": "45 yaşında erkek, Tip 2 diyabet ve hipertansiyon hastasıyım, Metformin ve Ramipril kullanıyorum. Soğuk algınlığı için ibuprofen alabilir miyim?",
+    "ground_truth": "İbuprofen bu profil için önerilmez. NSAİD'ler böbrek fonksiyonlarını bozabilir ve Ramipril'in antihipertansif etkisini azaltabilir. Diyabetik hastalarda böbrek koruması kritiktir. Parasetamol daha güvenli alternatiftir. Ateş veya şikayetler devam ederse doktora danışılmalıdır."
+  },
+  {
+    "id": "prof_02",
+    "category": "profil_bazlı",
+    "question": "65 yaşındayım, kalp yetmezliğim var ve Furosemid kullanıyorum. Çok tuzlu yemekler yiyebilir miyim?",
+    "ground_truth": "Kalp yetmezliğinde tuz kısıtlaması kritik öneme sahiptir. Günlük sodyum alımı 2 gramın altında tutulmalıdır. Fazla tuz sıvı tutulumunu artırır ve nefes darlığı, bacak ödemi gibi şikayetleri kötüleştirebilir. Furosemid bu nedenle kullanılmaktadır; tuz kısıtlaması onun etkinliğini destekler."
+  },
+  {
+    "id": "prof_03",
+    "category": "profil_bazlı",
+    "question": "Hamileyim, 8 haftalık. Baş ağrısı için ne alabilirim?",
+    "ground_truth": "Hamilelikte ilaç kullanımı çok dikkatli değerlendirilmelidir. Parasetamol genellikle ilk tercih olarak kabul edilir ancak yine de doktor onayı alınmalıdır. İbuprofen ve aspirin hamilelikte, özellikle ilk ve son trimesterde önerilmez. Şiddetli veya ani başlayan baş ağrısı preeklampsi açısından değerlendirilmelidir."
+  },
+  {
+    "id": "prof_04",
+    "category": "profil_bazlı",
+    "question": "7 yaşındaki çocuğuma ateş için ne verebilirim?",
+    "ground_truth": "Çocuklarda ateş için parasetamol veya ibuprofen kiloya göre uygun dozda kullanılabilir. Aspirin Reye sendromu riski nedeniyle 16 yaş altında kullanılmamalıdır. Doz çocuğun kilosuna göre hesaplanmalıdır. 38.5°C üzerinde ateş, 3 günden uzun süre veya genel durum bozukluğunda pediatriste danışılmalıdır."
+  },
+  {
+    "id": "prof_05",
+    "category": "profil_bazlı",
+    "question": "Penisilin alerjim var, boğaz enfeksiyonum için ne kullanabilirim?",
+    "ground_truth": "Penisilin alerjisi olan hastalarda amoksisilin de kullanılmamalıdır (çapraz alerji riski). Alternatif antibiyotikler azitromisin veya klaritromisin olabilir. Ancak antibiyotik seçimi boğaz kültürü sonucuna ve doktor değerlendirmesine göre yapılmalıdır. Kendi kendine antibiyotik başlanmamalıdır."
+  },
+  {
+    "id": "prof_06",
+    "category": "profil_bazlı",
+    "question": "Böbrek yetmezliğim var, kreatinin değerim yüksek. Ağrı kesici olarak ne kullanabilirim?",
+    "ground_truth": "Böbrek yetmezliğinde NSAİD'ler (ibuprofen, naproksen, diklofenak) kesinlikle kullanılmamalıdır; böbrek fonksiyonunu daha da kötüleştirebilir. Parasetamol daha güvenli bir seçenektir ancak doz ayarı gerekebilir. Nefroloji takibinde kullanılacak analjezik doktora sorulmalıdır."
+  },
+  {
+    "id": "prof_07",
+    "category": "profil_bazlı",
+    "question": "70 yaşındayım, 5 farklı ilaç kullanıyorum. Uyku sorunu için eczaneden bir şey alabilir miyim?",
+    "ground_truth": "Yaşlı hastalarda polifarmasi riski yüksektir. Eczaneden satılan antihistaminik içerikli uyku ilaçları yaşlılarda sersemlik, düşme, konfüzyon ve idrar tutamama riskini artırır. Bağımlılık yapan benzodiyazepinlerden kaçınılmalıdır. Uyku hijyeni öncelikli olup ilaç ihtiyacı varsa geriatri veya nöroloji değerlendirmesi önerilir."
+  },
+  {
+    "id": "prof_08",
+    "category": "profil_bazlı",
+    "question": "Diyabetim var ve ayağımda iyileşmeyen bir yara var, 2 haftadır geçmiyor.",
+    "ground_truth": "Diyabetik ayak yarası tıbbi aciliyet gerektiren önemli bir komplikasyondur. 2 haftadır iyileşmeyen yara enfeksiyon, doku hasarı ve ampütasyon riski taşır. Endokrinoloji veya diyabet polikliniği başvurusu acilen yapılmalıdır. Eğer kızarıklık, şişlik, ateş veya koku varsa acil servise gidilmelidir."
+  },
+  {
+    "id": "prof_09",
+    "category": "profil_bazlı",
+    "question": "Sigara içiyorum ve son zamanlarda öksürüğüm arttı, zaman zaman kan geliyor.",
+    "ground_truth": "Sigara içen birinde kanlı öksürük (hemoptizi) akciğer kanseri başta olmak üzere ciddi akciğer hastalıklarının belirtisi olabilir. Bu semptom mutlaka ve hemen göğüs hastalıkları uzmanı tarafından değerlendirilmelidir. Toraks BT ve bronkoskopi gerekebilir. Beklenmemelidir."
+  },
+  {
+    "id": "prof_10",
+    "category": "profil_bazlı",
+    "question": "BMI'ım 35, yüksek tansiyon ve uyku apnem var. Kilo vermek için iştah kesici alabilir miyim?",
+    "ground_truth": "Obezite, hipertansiyon ve uyku apnesi birlikteliği metabolik sendromu düşündürür. İştah kesici ilaçlar hipertansiyonu kötüleştirebilir ve kardiyovasküler risk taşıyabilir. Doktor gözetiminde medikal obezite tedavisi, yaşam tarzı değişikliği ve gerekirse bariatrik değerlendirme önerilir. Kendi kendine iştah kesici kullanılmamalıdır."
+  },
+  {
+    "id": "lab_01",
+    "category": "lab_değerleri",
+    "question": "HbA1c değerim 8.2 çıktı, bu ne anlama geliyor?",
+    "ground_truth": "HbA1c 8.2, son 3 aylık ortalama kan şekerinin yüksek olduğunu gösterir. Normal değer %5.7 altında, diyabette hedef genellikle %7 altıdır. %8.2 diyabet kontrolünün yetersiz olduğunu gösterir ve komplikasyon riskini artırır. İlaç düzenlemesi veya doz ayarı için endokrinoloji veya dahiliye kontrolü gereklidir."
+  },
+  {
+    "id": "lab_02",
+    "category": "lab_değerleri",
+    "question": "Hemoglobin değerim 9.5 g/dL, düşük mü?",
+    "ground_truth": "Hemoglobin 9.5 g/dL orta düzey anemiyi gösterir. Erkeklerde normal değer 13.5-17.5, kadınlarda 12-15.5 g/dL'dir. Bu değer yorgunluk, çarpıntı ve nefes darlığına yol açabilir. Anemi tipini belirlemek için demir, B12, folat ve retikülosit tetkiki istenmelidir. Dahiliye değerlendirmesi önerilir."
+  },
+  {
+    "id": "lab_03",
+    "category": "lab_değerleri",
+    "question": "CRP değerim 45 mg/L çıktı, bu ciddi mi?",
+    "ground_truth": "CRP 45 mg/L belirgin inflamasyonu gösterir. Normal değer genellikle 5 mg/L altındadır. Bu yükseklik aktif enfeksiyon, inflamatuar hastalık veya doku hasarına işaret edebilir. Klinik semptomlarla birlikte değerlendirilmeli ve altta yatan neden araştırılmalıdır. Dahiliye başvurusu önerilir."
+  },
+  {
+    "id": "lab_04",
+    "category": "lab_değerleri",
+    "question": "Kreatinin değerim 1.8 mg/dL, böbreklerim iyi çalışıyor mu?",
+    "ground_truth": "Kreatinin 1.8 mg/dL normalin üzerindedir (erkek norma: 0.7-1.3, kadın: 0.6-1.1 mg/dL). Bu değer böbrek fonksiyonunun azalmış olabileceğini gösterir. GFR hesaplanarak kronik böbrek hastalığı evresi belirlenmelidir. Nefroloji değerlendirmesi ve NSAİD'lerden kaçınma önerilir."
+  },
+  {
+    "id": "lab_05",
+    "category": "lab_değerleri",
+    "question": "TSH değerim 8.5 mU/L çıktı, tiroidim mi bozulmuş?",
+    "ground_truth": "TSH 8.5 mU/L hipotiroidizmi (tiroid bezinin az çalışması) gösterir. Normal TSH 0.4-4.0 mU/L arasındadır. Bu değer serbest T4 ile birlikte değerlendirilmelidir. Yorgunluk, üşüme, kilo artışı ve saç dökülmesi gibi semptomlar eşlik edebilir. Endokrinoloji değerlendirmesi ve muhtemelen levotiroksin tedavisi gerekecektir."
+  },
+  {
+    "id": "acil_01",
+    "category": "acil_tanıma",
+    "question": "Konuşmam aniden bozuldu, sağ kolum tutmuyor, yüzümde his kaybı var.",
+    "ground_truth": "Bu semptomlar akut inme belirtileridir ve hayati tıbbi acildir. Hemen 112 aranmalıdır. İnmede 'altın saat' kritiktir; ilk 4.5 saat içinde tedavi hayat kurtarır. Araç kullanılmamalı, yalnız bırakılmamalıdır. FAST testi: Yüz sarkması, Kol düşmesi, Konuşma bozukluğu, Telefon (112) çağrısı."
+  },
+  {
+    "id": "acil_02",
+    "category": "acil_tanıma",
+    "question": "Arı sokması sonrası nefes alamıyorum, yüzüm şişiyor, kalbim hızlı atıyor.",
+    "ground_truth": "Bu semptomlar anafilaksinin belirtileridir ve ölümcül olabilecek tıbbi acildir. Hemen 112 aranmalıdır. Epipen mevcutsa uyluğa uygulanmalıdır. Hasta sırtüstü yatırılıp bacakları kaldırılmalıdır. Bir an bile beklenmemelidir."
+  },
+  {
+    "id": "acil_03",
+    "category": "acil_tanıma",
+    "question": "Kan şekerim 38 mg/dL, titreme ve terleme var, bilincim bulanıyor.",
+    "ground_truth": "Kan şekeri 38 mg/dL ciddi hipoglisemidir. Bilinci yerindeyse hemen 15-20 gram hızlı emilen karbonhidrat alınmalıdır (meyve suyu, şeker). 15 dakika sonra tekrar ölçülmeli, düzelmezse tekrar alınmalıdır. Bilinç bulanıklığı varsa hemen 112 aranmalı, ağızdan bir şey verilmemelidir."
+  },
+  {
+    "id": "acil_04",
+    "category": "acil_tanıma",
+    "question": "İlaç kutusunu yanlışlıkla çok fazla içtim, mide bulantısı ve sersemlik var.",
+    "ground_truth": "İlaç aşırı dozu tıbbi acil olabilir. Hemen 114 (Zehir Danışma Hattı) veya 112 aranmalıdır. Hangi ilacın, ne kadar alındığı ve ne zaman alındığı bilgisi hazır tutulmalıdır. Kusturmaya çalışılmamalıdır. İlaç kutusu yanınıza alınmalıdır. Belirtiler hafif görünse bile değerlendirme gereklidir."
+  },
+  {
+    "id": "acil_05",
+    "category": "acil_tanıma",
+    "question": "Kan basıncım 200/120 mmHg, şiddetli baş ağrısı ve görme bozukluğu var.",
+    "ground_truth": "Kan basıncı 200/120 mmHg ve nörolojik semptomlar hipertansif acil durumu gösterir. Bu durum inme, kalp krizi veya organ hasarı riskini taşır. Hemen acil servise gidilmeli veya 112 aranmalıdır. Kendi kendine ilaç alınmamalıdır. Sakin bir ortamda beklenmeli, araç kullanılmamalıdır."
+  }
+]

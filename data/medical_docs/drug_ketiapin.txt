@@ -1,0 +1,37 @@
+İLAÇ: Ketiapin (Seroquel)
+SINIF: Atipik antipsikotik (2. kuşak)
+
+ENDİKASYONLAR:
+- Şizofreni
+- Bipolar bozukluk (mani, depresyon, idame)
+- Adjuvan depresyon tedavisi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- QT uzatan ilaçlar (amiodaron, siprofloksasin, haloperidol, metadon, eritromisin): Torsades de pointes, ölümcül aritmi riski
+- CYP3A4 inhibitörleri (ketokonazol, itrakonazol, klaritromisin, ritonavir): Ketiapin düzeyi 5-6 kat artar — doz azaltılmalı
+- CYP3A4 indükleyicileri (fenitoin, karbamazepin, rifampisin, St. John's wort): Ketiapin etkinliği ciddi azalır
+- Alkol, benzodiyazepinler, opioidler: SSS depresyonu artar, solunum baskılanması
+- Antihipertansifler: Ortostatik hipotansiyon artar
+- Lityum: İzlem gerekir
+- Tramadol: Nöbet eşiği düşer
+
+UYARILAR:
+- QTc izlenmeli (>500 ms ise kesilmeli)
+- Metabolik sendrom riski: Kilo artışı, diyabet, hiperlipidemi — açlık glukozu ve lipid izlemi
+- Yaşlı demans hastalarında mortalite riski artmış
+- Ortostatik hipotansiyon: Yavaş kalkma
+- Tardif diskinezi riski (uzun süreli kullanım)
+- Lökopeni/nötropeni izlemi
+- Aniden kesilmemeli
+
+KONTRENDİKASYONLAR:
+- QT uzaması olan hastalar
+- CYP3A4 güçlü inhibitörlerle birlikte yüksek doz
+
+YAN ETKİLER:
+- Sedasyon (en sık)
+- Kilo artışı
+- Ağız kuruluğu
+- Baş dönmesi, ortostatik hipotansiyon
+- Hiperglisemi
+- Kabızlık

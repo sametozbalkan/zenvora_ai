@@ -1,0 +1,39 @@
+# API & Web
+fastapi
+uvicorn[standard]
+python-multipart==0.0.9
+slowapi==0.1.9
+pydantic>=2.0          # FastAPI transitive ama explicit gerek (api/routes.py BaseModel)
+
+# LLM — DeepSeek (OpenAI-compatible)
+openai>=1.30.0
+
+# X-ray inference
+torch
+torchvision
+grad-cam                 # Grad-CAM heatmap üretimi (pytorch-grad-cam paketi)
+
+# Veritabanı
+asyncpg
+chromadb
+
+# RAG / Embedding
+sentence-transformers
+llama-index-core
+llama-index-vector-stores-chroma
+
+# Dosya işleme
+PyMuPDF                  # fitz — PDF okuma
+pytesseract              # OCR
+Pillow                   # PIL — görüntü işleme
+pydicom                  # .dcm görüntü okuma
+python-docx              # .docx okuma
+openpyxl==3.1.2          # .xlsx okuma
+
+# Cache & yardımcılar
+cachetools==5.3.3
+python-dotenv
+
+# Eval (opsiyonel — RAGAS pipeline için)
+# ragas
+# datasets

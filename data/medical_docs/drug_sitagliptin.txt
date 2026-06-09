@@ -1,0 +1,209 @@
+=== PubMed: sitagliptin drug interactions hypoglycemia renal ===
+1. Transplant Rev (Orlando). 2017 Apr;31(2):69-77. doi:
+10.1016/j.trre.2016.09.001.  Epub 2016 Sep 14.
+
+Drug-drug interactions between immunosuppressants and antidiabetic drugs in the 
+treatment of post-transplant diabetes mellitus.
+
+Vanhove T(1), Remijsen Q(2), Kuypers D(3), Gillard P(4).
+
+Author information:
+(1)Department of Microbiology and Immunology, KU Leuven - University of Leuven, 
+and Department of Nephrology and Renal Transplantation, University Hospitals 
+Leuven, Leuven, Belgium. Electronic address: thomas.vanhove@uzleuven.be.
+(2)Department of Medical Affairs, AstraZeneca BeLux, Uccle, Belgium.
+(3)Department of Microbiology and Immunology, KU Leuven - University of Leuven, 
+and Department of Nephrology and Renal Transplantation, University Hospitals 
+Leuven, Leuven, Belgium.
+(4)Laboratory and Clinic of Experimental Medicine and Endocrinology, KU Leuven - 
+University of Leuven, and Department of Endocrinology, University Hospital 
+Leuven, Leuven, Belgium.
+
+Post-transplant diabetes mellitus is a frequent complication of solid organ 
+transplantation that generally requires treatment with lifestyle interventions 
+and antidiabetic medication. A number of demonstrated and potential 
+pharmacokinetic drug-drug interactions (DDIs) exist between commonly used 
+immunosuppressants and antidiabetic drugs, which are comprehensively summarized 
+in this review. Cyclosporine (CsA) itself inhibits the cytochrome P450 (CYP) 3A4 
+enzyme and a variety of drug transporters. As a result, it increases exposure to 
+repaglinide and sitagliptin, will likely increase the exposure to nateglinide, 
+glyburide, saxagliptin, vildagliptin and alogliptin, and could theoretically 
+increase the exposure to gliquidone and several sodium-glucose transporter 
+(SGLT)-2 inhibitors. Currently available data, although limited, suggest that 
+these increases are modest and, particularly with regard to gliptins and SGLT-2 
+inhibitors, unlikely to result in hypoglycemia. The interaction with repaglinide 
+is more pronounced but does not preclude concomitant use if repaglinide dose is 
+gradually titrated. Mycophenolate mofetil and azathioprine do not engage in DDIs 
+with any antidiabetic drug. Although calcineurin inhibitors (CNIs) and mammalian 
+target of rapamycin inhibitors (mTORi) are intrinsically prone to DDIs, their 
+disposition is not influenced by metformin, pioglitazone, sulfonylureas (except 
+possibly glyburide) or insulin. An effect of gliptins on the disposition of CNIs 
+and mTORi is unlikely, but has not been definitively ruled out. Based on their 
+disposition profiles, glyburide and canagliflozin could affect CNI and mTORi 
+disposition although this requires further study. Finally, delayed gastric 
+emptying as a result of glucagon-like peptide-1 agonists seems to have a 
+limited, but not necessarily negligible effect on CNI disposition.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.trre.2016.09.001
+PMID: 27665059 [Indexed for MEDLINE]
+
+
+2. Diabetes Obes Metab. 2010 Aug;12(8):648-58. doi: 
+10.1111/j.1463-1326.2010.01212.x.
+
+Pharmacokinetics of dipeptidylpeptidase-4 inhibitors.
+
+Scheen AJ(1).
+
+Author information:
+(1)Division of Diabetes, Nutrition and Metabolic Disorders and Division of 
+Clinical Pharmacology, Department of Medicine, CHU Sart Tilman, University of 
+Liège, Liège, Belgium. andre.scheen@chu.ulg.ac.be
+
+Type 2 diabetes (T2DM) is a complex disease combining defects in insulin 
+secretion and insulin action. New compounds have been developed for improving 
+glucose-induced insulin secretion and glucose control, without inducing 
+hypoglycaemia or weight gain. Dipeptidylpeptidase-4 (DPP-4) inhibitors are new 
+oral glucose-lowering agents, so-called incretin enhancers, which may be used as 
+monotherapy or in combination with other antidiabetic compounds. Sitagliptin, 
+vildaglipin and saxagliptin are already on the market in many countries, either 
+as single agents or in fixed-dose combined formulations with metformin. Other 
+DPP-4 inhibitors, such as alogliptin and linagliptin, are currently in late 
+phase of development. The present paper summarizes and compares the main 
+pharmacokinetics (PK) properties, that is, absorption, distribution, metabolism 
+and elimination, of these five DPP-4 inhibitors. Available data were obtained in 
+clinical trials performed in healthy young male subjects, patients with T2DM, 
+and patients with either renal insufficiency or hepatic impairment. PK 
+characteristics were generally similar in young healthy subjects and in 
+middle-aged overweight patients with diabetes. All together gliptins have a good 
+oral bioavailability which is not significantly influenced by food intake. 
+PK/pharmacodynamics characteristics, that is, sufficiently prolonged half-life 
+and sustained DPP-4 enzyme inactivation, generally allow one single oral 
+administration per day for the management of T2DM; the only exception is 
+vildagliptin for which a twice-daily administration is recommended because of a 
+shorter half-life. DPP-4 inhibitors are in general not substrates for cytochrome 
+P450 (except saxagliptin that is metabolized via CYP 3A4/A5) and do not act as 
+inducers or inhibitors of this system. Several metabolites have been documented 
+but most of them are inactive; however, the main metabolite of saxagliptin also 
+exerts a significant DPP-4 inhibition and is half as potent as the parent 
+compound. Renal excretion is the most important elimination pathway, except for 
+linagliptin whose metabolism in the liver appears to be predominant. PK 
+properties of gliptins, combined with their good safety profile, explain why no 
+dose adjustment is necessary in elderly patients or in patients with mild to 
+moderate hepatic impairment. As far as patients with renal impairment are 
+concerned, significant increases in drug exposure for sitagliptin and 
+saxagliptin have been reported so that appropriate reductions in daily dosages 
+are recommended according to estimated glomerular filtration rate. The PK 
+characteristics of DPP-4 inhibitors suggest that these compounds are not exposed 
+to a high risk of drug-drug interactions. However, the daily dose of saxagliptin 
+should be reduced when coadministered with potent CYP 3A4 inhibitors. In 
+conclusion, besides their pharmacodynamic properties leading to effective 
+glucose-lowering effect without inducing hypoglycaemia or weight gain, DPP-4 
+inhibitors show favourable PK properties, which contribute to a good 
+efficacy/safety ratio for the management of T2DM in clinical practice.
+
+DOI: 10.1111/j.1463-1326.2010.01212.x
+PMID: 20590741 [Indexed for MEDLINE]
+
+
+3. J Assoc Physicians India. 2025 Apr;73(4):e19-e25. doi: 10.59556/japi.73.0924.
+
+Revisiting the Cardiorenal Safety of Sitagliptin in Type 2 Diabetes Mellitus: A 
+Literature Review.
+
+Shah P(1), Tiwaskar M(2), Joshi A(3), Pendurthi B(4), Dharmadhikari S(5), Ahire 
+P(6), Khandhedia C(6), Markandeywar N(7), Mane A(8), Mehta S(9).
+
+Author information:
+(1)Director, Department of Endocrinology, Gujarat Endocrine Centre, Ahmedabad, 
+Gujarat, India.
+(2)Consultant Physician, Shilpa Medical Research Centre, Mumbai, Maharashtra, 
+India.
+(3)Consultant in Charge Endocrinology, Department of Endocrinology, 
+Bhaktivedanta Hospital and Research Institute, Thane, Maharashtra, India.
+(4)Manager, Department of Medical Affairs and Clinical Research, Sun Pharma 
+Laboratories Limited, Mumbai, Maharashtra, India, Corresponding Author.
+(5)Senior Manager, Department of Medical Affairs and Clinical Research, Sun 
+Pharma Laboratories Limited, Mumbai, Maharashtra, India.
+(6)Deputy General Manager, Department of Medical Affairs and Clinical Research, 
+Sun Pharma Laboratories Limited, Mumbai, Maharashtra, India.
+(7)General Manager, Department of Medical Affairs and Clinical Research, Sun 
+Pharma Laboratories Limited, Mumbai, Maharashtra, India.
+(8)Senior General Manager, Department of Medical Affairs and Clinical Research, 
+Sun Pharma Laboratories Limited, Mumbai, Maharashtra, India.
+(9)Senior Vice President, Department of Medical Affairs and Clinical Research, 
+Sun Pharma Laboratories Limited, Mumbai, Maharashtra, India.
+
+Type 2 diabetes (T2D) is a major public health problem globally, with 
+significant socioeconomic ramifications for healthcare systems. Diabetes 
+unquestionably contributes to both cardiovascular disease (CVD) and chronic 
+renal disease. Hospitalization, low quality of life, and high mortality rate are 
+inevitable in patients with this dual burden. As a result, the emphasis in 
+diabetes care should also be on cardiorenal health. Glycemic control, as well as 
+optimal management of cardiorenal risk factors and comorbidities, is required to 
+eliminate cardiovascular (CV) morbidity and mortality related to T2D. 
+Sitagliptin is a highly efficient and selective dipeptidyl peptidase-4 inhibitor 
+(DPP-4i) that improves glycemic control while having a low risk of hypoglycemia. 
+It has neutral effects on body weight, low proclivity for pharmacokinetic 
+interactions, and a favorable safety profile. Numerous clinical trials have 
+proven that sitagliptin is CV- and renal-safe in T2D patients, even in those 
+with obesity, old age, renal impairment (RI), and preexisting CVD. It also 
+corrects hyperglycemia-induced osmotic diuresis and excessive filtration. In 
+people with T2D who are at high CV risk or moderate-to-severe renal 
+insufficiency, sitagliptin is documented as a well-tolerated treatment that does 
+not augment the risk of CV and renal complications. Sitagliptin may effectively 
+manage CV and renal complications in diabetes patients, considering its CV and 
+renal safety.
+
+© Journal of the Association of Physicians of India 2025.
+
+DOI: 10.59556/japi.73.0924
+PMID: 40200619 [Indexed for MEDLINE]
+
+
+4. Cardiol Rev. 2007 Sep-Oct;15(5):264-71. doi: 10.1097/CRD.0b013e318123f771.
+
+Sitagliptin: a novel drug for the treatment of type 2 diabetes.
+
+Choy M(1), Lam S.
+
+Author information:
+(1)Department of Clinical Pharmacy Practice, College of Pharmacy and Allied 
+Health Professions, St. John's University, Jamaica, New York 11439, USA. 
+choym@stjohns.edu
+
+Type 2 diabetes mellitus is a common chronic disease that causes significant 
+morbidity and mortality worldwide. The primary goal of treatment is to target 
+glycemic control by maintaining the glycosylated hemoglobin level near 6-7% 
+without predisposing patients to hypoglycemia. Diabetes results from a 
+combination of increased hepatic glucose production, decreased insulin secretion 
+from beta cells, and insulin resistance in the peripheral tissues. Currently 
+available antidiabetic agents work by different mechanisms to lower blood 
+glucose levels. Unfortunately, each of them has its tolerability and safety 
+concerns that limit its use and dose titration. Sitagliptin is the first 
+antidiabetic agent from the class of dipeptidyl peptidase-4 enzyme inhibitors. 
+It increases the amount of circulating incretins, which stimulate insulin 
+secretion and inhibit glucose production. Sitagliptin was approved by the US 
+Food and Drug Administration (FDA) for use with diet and exercise to improve 
+glycemic control in adult patients with type 2 diabetes. It can be used alone or 
+in combination with metformin or a thiazolidinedione (pioglitazone or 
+rosiglitazone) when treatment with either drug alone provides inadequate glucose 
+control. The usual adult dose is 100 mg once daily. A dose of 25-50 mg once 
+daily is recommended for patients with moderate-to-severe renal impairment. In 
+randomized, placebo-controlled trials that lasted for up to 6 months, 
+sitagliptin lowered glycosylated hemoglobin levels by 0.5-0.8%. In a 52-week 
+clinical trial, sitagliptin was shown to be noninferior to glipizide as an 
+add-on agent in patients inadequately controlled on metformin alone. Sitagliptin 
+was well tolerated with the most common side effects being gastrointestinal 
+complaints (up to 16%), including abdominal pain, nausea and diarrhea; 
+hypoglycemia and body weight gain occurred at similar rates compared with 
+placebo. Overall, sitagliptin provides a treatment option for patients with type 
+2 diabetes as a monotherapy, or as an adjunct to metformin or a 
+thiazolidinedione when patients achieve inadequate glycemic control while on 
+either of the agents. It is also an alternative therapy for those patients who 
+have contraindications or intolerability to other antidiabetic agents.
+
+DOI: 10.1097/CRD.0b013e318123f771
+PMID: 17700385 [Indexed for MEDLINE]

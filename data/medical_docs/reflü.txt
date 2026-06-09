@@ -1,0 +1,74 @@
+=== PubMed: reflü ===
+1. Tani Girisim Radyol. 2003 Dec;9(4):471-5.
+
+[Venous reflux: Measurement variability due to positional differences].
+
+[Article in Turkish]
+
+Mahmutyazicioğlu K(1), Gündoğdu S, Ozdemir H, Savranlar A, Asil K.
+
+Author information:
+(1)Zonguldak Karaelmas Universitesi Tip Fakültesi, Radyodiagnostik Anabilim 
+Dali, Kozlu, Zonguldak.
+
+PURPOSE: The purpose of this study was to evaluate the role of the subject's 
+position and two different maneuvers in the reflux measurements in femoral 
+veins.
+MATERIALS AND METHODS: Venous reflux times in the common femoral vein (CFV) and 
+superficial femoral vein (SFV) were studied in 50 healthy subjects (25 women, 25 
+male) aged between 22-57 years-old while the subjects were in supine and 
+standing positions. Reflux was provocated only by Valsalva maneuver (VM) when 
+the subject was lying down, whereas it was provocated by (1) Valsalva maneuver 
+and (2) compression and release maneuver, respectively, when the subject was 
+standing. Reflux times were recorded with each of the three methods.
+RESULTS: Regarding CFV, a reflux time of 1 second or more was recorded in 29 
+limbs (29%) only in the supine position. Of these 29 measurements, 19 were 
+between 1 and 1.9 sec and 8 between 2 and 2.9 sec. When the subjects were 
+examined in the standing position, the prevalence of reflux lasting more than 1 
+sec substantially decreased (5%). The prevalence of reflux lasting less than 0.5 
+sec was 97% with standing compression maneuver, 84% with standing VM and 27% 
+with supine VM. Similarly, prevalence of reflux of longer than 0.5 sec or 1 sec 
+was lower in the standing position than in the supine position in SFV. In CFV, 
+mean reflux time was 1.3 sec in the supine position, whereas it was 0.7 sec and 
+0.4 sec with standing compression and standing Valsalva maneuvers, respectively. 
+Corresponding values in SFV were 0.5 sec, 0.3 sec and 0.2 sec, respectively.
+CONCLUSION: The probability of making a false positive diagnosis of pathological 
+reflux is high with supine examinations. When an examination in the supine 
+position reveals a reflux time of longer than 1 second, making the patient stand 
+up is expected to yield more reliable results. Compression and release maneuver, 
+with its lowest false positive reflux prevalence, is the most reliable method in 
+the evaluation of venous insufficiency.
+
+PMID: 14730959 [Indexed for MEDLINE]
+
+
+2. Kulak Burun Bogaz Ihtis Derg. 2003 Apr;10(4):153-8.
+
+[Detection of gastroesophageal reflux by scintigraphy in patients with 
+laryngopharyngeal symptoms and findings].
+
+[Article in Turkish]
+
+Pinar E(1), Oncel IS, Calli C, Atalay M.
+
+Author information:
+(1)3rd Department of Otolaryngology, Atatürk Training Hospital, Izmir, Turkey. 
+ercanpinar@yahoo.com
+
+OBJECTIVES: We investigated the incidence of gastroesophageal reflux by 
+scintigraphy in patients with laryngopharyngeal symptoms and findings.
+PATIENTS AND METHODS: The study included 32 patients (14 males, 18 females; mean 
+age 38 years; range 17 to 55 years) who presented with laryngopharyngeal 
+complaints. All patients underwent routine ENT and head-neck examinations and 
+rigid endoscopy of the larynx to determine laryngopharyngeal symptoms and 
+findings. The presence of gastroesophageal reflux was sought by technetium 99m 
+sulfur colloid scintigraphy.
+RESULTS: The most common symptom was dysphagia (56%) followed by hoarseness 
+(46%). Posterior laryngitis was the most common laryngeal finding (18 patients, 
+56%). Scintigraphy revealed gastroesophageal reflux in 21 patients (66%), 14 of 
+whom (67%) had posterior laryngitis.
+CONCLUSION: Patients with laryngopharyngeal symptoms and findings should be 
+investigated with regard to gastroesophageal reflux. Scintigraphy may be a 
+method of choice in this respect.
+
+PMID: 12941986 [Indexed for MEDLINE]

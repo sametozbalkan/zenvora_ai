@@ -1,0 +1,108 @@
+=== PubMed: gut hastalığı ===
+1. Tuberk Toraks. 2006;54(3):292-8.
+
+[Inflammatory bowel disease and lung].
+
+[Article in Turkish]
+
+Ceyhan B(1).
+
+Author information:
+(1)Department of Chest Disease, Faculty of Medicine, Marmara University, 
+Istanbul, Turkey. berrin.ceyhan@superonline.com
+
+Ulcerative colitis and Crohn's disease are associated with a variety of systemic 
+manifestations. Pulmonary disease has been described much less frequently than 
+other organ systems, yet more than 400 cases have been reported. Lung and 
+gastrointestinal system are originated from primitive gut and they have same 
+pathogenetic changes in these patients. Major patterns of pulmonary disease 
+associated with inflammatory bowel disease (IBD) are pleuritis, airway disease, 
+interstitial lung disease, necrobiotic nodules, pulmonary eosinophilia, 
+thromboembolic disease, vasculitis, granulomatous lung disease, etc. Colectomy 
+may aggravate respiratory symptoms. Drug induced disease must be kept in mind in 
+patients taking sulfasalazine, mesalamine, methotrexate, and anti-TNF-alpha. 
+Latent pulmonary abnormalities are evident either at pulmonary function tests or 
+induced sputum or bronchoalveolar lavage, have been also reported in patients 
+with inflammatory bowel disease in the absence of clinical evidence of airway 
+disease. The treatment of IBD related respiratory involvement depends on the 
+specific pattern of involvement, if left untreated, especially in airway 
+disease, puts the patient at risk of developing irreversible destruction of the 
+air passage. A high degree of suspicion is necessary to detect early the 
+respiratory disease in association with any form of bowel disease.
+
+PMID: 17001550 [Indexed for MEDLINE]
+
+
+2. Mikrobiyol Bul. 2024 Jan;58(1):13-28. doi: 10.5578/mb.20249951.
+
+[Investigation of the Relationship Between Akkermansia Genomic Diversity in Gut 
+Microbiota and Parkinson's Disease Dementia].
+
+[Article in Turkish]
+
+Arıkan M(1), Kahraman Demir T(2), Yıldız Z(3), Helvacı Yılmaz N(4), Şen A(5), 
+Hanoğlu L(6), Yıldırım S(7).
+
+Author information:
+(1)İstanbul Medipol University Faculty of Medicine, Department of Medical 
+Biology, İstanbul, Türkiye.
+(2)Biruni University Vocational School, Department of Electroneurophysiology, 
+İstanbul, Türkiye.
+(3)Fatih Sultan Mehmet Vakıf University Faculty of Humanities and Social 
+Sciences, Department of Psychology, İstanbul, Türkiye.
+(4)İstanbul Medipol University Faculty of Medicine, Department of Neurology, 
+İstanbul, Türkiye.
+(5)Bakırkoy Prof. Dr. Mazhar Osman Research and Training Hospital for 
+Psychiatric and Neurological Diseases, Clinic of Neurology, İstanbul, Türkiye.m.
+(6)İstanbul Medipol Üniversitesi, Sağlık Bilim ve Teknolojileri Araştırma 
+Enstitüsü (SABİTA), İstanbul.
+(7)İstanbul Medipol University Faculty of Medicine, Department of Medical 
+Microbiology, İstanbul, Türkiye.
+
+Although it is known that the relative abundance of Akkermansia, a bacterial 
+genus commonly associated with health, increases in the gut microbiota of 
+Parkinson's disease (PD) patients, the exact reason for this increase remains 
+unclear. This study was aimed to identify potential changes in Akkermansia 
+within the gut microbiota of PD patients in Türkiye. For this purpose, shotgun 
+metagenomics and a novel Akkermansia genus-specific amplicon sequencing 
+technique was used to investigate the presence of specific Akkermansia strains 
+associated with cognitive impairment (CI) stages in PD and to examine potential 
+genes within these strains. In this context, four gut microbiota samples from 
+Türkiye -three PD with dementia (PDD) and one healthy control without CI (HC)- 
+were analyzed by shotgun metagenomics and metagenome-assembled genomes assigned 
+to Akkermansia genus were reconstructed. Then, a custom database was created by 
+combining these genomes with the Akkermansia genomes in public databases and 
+next generation sequencing (NGS) compatible primers specific to the genus 
+Akkermansia were designed using this database. After optimization of 
+amplification and library preparation steps for genus-specific next generation 
+sequencing, gut microbiota samples from 64 PD patients [32 PDD and 32 PD with 
+mild CI (PD-MCI)] and 26 HCs were analyzed by genus-specific amplicon 
+sequencing. The results revealed the presence of seven strains assigned to 
+Akkermansia muciniphila in gut microbiota samples, two of which showed 
+significant distribution differences (p< 0.05) between demented (PDD) and 
+non-demented groups (PD-MCI, HC). When gene contents of the detected Akkermansia 
+genomes were examined through comparative genomic analysis, the presence of 12 
+genes only in Akkermansia genomes specific to non-demented groups were 
+predicted. The annotations of these genes showed that they were not reported 
+before with unknown functions. In this study, for the first time, gut microbiota 
+samples from PD patients in Türkiye were analyzed using shotgun metagenomics, a 
+novel genus-specific amplicon sequencing method was developed specifically for 
+the analysis of Akkermansia genus, and then Akkermansia strains and genes 
+potentially associated with CI stages in PD were identified using this method. 
+The results underscore that investigating the species or strain level 
+differences could help better understanding of the changes associated with PD in 
+the human gut microbiota.
+
+DOI: 10.5578/mb.20249951
+PMID: 38263937 [Indexed for MEDLINE]
+
+
+3. Turk Tip Cemiy Mecm. 1967 Apr;33(4):185-92.
+
+[On the simultaneous appearance of attacks of gout and coronary failure].
+
+[Article in Turkish]
+
+Sigaher V.
+
+PMID: 6063926 [Indexed for MEDLINE]

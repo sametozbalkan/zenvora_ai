@@ -1,0 +1,143 @@
+=== PubMed: polycystic ovary syndrome ===
+1. Fertil Steril. 2016 Jul;106(1):6-15. doi: 10.1016/j.fertnstert.2016.05.003.
+Epub  2016 May 24.
+
+Criteria, prevalence, and phenotypes of polycystic ovary syndrome.
+
+Lizneva D(1), Suturina L(2), Walker W(3), Brakta S(3), Gavrilova-Jordan L(3), 
+Azziz R(4).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Medical College of Georgia, Georgia 
+Regents University, Augusta, Georgia; Medical Company IDK, Samara, Russian 
+Federation; Department of Reproductive Health Protection, Scientific Center of 
+Family Health and Human Reproduction, Irkutsk, Russian Federation. Electronic 
+address: dlizneva@gru.edu.
+(2)Department of Reproductive Health Protection, Scientific Center of Family 
+Health and Human Reproduction, Irkutsk, Russian Federation.
+(3)Department of Obstetrics and Gynecology, Medical College of Georgia, Georgia 
+Regents University, Augusta, Georgia.
+(4)Department of Obstetrics and Gynecology, Medical College of Georgia, Georgia 
+Regents University, Augusta, Georgia; Department of Medicine, Medical College of 
+Georgia, Georgia Regents University, Augusta, Georgia.
+
+Polycystic ovary syndrome (PCOS) is a highly prevalent disorder effecting 
+reproductive-aged women worldwide. This article addresses the evolution of the 
+criteria used to diagnosis PCOS; reviews recent advances in the phenotypic 
+approach, specifically in the context of the extended Rotterdam criteria; 
+discusses limitations of the current criteria used to diagnosis, particularly 
+when studying adolescents and women in the peri- and postmenopause; and 
+describes significant strides made in understanding the epidemiology of PCOS. 
+This review recognizes that although there is a high prevalence of PCOS, there 
+is increased variability when using Rotterdam 2003 criteria, owing to 
+limitations in population sampling and approaches used to define PCOS 
+phenotypes. Last, we discuss the distribution of PCOS phenotypes, their 
+morbidity, and the role that referral bias plays in the epidemiology of this 
+syndrome.
+
+Copyright © 2016 American Society for Reproductive Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.fertnstert.2016.05.003
+PMID: 27233760 [Indexed for MEDLINE]
+
+
+2. Nurs Clin North Am. 2018 Sep;53(3):407-420. doi: 10.1016/j.cnur.2018.04.008. 
+Epub 2018 Jul 11.
+
+Polycystic Ovary Syndrome.
+
+Meier RK(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Vanderbilt University School of 
+Medicine, Vanderbilt University Medical Center, 1161 21st Avenue South, 
+Nashville, TN 37232, USA. Electronic address: rkmeier01@gmail.com.
+
+Polycystic ovary syndrome (PCOS) is a commonly occurring endocrine disorder 
+characterized by hirsutism, anovulation, and polycystic ovaries. Often comorbid 
+with insulin resistance, dyslipidemia, and obesity, it also carries significant 
+risk for the development of cardiovascular and metabolic sequelae, including 
+diabetes and metabolic syndrome. Traditionally, the treatment of patients with 
+PCOS has focused on relief of symptoms. Here, the criteria for the diagnosis of 
+PCOS are reviewed with an emphasis on the stratification of subtypes by 
+metabolic features. Then treatment options are reviewed according to the 
+management goal: relief of hyperandrogenic symptoms, regulation of menstruation, 
+and restoration of fertility.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnur.2018.04.008
+PMID: 30100006 [Indexed for MEDLINE]
+
+
+3. Hum Reprod. 2004 Jan;19(1):41-7. doi: 10.1093/humrep/deh098.
+
+Revised 2003 consensus on diagnostic criteria and long-term health risks related 
+to polycystic ovary syndrome (PCOS).
+
+Rotterdam ESHRE/ASRM-Sponsored PCOS consensus workshop group.
+
+Since the 1990 NIH-sponsored conference on polycystic ovary syndrome (PCOS), it 
+has become appreciated that the syndrome encompasses a broader spectrum of signs 
+and symptoms of ovarian dysfunction than those defined by the original 
+diagnostic criteria. The 2003 Rotterdam consensus workshop concluded that PCOS 
+is a syndrome of ovarian dysfunction along with the cardinal features 
+hyperandrogenism and polycystic ovary (PCO) morphology. PCOS remains a syndrome 
+and, as such, no single diagnostic criterion (such as hyperandrogenism or PCO) 
+is sufficient for clinical diagnosis. Its clinical manifestations may include: 
+menstrual irregularities, signs of androgen excess, and obesity. Insulin 
+resistance and elevated serum LH levels are also common features in PCOS. PCOS 
+is associated with an increased risk of type 2 diabetes and cardiovascular 
+events.
+
+DOI: 10.1093/humrep/deh098
+PMID: 14688154 [Indexed for MEDLINE]
+
+
+4. Obstet Gynecol Clin North Am. 2024 Dec;51(4):679-693. doi: 
+10.1016/j.ogc.2024.08.005. Epub 2024 Sep 20.
+
+Polycystic Ovary Syndrome in Adolescents.
+
+Saleh FL(1), Starkman H(2), Furness A(3), Pfeifer SM(1), Kives S(4).
+
+Author information:
+(1)Division of Reproductive Endocrinology and Infertility, Weill Medical College 
+of Cornell University, New York-Presbyterian Hospital, New York, NY, USA.
+(2)University of Toronto, Toronto, Ontario, Canada.
+(3)Dalhousie University, Halifax, Nova Scotia, Canada.
+(4)Division of Pediatric Gynecology, University of Toronto, Hospital for Sick 
+Children, Toronto, Ontario, Canada. Electronic address: kivess@rogers.com.
+
+Polycystic ovary syndrome (PCOS) is a heterogeneous endocrinologic disorder that 
+is characterized by oligomenorrhea or amenorrhea and signs of hyperandrogenism. 
+The cause of PCOS remains unknown, but the syndrome is associated with insulin 
+resistance that in turn leads to hyperandrogenism. An accurate and prompt 
+diagnosis of PCOS is important to understanding an adolescent's risk. In 
+adolescents, both oligoovulation and hyperandrogenism are needed for the 
+diagnosis of PCOS and ultrasound is not recommended. Lifelong health 
+consequences of PCOS are significant and include obesity, diabetes, metabolic 
+syndrome, and anovulatory infertility. The symptoms of PCOS can be disturbing to 
+an adolescent girl.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ogc.2024.08.005
+PMID: 39510738 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+5. Pediatr Rev. 2024 Jun 1;45(6):363-365. doi: 10.1542/pir.2023-006036.
+
+Polycystic Ovary Syndrome.
+
+Pereira-Eshraghi CF(1), Vuguin PP(2).
+
+Author information:
+(1)Nemours Children's Health, Jacksonville, FL.
+(2)Columbia University Irving Medical Center, New York, NY.
+
+DOI: 10.1542/pir.2023-006036
+PMID: 38821890 [Indexed for MEDLINE]

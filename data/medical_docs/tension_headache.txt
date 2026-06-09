@@ -1,0 +1,220 @@
+=== PubMed: tension headache ===
+1. Neurologia (Engl Ed). 2021 Sep;36(7):537-547. doi:
+10.1016/j.nrleng.2017.12.005.  Epub 2020 Apr 7.
+
+Manual therapy in adults with tension-type headache: A systematic review.
+
+Cumplido-Trasmonte C(1), Fernández-González P(2), Alguacil-Diego IM(3), 
+Molina-Rueda F(3).
+
+Author information:
+(1)Centro Ecobody, Fuenlabrada, Madrid, Spain.
+(2)Departamento de Fisioterapia, Terapia Ocupacional, Rehabilitación y Medicina 
+Física, Facultad de Ciencias de la Salud, Universidad Rey Juan Carlos, Alcorcón, 
+Madrid, Spain; Laboratorio de Análisis del Movimiento, Biomecánica, Ergonomía y 
+Control Motor (LAMBECOM), Universidad Rey Juan Carlos, Alcorcón, Madrid, Spain. 
+Electronic address: pilar.fernandez@urjc.es.
+(3)Departamento de Fisioterapia, Terapia Ocupacional, Rehabilitación y Medicina 
+Física, Facultad de Ciencias de la Salud, Universidad Rey Juan Carlos, Alcorcón, 
+Madrid, Spain; Laboratorio de Análisis del Movimiento, Biomecánica, Ergonomía y 
+Control Motor (LAMBECOM), Universidad Rey Juan Carlos, Alcorcón, Madrid, Spain.
+
+INTRODUCTION: Tension-type headache is the most common primary headache, with a 
+high prevalence and a considerable socioeconomic impact. Manual physical therapy 
+techniques are widely used in the clinical field to treat the symptoms 
+associated with tension-type headache. This systematic review aims to determine 
+the effectiveness of manual and non-invasive therapies in the treatment of 
+patients with tension-type headache.
+DEVELOPMENT: We conducted a systematic review of randomised controlled trials in 
+the following databases: Brain, PubMed, Web of Science, PEDro, Scopus, CINAHL, 
+and Science Direct. Ten randomised controlled trials were included for analysis. 
+According to these studies, manual therapy improves symptoms, increasing 
+patients' well-being and improving the outcome measures analysed.
+CONCLUSIONS: Manual therapy has positive effects on pain intensity, pain 
+frequency, disability, overall impact, quality of life, and craniocervical range 
+of motion in adults with tension-type headache. None of the techniques was found 
+to be superior to the others; combining different techniques seems to be the 
+most effective approach.
+
+Copyright © 2018 Sociedad Española de Neurología. Published by Elsevier España, 
+S.L.U. All rights reserved.
+
+DOI: 10.1016/j.nrleng.2017.12.005
+PMID: 34537167 [Indexed for MEDLINE]
+
+
+2. Ideggyogy Sz. 2019 Jan 30;72(1-2):13-21. doi: 10.18071/isz.72.0013.
+
+[Tension type headache and its treatment possibilities].
+
+[Article in Hungarian; Abstract available in Hungarian from the publisher]
+
+Ertsey C(1), Magyar M(1)(2), Gyüre T(2), Balogh E(2)(3), Bozsik G(1).
+
+Author information:
+(1)Semmelweis Egyetem, ÁOK, Neurológiai Klinika, Budapest.
+(2)Semmelweis Egyetem, Szentágothai János Idegtudományi Doktori Iskola, 
+Budapest.
+(3)Nyírô Gyula Országos Pszichiátriai és Addiktológiai Intézet, Neurológiai 
+Osztály, Budapest.
+
+Tension type headache, the most common type of primary headaches, affects 
+approximately 80% of the population. Mainly because of its high prevalence, the 
+socio-economic consequences of tension type headache are significant. The pain 
+in tension type headache is usually bilateral, mild to moderate, is of a 
+pressing or tightening quality, and is not accompanied by other symptoms. 
+Patients with frequent or daily occurrence of tension type headache may 
+experience significant distress because of the condition. The two main 
+therapeutic avenues of tension type headache are acute and prophylactic 
+treatment. Simple or combined analgesics are the mainstay of acute treatment. 
+Prophylactic treatment is needed in case of attacks that are frequent and/or 
+difficult to treat. The first drugs of choice as preventatives of tension type 
+headache are tricyclic antidepressants, with a special focus on amitriptyline, 
+the efficacy of which having been documented in multiple double-blind, 
+placebo-controlled studies. Among other antidepressants, the efficacy of 
+mirtazapine and venlafaxine has been documented. There is weaker evidence about 
+the efficacy of gabapentine, topiramate, and tizanidin. Non-pharmacological 
+prophylactic methods of tension type headache with a documented efficacy include 
+certain types of psychotherapy and acupuncture.
+
+Publisher: Az önálló fejfájások leggyakoribb képviselője, a tenziós típusú 
+fejfájás a népesség körülbelül 80%-át érinti. Elsősorban gyakorisága miatt 
+társadalmi-gazdasági kihatása jelentős. A tenziós fejfájás általában kétoldali 
+lokalizációjú, enyhe vagy közepes erősségű, nyomó jellegű, egyéb kísérő tünettel 
+nem jár. Az egyén számára elsősorban a gyakori, vagy mindennapos tenziós 
+fejfájás jelent nagy terhet. A tenziós fejfájás kezelésének két pillére a 
+roham-, illetve a megelőző kezelés. Rohamkezelésre elsősorban egyszerű, vagy 
+kombinált analgetikumokat célszerű alkalmazni. Megelőző kezelést gyakori, 
+és/vagy nehezen kezelhető fejfájásrohamok esetén alkalmazunk. A tenziós fejfájás 
+megelőző kezelésére triciklikus antidepresszánsokat, elsősorban amitriptylint 
+javasolt adni, melynek hatékonyságát számos kettős vak, placebokontrollált 
+tanulmány igazolta. Az egyéb antidepresszánsok közül a mirtazapin és venlafaxin 
+hatékonyságát támasztják alá tudományos vizsgálatok. Gyengébb minőségű 
+bizonyítékok vannak a gabapentin, topiramat, illetve a tizanidin hatékonyságára. 
+A tenziós fejfájás megelőzésének nem gyógyszeres lehetőségei között egyes 
+pszichoterápiás módszerek, illetve az akupunktúra hatékonyságát támasztják alá 
+vizsgálatok.
+
+DOI: 10.18071/isz.72.0013
+PMID: 30785242 [Indexed for MEDLINE]
+
+
+3. Curr Neurol Neurosci Rep. 2021 Oct 2;21(10):56. doi:
+10.1007/s11910-021-01138-7.
+
+Current Understanding of the Pathophysiology and Approach to Tension-Type 
+Headache.
+
+Steel SJ(1), Robertson CE(1), Whealy MA(2).
+
+Author information:
+(1)Department of Neurology, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, 
+USA.
+(2)Department of Neurology, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, 
+USA. whealy.mark@mayo.edu.
+
+PURPOSE OF REVIEW: Description of headache dates back thousands of years, and to 
+date, tension-type headache (TTH) remains the most common form of headache. We 
+will review the history and current understanding of the pathophysiology of TTH 
+and discuss the recommended clinical evaluation and management for this 
+syndrome.
+RECENT FINDINGS: Despite being the most prevalent headache disorder, TTH 
+pathophysiology remains poorly understood. Patients with TTH tend to have 
+muscles that are harder, more tender to palpation, and may have more frequent 
+trigger points of tenderness than patients without headache. However, cause and 
+effect of these muscular findings are unclear. Studies support both peripheral 
+and central mechanisms contributing to the pain of TTH. Diagnosis is based on 
+clinical presentation, while the focus of evaluation is to rule out possible 
+secondary causes of headache. Treatment options have remained similar over the 
+course of the past decade, with some additional studies supportive of both 
+pharmacological and non-pharmacological options. An approach to TTH has been 
+outlined including historical context, evolution over time, and the best 
+evidence regarding our current understanding of the complex pathophysiology and 
+treatment of this disease.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11910-021-01138-7
+PMID: 34599406 [Indexed for MEDLINE]
+
+
+4. Schmerz. 2016 Jun;30(3):295-310. doi: 10.1007/s00482-016-0109-6.
+
+[Peppermint oil in the acute treatment of tension-type headache].
+
+[Article in German]
+
+Göbel H(1), Heinze A(2), Heinze-Kuhn K(2), Göbel A(2), Göbel C(2).
+
+Author information:
+(1)Schmerzklinik Kiel, Heikendorfer Weg 9-27, 24149, Kiel, Deutschland. 
+hg@schmerzklinik.de.
+(2)Schmerzklinik Kiel, Heikendorfer Weg 9-27, 24149, Kiel, Deutschland.
+
+Tension-type headache is the most frequent form of headache. The local topical 
+treatment with peppermint oil (oleum menthae piperitae) has proven to be 
+significantly more effective than placebo in controlled studies. Peppermint oil 
+targets headache pathophysiology in multiple ways. The efficacy is comparable to 
+that of acetylsalicylic acid or paracetamol. Solutions of 10 % peppermint oil in 
+ethanol are licensed for the treatment of tension-type headache in adults and 
+children above 6 years. It is included in treatment recommendations and 
+guidelines by the respective professional societies and is regarded as a 
+standard treatment for the acute therapy of tension-type headaches.
+
+DOI: 10.1007/s00482-016-0109-6
+PMID: 27106030 [Indexed for MEDLINE]
+
+
+5. Int J Environ Res Public Health. 2023 Mar 2;20(5):4466. doi: 
+10.3390/ijerph20054466.
+
+Physical Therapy in Tension-Type Headache: A Systematic Review of Randomized 
+Controlled Trials.
+
+Repiso-Guardeño A(1)(2), Moreno-Morales N(1)(3), Armenta-Pendón MA(4), 
+Rodríguez-Martínez MDC(1)(3), Pino-Lozano R(5), Armenta-Peinado JA(1)(3).
+
+Author information:
+(1)Department of Physiotherapy, Faculty of Health Sciences, University of 
+Málaga, C/Arquitecto Francisco Peñalosa, 3, 29071 Málaga, Spain.
+(2)Clínica de Fisioterapia Ángela Repiso, Villanueva del Rosario, 29312 Málaga, 
+Spain.
+(3)Instituto de Investigación Biomédica de Málaga y Plataforma en 
+Nanomedicina-IBIMA Plataforma BIONAND (IBIMA Plataforma BIONAND), 29590 Málaga, 
+Spain.
+(4)Clínica Bonal-Centro Médico de Especialidades, Torre del Mar, 29740 Málaga, 
+Spain.
+(5)Centre d´Atenció Primària Vilafranca Nord, Institut Catalá de la Salut, 
+Vilafranca del Penedès, 08720 Barcelona, Spain.
+
+(1) Objective: The aim of this study is to synthesize the effects of physical 
+therapy on pain, frequency, or duration management in the short, medium, and 
+long term in adult patients diagnosed with Tension-type headache (TTH). (2) 
+Background: Tension-type headache (TTH) is the most common headache with 
+migraine and its pathophysiology and treatment has been discussed for years 
+without reaching a consensus. (3) Methods: A systematic review was conducted 
+using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) guidelines. The review was registered in PROSPERO (CRD42020175020). The 
+systematic search for clinical trials was performed in the databases PubMed, 
+CINAHL, Cochrane Central Register of Controlled Trials, PEDro, Scopus, SciELO 
+and Dialnet. Articles were selected according to the inclusion and exclusion 
+criteria, regarding the effectiveness of physical therapy interventions on adult 
+patients with TTH published in the last 11 years with a score ≥ 6 in the PEDro 
+Scale (Physiotherapy Evidence Database). (4) Results: In total, 120 articles 
+were identified, of which 15 randomized controlled trials were finally included 
+in order to determine the inclusion criteria. Changes in pain intensity, 
+headache frequency or headache duration of individual studies were described (5) 
+Conclusions: This systematic review shows that there is no standardized physical 
+therapy protocol for the approach to tension headache, although all the 
+techniques studied to date address in one way or another the 
+cranio-cervical-mandibular region. The approach to the 
+cranio-cervical-mandibular region reports significant effects in terms of 
+decreasing the intensity of pain and frequency of headache episodes in the short 
+and medium term. More long-term longitudinal studies are needed.
+
+DOI: 10.3390/ijerph20054466
+PMCID: PMC10001815
+PMID: 36901475 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

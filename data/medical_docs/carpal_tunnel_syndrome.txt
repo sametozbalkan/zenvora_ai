@@ -1,0 +1,117 @@
+=== PubMed: carpal tunnel syndrome ===
+1. Phys Med Rehabil Clin N Am. 2018 Nov;29(4):751-760. doi: 
+10.1016/j.pmr.2018.06.009. Epub 2018 Sep 17.
+
+Guiding Treatment for Carpal Tunnel Syndrome.
+
+Wang L(1).
+
+Author information:
+(1)Department of Rehabilitation Medicine, School of Medicine, University of 
+Washington, 1959 Northeast Pacific Street, Box 356157, Seattle, WA 98195, USA. 
+Electronic address: lw7@uw.edu.
+
+Making the correct carpal tunnel syndrome diagnosis is the most important step 
+in treatment. Electrodiagnosis can confirm carpal tunnel syndrome and eliminate 
+mimicking diseases from the differential. Treatment should provide satisfactory 
+pain relief and protection of the median nerve from further deterioration. 
+Electrodiagnosis testing provides information on focal median mononeuropathy at 
+the wrist that could be used to classify carpal tunnel syndrome from mild to 
+severe. The information obtained can help patients to understand and choose 
+treatment in a patient-centered fashion. False positives can cause more harm 
+than false negatives in the case of carpal tunnel syndrome.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pmr.2018.06.009
+PMID: 30293628 [Indexed for MEDLINE]
+
+
+2. Clin Orthop Surg. 2014 Sep;6(3):253-7. doi: 10.4055/cios.2014.6.3.253. Epub
+2014  Aug 5.
+
+Current approaches for carpal tunnel syndrome.
+
+Kim PT(1), Lee HJ(1), Kim TG(2), Jeon IH(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Kyungpook National University School of 
+Medicine, Daegu, Korea.
+(2)Department of Orthopaedic Surgery, Park Hospital, Daegu, Korea.
+(3)Department of Orthopaedic Surgery, Asan Medical Center, University of Ulsan 
+College of Medicine, Seoul, Korea.
+
+With advancement in biomechanical and biological research on idiopathic carpal 
+tunnel syndrome, the insight on the pathophysiology of carpal tunnel syndrome 
+has gained much clinical relevance. Open carpal tunnel release is still a gold 
+standard procedure for carpal tunnel syndrome, which has evolved into mini-open 
+procedure with development of new devices. Endoscopic carpal tunnel release has 
+become popular in recent practice of hand surgery with an advantage of early 
+recovery of hand function with minimal morbidity. However, endoscopic carpal 
+tunnel release has its own limitation such as long learning curve with obvious 
+surgical risk reported in the literature. In this review article, various 
+treatment protocols for idiopathic carpal tunnel syndrome are presented with 
+special highlight on endoscopic carpal tunnel release, which is gaining 
+popularity in current practice.
+
+DOI: 10.4055/cios.2014.6.3.253
+PMCID: PMC4143510
+PMID: 25177448 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest relevant to 
+this article was reported.
+
+
+3. Isr Med Assoc J. 2023 Jul;25(7):507-510.
+
+Carpal Tunnel Syndrome.
+
+Rotem G(1), Arami A(1).
+
+Author information:
+(1)Department of Hand Surgery, Sheba Medical Center, Tel Hashomer, Israel, 
+Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+
+PMID: 37461179 [Indexed for MEDLINE]
+
+
+4. MMW Fortschr Med. 2022 Apr;164(7):52-54. doi: 10.1007/s15006-022-0880-5.
+
+[Carpal tunnel syndrome].
+
+[Article in German]
+
+Koehl P(1), Mada L(2), Hajer AA(3), Rueth MJ(4), Schuh A(5).
+
+Author information:
+(1)Klinik für Unfallchirurgie, Klinikum Fichtelgebirge, Schillerhain 1-8, 95615, 
+Marktredwitz, Deutschland. Unfallchirurgie@klinikum-fichtelgebirge.de.
+(2)Muskuloskelettales Zentrum, Klinikum Fichtelgebirge, Marktredwitz, 
+Deutschland.
+(3)Klinik für Unfallchirurgie, Abteilung für Neurochirurgie und 
+Wirbelsäulentherapie, Klinikum Fichtelgebirge, Schillerhain 1-8, 95615, 
+Marktredwitz, Deutschland.
+(4)Sektion Sportmedizin u. rekonstruktive Gelenkchirurgie, Klinikum 
+Fichtelgebirge - Klinik für Unfallchirurgie, Schillerhain 1-8, 95615, 
+Marktredwitz, Deutschland.
+(5)Abteilung für Muskuloskelettale Forschung, Klinikum Fichtelgebirge gGmbH - 
+Haus Marktredwitz, Schillerhain 1-8, 95615, Marktredwitz, Deutschland.
+
+DOI: 10.1007/s15006-022-0880-5
+PMID: 35391696 [Indexed for MEDLINE]
+
+
+5. BMJ. 2014 Nov 6;349:g6437. doi: 10.1136/bmj.g6437.
+
+Carpal tunnel syndrome.
+
+Middleton SD(1), Anakwe RE(2).
+
+Author information:
+(1)Department of Trauma and Orthopaedic Surgery, Royal Infirmary of Edinburgh, 
+Edinburgh, UK.
+(2)Department of Trauma and Orthopaedic Surgery, St Mary's Hospital, Imperial 
+College NHS Trust, London W1 2NY, UK raymundus@doctors.org.uk.
+
+DOI: 10.1136/bmj.g6437
+PMID: 25378457 [Indexed for MEDLINE]

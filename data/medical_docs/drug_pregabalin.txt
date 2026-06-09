@@ -1,0 +1,36 @@
+İLAÇ: Pregabalin (Lyrica)
+SINIF: Gabapentinoid, antikonvülsan/analjezik
+
+ENDİKASYONLAR:
+- Nöropatik ağrı (diyabetik nöropati, postherpetik nevroji)
+- Fibromiyalji
+- Epilepsi (adjuvan)
+- Generalize anksiyete bozukluğu
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Opioidler (tramadol, morfin, kodein, oksikodon): Solunum depresyonu riski ciddi artar — ölüm vakaları bildirilmiş
+- Benzodiyazepinler (alprazolam, diazepam): Ciddi SSS depresyonu, solunum baskılanması
+- Alkol: SSS depresyonu artar
+- Diğer SSS depresanları (antihipertansifler, antihistaminikler): Baş dönmesi, düşme riski
+- ACE inhibitörleri: Anjiyoödem riski artabilir
+- Tiyazolidindionlar (pioglitazon): Ödem ve kilo artışı artar
+
+UYARILAR:
+- Böbrek yetmezliğinde doz azaltılmalı (renal atılım)
+- Bağımlılık/kötüye kullanım potansiyeli — kontrollü madde (bazı ülkelerde)
+- Aniden kesilmemeli: Nöbet, anksiyete, uyku bozukluğu
+- Araç ve makine kullanımını etkiler (sedasyon, görme bulanıklığı)
+- Periferik ödem yapabilir
+- İntihar düşüncesi riski izlenmeli
+- Hamilelikte kullanılmamalı (teratojenik risk)
+
+KONTRENDİKASYONLAR:
+- Bilinen hipersensitivite
+
+YAN ETKİLER:
+- Baş dönmesi, sedasyon (en sık)
+- Kilo artışı
+- Periferik ödem
+- Görme bulanıklığı, çift görme
+- Ağız kuruluğu
+- Konsantrasyon güçlüğü

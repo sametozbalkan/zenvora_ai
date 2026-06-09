@@ -1,0 +1,54 @@
+=== PubMed: safra kesesi taşı ===
+1. Ulus Travma Acil Cerrahi Derg. 2023 Aug;29(8):850-857. doi: 
+10.14744/tjtes.2023.94034.
+
+Prospective evolution of body compositions based on bioelectrical impedance 
+analysis and water intake on patients with gallstone.
+
+Bostan MS(1), Yılmaz S(1).
+
+Author information:
+(1)Department of General Surgery, Tokat Gaziosmanpaşa University, Medical 
+Faculty, Tokat-Türkiye.
+
+BACKGROUND: We aimed to compare bioelectrical impedance analysis (BIA) body 
+composition and to reveal predictive factors that may help prevent gallstone 
+formation.
+METHODS: Patients with gallstones by ultrasonography were selected as the case 
+group, while participants without stones were selected as the control group. The 
+body composition of the participants in both groups was measured by BIA. 
+Demographic charac-teristics, mean water intake daily of the participants (MWID) 
+and body mass index (BMI), total body fat mass (TBFM), total body fat percentage 
+(BFP), total body water (TBW), body fat mass of trunk (BFM of trunk), and 
+visceral fat level (VFL) measured by BIA were recorded. Predictive risk factors 
+for gallstone formation were revealed by statistical analysis.
+RESULTS: The data of a total of 191 participants, including 83 participants in 
+the group with gallstones and 108 participants in the group without gallstones, 
+were analyzed. Both groups were statistically similar in terms of age and sex 
+(P>0.05). In univariate analysis, BMI, TBFM, BFP, BFM of trunk, and VFL were 
+statistically significantly higher (P = 0.007, P=0.004, P=0.003, P=0.003, and 
+P=0.005, respectively) while MWID was lower (P<0.001) in the group with 
+gallstone. In multivariate analysis, MWID (ref: ≥1.5 odds ratio [OR]: 7.786 95% 
+confidence interval [CI]: 3.612-16.781) and BFP (ref: ≥0.24 OR: 3.102 95%CI: 
+1.207-7.972) were independent factors in gallstone formation.
+CONCLUSION: The MWID and BFP level measured by the BIA technique, which is an 
+easily applicable, noninvasive method, are independent risk factors for 
+gallstone formation.
+
+DOI: 10.14744/tjtes.2023.94034
+PMCID: PMC10560795
+PMID: 37563897 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+2. Turk Tip Cemiy Mecm. 1956 Mar;22(3):191-201.
+
+[Choledochoduodenostomy in a case of calculi of the gallbladder and the bile 
+ducts].
+
+[Article in Turkish]
+
+GORBON B, KANATLI S.
+
+PMID: 13352439 [Indexed for MEDLINE]

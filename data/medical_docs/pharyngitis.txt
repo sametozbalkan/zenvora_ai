@@ -1,0 +1,182 @@
+=== PubMed: pharyngitis ===
+1. Prim Care. 2025 Mar;52(1):99-109. doi: 10.1016/j.pop.2024.09.011. Epub 2024
+Nov  16.
+
+Pharyngitis.
+
+Holley A(1), Wiggill S(2).
+
+Author information:
+(1)Department of Family Medicine, Florida Atlantic University College of 
+Medicine, Boca Raton, FL, USA. Electronic address: holleya@health.fau.edu.
+(2)Department of Family Medicine, Florida Atlantic University College of 
+Medicine, Boca Raton, FL, USA.
+
+While pharyngitis is a common primary care complaint, evidence reveals that this 
+diagnosis is an area where antibiotic therapy is frequently misused. Appropriate 
+diagnosis and management of pharyngitis is crucial to ensure antimicrobial 
+stewardship and improve patient safety and outcomes. Pharyngitis etiologies 
+include both infectious and noninfectious sources such as bacteria, viruses, 
+fungal organisms, trauma, irritants, laryngopharyngeal reflux, and medications. 
+Clinicians need to obtain a thorough history and careful physical examination, 
+along with appropriate diagnostic testing when indicated, to ensure treatment 
+plans are targeted toward the most likely pharyngitis etiology.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2024.09.011
+PMID: 39939094 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+2. Prim Care. 2014 Mar;41(1):91-8. doi: 10.1016/j.pop.2013.10.010. Epub 2013 Nov 
+21.
+
+Pharyngitis.
+
+Weber R(1).
+
+Author information:
+(1)Department of Family and Community Medicine, University of Kansas School of 
+Medicine-Wichita, 1010 North Kansas, Wichita, KS 67214, USA. Electronic address: 
+ruth.weber@wesleymc.com.
+
+Erratum in
+    Prim Care. 2015 Mar;42(1):xvii.
+
+Most infectious pharyngitis has a viral cause. The use of aspirin or 
+nonsteroidal antiinflammatory agents (NSAIAs) is advised in adults and NSAIAs in 
+children for the treatment of pain. There are several studies that show that 
+NSAIAs relieve pharyngitis pain better than acetaminophen. Penicillin remains 
+the antibiotic of choice of group A beta-hemolytic streptococcal (GAS) 
+pharyngitis. Resistance has not developed to penicillin. Patients with GAS 
+pharyngitis should have improvement in 3 to 4 days. If not better at that time, 
+the patient should be seen for diagnostic reconsideration or the development of 
+a suppurative complication.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2013.10.010
+PMCID: PMC7119355
+PMID: 24439883 [Indexed for MEDLINE]
+
+
+3. Prim Care. 1996 Dec;23(4):719-39. doi: 10.1016/s0095-4543(05)70359-6.
+
+Pharyngitis.
+
+Middleton DB(1).
+
+Author information:
+(1)St. Margaret Memorial Hospital, Pittsburgh, Pennsylvania 15215, USA.
+
+This article reviews the commonly encountered agents causing acute inflammation 
+of the pharynx and tonsils, with special attention to a practical approach for 
+identifying and dealing with the group A beta-hemolytic streptococcus. 
+Ubiquitous viral agents such as Epstein-Barr virus, rhinovirus, and adenovirus 
+are reviewed. Some agents such as group A beta-hemolytic streptococcus and 
+Epstein-Barr virus are susceptible to treatment. Additionally, unusual 
+infectious agents and noninfectious causes of pharyngitis are enumerated.
+
+DOI: 10.1016/s0095-4543(05)70359-6
+PMCID: PMC7125999
+PMID: 8890141 [Indexed for MEDLINE]
+
+
+4. Vestn Otorinolaringol. 2023;88(3):56-62. doi: 10.17116/otorino20228803156.
+
+[Chronic pharyngitis. Modern approaches to diagnosis and treatment].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Tovmasyan AS(1), Filina EV(1), Golubeva LI(1), Golovatyuk AA(1), Ramazanov 
+SR(1), Polyaeva MY(1), Kishinevskii AE(1), Shvedov NV(1), Mosin VV(1).
+
+Author information:
+(1)Sverzhevsky Research Clinical Institute of Otorhinolaryngology, Moscow, 
+Russia.
+
+The relevance of the problem of chronic inflammatory diseases of the pharynx is 
+due to the significant prevalence of this pathology. Among all forms of chronic 
+pharyngitis, the most adverse effect on the quality of life is observed in 
+chronic athrophic pharyngitis. According to the literature, in this category of 
+patients there are no clear criteria for assessing the functional state and 
+morphological picture of the mucous membrane of the posterior pharyngeal wall. 
+Most of the described signs of atrophic pharyngitis are insufficienyly 
+informative, which necessitates further improvement of existing and possible 
+search for new diagnostic methods. Many of the modern methods of treatment do 
+not provide a lasting effect due to the presence of only a local effect on the 
+altered mucous membrane of the posterior pharyngeal wall, without taking into 
+account the changes that are caused by a violation of trophic processes in the 
+tissue, which necessitates the search for new effective methods of treating this 
+disease.The review article outlines modern ideas about the methods of diagnosis 
+and treatment of chronic pharyngitis, presents promising areas in the treatment 
+of patients with atrophic pharyngitis. In foreign countries, the term «chronic 
+tonsillopharyngitis» is most often used. Due to the existing difference in 
+terminology, the predominant part of the material on the problem of chronic 
+pharyngitis is presented by domestic literature sources.
+
+Publisher: Актуальность проблемы хронических воспалительных заболеваний глотки 
+обусловлена значительной распространенностью данной патологии. Из всех форм 
+хронического фарингита наиболее неблагоприятное влияние на качество жизни 
+оказывает хронический атрофический фарингит. По данным литературы, отсутствуют 
+четкие критерии оценки функционального состояния и морфологической картины 
+слизистой оболочки задней стенки глотки при этой патологии. Большинство из 
+описанных признаков атрофического фарингита являются недостаточно 
+информативными, поэтому представляется актуальным дальнейшее совершенствование 
+существующих и возможный поиск новых диагностических методов. Многие из 
+современных методов лечения не обеспечивают продолжительный эффект вследствие 
+только местного воздействия на измененную слизистую оболочку задней стенки 
+глотки, при этом не оказывается влияние на нарушения трофических процессов в 
+ткани, что означает необходимость поиска новых, эффективных методов лечения. В 
+обзорной статье изложены современные представления о методах диагностики и 
+лечения хронического фарингита, представлены перспективные направления лечения 
+больных атрофическим фарингитом. В зарубежной литературе наиболее часто 
+используется термин «хронический тонзиллофарингит». Вследствие существующей 
+разницы в терминологии преобладающая часть материала по проблеме хронического 
+фарингита представлена отечественными источниками литературы.
+
+DOI: 10.17116/otorino20228803156
+PMID: 37450392 [Indexed for MEDLINE]
+
+
+5. Rev Soc Bras Med Trop. 2014 Jul;47(4):409-13. doi:
+10.1590/0037-8682-0265-2013.
+
+Streptococcal acute pharyngitis.
+
+Anjos LM(1), Marcondes MB(1), Lima MF(1), Mondelli AL(1), Okoshi MP(1).
+
+Author information:
+(1)Departamento de Clínica Médica, Faculdade de Medicina de Botucatu, 
+Universidade Estadual Paulista, Botucatu, SP, Brazil.
+
+Acute pharyngitis/tonsillitis, which is characterized by inflammation of the 
+posterior pharynx and tonsils, is a common disease. Several viruses and bacteria 
+can cause acute pharyngitis; however, Streptococcus pyogenes (also known as 
+Lancefield group A β-hemolytic streptococci) is the only agent that requires an 
+etiologic diagnosis and specific treatment. S. pyogenes is of major clinical 
+importance because it can trigger post-infection systemic complications, acute 
+rheumatic fever, and post-streptococcal glomerulonephritis. Symptom onset in 
+streptococcal infection is usually abrupt and includes intense sore throat, 
+fever, chills, malaise, headache, tender enlarged anterior cervical lymph nodes, 
+and pharyngeal or tonsillar exudate. Cough, coryza, conjunctivitis, and diarrhea 
+are uncommon, and their presence suggests a viral cause. A diagnosis of 
+pharyngitis is supported by the patient's history and by the physical 
+examination. Throat culture is the gold standard for diagnosing streptococcus 
+pharyngitis. However, it has been underused in public health services because of 
+its low availability and because of the 1- to 2-day delay in obtaining results. 
+Rapid antigen detection tests have been used to detect S. pyogenes directly from 
+throat swabs within minutes. Clinical scoring systems have been developed to 
+predict the risk of S. pyogenes infection. The most commonly used scoring system 
+is the modified Centor score. Acute S. pyogenes pharyngitis is often a 
+self-limiting disease. Penicillins are the first-choice treatment. For patients 
+with penicillin allergy, cephalosporins can be an acceptable alternative, 
+although primary hypersensitivity to cephalosporins can occur. Another drug 
+option is the macrolides. Future perspectives to prevent streptococcal 
+pharyngitis and post-infection systemic complications include the development of 
+an anti-Streptococcus pyogenes vaccine.
+
+DOI: 10.1590/0037-8682-0265-2013
+PMID: 25229278 [Indexed for MEDLINE]

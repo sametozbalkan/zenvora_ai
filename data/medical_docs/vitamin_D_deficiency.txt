@@ -1,0 +1,106 @@
+=== PubMed: vitamin D deficiency ===
+1. N Engl J Med. 2007 Jul 19;357(3):266-81. doi: 10.1056/NEJMra070553.
+
+Vitamin D deficiency.
+
+Holick MF(1).
+
+Author information:
+(1)Department of Medicine, Section of Endocrinology, Nutrition, and Diabetes, 
+the Vitamin D, Skin, and Bone Research Laboratory, Boston University Medical 
+Center, Boston, MA 02118, USA. mfholick@bu.edu
+
+Comment in
+    N Engl J Med. 2007 Nov 8;357(19):1980-1; author reply 1981-2. doi: 
+10.1056/NEJMc072359.
+    N Engl J Med. 2007 Nov 8;357(19):1981; author reply 1981-2.
+    N Engl J Med. 2007 Nov 8;357(19):1981; author reply 1981-2.
+    N Engl J Med. 2007 Nov 8;357(19):1981; author reply 1981-2.
+    Int J Clin Pract. 2009 Aug;63(8):1265. doi: 
+10.1111/j.1742-1241.2009.02033.x.
+
+DOI: 10.1056/NEJMra070553
+PMID: 17634462 [Indexed for MEDLINE]
+
+
+2. Rev Endocr Metab Disord. 2017 Jun;18(2):153-165. doi:
+10.1007/s11154-017-9424-1.
+
+The vitamin D deficiency pandemic: Approaches for diagnosis, treatment and 
+prevention.
+
+Holick MF(1).
+
+Author information:
+(1)Endocrinology, Nutrition and Diabetes, Department of Medicine, Boston 
+University Medical Center, Boston, MA, 02118, USA. mfholick@bu.edu.
+
+Vitamin D deficiency and insufficiency is a global health issue that afflicts 
+more than one billion children and adults worldwide. The consequences of vitamin 
+D deficiency cannot be under estimated. There has been an association of vitamin 
+D deficiency with a myriad of acute and chronic illnesses including 
+preeclampsia, childhood dental caries, periodontitis, autoimmune disorders, 
+infectious diseases, cardiovascular disease, deadly cancers, type 2 diabetes and 
+neurological disorders. This review is to put into perspective the controversy 
+surrounding the definition for vitamin D deficiency and insufficiency as well as 
+providing guidance for how to treat and prevent vitamin D deficiency.
+
+DOI: 10.1007/s11154-017-9424-1
+PMID: 28516265 [Indexed for MEDLINE]
+
+
+3. J Am Osteopath Assoc. 2017 May 1;117(5):301-305. doi: 10.7556/jaoa.2017.055.
+
+Vitamin D Deficiency, Its Role in Health and Disease, and Current 
+Supplementation Recommendations.
+
+Pfotenhauer KM, Shubrook JH.
+
+Vitamin D deficiency has been identified as a common metabolic/endocrine 
+abnormality. Despite known dietary sources of vitamin D and the role of sunlight 
+in its production, much of the US population may have inadequate levels of serum 
+25-hydroxyvitamin D. Deficiency of vitamin D can be caused by a variety of 
+health conditions, but studies on the effects of vitamin D supplements have had 
+mixed results. This evidence-based clinical review discusses what is currently 
+known about vitamin D and what areas need further research to clarify its role 
+in health and disease.
+
+DOI: 10.7556/jaoa.2017.055
+PMID: 28459478 [Indexed for MEDLINE]
+
+
+4. Age Ageing. 2014 Sep;43(5):589-91. doi: 10.1093/ageing/afu104. Epub 2014 Jul
+28.
+
+Understanding vitamin D deficiency.
+
+Sahota O(1).
+
+Author information:
+(1)Department of Healthcare of Older People, QMC, Nottingham University 
+Hospitals NHS Trust, Nottingham NG7 2UH, UKTel: (+44) 1159249924; Fax (+44) 
+1159709947; opinder.sahota@nuh.nhs.uk.
+
+DOI: 10.1093/ageing/afu104
+PMCID: PMC4143492
+PMID: 25074537 [Indexed for MEDLINE]
+
+
+5. Epigenomics. 2023 Jun;15(12):653-655. doi: 10.2217/epi-2023-0246. Epub 2023
+Jul  18.
+
+Epigenetic regulation of vitamin D deficiency.
+
+Hendi NN(1), Nemer G(1).
+
+Author information:
+(1)Division of Genomics & Translational Biomedicine, College of Health & Life 
+Sciences, Hamad Bin Khalifa University, Doha, P.O. Box 34110, Qatar.
+
+Tweetable abstract Epigenetic insights into vitamin D deficiency, a global 
+health concern, are described here. This editorial illuminates the role of 
+epigenetic mechanisms in understanding the molecular basis of vitamin D 
+deficiency, shedding light on precision medicine.
+
+DOI: 10.2217/epi-2023-0246
+PMID: 37461377 [Indexed for MEDLINE]

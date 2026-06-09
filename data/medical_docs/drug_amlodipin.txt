@@ -1,0 +1,235 @@
+=== PubMed: amlodipine drug interactions calcium channel blocker ===
+1. Clin Pharmacokinet. 1992 Jan;22(1):22-31. doi:
+10.2165/00003088-199222010-00003.
+
+Clinical pharmacokinetics of amlodipine.
+
+Meredith PA(1), Elliott HL.
+
+Author information:
+(1)University Department of Medicine and Therapeutics, Stobhill General 
+Hospital, Glasgow.
+
+Amlodipine is a dihydropyridine calcium antagonist drug with distinctive 
+pharmacokinetic characteristics which appear to be attributable to a high degree 
+of ionisation. Following oral administration, bioavailability is 60 to 65% and 
+plasma concentrations rise gradually to peak 6 to 8h after administration. 
+Amlodipine is extensively metabolised in the liver (but there is no significant 
+presystemic or first-pass metabolism) and is slowly cleared with a terminal 
+elimination half-life of 40 to 50h. Volume of distribution is large (21 L/kg) 
+and there is a high degree of protein binding (98%). There is some evidence that 
+age, severe hepatic impairment and severe renal impairment influence the 
+pharmacokinetic profile leading to higher plasma concentrations and longer 
+half-lives. There is no evidence of pharmacokinetic drug interactions. 
+Amlodipine shows linear dose-related pharmacokinetic characteristics and, at 
+steady-state, there are relatively small fluctuations in plasma concentrations 
+across a dosage interval. Thus, although structurally related to other 
+dihydropyridine derivatives, amlodipine displays significantly different 
+pharmacokinetic characteristics and is suitable for administration in a single 
+daily dose.
+
+DOI: 10.2165/00003088-199222010-00003
+PMID: 1532771 [Indexed for MEDLINE]
+
+
+2. JAMA. 2013 Dec 18;310(23):2544-53. doi: 10.1001/jama.2013.282426.
+
+Calcium-channel blocker-clarithromycin drug interactions and acute kidney 
+injury.
+
+Gandhi S(1), Fleet JL(2), Bailey DG(3), McArthur E(4), Wald R(5), Rehman F(2), 
+Garg AX(6).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, Western University, London, 
+Canada2Department of Epidemiology and Biostatistics, Western University, London, 
+Canada.
+(2)Division of Nephrology, Department of Medicine, Western University, London, 
+Canada.
+(3)Lawson Health Research Institute, London Health Sciences Centre, London, 
+Canada.
+(4)Division of Nephrology, Department of Medicine, Western University, London, 
+Canada4Institute for Clinical Evaluative Sciences, Ontario, Canada.
+(5)Division of Nephrology, Department of Medicine, St Michael's Hospital and 
+University of Toronto, Toronto, Canada.
+(6)Division of Nephrology, Department of Medicine, Western University, London, 
+Canada2Department of Epidemiology and Biostatistics, Western University, London, 
+Canada3Lawson Health Research Institute, London Health Sciences Centre, London, 
+Canada4Institute for Clinical Evaluative Sciences, Ontario, Canada.
+
+Comment in
+    Am J Kidney Dis. 2014 Oct;64(4):492-4. doi: 10.1053/j.ajkd.2014.04.015.
+
+IMPORTANCE: Calcium-channel blockers are metabolized by the cytochrome P450 3A4 
+(CYP3A4; EC 1.14.13.97) enzyme. Blood concentrations of these drugs may rise to 
+harmful levels when CYP3A4 activity is inhibited. Clarithromycin is an inhibitor 
+of CYP3A4 and azithromycin is not, which makes comparisons between these 2 
+macrolide antibiotics useful in assessing clinically important drug 
+interactions.
+OBJECTIVE: To characterize the risk of acute adverse events following 
+coprescription of clarithromycin compared with azithromycin in older adults 
+taking a calcium-channel blocker.
+DESIGN, SETTING, AND PARTICIPANTS: Population-based retrospective cohort study 
+in Ontario, Canada, from 2003 through 2012 of older adults (mean age, 76 years) 
+who were newly coprescribed clarithromycin (n = 96,226) or azithromycin 
+(n = 94,083) while taking a calcium-channel blocker (amlodipine, felodipine, 
+nifedipine, diltiazem, or verapamil).
+MAIN OUTCOMES AND MEASURES: Hospitalization with acute kidney injury (primary 
+outcome) and hospitalization with hypotension and all-cause mortality (secondary 
+outcomes examined separately). Outcomes were assessed within 30 days of a new 
+coprescription.
+RESULTS: There were no differences in measured baseline characteristics between 
+the clarithromycin and azithromycin groups. Amlodipine was the most commonly 
+prescribed calcium-channel blocker (more than 50% of patients). Coprescribing 
+clarithromycin vs azithromycin with a calcium-channel blocker was associated 
+with a higher risk of hospitalization with acute kidney injury (420 patients of 
+96,226 taking clarithromycin [0.44%] vs 208 patients of 94,083 taking 
+azithromycin [0.22%]; absolute risk increase, 0.22% [95% CI, 0.16%-0.27%]; odds 
+ratio [OR], 1.98 [95% CI, 1.68-2.34]). In a subgroup analysis, the risk was 
+highest with dihydropyridines, particularly nifedipine (OR, 5.33 [95% CI, 
+3.39-8.38]; absolute risk increase, 0.63% [95% CI, 0.49%-0.78%]). Coprescription 
+with clarithromycin was also associated with a higher risk of hospitalization 
+with hypotension (111 patients of 96,226 taking clarithromycin [0.12%] vs 68 
+patients of 94,083 taking azithromycin [0.07%]; absolute risk increase, 0.04% 
+[95% CI, 0.02%-0.07%]; OR, 1.60 [95% CI, 1.18-2.16]) and all-cause mortality 
+(984 patients of 96,226 taking clarithromycin [1.02%] vs 555 patients of 94,083 
+taking azithromycin [0.59%]; absolute risk increase, 0.43% [95% CI, 
+0.35%-0.51%]; OR, 1.74 [95% CI, 1.57-1.93]).
+CONCLUSIONS AND RELEVANCE: Among older adults taking a calcium-channel blocker, 
+concurrent use of clarithromycin compared with azithromycin was associated with 
+a small but statistically significant greater 30-day risk of hospitalization 
+with acute kidney injury. These findings support current safety warnings 
+regarding concurrent use of CYP3A4 inhibitors and calcium-channel blockers.
+
+DOI: 10.1001/jama.2013.282426
+PMID: 24346990 [Indexed for MEDLINE]
+
+
+3. CPT Pharmacometrics Syst Pharmacol. 2025 Aug;14(8):1359-1369. doi: 
+10.1002/psp4.70056. Epub 2025 Jul 22.
+
+Isavuconazole and Calcium Channel Blocker for Invasive Fungal Disease 
+Accompanied With Hypertension: Evidence From the FAERS and PBPK/PD Model.
+
+Zhou J(1), Xiao B(2)(3), Wei Z(1), Jia M(2)(4), Luo X(1), Wei H(2), Zhang X(5), 
+Liu M(1), Zhang Y(2), Wu X(1).
+
+Author information:
+(1)Department of Pharmacy, Fujian Medical University Union Hospital, Fuzhou, 
+Fujian, China.
+(2)Chinese Academy of Sciences, Shanghai Institute of Materia Medica, Shanghai, 
+China.
+(3)School of Medicine and Pharmacy, Ocean University of China, Qingdao, 
+Shandong, China.
+(4)Academy of Traditional Chinese Medicine, Tianjin University of Traditional 
+Chinese Medicine, Tianjin, China.
+(5)University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+
+Patients with invasive fungal disease (IFD) frequently present with 
+hypertension, necessitating polypharmacy and increasing the risk of drug-drug 
+interactions (DDIs). This study evaluated the safety of combining isavuconazole 
+(ISA), a triazole antifungal drug (TAD), and calcium channel blockers (CCBs) in 
+hypertensive patients with IFD using the FDA Adverse Event Reporting System 
+(FAERS) and physiologically based pharmacokinetic/pharmacodynamic models. FAERS 
+data on hypertension and hypotension involving TADs from 2015 (first quarter) to 
+2023 (fourth quarter) were used. Disproportionality analysis was performed using 
+the reporting odds ratio (ROR) and information component (IC) methods. DDI 
+models were developed and validated using the Simcyp simulator and in vitro 
+experiments. Dose regimen evaluation and optimization were conducted using the 
+established DDI model. ISA was not associated with hypertension or hypotension. 
+Nifedipine and amlodipine were frequently associated with hypotension induced by 
+CYP3A4 inhibition. The simulated regimens showed that ISA doubled plasma 
+exposure to nifedipine immediate-release (IR) and controlled-release (CR) 
+formulations, increased the maximum concentration by 1.51-fold for nifedipine IR 
+and 2.15-fold for nifedipine CR, and caused a 3.5- to 4.09-fold increase in 
+maximum systolic blood pressure reduction for nifedipine IR. The effects of 
+amlodipine were negligible. Dose optimization, such as halving the nifedipine 
+dose, effectively managed the overexposure. ISA appears safe for use in 
+hypertensive patients with IFD when combined with CCBs, with minimal risk of 
+significant DDIs. Personalized dosing adjustments can mitigate DDI risk. These 
+findings support the clinical use of ISA to enhance dosing precision and patient 
+safety.
+
+© 2025 The Author(s). CPT: Pharmacometrics & Systems Pharmacology published by 
+Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology 
+and Therapeutics.
+
+DOI: 10.1002/psp4.70056
+PMCID: PMC12358301
+PMID: 40694492 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Ther Clin Risk Manag. 2014;10:17-26. doi: 10.2147/TCRM.S55512. Epub 2013 Dec
+20.
+
+Pharmacokinetic drug-drug interactions between 1,4-dihydropyridine calcium 
+channel blockers and statins: factors determining interaction strength and 
+relevant clinical risk management.
+
+Zhou YT(1), Yu LS(2), Zeng S(2), Huang YW(1), Xu HM(1), Zhou Q(1).
+
+Author information:
+(1)Department of Pharmacy, the Second Affiliated Hospital, School of Medicine, 
+People's Republic of China.
+(2)Department of Pharmaceutical Analysis and Drug Metabolism, College of 
+Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang Province, 
+People's Republic of China.
+
+BACKGROUND: Coadministration of 1,4-dihydropyridine calcium channel blockers 
+(DHP-CCBs) with statins (or 3-hydroxy-3-methylglutaryl-coenzyme A [HMG-CoA] 
+reductase inhibitors) is common for patients with hypercholesterolemia and 
+hypertension. To reduce the risk of myopathy, in 2011, the US Food and Drug 
+Administration (FDA) Drug Safety Communication set a new dose limitation for 
+simvastatin, for patients taking simvastatin concomitantly with amlodipine. 
+However, there is no such dose limitation for atorvastatin for patients 
+receiving amlodipine. The combination pill formulation of 
+amlodipine/atorvastatin is available on the market. There been no systematic 
+review of the pharmacokinetic drug-drug interaction (DDI) profile of DHP-CCBs 
+with statins, the underlying mechanisms for DDIs of different degree, or the 
+corresponding management of clinical risk.
+METHODS: The relevant literature was identified by performing a PubMed search, 
+covering the period from January 1987 to September 2013. Studies in the field of 
+drug metabolism and pharmacokinetics that described DDIs between DHP-CCB and 
+statin or that directly compared the degree of DDIs associated with cytochrome 
+P450 (CYP)3A4-metabolized statins or DHP-CCBs were included. The full text of 
+each article was critically reviewed, and data interpretation was performed.
+RESULTS: There were three circumstances related to pharmacokinetic DDIs in the 
+combined use of DHP-CCB and statin: 1) statin is comedicated as the precipitant 
+drug (pravastatin-nimodipine and lovastatin-nicardipine); 2) statin is 
+comedicated as the object drug (isradipine-lovastatin, lacidipine-simvastatin, 
+amlodipine-simvastatin, benidipine-simvastatin, azelnidipine- simvastatin, 
+lercanidipine-simvastatin, and amlodipine-atorvastatin); and 3) mutual 
+interactions (lercanidipine-fluvastatin). Simvastatin has an extensive 
+first-pass effect in the intestinal wall, whereas atorvastatin has a smaller 
+intestinal first-pass effect. The interaction with simvastatin seems mainly 
+driven by CYP3A4 inhibition at the intestinal level, whereas the interaction 
+with atorvastatin is more due to hepatic CYP3A4 inhibition. The interaction of 
+CYP3A4 inhibitor with simvastatin has been more pronounced compared with 
+atorvastatin. From the current data, atorvastatin seems to be a safer 
+CYP3A4-statin for comedication with DHP-CCB. There is no convincing evidence 
+that amlodipine is an unusual DHP-CCB, either as a precipitant drug or as an 
+object drug, from the perspective of CYP3A4-mediated drug metabolism. Amlodipine 
+may have interactions with CYP3A5 in addition to CYP3A4, which may explain its 
+particular characteristics in comparison with other DHP-CCBs. The degree of DDIs 
+between the DHP-CCB and statin and the clinical outcome depends on many factors, 
+such as the kind of statin, physicochemical proprieties of the DHP-CCB, the dose 
+of either the precipitant drug or the object drug, the sex of the patient (eg, 
+isradipine-lovastatin), route of drug administration (eg, oral versus 
+intravenous nicardipine-lovastatin), the administration schedule (eg, 
+nonconcurrent dosing method versus concurrent dosing method), and the 
+pharmacogenetic status (eg, CYP3A5-nonexpressers versus CYP3A5-expressers).
+CONCLUSION: Clinical professionals should enhance risk management regarding the 
+combination use of two classes of drugs by increasing their awareness of the 
+potential changes in therapeutic efficacy and adverse drug reactions, by 
+rationally prescribing alternatives, by paying attention to dose adjustment and 
+the administration schedule, and by review of the appropriateness of physician 
+orders. Further study is needed - the DDIs between DHP-CCBs and statins have not 
+all been studied in humans, from either a pharmacokinetic or a clinical 
+perspective; also, the strength of the different pharmacokinetic interactions of 
+DHP-CCBs with statins should be addressed by systematic investigations.
+
+DOI: 10.2147/TCRM.S55512
+PMCID: PMC3873236
+PMID: 24379677

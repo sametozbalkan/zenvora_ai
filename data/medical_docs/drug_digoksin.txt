@@ -1,0 +1,39 @@
+İLAÇ: Digoksin (Lanoxin)
+SINIF: Kardiyak glikozid, antiaritmik
+
+ENDİKASYONLAR:
+- Kalp yetmezliği (sistolik)
+- Atriyal fibrilasyon/flutter (hız kontrolü)
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ (DAR TERAPÖTİK ARALIK — ÇOK DİKKATLİ):
+- Amiodaron: Digoksin düzeyini %70-100 artırır; doz yarıya indirilmeli
+- Verapamil, diltiazem: Digoksin düzeyini artırır, bradikardi
+- Kinidin: Digoksin düzeyini 2 katına çıkarır
+- Furosemid, spironolakton: Elektrolit bozukluğu (hipokalemi) → digoksin toksisitesi
+- Azitromisin, klaritromisin: Digoksin emilimini artırır
+- Metformin: Digoksin atılımını azaltır
+- Kalsiyum preparatları IV: Kardiyak arrest riski
+- NSAİD'ler: Böbrek fonksiyonu bozulursa digoksin birikir
+
+UYARILAR:
+- Serum digoksin düzeyi izlenmeli (terapötik aralık: 0.5-2.0 ng/mL)
+- Potasyum ve magnezyum düzeyleri izlenmeli
+- Böbrek yetmezliğinde birikim riski — doz azaltılmalı
+- Yaşlılarda toksisite riski yüksek
+- EKG izlemi gerekir
+
+TOKSİSİTE BELİRTİLERİ:
+- Bulantı, kusma, iştahsızlık
+- Görme bozukluğu (sarı-yeşil halo)
+- Bradikardi, kalp bloğu
+- Konfüzyon, yorgunluk
+
+KONTRENDİKASYONLAR:
+- Ventriküler fibrilasyon
+- WPW sendromu ile atriyal fibrilasyon
+- Hipertrofik obstrüktif kardiyomiyopati
+
+YAN ETKİLER:
+- GİS: Bulantı, kusma, ishal
+- Kardiyak: Aritmi, bradikardi
+- MSS: Baş dönmesi, konfüzyon

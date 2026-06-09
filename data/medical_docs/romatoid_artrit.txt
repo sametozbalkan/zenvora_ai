@@ -1,0 +1,155 @@
+=== PubMed: romatoid artrit ===
+1. Mikrobiyol Bul. 2003 Oct;37(4):313-8.
+
+[A new marker for the diagnosis of rheumatoid arthritis: cyclic citrullinated 
+peptide antibodies (anti-CCP)].
+
+[Article in Turkish]
+
+Altindiş M(1).
+
+Author information:
+(1)Kocatepe Universitesi Tip Fakültesi, Mikrobiyoloji ve Klinik Mikrobiyoloji 
+Anabilim Dali, Afyon.
+
+Rheumatoid arthritis (RA) is one of the most common autoimmune diseases, 
+affecting about 1% of the world population. Rapid diagnosis and early treatment 
+are important to control the progression of the disease. The most commonly used 
+test for the serological diagnosis of suspected RA cases is the determination of 
+rheumatoid factor (RF). RF is a sensitive but not very specific marker for RA. 
+Of 40-60% RA patients also exhibit autoantibodies against epidermal flaggrin (RA 
+keratin, anti-perinuclear antibody) in the serum. In the recent years, it has 
+been shown that a rarely found amino acid citrulline, which is present in 
+flaggrin, is a substantial component of the antigenic epitope. Enzyme 
+immunoassays which use synthetic cyclic citrullinated peptide (CCP) as the 
+target antigen, offer a useful alternative to indirect immunofluorescence 
+methods. Antibodies against CCP are predominantly of class IgG and are of 
+diagnostic importance as a new specific marker especially during the initial 
+stages of RA. In this review, the value of anti-CCP for the serodiagnosis of RA 
+has been discussed.
+
+PMID: 14748270 [Indexed for MEDLINE]
+
+
+2. Tuberk Toraks. 2020 Sep;68(3):351-352. doi: 10.5578/tt.70011.
+
+Completely disappearance of opacity of pulmonary cryptococcosis with 
+salazosulfapyridine for rheumatoid arthritis.
+
+[Article in English]
+
+Satoh H(1).
+
+Author information:
+(1)Division of Respiratory Medicine, Mito Medical Center, University of Tsukuba, 
+Mito, Japan.
+
+DOI: 10.5578/tt.70011
+PMID: 33295736
+
+
+3. Acta Orthop Traumatol Turc. 2008 Mar-Apr;42(2):119-24. doi: 
+10.3944/aott.2008.42.2.119.
+
+[Long-term results of total hip arthroplasty in patients with juvenile 
+rheumatoid arthritis].
+
+[Article in Turkish]
+
+Bilsel N(1), Gökçe A, Kesmezacar H, Mumcuoğlu E, Ozdoğan H.
+
+Author information:
+(1)Department of Orthopedics and Traumatology (Ortopedi ve Travmatoloji Anabilim 
+Dali), Cerrahpaşa Medicine Faculty of Istanbul University, Istanbul, Turkey.
+
+OBJECTIVES: We evaluated the long-term results of total hip arthroplasty (THA) 
+in patients with juvenile rheumatoid arthritis (JRA).
+METHODS: The study included 37 hips of 23 patients (22 females, 1 male; mean age 
+22 years; range 17 to 30 years) who underwent THA for hip degeneration secondary 
+to JRA. All arthroplasties were performed through an anterolateral approach by 
+the same senior surgeon. The mean body surface of the patients was 1.5 m2 (range 
+1.1 to 1.7 m2) and the mean symptom duration to surgery was 12 years (range 7 to 
+16 years). Twenty-three hips received cemented, 14 hips received hybrid 
+prostheses. In seven hips with an extremely narrow femoral medulla and shallow 
+acetabulum, a CDH prosthesis was used. The hips were evaluated using the Harris 
+hip score. Prosthetic loosening and displacement and heterotopic bone formation 
+were assessed on follow-up radiographs. The mean follow-up period was 135 months 
+(range 58 to 212 months).
+RESULTS: The mean Harris hip score increased from 27.2 (range 11 to 69) to 79.5 
+(range 37 to 87) postoperatively. At final follow-ups, all the patients were 
+satisfied with the outcome and were able to walk without support. Three hips 
+(8.1%; 3 patients) required revision. The overall Kaplan-Meier implant survival 
+rate was 86.5%. There were no significant correlations between the Harris hip 
+score and radiographic loosening and the presence of calcification around the 
+prosthesis. Heterotopic bone formation of grade I was observed in 17 hips (46%).
+CONCLUSION: Even though it is performed at young ages, THA considerably improves 
+quality of life of patients with JRA having hip joint involvement and has a 
+comparable implant survival.
+
+DOI: 10.3944/aott.2008.42.2.119
+PMID: 18552533 [Indexed for MEDLINE]
+
+
+4. Turk Tip Cemiy Mecm. 1964 Jun;30:390-8.
+
+[ATLANTO-AXIAL DISLOCATION IN RHEUMATOID ARTHRITIS AND ANKYLOSING SPONDYLITIS].
+
+[Article in Turkish]
+
+DILSEN N.
+
+PMID: 14185363 [Indexed for MEDLINE]
+
+
+5. Mikrobiyol Bul. 2011 Oct;45(4):677-83.
+
+[Investigation of Epstein-Barr virus and herpes simplex virus markers by 
+serological and molecular methods in patients with rheumatoid arthritis and 
+systemic lupus erythematosus].
+
+[Article in Turkish]
+
+Us T(1), Cetin E, Kaşifoğlu N, Kaşifoğlu T, Akgün Y.
+
+Author information:
+(1)Eskişehir Osmangazi University Faculty of Medicine, Department of Medical 
+Microbiology, Eskişehir, Turkey. tercanus@ogu.edu.tr
+
+Rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE) which are 
+autoimmune diseases usually questioned for their association with many 
+infectious agents have etiopathogenesis related to genetic, immunologic, 
+hormonal and even environmental factors. The most commonly attributed etiologic 
+agents are herpes group viruses. The aim of this study was to investigate the 
+role of Epstein-Barr virus (EBV) and herpes simplex (HSV) viruses in the 
+etiology of RA and SLE. A total of 137 patients (87 RA and 50 SLE; mean age: 33 
+± 12 years) who were admitted to Eskisehir Osmangazi University Medical Faculty 
+Rheumatology Department between January 2007-January 2008 and diagnosed 
+according to 1987 ACR (American College of Rheumatology) criteria have been 
+included in the study, together with 50 healthy blood donors (mean age: 35 ± 14 
+years) as control group. Serum samples obtained from all of the cases were 
+tested for EBV VCA-IgG, VCA-IgM, EA/D-IgG and EBNA-IgG (Trinity Biotech, USA); 
+IgM and IgG antibodies against HSV-1 and HSV-2 by ELISA method (Dia-Pro 
+Diagnostic, Italy), and the presence of viral nucleic acids in blood samples 
+were investigated by real-time quantitative polymerase chain reaction (RTPCR; 
+Qiagen, USA). EBV VCA-IgM was negative in all of the RA, SLE and control group 
+patients. VCA-IgG positivity were 98% and 96%, and for EBNA-IgG 98.5% and 100%, 
+in patient and control groups, respectively. There was no statistically 
+significant difference between the groups regarding VCA-IgG and EBNA- IgG 
+positivity (p> 0.05). On the other hand, EBV EA/D-IgG positivity rate found in 
+the SLE group (34%) was significantly higher than RA (7%) and control (12%) 
+groups (p< 0.001 and p< 0.05, respectively). There was no significant difference 
+between RA and control groups in terms of EA/D-IgG positivity (p> 0.05). 
+Regarding herpes simplex virus serology, HSV1-IgG seropositivity were 99% and 
+94% and HSV2-IgG positivity were 8% and 12% in the patient and control groups, 
+respectively. There was no statistically significant difference between the 
+groups according to the positivity rates of IgM and IgG specific for HSV-1 and 
+HSV-2 (p> 0.05). All of the cases were found negative in terms of EBV, HSV-1 and 
+HSV- 2 DNAs according to double-checked RT-PCR results. In conclusion, no 
+significant difference was determined for EBV and HSV serologic markers in RA 
+and SLE patients compared to the control group. However, significantly higher 
+rate of EBV EA/D-IgG positivity in SLE patients might have indicated a possible 
+association between SLE and EBV infection. Larger scale, prospective studies 
+including examination of the synovial fluid/tissue samples are required to 
+enlighten the association between SLE and EBV.
+
+PMID: 22090298 [Indexed for MEDLINE]

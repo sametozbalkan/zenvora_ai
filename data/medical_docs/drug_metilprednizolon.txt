@@ -1,0 +1,38 @@
+=== PubMed: methylprednisolone drug interactions corticosteroid nsaid ===
+1. Med Lett Drugs Ther. 2023 Oct 30;65(1688):169-175. doi:
+10.58347/tml.2023.1688a.
+
+Drugs for gout.
+
+[No authors listed]
+
+DOI: 10.58347/tml.2023.1688a
+PMID: 37871110 [Indexed for MEDLINE]
+
+
+2. Med Lett Drugs Ther. 2019 Mar 11;61(1567):33-37.
+
+Drugs for gout.
+
+[No authors listed]
+
+PMID: 30845096 [Indexed for MEDLINE]
+
+
+3. Med Lett Drugs Ther. 2021 Nov 15;63(1637):177-184.
+
+Drugs for rheumatoid arthritis.
+
+[No authors listed]
+
+PMID: 35085210 [Indexed for MEDLINE]
+
+
+4. Med Clin North Am. 1973 Sep;57(5):1179-90. doi: 10.1016/s0025-7125(16)32220-9.
+
+Corticosteroid therapy for rheumatoid arthritis.
+
+Gifford RH.
+
+DOI: 10.1016/s0025-7125(16)32220-9
+PMID: 4361226 [Indexed for MEDLINE]

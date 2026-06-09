@@ -1,0 +1,114 @@
+=== PubMed: albuterol drug interactions beta blocker hypokalemia ===
+1. Br Heart J. 1993 Apr;69(4):332-7. doi: 10.1136/hrt.69.4.332.
+
+Beta adrenoreceptor subtype cross regulation in the human heart.
+
+Hall JA(1), Ferro A, Dickerson JE, Brown MJ.
+
+Author information:
+(1)Clinical Pharmacology Unit, University of Cambridge.
+
+OBJECTIVES: To find out in a prospective study whether beta 1 blocker treatment 
+causes selective beta 2 adrenoreceptor sensitisation, and to find whether such 
+sensitisation is confined to the heart.
+DESIGN: A placebo controlled cross over study of two weeks of selective beta 1 
+blocker treatment with 10 mg of bisoprolol daily.
+SUBJECTS: Six healthy volunteers.
+OUTCOME MEASURES: Three days after stopping the 10 mg of bisoprolol or placebo, 
+subjects underwent treadmill exercise (to measure cardiac beta 1 receptor 
+responsiveness) and were given salbutamol injections (to measure cardiac beta 2 
+receptor responsiveness). Secondary end points were the responses of serum 
+potassium, glucose, and insulin to beta 2 stimulation.
+RESULTS: There was no difference in exercise induced increases in heart rate, 
+but after treatment with bisoprolol the dose of salbutamol required to increase 
+heart rate by 40 beats/min was 1.9 micrograms/kg compared with 2.9 micrograms/kg 
+after placebo (p < 0.005). The fall in diastolic blood pressure was not 
+significantly different on the two occasions. Hypokalaemia induced by 
+salbutamol, but not hyperglycaemia or hyperinsulinaemia, was enhanced after 
+bisoprolol.
+CONCLUSION: This study shows that treatment with a beta 1 blocker in vivo leads 
+to sensitisation of cardiac beta 2 adrenoreceptors but not cardiac beta 1 
+adrenoreceptors or vascular beta 2 receptors. This previously unrecognised form 
+of receptor cross sensitisation in the heart may noticeably diminish the 
+efficacy of selective beta 1 blockade in preventing arrhythmias in patients with 
+ischaemic heart disease. These findings reopen the question of which type of 
+beta blocker is more appropriate for such patients.
+
+DOI: 10.1136/hrt.69.4.332
+PMCID: PMC1025047
+PMID: 8098220 [Indexed for MEDLINE]
+
+
+2. J Auton Pharmacol. 1993 Jun;13(3):227-36. doi: 
+10.1111/j.1474-8673.1993.tb00270.x.
+
+Coexistence of beta 2- and beta 3-adrenoceptors in plasma potassium control in 
+conscious rabbits.
+
+Reverte M(1), García-Barrado MJ, Hernández-García FJ, Moratinos J.
+
+Author information:
+(1)Department of Pharmacology, School of Medicine, University of Salamanca, 
+Spain.
+
+1. In conscious rabbits the intravenous infusion of adrenaline (0.3 microgram 
+kg-1 min-1), noradrenaline (1 microgram kg-1 min-1) or isoprenaline (1.25 
+micrograms kg-1 min-1) caused a significant decrease in plasma potassium levels. 
+Propranolol (9 mg kg-1, s.c.) and ICI 118551 (30 micrograms kg-1, s.c.) reversed 
+adrenaline-induced hypokalaemia and revealed a sustained hyperkalaemia. 2. 
+Salbutamol (0.5 microgram kg-1 min-1, i.v.), beta 2-adrenoceptor agonist, evoked 
+a biphasic response: an initial hyperkalaemia which was followed by a 
+hypokalaemia; a higher dose (3 micrograms kg-1 min-1, i.v.) solely induced 
+hypokalaemia. ICI 118551 blocked the salbutamol-mediated response. 3. 
+Noradrenaline evoked hypokalaemia was blunted completely in the presence of 
+bupranolol (0.1 mg kg-1, s.c.), a beta 1-, beta 2- and beta 3-adrenoceptor 
+antagonist, but not in the presence of the beta 1-adrenoceptor antagonist CGP 
+207 12A (1 mg kg-1, s.c.). 4. BRL 37344 (0.15 microgram kg-1 min-1, i.v.), SR 
+58611A (0.26 microgram kg-1 min-1, i.v.), both full beta 3-agonists, and CGP 
+12177 (0,25 micrograms kg-1 min-1, i.v.), a partial agonist which also acting as 
+a non-selective beta 1- and beta 2-antagonist, induced a significant 
+hypokalaemia. Bupranolol, but not ICI 118551 or CGP 20712A, blocked the BRL 
+37344-mediated hypokalaemia. 5. Ouabain (1.7 micrograms kg-1 min-1, i.v.), an 
+inhibitor of the Na,K-pumps, inhibited both salbutamol-and BRL 37344-mediated 
+hypokalaemia. 6. These data suggest the coexistence of beta 2- and beta 
+3-adrenoceptor control of extrarenal potassium disposal; moreover both beta 2 
+and beta 3 hypokalaemic effects would be mediated by activation of Na,K-pumps.
+
+DOI: 10.1111/j.1474-8673.1993.tb00270.x
+PMID: 8099912 [Indexed for MEDLINE]
+
+
+3. J Pharmacol Toxicol Methods. 1998 Nov;40(4):201-5. doi: 
+10.1016/s1056-8719(99)00006-4.
+
+Quantitation of tremor in response to beta-adrenergic receptor stimulation in 
+primates: relationship with hypokalemia.
+
+Tesfamariam B(1), Waldron T, Seymour AA.
+
+Author information:
+(1)Department of Metabolic Diseases, Bristol-Myers Squibb Research Institute, 
+Princeton, New Jersey 08543, USA.
+
+The primary adverse effect of stimulation of beta2-adrenergic receptors is 
+elicitation of tremor. Tremor measurements in response to beta2-adrenergic 
+receptor stimulation were performed in a quantitative manner using a modified 
+miniature semiconductor accelerometer in African green monkeys. The 
+accelerometer was taped to the middle finger tip of anesthetized monkeys, and 
+recordings of onset, duration and peak tremor responses were obtained. The 
+selective beta2-adrenergic agonist, salbutamol (0.5 mg/kg i.v.), caused a marked 
+increase in tremor which started within 5 min following injection and lasted for 
+approximately 60 min. The finger tremor response was not visible, but was 
+measurable by the accelerometer, and the increase in tremor was significantly 
+greater from baseline within 10 min. Plasma K+ concentrations were markedly 
+decreased within the first 15 min and remained at low steady-state 
+concentrations during the 60-min recordings. The tremor response was abolished 
+by the selective beta2-adrenergic receptor antagonist, ICI-118551 (0.2 mg/kg). 
+ICI-118551 caused a significant reversal of the plasma K+ decrease but the K+ 
+levels remained higher than control levels. These studies demonstrate that 
+stimulation of beta2-adrenergic receptors causes tremor, most likely from entry 
+of K+ into skeletal muscle and that there is a direct correlation between tremor 
+and hypokalemic response.
+
+DOI: 10.1016/s1056-8719(99)00006-4
+PMID: 10465154 [Indexed for MEDLINE]

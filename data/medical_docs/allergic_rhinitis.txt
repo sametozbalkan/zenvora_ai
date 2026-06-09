@@ -1,0 +1,140 @@
+=== PubMed: allergic rhinitis ===
+1. Br J Hosp Med (Lond). 2022 Feb 2;83(2):1-9. doi: 10.12968/hmed.2021.0570. Epub
+ 2022 Feb 23.
+
+Allergic rhinitis: diagnosis and management.
+
+Siddiqui ZA(1), Walker A(1), Pirwani MM(2), Tahiri M(2), Syed I(1).
+
+Author information:
+(1)Department of Ear, Nose and Throat Surgery, University Hospital Lewisham, 
+London, UK.
+(2)Department of Life Sciences and Medicine, King's College London, London, UK.
+
+Allergic rhinitis affects 20% of the population of the UK. It confers a 
+significant health burden upon the individual as it affects the patient's 
+quality of life and is associated with serious comorbidities including asthma, 
+sinusitis and conjunctivitis. Owing to its prevalence, it has a significant 
+economic impact through its effects on education, productivity and use of 
+healthcare resources. This review focuses on the management of allergic rhinitis 
+and potential future treatments, because of the lack of clear national 
+guidelines and because this illness is often misdiagnosed and mismanaged. The 
+article provides a comprehensive overview of allergic rhinitis and illustrates 
+the assessment criteria for various subcategories.
+
+DOI: 10.12968/hmed.2021.0570
+PMID: 35243888 [Indexed for MEDLINE]
+
+
+2. Lancet. 2011 Dec 17;378(9809):2112-22. doi: 10.1016/S0140-6736(11)60130-X.
+Epub  2011 Jul 23.
+
+Allergic rhinitis.
+
+Greiner AN(1), Hellings PW, Rotiroti G, Scadding GK.
+
+Author information:
+(1)Asthma and Allergy Centre, San Diego, CA, USA.
+
+Allergic rhinitis is a very common disorder that affects people of all ages, 
+peaking in the teenage years. It is frequently ignored, underdiagnosed, 
+misdiagnosed, and mistreated, which not only is detrimental to health but also 
+has societal costs. Although allergic rhinitis is not a serious illness, it is 
+clinically relevant because it underlies many complications, is a major risk 
+factor for poor asthma control, and affects quality of life and productivity at 
+work or school. Management of allergic rhinitis is best when directed by 
+guidelines. A diagnostic trial of a pharmacotherapeutic agent could be started 
+in people with clinically identified allergic rhinitis; however, to confirm the 
+diagnosis, specific IgE reactivity needs to be recorded. Documented IgE 
+reactivity has the added benefit of guiding implementation of environmental 
+controls, which could substantially ameliorate symptoms of allergic rhinitis and 
+might prevent development of asthma, especially in an occupational setting. Many 
+classes of drug are available, effective, and safe. In meta-analyses, intranasal 
+corticosteroids are superior to other treatments, have a good safety profile, 
+and treat all symptoms of allergic rhinitis effectively. First-generation 
+antihistamines are associated with sedation, psychomotor retardation, and 
+reduced academic performance. Only immunotherapy with individually targeted 
+allergens has the potential to alter the natural history of allergic rhinitis. 
+Patients' education is a vital component of treatment. Even with the best 
+pharmacotherapy, one in five affected individuals remains highly symptomatic, 
+and further research is needed in this area.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(11)60130-X
+PMID: 21783242 [Indexed for MEDLINE]
+
+
+3. Otolaryngol Clin North Am. 2024 Apr;57(2):319-328. doi: 
+10.1016/j.otc.2023.09.003. Epub 2023 Oct 20.
+
+Allergic Rhinitis and Its Effect on Sleep.
+
+Pagel JML(1), Mattos JL(2).
+
+Author information:
+(1)University of Virginia School of Medicine, 1340 Jefferson Park Avenue, 
+Charlottesville, VA 22903, USA.
+(2)Department of Otolaryngology-Head and Neck Surgery, University of Virginia, 1 
+Hospital Drive, PO Box 800713, Charlottesville, VA 22908, USA. Electronic 
+address: jm6cb@uvahealth.org.
+
+Allergic rhinitis (AR) is associated with increased sleep disturbances in adults 
+and children. Pathogenesis is multifactorial, with nasal obstruction playing a 
+large role. Intranasal corticosteroids, antihistamines, leukotriene inhibitors, 
+and allergen immunotherapy have been demonstrated to relieve self-reported 
+symptoms of sleep impairment. Given the high prevalence of sleep impairment in 
+AR, providers should consider evaluating any patient with AR for sleep 
+disturbances and sleep-disordered breathing.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2023.09.003
+PMID: 37867109 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure There are no other financial 
+disclosures or conflicts of interest.
+
+
+4. Allergy. 2008 Apr;63 Suppl 86:8-160. doi: 10.1111/j.1398-9995.2007.01620.x.
+
+Allergic Rhinitis and its Impact on Asthma (ARIA) 2008 update (in collaboration 
+with the World Health Organization, GA(2)LEN and AllerGen).
+
+Bousquet J(1), Khaltaev N, Cruz AA, Denburg J, Fokkens WJ, Togias A, Zuberbier 
+T, Baena-Cagnani CE, Canonica GW, van Weel C, Agache I, Aït-Khaled N, Bachert C, 
+Blaiss MS, Bonini S, Boulet LP, Bousquet PJ, Camargos P, Carlsen KH, Chen Y, 
+Custovic A, Dahl R, Demoly P, Douagui H, Durham SR, van Wijk RG, Kalayci O, 
+Kaliner MA, Kim YY, Kowalski ML, Kuna P, Le LT, Lemiere C, Li J, Lockey RF, 
+Mavale-Manuel S, Meltzer EO, Mohammad Y, Mullol J, Naclerio R, O'Hehir RE, Ohta 
+K, Ouedraogo S, Palkonen S, Papadopoulos N, Passalacqua G, Pawankar R, Popov TA, 
+Rabe KF, Rosado-Pinto J, Scadding GK, Simons FE, Toskala E, Valovirta E, van 
+Cauwenberge P, Wang DY, Wickman M, Yawn BP, Yorgancioglu A, Yusuf OM, Zar H, 
+Annesi-Maesano I, Bateman ED, Ben Kheder A, Boakye DA, Bouchard J, Burney P, 
+Busse WW, Chan-Yeung M, Chavannes NH, Chuchalin A, Dolen WK, Emuzyte R, Grouse 
+L, Humbert M, Jackson C, Johnston SL, Keith PK, Kemp JP, Klossek JM, 
+Larenas-Linnemann D, Lipworth B, Malo JL, Marshall GD, Naspitz C, Nekam K, 
+Niggemann B, Nizankowska-Mogilnicka E, Okamoto Y, Orru MP, Potter P, Price D, 
+Stoloff SW, Vandenplas O, Viegi G, Williams D; World Health Organization; 
+GA(2)LEN; AllerGen.
+
+Author information:
+(1)University Hospital and INSERM, Hôpital Arnaud de Villeneuve, Montpellier, 
+France.
+
+DOI: 10.1111/j.1398-9995.2007.01620.x
+PMID: 18331513 [Indexed for MEDLINE]
+
+
+5. Clin Pediatr (Phila). 2007 Jun;46(5):401-7. doi: 10.1177/0009922806298703.
+
+Allergic rhinitis.
+
+Seth D(1), Secord E, Kamat D.
+
+Author information:
+(1)Pediatric Residency Program, Children's Hospital of Michigan, Detroit, 
+Michigan 48201, USA.
+
+DOI: 10.1177/0009922806298703
+PMID: 17556736 [Indexed for MEDLINE]

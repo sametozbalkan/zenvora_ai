@@ -1,0 +1,188 @@
+=== PubMed: Bell palsy ===
+1. Am Fam Physician. 2023 Apr;107(4):415-420.
+
+Bell Palsy: Rapid Evidence Review.
+
+Dalrymple SN(1), Row JH(1), Gazewood J(1).
+
+Author information:
+(1)University of Virginia, Charlottesville, Virginia.
+
+Erratum in
+    Am Fam Physician. 2024 Feb;109(2):105.
+
+Bell palsy should be suspected in patients with acute onset of unilateral facial 
+weakness or paralysis involving the forehead in the absence of other neurologic 
+abnormalities. The overall prognosis is good. More than two-thirds of patients 
+with typical Bell palsy have a complete spontaneous recovery. For children and 
+pregnant women, the rate of complete recovery is up to 90%. Bell palsy is 
+idiopathic. Laboratory testing and imaging are not required for diagnosis. When 
+other causes of facial weakness are being considered, laboratory testing may 
+identify a treatable cause. An oral corticosteroid regimen (prednisone, 50 to 60 
+mg per day for five days followed by a five-day taper) is the first-line 
+treatment for Bell palsy. Combination therapy with an oral corticosteroid and 
+antiviral may reduce rates of synkinesis (misdirected regrowth of facial nerve 
+fibers manifesting as involuntary co-contraction of certain facial muscles). 
+Recommended antivirals include valacyclovir (1 g three times per day for seven 
+days) or acyclovir (400 mg five times per day for 10 days). Treatment with 
+antivirals alone is ineffective and not recommended. Physical therapy may be 
+beneficial in patients with more severe paralysis.
+
+PMID: 37054419 [Indexed for MEDLINE]
+
+
+2. BMJ Clin Evid. 2014 Apr 9;2014:1204.
+
+Bell's palsy.
+
+Holland NJ(1), Bernstein JM.
+
+Author information:
+(1)Waitemata District Health Board, Auckland, New Zealand.
+
+INTRODUCTION: Bell's palsy is characterised by an acute, unilateral, partial, or 
+complete paralysis of the face. Bell's palsy occurs in a lower motor neurone 
+pattern. The weakness may be partial or complete, and may be associated with 
+mild pain, numbness, increased sensitivity to sound, and altered taste. Bell's 
+palsy is idiopathic, but a proportion of cases may be caused by re-activation of 
+herpes virus at the geniculate ganglion of the facial nerve. Bell's palsy is 
+most common in people aged 15 to 40 years, with a 1 in 60 lifetime risk. Most 
+people make a spontaneous recovery within 1 month, but up to 30% show delayed or 
+incomplete recovery.
+METHODS AND OUTCOMES: We conducted a systematic review to answer the following 
+clinical questions: What are the effects of drug treatments for Bell's palsy in 
+adults and children? What are the effects of physical treatments for Bell's 
+palsy in adults and children? We searched: Medline, Embase, The Cochrane 
+Library, and other important databases up to October 2013 (Clinical Evidence 
+reviews are updated periodically, please check our website for the most 
+up-to-date version of this review). We included harms alerts from relevant 
+organisations such as the US Food and Drug Administration (FDA) and the UK 
+Medicines and Healthcare products Regulatory Agency (MHRA).
+RESULTS: We found 13 studies that met our inclusion criteria. We performed a 
+GRADE evaluation of the quality of evidence for interventions.
+CONCLUSIONS: In this systematic review, we present information relating to the 
+effectiveness and safety of the following interventions: antiviral treatment, 
+corticosteroids (alone or with antiviral treatment), hyperbaric oxygen therapy, 
+and facial re-training.
+
+PMCID: PMC3980711
+PMID: 24717284 [Indexed for MEDLINE]
+
+
+3. Prim Care. 2025 Mar;52(1):111-121. doi: 10.1016/j.pop.2024.09.012. Epub 2025
+Jan  3.
+
+Bell's Palsy.
+
+Dalrymple SN(1), Row JH(1), Gazewood JD(2).
+
+Author information:
+(1)Department of Family Medicine, University of Virginia Health, 
+Charlottesville, VA, USA.
+(2)Department of Family Medicine, University of Virginia Health, 
+Charlottesville, VA, USA. Electronic address: Jdg3k@uvahealth.org.
+
+Bell's palsy is acute weakness of the facial muscles associated with compression 
+of cranial nerve VII. The annual incidence is 20 to 30 per 100,000. Diagnosis is 
+based on a thorough history and physical examination, with careful attention to 
+exclude other causes of facial weakness, such as stroke or Lyme disease. Oral 
+corticosteroids improve recovery rates and antiviral medications reduce 
+synkinesis. Most patients will recover completely. Physical therapy and Botox 
+injections can help patients with persistent symptoms. The roles of surgery and 
+acupuncture remain unclear. Close follow-up is warranted and patients without 
+improvement should be referred to a specialist.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2024.09.012
+PMID: 39939082 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+4. Am Fam Physician. 2007 Oct 1;76(7):997-1002.
+
+Bell's palsy: diagnosis and management.
+
+Tiemstra JD(1), Khatkhate N.
+
+Author information:
+(1)Department of Family Medicine, University of Illinois at Chicago College of 
+Medicine, Chicago, Illinois 60612, USA. jtiemstr@uic.edu
+
+Comment in
+    Am Fam Physician. 2008 Aug 1;78(3):316; author reply 319-20.
+    Am Fam Physician. 2008 Aug 1;78(3):316, 319; author reply 319-20.
+
+Bell's palsy is a peripheral palsy of the facial nerve that results in muscle 
+weakness on one side of the face. Affected patients develop unilateral facial 
+paralysis over one to three days with forehead involvement and no other 
+neurologic abnormalities. Symptoms typically peak in the first week and then 
+gradually resolve over three weeks to three months. Bell's palsy is more common 
+in patients with diabetes, and although it can affect persons of any age, 
+incidence peaks in the 40s. Bell's palsy has been traditionally defined as 
+idiopathic; however, one possible etiology is infection with herpes simplex 
+virus type 1. Laboratory evaluation, when indicated by history or risk factors, 
+may include testing for diabetes mellitus and Lyme disease. A common short-term 
+complication of Bell's palsy is incomplete eyelid closure with resultant dry 
+eye. A less common long-term complication is permanent facial weakness with 
+muscle contractures. Approximately 70 to 80 percent of patients will recover 
+spontaneously; however, treatment with a seven-day course of acyclovir or 
+valacyclovir and a tapering course of prednisone, initiated within three days of 
+the onset of symptoms, is recommended to reduce the time to full recovery and 
+increase the likelihood of complete recuperation.
+
+PMID: 17956069 [Indexed for MEDLINE]
+
+
+5. CNS Neurol Disord Drug Targets. 2024;23(2):203-214. doi: 
+10.2174/1871527322666230321120618.
+
+Bell Palsy: Facts and Current Research Perspectives.
+
+Rajangam J(1), Lakshmanan AP(2), Rao KU(3), Jayashree D(4), Radhakrishnan R(5), 
+Roshitha B(6), Sivanandy P(7), Sravani MJ(4), Pravalika KH(4).
+
+Author information:
+(1)AMITY Institute of Pharmacy, AMITY University, Lucknow, Uttar Pradesh, 
+226028, India.
+(2)Research Branch, Sidra Medicine, P.O. Box 26999, Doha, Qatar.
+(3)Department of Pharmacology, Sri Venkateswara Institute of Medical Sciences, 
+Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh, 517507, India.
+(4)Sree Vidyanikethan College of Pharmacy - Tirupati, Andhra Pradesh-517501, 
+India.
+(5)College of Medicine, Mohammed Bin Rashid University of Medicine and Health 
+Sciences, Dubai Healthcare City, P.O Box 505055, Dubai, UAE.
+(6)Sri Venkateswara Institute of Cancer Care and Advanced Research, Tirupati, 
+Andhra Pradesh, 517507, India.
+(7)School of Pharmacy, International Medical University, No 126, Jalan Jalil 
+Perkasa 19, Bukit Jalil 57000 Kuala Lumpur, Malaysia.
+
+Bell palsy is a non-progressive neurological condition characterized by the 
+acute onset of ipsilateral seventh cranial nerve paralysis. People who suffer 
+from this type of facial paralysis develop a droop on one side of their face, or 
+sometimes both. This condition is distinguished by a sudden onset of facial 
+paralysis accompanied by clinical features such as mild fever, postauricular 
+pain, dysgeusia, hyperacusis, facial changes, and drooling or dry eyes. 
+Epidemiological evidence suggests that 15 to 23 people per 100,000 are affected 
+each year, with a recurrence rate of 12%. It could be caused by ischaemic 
+compression of the seventh cranial nerve, which could be caused by viral 
+inflammation. Pregnant women, people with diabetes, and people with respiratory 
+infections are more likely to have facial paralysis than the general population. 
+Immune, viral, and ischemic pathways are all thought to play a role in the 
+development of Bell paralysis, but the exact cause is unknown. However, there is 
+evidence that Bell's hereditary proclivity to cause paralysis is a public health 
+issue that has a greater impact on patients and their families. Delay or 
+untreated Bell paralysis may contribute to an increased risk of facial 
+impairment, as well as a negative impact on the patient's quality of life. For 
+management, antiviral agents such as acyclovir and valacyclovir, and steroid 
+treatment are recommended. Thus, early diagnosis accompanied by treatment of the 
+uncertain etiology of the disorder is crucial. This paper reviews mechanistic 
+approaches, and emerging medical perspectives on recent developments that 
+encounter Bell palsy disorder.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1871527322666230321120618
+PMID: 36959147 [Indexed for MEDLINE]

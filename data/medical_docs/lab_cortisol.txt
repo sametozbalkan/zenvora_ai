@@ -1,0 +1,138 @@
+=== PubMed: cortisol high low causes treatment ===
+1. Heart Lung. 2026 May 1;79:102826. doi: 10.1016/j.hrtlng.2026.102826. Online 
+ahead of print.
+
+Effect of care bundle in preventing delirium after bypass surgery: a 
+single-blind, non-randomised clinical trial.
+
+Elagöz İ(1), Koyuncu A(2), Şensoy F(3), Gönel A(4), İyem H(5).
+
+Author information:
+(1)Kilis 7 Aralık University, Yusuf Şerefoğlu Faculty of Health Sciences, 
+Department of Nursing, Kilis, Turkey. Electronic address: 
+islam.elagoz@gmail.com.
+(2)Hasan Kalyoncu University, Faculty of Health Sciences, Department of Nursing, 
+Gaziantep, Turkey. Electronic address: aynur.koyuncu@hku.edu.tr.
+(3)Gaziantep Medical Point Hospital, Department of Neurology, Gaziantep, Turkey. 
+Electronic address: figen.sensoy@mph.com.tr.
+(4)SANKO University, Faculty of Medicine, Department of Medical Biochemistry, 
+Gaziantep, Turkey. Electronic address: atamangonel@gmail.com.
+(5)Gaziantep Medical Point Hospital, Department of Cardiovascular Surgery, 
+Gaziantep, Turkey. Electronic address: hikmetiyem@gmail.com.
+
+BACKGROUND: Delirium is a common complication following coronary artery bypass 
+graft (CABG) surgery, associated with longer hospital stays, increased 
+morbidity, and higher healthcare costs.
+OBJECTIVES: To evaluate the effectiveness of a multicomponent care bundle in 
+preventing postoperative delirium among patients undergoing CABG surgery.
+METHODS: This single-blind, non-randomised trial included 94 patients 
+consecutively allocated by time period (47 per group). The primary outcome was 
+delirium incidence at postoperative day 1 assessed by a blinded neurologist 
+using DSM-5 criteria. Delirium subtypes were classified by RASS scores. The 
+control group received standardised care; the study group received standardised 
+care plus continuous family presence, patient-selected music, and earplug use. 
+Cortisol, ACTH, glucose, sleep quality, pain, and anxiety were evaluated. 
+Statistical significance was set at p < 0.05.
+RESULTS: At postoperative day 1, delirium incidence assessed by DSM-5 criteria 
+was 14.9% in the study group vs. 38.3% in controls (p = 0.013; OR = 0.28, 95% 
+CI: 0.10-0.76; ARR = 23.4%). Hyperactive delirium was markedly lower (2.1% vs. 
+14.9%). At postoperative days 1 and 2, cortisol, ACTH, glucose, pain, and 
+anxiety levels were lower, and sleep quality was higher in the study group. 
+Adherence to all bundle components exceeded 90%.
+CONCLUSION: The multicomponent care bundle was associated with significant 
+reduction in postoperative delirium (NNT = 4.3), particularly hyperactive 
+delirium, and improvements in stress biomarkers and psychological well-being. 
+High adherence supports feasibility of this low-cost, nurse-led intervention. 
+Randomised trials are needed to confirm causality.
+
+Copyright © 2026 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.hrtlng.2026.102826
+PMID: 42068690
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest.
+
+
+2. Am J Case Rep. 2026 May 1;27:e952419. doi: 10.12659/AJCR.952419.
+
+Unmasking Adrenal Insufficiency in COVID-19: The Diagnostic Challenge of 
+Concomitant Acute Kidney Injury and High Ileostomy Output.
+
+Yglesias Dimadi II(1), Hussain A(1), Joseph Raja BB(1).
+
+Author information:
+(1)Department of Medicine, Jacobi Medical Center/Albert Einstein College of 
+Medicine, New York City, NY, USA.
+
+BACKGROUND The coronavirus disease 2019 (COVID-19) pandemic has elucidated 
+various extrapulmonary manifestations of severe acute respiratory syndrome 
+coronavirus 2, including endocrine complications that affect the 
+hypothalamic-pituitary-adrenal axis. Efforts to diagnose adrenal insufficiency 
+in critically ill patients are challenging due to overlapping symptoms such as 
+hypotension and fatigue. This challenge is amplified in patients with renal 
+comorbidities, among whom classic electrolyte derangements of adrenal 
+insufficiency (eg, hyperkalemia) may be masked by acute kidney injury (AKI) and 
+renal replacement therapy. CASE REPORT A 46-year-old man with chronic kidney 
+disease and an ileostomy presented with fatigue, abdominal pain, high ileostomy 
+output, and hypotension. Evaluation revealed COVID-19 with concomitant AKI, 
+metabolic acidosis, and hyperkalemia. Initial management via hemodialysis and 
+remdesivir corrected the acidosis and electrolyte abnormalities. However, after 
+renal recovery and discontinuation of dialysis, the patient developed recurrent, 
+refractory hypotension, hyperkalemia, and hypoglycemia, prompting assessment for 
+adrenal dysfunction. Morning cortisol levels were critically low. A subsequent 
+cosyntropin stimulation test showed a blunted cortisol response, confirming 
+adrenal insufficiency. Hydrocortisone and fludrocortisone treatments resulted in 
+hemodynamic stabilization and resolution of the electrolyte abnormalities. 
+CONCLUSIONS This case highlights the "masking" effect of dialysis on the 
+clinical presentation of adrenal insufficiency. Clinicians must maintain a high 
+index of suspicion for adrenal insufficiency in patients with COVID-19 who 
+display recurrent hypotension or hyperkalemia despite renal recovery. 
+Furthermore, the presence of hyperkalemia in a patient with high ileostomy 
+output is paradoxical and should prompt immediate evaluation for 
+mineralocorticoid deficiency.
+
+DOI: 10.12659/AJCR.952419
+PMCID: PMC13142058
+PMID: 42066025 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared
+
+
+3. JCEM Case Rep. 2026 Apr 22;4(5):luag050. doi: 10.1210/jcemcr/luag050. 
+eCollection 2026 May.
+
+Autoimmune adrenalitis and an adrenal tumor: a rare cause of elevated 
+17-hydroxyprogesterone and secondary amenorrhea.
+
+Walfish L(1), Feldman L(2), Ajise O(3), Rivera J(1).
+
+Author information:
+(1)Department of Endocrinology, McGill University, Montreal, Canada H4A 3J1.
+(2)Department of General Surgery, McGill University, Montreal, Canada H4A 3J1.
+(3)Department of Pathology, McGill University, Montreal, Canada H4A 3J1.
+
+Primary adrenal insufficiency (AI) is characterized by insufficient adrenal 
+cortisol production, even with very high adrenocorticotrophic hormone (ACTH) 
+stimulation. Despite massive stimulation of the adrenal cortex in primary AI, 
+there is scarce data describing an association between autoimmune AI and adrenal 
+tumors. This report describes a 17-year-old female presenting with secondary 
+amenorrhea, elevated 17-hydroxyprogesterone (17-OHP) and a lipid-poor adrenal 
+tumor. She was subsequently found to have very low morning cortisol, markedly 
+high ACTH, and positive anti-adrenal antibodies. The diagnosis of autoimmune 
+adrenalitis causing primary AI was made. Fluorodeoxyglucose positron emission 
+tomography (FDG-PET) scan demonstrated intense uptake (standardized uptake value 
+(SUV) of 19.4) in the adrenal lesion. Laparoscopic adrenalectomy revealed a 
+benign adrenal cortical adenoma. Her 17-OHP normalized postoperatively, and her 
+menses resumed with treatment of adrenal insufficiency. This case highlights an 
+interesting coincidence of an adrenal adenoma and primary autoimmune 
+adrenalitis, resulting in elevated 17-OHP and amenorrhea. Low expression of 
+21-hydroxylase in adrenal adenomas has been previously documented and is 
+suspected in this patient, unmasked by chronic ACTH stimulation.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the 
+Endocrine Society.
+
+DOI: 10.1210/jcemcr/luag050
+PMCID: PMC13100504
+PMID: 42027590

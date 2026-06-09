@@ -1,0 +1,17 @@
+=== PubMed: ramipril drug interactions ace inhibitor potassium nsaid ===
+1. Med Monatsschr Pharm. 2016 Oct;39(10):421-6.
+
+[Risk of renal dysfunction in an elderly patient with chronic heart failure].
+
+[Article in German]
+
+Franken PR, Woltersdorf R.
+
+The treatment of elderly multimorbid patients according to clinical guidelines 
+often results in polypharmacy. An individual risk assessment is required to 
+consider the possibility of deprescribing especially potentially inappropriate 
+medication in the elderly. This exemplary case report describes a medication 
+review of a patient with multiple chronic cardiovascular diseases taking into 
+account the impact on renal function.
+
+PMID: 29979537 [Indexed for MEDLINE]

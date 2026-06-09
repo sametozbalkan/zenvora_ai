@@ -1,0 +1,132 @@
+=== PubMed: myocardial infarction ===
+1. Yale J Biol Med. 2023 Mar 31;96(1):83-94. doi: 10.59249/LSWK8578. eCollection 
+2023 Mar.
+
+Arrhythmias After Acute Myocardial Infarction.
+
+Frampton J(1), Ortengren AR(2), Zeitler EP(2).
+
+Author information:
+(1)Section of Cardiovascular Medicine, Yale School of Medicine, New Haven, CT, 
+USA.
+(2)Department of Cardiovascular Medicine, Dartmouth-Hitchcock Medical Center, 
+Lebanon, NH, USA.
+
+The incidence of arrhythmia after myocardial infarction has declined since the 
+introduction of reperfusion techniques. Nevertheless, ischemic arrhythmias are 
+often associated with increased morbidity and mortality particularly in the 
+first 48 hours after hospital admission. This paper presents a comprehensive 
+review of the epidemiology, characteristics, and management of ischemic tachy- 
+and brady-arrhythmias focusing on the period shortly after myocardial infarction 
+(MI) in patients with both ST-segment elevation myocardial infarction (STEMI) 
+and non-ST-segment elevation myocardial infarction (NSTEMI).
+
+Copyright ©2023, Yale Journal of Biology and Medicine.
+
+DOI: 10.59249/LSWK8578
+PMCID: PMC10052595
+PMID: 37009192 [Indexed for MEDLINE]
+
+
+2. Circulation. 2018 Nov 13;138(20):e618-e651. doi: 10.1161/CIR.0000000000000617.
+
+Fourth Universal Definition of Myocardial Infarction (2018).
+
+Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, White HD; 
+Executive Group on behalf of the Joint European Society of Cardiology 
+(ESC)/American College of Cardiology (ACC)/American Heart Association 
+(AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of 
+Myocardial Infarction.
+
+Erratum in
+    Circulation. 2018 Nov 13;138(20):e652. doi: 10.1161/CIR.0000000000000632.
+
+DOI: 10.1161/CIR.0000000000000617
+PMID: 30571511 [Indexed for MEDLINE]
+
+
+3. Prim Care. 2000 Sep;27(3):631-49;vi. doi: 10.1016/s0095-4543(05)70167-6.
+
+The acute myocardial infarction.
+
+Pollard TJ(1).
+
+Author information:
+(1)Family Practice Residency, Central Maine Medical Center, Lewiston, Maine 
+04240, USA.
+
+Cardiovascular death is the number one cause of death in the United States, with 
+a rate that is more than double that for cancer. Over half of these 
+cardiovascular deaths are due to acute myocardial infarction. Management of the 
+patient with acute myocardial infarction during and after hospitalization is 
+discussed with an emphasis on primary and secondary prevention, patient autonomy 
+and decision making. There is also a review of the directions that treatment of 
+acute myocardial infarction will take in the future.
+
+DOI: 10.1016/s0095-4543(05)70167-6
+PMID: 10918673 [Indexed for MEDLINE]
+
+
+4. J Am Coll Cardiol. 2019 Apr 16;73(14):1846-1860. doi: 
+10.1016/j.jacc.2019.02.018.
+
+Type 2 Myocardial Infarction: JACC Review Topic of the Week.
+
+Sandoval Y(1), Jaffe AS(2).
+
+Author information:
+(1)Department of Cardiovascular Diseases, Mayo Clinic, Rochester, Minnesota. 
+Electronic address: https://twitter.com/yadersandoval.
+(2)Department of Cardiovascular Diseases, Mayo Clinic, Rochester, Minnesota; 
+Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, 
+Minnesota. Electronic address: jaffe.allan@mayo.edu.
+
+Acute myocardial infarction (MI) can occur from increased myocardial oxygen 
+demand and/or reduced supply in the absence of acute atherothrombotic plaque 
+disruption; a condition called type 2 myocardial infarction (T2MI). As with any 
+MI subtype, there must be clinical evidence of myocardial ischemia to make the 
+diagnosis. This condition is increasingly diagnosed due to the increasing 
+sensitivity of cardiac troponin assays and is associated with adverse short-term 
+and long-term prognoses. Limited data exist defining optimal management 
+strategies because T2MI is a heterogeneous entity with varying etiologies and 
+triggers. Thus, these patients require individualized care. A major barrier is 
+the absence of a uniform definition that can be operationalized with high 
+reproducibility. This document provides a synthesis of the data about T2MI to 
+assist clinicians' understanding of its pathobiology, when to deploy 
+the diagnosis, and its associated treatments. It also clarifies prognosis, 
+identifies gaps in knowledge, and provides recommendations for moving forward.
+
+Copyright © 2019 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2019.02.018
+PMID: 30975302 [Indexed for MEDLINE]
+
+
+5. J Am Coll Cardiol. 1992 Sep;20(3):736-44. doi: 10.1016/0735-1097(92)90033-j.
+
+Acute myocardial infarction in the diabetic patient: pathophysiology, clinical 
+course and prognosis.
+
+Jacoby RM(1), Nesto RW.
+
+Author information:
+(1)Institute for the Prevention of Cardiovascular Disease, New England Deaconess 
+Hospital, Harvard Medical School, Boston, Massachusetts 02215.
+
+Although there have been significant advances in the care of many of the 
+extrapancreatic manifestations of diabetes, acute myocardial infarction 
+continues to be a major cause of morbidity and mortality in diabetic patients. 
+Factors unique to diabetes increase atherosclerotic plaque formation and 
+thrombosis, thereby contributing to myocardial infarction. Autonomic neuropathy 
+may predispose to infarction and result in atypical presenting symptoms in the 
+diabetic patient, making diagnosis difficult and delaying treatment. The 
+clinical course of myocardial infarction is frequently complicated and carries a 
+higher mortality rate in the diabetic than in the nondiabetic patient. Although 
+the course and pathophysiology of myocardial infarction differ to some degree in 
+diabetic patients from those in patients without diabetes, much more remains to 
+be known to formulate more effective treatment strategies in this high risk 
+subgroup.
+
+DOI: 10.1016/0735-1097(92)90033-j
+PMID: 1512357 [Indexed for MEDLINE]

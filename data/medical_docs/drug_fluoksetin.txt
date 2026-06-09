@@ -1,0 +1,40 @@
+İLAÇ: Fluoksetin (Prozac, Depreks)
+SINIF: Selektif serotonin geri alım inhibitörü (SSRİ)
+
+ENDİKASYONLAR:
+- Major depresif bozukluk
+- Obsesif-kompulsif bozukluk (OKB)
+- Panik bozukluk
+- Bulimia nervoza
+- Premenstrüel disforik bozukluk
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- MAO inhibitörleri: ÖLÜMCÜL serotonin sendromu riski — kesinlikle birlikte kullanılmaz; MAOİ'den sonra 14 gün, fluoksetinden sonra 5 HAFTA beklenmeli
+- Tramadol, meperidin: Serotonin sendromu riski
+- Triptanlar (sumatriptan): Serotonin sendromu riski
+- Lityum: Serotonin toksisitesi riski artabilir; izlem gerekir
+- Warfarin: INR artışı; kanama riski
+- Fenitoin, karbamazepin: Antikonvülsan toksisitesi riski
+- Metoprolol, bisoprolol: Bradikardi riski (CYP2D6 inhibisyonu)
+- Antipsikotikler (haloperidol, ketiapin): QT uzaması riski
+- NSAİD'ler, aspirin: GİS kanama riski artar
+- Tamoksifen: Etkinliği azalır (CYP2D6 inhibisyonu)
+
+UYARILAR:
+- Serotonin sendromu belirtileri: Ajitasyon, tremor, terleme, hiperrefleksi, ateş
+- İlk 1-4 haftada intihar düşünceleri artabilir (özellikle <25 yaş)
+- Ani kesilmemeli — doz azaltarak kesilmeli
+- Uzun yarı ömrü var (1-6 gün) — etkileşimler uzun süre devam eder
+- Hiponatremi riski (yaşlılarda)
+- QT uzaması (yüksek dozda)
+
+KONTRENDİKASYONLAR:
+- MAO inhibitörü kullanımı (14 gün içinde)
+- QT uzaması olan hastalar
+
+YAN ETKİLER:
+- Bulantı, ishal (başlangıçta)
+- Uykusuzluk, anksiyete
+- Cinsel işlev bozukluğu
+- Kilo değişimi
+- Baş ağrısı

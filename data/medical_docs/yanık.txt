@@ -1,0 +1,125 @@
+=== PubMed: yanık ===
+1. Skeletal Radiol. 2022 Dec;51(12):2317-2320. doi: 10.1007/s00256-022-04065-x. 
+Epub 2022 May 3.
+
+Left wrist pain in a teenager.
+
+Erdem F(1), Yanık B(2), Bülbül E(2), Sargın S(3).
+
+Author information:
+(1)Department of Radiology, Balikesir University Hospital, 10145, 
+Altieylul/Balikesir, Turkey. mdfatiherdem@gmail.com.
+(2)Department of Radiology, Balikesir University Hospital, 10145, 
+Altieylul/Balikesir, Turkey.
+(3)Department of Orthopedics and Traumatology, Balikesir University Hospital, 
+10145, Altieylul/Balikesir, Turkey.
+
+DOI: 10.1007/s00256-022-04065-x
+PMID: 35503106 [Indexed for MEDLINE]
+
+
+2. Skeletal Radiol. 2022 Dec;51(12):2347-2349. doi: 10.1007/s00256-022-04066-w. 
+Epub 2022 May 5.
+
+Left wrist pain in a teenager.
+
+Erdem F(1), Yanık B(2), Bülbül E(2), Sargın S(3).
+
+Author information:
+(1)Department of Radiology, Balikesir University Hospital, Altieylul, Balikesir, 
+10145, Turkey. mdfatiherdem@gmail.com.
+(2)Department of Radiology, Balikesir University Hospital, Altieylul, Balikesir, 
+10145, Turkey.
+(3)Department of Orthopedics and Traumatology, Balikesir University Hospital, 
+Altieylul, Balikesir, 10145, Turkey.
+
+DOI: 10.1007/s00256-022-04066-w
+PMID: 35511245 [Indexed for MEDLINE]
+
+
+3. Turk J Phys Med Rehabil. 2024 May 16;70(2):157-163. doi: 
+10.5606/tftrd.2024.15287. eCollection 2024 Jun.
+
+Current neuroprotective agents in stroke.
+
+Yanık T(1), Yanık B(2).
+
+Author information:
+(1)Department of Neurology, Güven Hospital, Ankara, Türkiye.
+(2)Department of Physical Medicine and Rehabilitation, Bilkent City Hospital, 
+Ankara, Türkiye.
+
+What is expected from neuroprotection is to inhibit neuronal death and halt or 
+decelerate the neuronal loss to lower the mortality rates, decrease disability, 
+and improve the quality of life following an acute ischemic stroke. Several 
+agents were described as neuroprotective up to date; however, there is still 
+debate which to use in the neurorehabilitation of stroke patients, in terms of 
+both efficacy and also safety. In this review, we discuss the agents, 
+citicoline, cerebrolysin and MLC901 (NeuroAiD II), the three agents which have 
+started to be used frequently in neurorehabilitation clinics recently in the 
+light of the current literature.
+
+Copyright © 2024, Turkish Society of Physical Medicine and Rehabilitation.
+
+DOI: 10.5606/tftrd.2024.15287
+PMCID: PMC11209336
+PMID: 38948647
+
+Conflict of interest statement: Conflict of Interest: The authors declared no 
+conflicts of interest with respect to the authorship and/or publication of this 
+article.
+
+
+4. Facial Plast Surg. 2017 Dec;33(6):571-580. doi: 10.1055/s-0037-1608767. Epub 
+2017 Dec 1.
+
+Secondary Repair of the Zygoma.
+
+Orzell S(1), Yanik S(1), Tatum SA(1).
+
+Author information:
+(1)Department of Otolaryngology and Communication Sciences, SUNY Upstate Medical 
+University, Syracuse, New York.
+
+DOI: 10.1055/s-0037-1608767
+PMID: 29195237 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+5. Mini Rev Med Chem. 2024;24(9):886-894. doi: 10.2174/1389557523666230825100154.
+
+Neuroendocrinological and Clinical Aspects of Leptin.
+
+Yanik T(1), Durhan ST(1).
+
+Author information:
+(1)Department of Biological Sciences, Middle East Technical University, Ankara, 
+06800, Turkey.
+
+Obesity is characterized by an abnormal increase in adipose tissue mass and is 
+regarded as a neurobehavioral as well as a metabolic disorder. Increases in body 
+fat are caused by even slight, long-term discrepancies between energy intake and 
+energy expenditure. It is a chronic condition linked to the metabolic syndrome, 
+a spectrum of risky conditions, such as diabetes, high blood pressure, and heart 
+disease. With a swiftly rising prevalence, obesity has emerged as a significant 
+global health concern. Leptin influences the brain's neuroendocrine and 
+metabolic processes, which is important for maintaining energy homeostasis. 
+White adipose tissue secretes the majority of leptin, and there is a positive 
+correlation between leptin levels in the blood and body fat percentages. The 
+central nervous system is also modulated by leptin levels to modify energy 
+intake and usage. The idea of an obesity cure sparked excitement after it was 
+discovered more than 25 years ago. However, the leptin medication only 
+effectively reduces weight in patients with congenital leptin insufficiency and 
+not in patients with typical obesity who may also have leptin resistance. Recent 
+research has focused on the role of leptin in managing weight reduction and 
+preventing "yo-yo dieting". This review concentrates on the neurological effects 
+of leptin with a focus on therapeutic and diagnostic applications, particularly 
+for childhood obesity.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1389557523666230825100154
+PMID: 37622709 [Indexed for MEDLINE]

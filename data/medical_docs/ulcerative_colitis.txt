@@ -1,0 +1,51 @@
+=== PubMed: ulcerative colitis ===
+1. Br Med J. 1950 May 13;1(4662):1135-7.
+
+ULCERATIVE colitis.
+
+[No authors listed]
+
+PMID: 15420418 [Indexed for MEDLINE]
+
+
+2. Pol Arch Med Wewn. 1963;33:1239-46.
+
+[EPIDEMIOLOGY OF ULCERATIVE COLITIS].
+
+[Article in Polish]
+
+CHOJECKI Z.
+
+PMID: 14108135 [Indexed for MEDLINE]
+
+
+3. Br Med J. 1957 Dec 21;2(5059):1479-80.
+
+ULCERATIVE colitis.
+
+[No authors listed]
+
+PMCID: PMC1962939
+PMID: 13489266 [Indexed for MEDLINE]
+
+
+4. N Engl J Med. 1954 Oct 7;251(15):610-5; contd. doi:
+10.1056/NEJM195410072511505.
+
+Ulcerative colitis.
+
+ZETZEL L.
+
+DOI: 10.1056/NEJM195410072511505
+PMID: 13214294 [Indexed for MEDLINE]
+
+
+5. N Engl J Med. 1954 Oct 14;251(16):653-8; concl. doi: 
+10.1056/NEJM195410142511606.
+
+Ulcerative colitis.
+
+ZETZEL L.
+
+DOI: 10.1056/NEJM195410142511606
+PMID: 13214303 [Indexed for MEDLINE]

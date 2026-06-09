@@ -1,0 +1,201 @@
+=== PubMed: vitamin D deficiency high low causes treatment ===
+1. PLoS One. 2026 May 6;21(5):e0347908. doi: 10.1371/journal.pone.0347908. 
+eCollection 2026.
+
+Calcitriol attenuates diethylnitrosamine-induced hepatic fibrosis in rats by 
+reducing oxidative stress and fibrogenic mediators.
+
+Arramrak K(1), Witayavanitkul N(1), Chayanupatkul M(1), Wanpiyarat N(2), 
+Siriviriyakul P(1), Werawatganon D(1).
+
+Author information:
+(1)Center of Excellence in Alternative and Complementary Medicine for 
+Gastrointestinal and Liver Diseases, Department of Physiology, Faculty of 
+Medicine, Chulalongkorn University, Bangkok, Thailand.
+(2)Department of Pathology, Faculty of Medicine, Chulalongkorn University, 
+Bangkok, Thailand.
+
+Vitamin D deficiency is associated with poor outcomes and increased mortality in 
+cirrhosis. Calcitriol, the active form of vitamin D3, has antioxidant and 
+hepatoprotective properties; however, its effects on diethylnitrosamine 
+(DEN)-induced liver fibrosis remain unclear. This study investigated the effects 
+of calcitriol on oxidative stress, inflammation, and fibrogenesis in DEN-induced 
+liver fibrosis rat model. Male Sprague-Dawley rats (n = 6/group) were assigned 
+to four groups: control (CON), DEN, DEN + low-dose calcitriol (DEN + LVD3: 5 
+µg/kg BW), and DEN + high-dose calcitriol (DEN + HVD3: 10 µg/kg BW). Liver 
+fibrosis was induced by weekly DEN injections (70 mg/kg, i.p.) for 8 weeks. 
+Calcitriol was administered twice weekly (i.p.) throughout the experiment. 
+Oxidative stress (hepatic malondialdehyde; MDA), liver injury (serum ALT, AST), 
+hepatic inflammation (NF-κB p65), antioxidant gene expression (SOD-1, GPX-1), 
+and fibrosis markers (TGF-β1, MMP-12, TIMP-1, α-SMA, collagen) were evaluated by 
+biochemical assays, immunohistochemistry, qRT-PCR, western blotting and H&E and 
+Sirius Red staining. Calcitriol significantly attenuated DEN-induced oxidative 
+stress by decreasing hepatic MDA levels in a dose-dependent manner, and lowered 
+serum ALT and AST levels. It partially enhanced hepatic antioxidant defenses by 
+increasing SOD-1 expression toward control levels and upregulating GPX-1 
+expression. Calcitriol also markedly suppressed NF-κB p65 activation and 
+fibrotic markers (TGF-β1, MMP-12, α-SMA, collagen), which corresponded with 
+improved histopathological fibrosis scores. TIMP1 expression remained unchanged 
+across all groups. Therefore, calcitriol attenuates DEN-induced liver fibrosis 
+by reducing oxidative stress, suppressing inflammatory and fibrogenic signaling, 
+and enhancing antioxidant defenses.
+
+Copyright: © 2026 Arramrak et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0347908
+PMID: 42090432 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+2. Cureus. 2026 Mar 17;18(3):e105376. doi: 10.7759/cureus.105376. eCollection
+2026  Mar.
+
+Relationship Between Vitamin D Status, Pain Severity, and Functional Disability 
+in Chronic Low Back Pain.
+
+Ali SI(1), Ghosh S(2), Purkayastha T(1), Keswani S(1).
+
+Author information:
+(1)Orthopedics, ICARE Institute of Medical Sciences and Research and Dr. Bidhan 
+Chandra Roy Hospital, Haldia, Haldia, IND.
+(2)Orthopedics and Trauma, ICARE Institute of Medical Sciences and Research and 
+Dr. Bidhan Chandra Roy Hospital, Haldia, Haldia, IND.
+
+Background Chronic low back pain is a leading cause of disability worldwide and 
+is frequently categorized as a chronic non-specific musculoskeletal condition. 
+Vitamin D deficiency is highly prevalent in the Indian population and has been 
+postulated to contribute to musculoskeletal pain and functional impairment, 
+although existing evidence remains inconsistent and inconclusive. Objectives The 
+primary objective of this study was to evaluate the relationship between serum 
+vitamin D levels and chronic low back pain. Secondary objectives included 
+assessment of the association between serum vitamin D levels, pain severity, and 
+functional disability among affected patients. Methods This was a hospital-based 
+observational cross-sectional study conducted at a single tertiary care center. 
+Adult patients presenting with chronic low back pain of more than 12 weeks' 
+duration were enrolled after meeting predefined inclusion and exclusion 
+criteria. Serum 25-hydroxyvitamin D levels were measured and categorized 
+according to standard reference ranges. Pain severity was assessed using the 
+Numeric Pain Rating Scale, and functional disability was evaluated using the 
+modified Oswestry Disability Questionnaire. Statistical analysis was performed 
+to determine associations between vitamin D status, pain intensity, and 
+functional disability, with significance set at an appropriate confidence level. 
+Results A high prevalence of vitamin D deficiency and insufficiency was observed 
+among patients with chronic low back pain. Lower serum vitamin D levels were 
+significantly associated with increased pain severity and higher disability 
+scores. Patients with deficient vitamin D levels demonstrated greater functional 
+impairment compared to those with sufficient levels. No statistically 
+significant correlations were identified between serum vitamin D concentration, 
+pain intensity, and functional disability scores. Conclusions Vitamin D 
+deficiency is common among patients with chronic low back pain and is 
+significantly associated with greater pain severity and functional disability. 
+These findings suggest that assessment of vitamin D status may be clinically 
+relevant in the evaluation of patients presenting with chronic low back pain, 
+particularly in regions with a high prevalence of hypovitaminosis D.
+
+Copyright © 2026, Ali et al.
+
+DOI: 10.7759/cureus.105376
+PMCID: PMC13085955
+PMID: 42005150
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Institutional Ethics Committee ICARE Institute of Medical Sciences and 
+Research and Dr. B.C. Roy Hospital, Haldia issued approval 
+IIMSAR-Haldia/IEC/JUNE 2023/15. Animal subjects: All authors have confirmed that 
+this study did not involve animal subjects or tissue. Conflicts of interest: In 
+compliance with the ICMJE uniform disclosure form, all authors declare the 
+following: Payment/services info: All authors have declared that no financial 
+support was received from any organization for the submitted work. Financial 
+relationships: All authors have declared that they have no financial 
+relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+3. Front Immunol. 2026 Mar 30;17:1775270. doi: 10.3389/fimmu.2026.1775270. 
+eCollection 2026.
+
+Vitamin D status, supplementation, and multiple sclerosis: a systematic review 
+and meta-analysis.
+
+Li Y(#)(1), Xu Y(#)(1), Pei X(1), Liu Z(2), Gao D(1), Ma L(1), Wang Y(1), Fang 
+Y(1), Cai Y(3).
+
+Author information:
+(1)Department of Neurology Ward, Chaoyang Central Hospital, Chaoyang, 
+Liaoning, China.
+(2)Clinical Medicine Major, Xinhua Clinical College, Dalian University, Dalian, 
+Liaoning, China.
+(3)Department of Cardiology, Chaoyang Central Hospital, Chaoyang, 
+Liaoning, China.
+(#)Contributed equally
+
+BACKGROUND: Multiple sclerosis (MS) is a chronic immune-mediated 
+neurodegenerative disorder of the central nervous system and a leading cause of 
+disability among young adults. The disease exhibits considerable heterogeneity 
+in clinical progression, with some patients experiencing more aggressive disease 
+activity and a rapid decline in quality of life. Vitamin D plays a key role in 
+immune regulation, and evidence suggests that its deficiency constitutes a 
+significant environmental risk factor for immune-mediated conditions such as MS. 
+While there are controversies regarding the role of serum 25(OH)D in MS as well 
+as vitamin D3 supplements in controlling relapse and disability improvement 
+during treatment. Therefore, our current meta-analysis aims to examine the 
+relationship between serum 25(OH)D levels-and their modulation through 
+supplementation-and multiple sclerosis.
+METHODS: Comprehensive literature review was performed from conception to 
+November 17, 2025, employing various online databases including PubMed, Cochrane 
+Library, Web of Science, and EMBASE. The relevant studies about MS and serum 
+25-hydroxyvitamin D (25(OH)D) level or vitamin D3 supplementation. This 
+meta-analysis incorporated 40 research examining the correlation between serum 
+25(OH)D levels and multiple sclerosis, as well as 22 studies investigating the 
+effects of vitamin D3 supplementation on multiple sclerosis.
+RESULTS: 1) The 25(OH)D levels in patients with MS were significantly lower than 
+those in healthy controls. In the analysis of disease subtypes, patients with 
+relapsing-remitting MS (RRMS) had significantly higher 25(OH)D levels than those 
+with secondary progressive MS (SPMS), but no significant difference was observed 
+compared to patients with primary progressive MS (PPMS). Additionally, RRMS 
+patients had significantly lower 25(OH)D levels during relapse than during 
+remission. No significant seasonal fluctuation in 25(OH)D levels was observed in 
+MS patients; 2) Multivariable-adjusted analysis comparing the highest versus 
+lowest serum 25(OH)D categories revealed that higher serum 25(OH)D levels were 
+associated with a lower risk of MS onset and lower disability scores (EDSS), but 
+no significant association was found with disease activity. 3) In the 
+intervention analysis, overall, vitamin D3 supplementation did not significantly 
+reduce the annualized relapse rate (ARR) or improve EDSS scores. However, 
+subgroup analysis indicated that high-dose vitamin D3 supplementation 
+significantly reduced the ARR, whereas low-dose supplementation showed no such 
+effect. Multivariable-adjusted analysis further confirmed that vitamin D3 
+supplementation was significantly associated with a reduced risk of MS relapse, 
+and this benefit was similarly observed only in the high-dose supplementation 
+group.
+CONCLUSIONS: This systematic analysis confirms that patients with MS exhibit 
+significantly lower serum 25(OH)D levels compared to healthy controls, with 
+notable reductions observed during clinical relapses. A clear gradient exists 
+across disease subtypes, with RRMS patients showing higher levels than those 
+with SPMS. An inverse correlation was demonstrated between serum 25(OH)D levels 
+and both the risk and severity of MS. Critically, while high-dose vitamin D3 
+supplementation is associated with a reduced ARR and overall relapse risk, 
+neither supplementation compared to placebo nor dosage comparison significantly 
+affected relapse rates during the study period or final disability scores. These 
+findings suggest a complex, dose-dependent role of vitamin D in modifying 
+relapse risk without a clear impact on short-term disability progression in 
+established MS.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/login, 
+identifier CRD420251273119.
+
+Copyright © 2026 Li, Xu, Pei, Liu, Gao, Ma, Wang, Fang and Cai.
+
+DOI: 10.3389/fimmu.2026.1775270
+PMCID: PMC13070826
+PMID: 41983136 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

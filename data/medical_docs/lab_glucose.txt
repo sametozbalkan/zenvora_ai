@@ -1,0 +1,237 @@
+=== PubMed: glucose blood test high low diabetes causes treatment ===
+1. Diabetes Obes Metab. 2026 Jun;28(6):5217-5228. doi: 10.1111/dom.70728. Epub
+2026  Apr 7.
+
+Interrelationship Between Baseline HbA1c, SGLT-2 Inhibitor Use and Risk of 
+Diabetic Ketoacidosis in Adults With Type 2 Diabetes: A Systematic Review and 
+Meta-Analysis.
+
+Seidu S(1)(2), Kunutsor SK(1)(3), Taguiam E(3), Khunti K(1)(2).
+
+Author information:
+(1)Leicester Real World Evidence Unit, Diabetes Research Centre, University of 
+Leicester, Leicester General Hospital, Leicester, UK.
+(2)Hockley Farm Medical Practice, Leicester, UK.
+(3)Section of Cardiology, Department of Internal Medicine, Max Rady College of 
+Medicine, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, 
+Manitoba, Canada.
+
+AIMS: There is ongoing uncertainty about whether initiating sodium-glucose 
+co-transporter 2 inhibitor (SGLT-2i) therapy in individuals with type 2 diabetes 
+(T2D) who have elevated baseline HbA1c levels may lead to an additive or 
+potentially synergistic increase in the risk of diabetic ketoacidosis (DKA). 
+This systematic review and meta-analysis aimed to investigate the 
+interrelationship between baseline HbA1c, SGLT-2i use and the risk of DKA in 
+adults with T2D.
+MATERIALS AND METHODS: Observational cohort studies and randomized controlled 
+trials (RCTs) comparing SGLT-2is with placebo or active comparators in adults 
+with T2D that reported baseline HbA1c and DKA events were identified through 
+searches in MEDLINE, Embase, CENTRAL, ClinicalTrials.gov and bibliographies up 
+to January 2026. Key characteristics of the study design, patients, 
+interventions and outcomes were extracted. Risk of bias was evaluated. Risk 
+ratios (RRs) were pooled and stratified by HbA1c (high vs. < low). Effect 
+modification was assessed using random-effects meta-regression.
+RESULTS: Twenty-two studies (15 cohorts, 7 RCTs) were included. SGLT-2is were 
+associated with increased DKA risk overall. In observational studies, risk was 
+higher in those with elevated HbA1c (RR 1.63, 95% CI 1.46-1.81) but not in those 
+with lower HbA1c (RR 1.10, 0.80-1.51), with significant effect modification 
+(p = 0.018). In RCTs, pooled RRs were 2.37 (1.44-3.90) and 2.01 (0.84-4.79) in 
+high and low HbA1c groups, respectively, without significant interaction 
+(p = 0.73). Elevated HbA1c was independently associated with DKA among SGLT-2i 
+users (RR 1.50, 1.17-1.92). Evidence certainty ranged from high to low.
+CONCLUSIONS: SGLT-2i use is associated with an increased risk of DKA in adults 
+with T2D, with a higher risk observed in those with elevated baseline HbA1c, 
+particularly in real-world settings. However, the narrow range of HbA1c values 
+across studies limits definitive conclusions, and further research is warranted.
+TRIAL REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251149386: 
+CRD420251149386.
+
+© 2026 The Author(s). Diabetes, Obesity and Metabolism published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/dom.70728
+PMCID: PMC13146127
+PMID: 41943706 [Indexed for MEDLINE]
+
+Conflict of interest statement: Samuel Seidu is in receipt of speaker honoraria 
+from AstraZeneca, Boehringer Ingelheim, Janssen, Lilly, MSD, Abbott, Novo 
+Nordisk, SB Communications, OmniaMed Communications, Roche, Napp 
+Pharmaceuticals, NB Medical and Amgen; advisory board honoraria from 
+AstraZeneca, Lilly, Boehringer Ingelheim, Janssen, Abbott, MSD, Novo Nordisk, 
+Takeda and Sanofi; educational grants from Boehringer Ingelheim, Lilly, Novo 
+Nordisk and Takeda; and conference registration and subsistence from Boehringer 
+Ingelheim, Janssen, Lilly, Novo Nordisk, Abbott and Takeda. K.K. has acted as a 
+consultant, speaker, or received grants for investigator‐initiated studies for 
+Abbott, Astra Zeneca, Bayer, Hikma, Novo Nordisk, Sanofi‐Aventis, Servier, Lilly 
+and Merck Sharp & Dohme; Boehringer Ingelheim, Oramed Pharmaceuticals, Pfizer, 
+Roche, Daiichi‐Sankyo, Applied Therapeutics, Embecta, Nestle Health Science and 
+Adelphi. S.K.K. and E.T. have no conflicts. Professor Samuel Seidu is the 
+guarantor of this work and, as such, had full access to all the data in the 
+study and takes responsibility for the integrity of the data and the accuracy of 
+the data analysis.
+
+
+2. Diabetes Res Clin Pract. 2026 May;235:113228. doi: 
+10.1016/j.diabres.2026.113228. Epub 2026 Mar 28.
+
+Early prediction of insulin requirement in gestational diabetes using a 
+parsimonious LASSO model and a point-based risk score.
+
+Greco D(1), Scibetta S(2), Giambanco L(3), Iannone V(4), Calvo L(5), Corrao 
+S(6).
+
+Author information:
+(1)Diabetes and Pregnancy Clinic - Distretto Sanitario di Trapani - ASP Trapani, 
+Italy.
+(2)Department of Clinical Medicine, Internal Medicine Unit with Rheumatology, 
+Dermatology, Diabetology and Tertiary Diabetic Foot Health-Care, National 
+Relevance and High Specialization Hospital Trust ARNAS Civico, Di Cristina, 
+Benfratelli, Palermo 90127, Italy; Institute for Biomedical Research and 
+Innovation (IRIB), National Research Council (CNR), Via Ugo La Malfa,153, 
+Palermo 90146, Italy.
+(3)U.O.C. Ginecologia e Ostetricia - P.O. "G.F. Ingrassia" di Palermo, Italy.
+(4)U.O.C. Ginecologia e Ostetricia - P.O. "S. Antonio Abate" di Trapani - ASP 
+Trapani, Italy.
+(5)Department of Clinical Medicine, Internal Medicine Unit with Rheumatology, 
+Dermatology, Diabetology and Tertiary Diabetic Foot Health-Care, National 
+Relevance and High Specialization Hospital Trust ARNAS Civico, Di Cristina, 
+Benfratelli, Palermo 90127, Italy.
+(6)Department of Clinical Medicine, Internal Medicine Unit with Rheumatology, 
+Dermatology, Diabetology and Tertiary Diabetic Foot Health-Care, National 
+Relevance and High Specialization Hospital Trust ARNAS Civico, Di Cristina, 
+Benfratelli, Palermo 90127, Italy; Department of Health Promotion Sciences, 
+Maternal and Infant Care, Internal Medicine and Medical Specialties [PROMISE], 
+University of Palermo, Palermo 90133, Italy. Electronic address: 
+salvatore.corrao@unipa.it.
+
+AIMS: This study developed and validated a practical prediction model to 
+forecast insulin requirements in pregnant women with gestational diabetes 
+mellitus (GDM).
+METHODS: A retrospective single-center cohort of 490 consecutive women with GDM 
+was analyzed. The primary outcome was insulin therapy initiation based on 
+routine clinical decisions. Candidate predictors were collected at the first 
+visit. LASSO logistic regression with 10-fold cross-validation was used for 
+model development, excluding underweight women (BMI < 18.5 kg/m2) and incomplete 
+cases. Coefficients were converted into a point score (scaling factor 0.25). 
+Discrimination was assessed using the area under the receiver operating 
+characteristic curve (AUC), and likelihood ratios defined clinically actionable 
+categories.
+RESULTS: Insulin therapy was initiated in 11.0% of women. The derivation sample 
+included 403 women (43 receiving insulin). Five predictors were selected: BMI 
+category, ethnic risk background, chronic hypertension, medically assisted 
+reproduction, and number of abnormal oral glucose tolerance test values. The 
+model showed good discrimination (AUC 0.7755, 95% CI 0.695-0.853), excellent 
+calibration (slope 1.02), and low Brier score (0.082). Scores ≥ 14 identified 
+high-risk patients (LR + 11.7).
+CONCLUSIONS: This LASSO-derived score using readily available variables 
+accurately predicts insulin need in GDM, potentially facilitating 
+risk-stratified management in community settings.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.diabres.2026.113228
+PMID: 41912039 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Diabetes Obes Metab. 2026 Jun;28(6):4847-4859. doi: 10.1111/dom.70669. Epub
+2026  Mar 26.
+
+Efficacy and Safety of Fixed-Dose Combinations of Sitagliptin and Empagliflozin 
+as Add-On to Metformin in Korean Patients With Type 2 Diabetes: A Randomised, 
+Double-Blind, Multi-Centre, Placebo-Controlled, Phase III Trial.
+
+Lim S(1), Kim TN(2), Mok JO(3), Chung CH(4), Hwang YC(5), Cho HC(6), Won JC(7), 
+Jeon E(8), Kang ES(9), Lee KY(10), Kim CH(11), Kwak SH(12), Park CY(13), Park 
+KS(14), Kim SY(15), Lee JH(16), Lee SH(17), Cho DH(18), Kwon HS(19), Han KA(20).
+
+Author information:
+(1)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul National University Bundang Hospital, Seongnam, Republic of 
+Korea.
+(2)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+College of Medicine, Inje University, Busan, Republic of Korea.
+(3)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Soonchunhyang University Bucheon Hospital, Soonchunhyang University College of 
+Medicine, Bucheon, Republic of Korea.
+(4)Department of Internal Medicine and Global Medical Science, Research 
+Institute of Metabolism and Inflammation, Yonsei University Wonju College of 
+Medicine, Wonju, Republic of Korea.
+(5)Division of Endocrinology and Metabolism, Department of Medicine, Kyung Hee 
+University Hospital at Gangdong, Kyung Hee University School of Medicine, Seoul, 
+Republic of Korea.
+(6)Department of Endocrinology, Keimyung University Dongsan Hospital, Keimyung 
+University School of Medicine, Daegu, Republic of Korea.
+(7)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Sanggye Paik Hospital, Inje University School of Medicine, Seoul, Republic of 
+Korea.
+(8)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Daegu Catholic University School of Medicine, Daegu, Republic of Korea.
+(9)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Yonsei University College of Medicine, Seoul, Republic of Korea.
+(10)Department of Internal Medicine, Gachon University Gil Medical Center, 
+Incheon, Republic of Korea.
+(11)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Sejong General Hospital, Bucheon, Republic of Korea.
+(12)Department of Internal Medicine, Seoul National University College of 
+Medicine & Seoul National University Hospital, Seoul, Republic of Korea.
+(13)Department of Internal Medicine, Kangbuk Samsung Hospital, Sungkyunkwan 
+University School of Medicine, Seoul, Republic of Korea.
+(14)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Daejeon Eulji Medical Center, Eulji University, Daejeon, Republic of Korea.
+(15)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Chosun University College of Medicine, Gwangju, Republic of Korea.
+(16)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Myongji Hospital, Hanyang University College of Medicine, Goyang, Republic of 
+Korea.
+(17)Department of Internal Medicine, Inje University Busan Paik Hospital, Inje 
+University College of Medicine, Busan, Republic of Korea.
+(18)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Chonnam National University Hospital, Chonnam National University Medical 
+School, Gwangju, Republic of Korea.
+(19)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Yeouido St. Mary's Hospital, College of Medicine, the Catholic University of 
+Korea, Seoul, Republic of Korea.
+(20)Division of Endocrinology and Metabolism, Department of Internal Medicine, 
+Nowon Eulji Medical Center, Seoul, Republic of Korea.
+
+BACKGROUND: Type 2 diabetes mellitus (T2DM) is a progressive, multi-organ 
+disorder that often requires intensive combination therapy. This Phase III, 
+randomised, double-blind, placebo-controlled study evaluated the efficacy and 
+safety of two fixed-dose combinations (FDCs) of sitagliptin 100 mg with 
+empagliflozin 10 mg (DW1026C1) or empagliflozin 25 mg (DW1026C2) as add-on 
+therapy for patients with inadequately controlled T2DM.
+METHODS: Two hundred thirty adults with T2DM inadequately controlled by 
+metformin (≥ 1000 mg/day) and sitagliptin (100 mg) were 1:1:1 randomised to 
+receive DW1026C1 (E10 group, n = 77), DW1026C2 (E25 group, n = 76), or a placebo 
+(n = 77). Treatment was administered for 24 weeks, followed by a 28-week 
+extension period. The primary endpoint was the change in HbA1c from baseline to 
+Week 24.
+RESULTS: Baseline characteristics were similar among groups. At Week 24, both 
+active treatments demonstrated statistically significant HbA1c reductions versus 
+the placebo. The least square mean differences [95% CI] versus the placebo were 
+-0.54% [-0.78, -0.29] for E10 group and -0.61% [-0.85, -0.36] for E25 group 
+(both p < 0.0001). Fasting plasma glucose (FPG), insulin resistance, body 
+weight, systolic blood pressure, albumin-creatinine ratio and high-density 
+lipoprotein cholesterol also improved in the active groups. Reductions in HbA1c, 
+FPG and insulin resistance were sustained in Week 52. Safety profiles were 
+favourable with adverse events similar in frequency and no increased 
+hypoglycaemia risk.
+CONCLUSION: Sitagliptin/empagliflozin FDC doses achieved improvements in 
+glycaemic control at 24 weeks, which was maintained through 52 weeks. These 
+benefits were accompanied by a favourable safety profile, including a very low 
+risk of hypoglycaemia.
+TRIAL REGISTRATION: NCT07076056.
+
+© 2026 The Author(s). Diabetes, Obesity and Metabolism published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/dom.70669
+PMCID: PMC13146161
+PMID: 41883295 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

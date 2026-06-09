@@ -1,0 +1,222 @@
+=== PubMed: COVID-19 ===
+1. AAPS J. 2021 Jan 5;23(1):14. doi: 10.1208/s12248-020-00532-2.
+
+Recent Developments on Therapeutic and Diagnostic Approaches for COVID-19.
+
+Majumder J(1)(2)(3), Minko T(4)(5)(6).
+
+Author information:
+(1)Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the 
+State University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 
+08854, USA.
+(2)Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, 
+USA.
+(3)Environmental and Occupational Health Science Institute, Piscataway, New 
+Jersey, 08854, USA.
+(4)Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the 
+State University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 
+08854, USA. minko@pharmacy.rutgers.edu.
+(5)Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, 
+USA. minko@pharmacy.rutgers.edu.
+(6)Environmental and Occupational Health Science Institute, Piscataway, New 
+Jersey, 08854, USA. minko@pharmacy.rutgers.edu.
+
+The ongoing pandemic of coronavirus disease 2019 (COVID-19) caused by the severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made a serious public 
+health threat worldwide with millions of people at risk in a growing number of 
+countries. Though there are no clinically approved antiviral drugs and vaccines 
+for COVID-19, attempts are ongoing for clinical trials of several known 
+antiviral drugs, their combination, as well as development of vaccines in 
+patients with confirmed COVID-19. This review focuses on the latest approaches 
+to diagnostics and therapy of COVID-19. We have summarized recent progress on 
+the conventional therapeutics such as antiviral drugs, vaccines, anti-SARS-CoV-2 
+antibody treatments, and convalescent plasma therapy which are currently under 
+extensive research and clinical trials for the treatment of COVID-19. The 
+developments of nanoparticle-based therapeutic and diagnostic approaches have 
+been also discussed for COVID-19. We have assessed recent literature data on 
+this topic and made a summary of current development and future perspectives.
+
+DOI: 10.1208/s12248-020-00532-2
+PMCID: PMC7784226
+PMID: 33400058 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+2. Biosens Bioelectron. 2021 Jan 15;172:112752. doi: 10.1016/j.bios.2020.112752. 
+Epub 2020 Oct 24.
+
+COVID-19 diagnosis -A review of current methods.
+
+Yüce M(1), Filiztekin E(2), Özkaya KG(2).
+
+Author information:
+(1)SUNUM Nanotechnology Research and Application Centre, Sabanci University, 
+34956, Orhanli, Tuzla, Istanbul, Turkey. Electronic address: 
+meralyuce@sabanciuniv.edu.
+(2)Faculty of Engineering and Natural Sciences and, Sabanci University, 34956, 
+Orhanli, Tuzla, Istanbul, Turkey.
+
+A fast and accurate self-testing tool for COVID-19 diagnosis has become a 
+prerequisite to comprehend the exact number of cases worldwide and to take 
+medical and governmental actions accordingly. SARS-CoV-2 (formerly, 2019-nCoV) 
+infection was first reported in Wuhan (China) in December 2019, and then it has 
+rapidly spread around the world, causing ~14 million active cases with ~582,000 
+deaths as of July 2020. The diagnosis tools available so far have been based on 
+a) viral gene detection, b) human antibody detection, and c) viral antigen 
+detection, among which the viral gene detection by RT-PCR has been found as the 
+most reliable technique. In this report, the current SARS-CoV-2 detection kits, 
+exclusively the ones that were issued an "Emergency Use Authorization" from the 
+U.S. Food and Drug Administration, were discussed. The key structural components 
+of the virus were presented to provide the audience with an understanding of the 
+scientific principles behind the testing tools. The methods that are still in 
+the early research state were also reviewed in a subsection based on the reports 
+available so far.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112752
+PMCID: PMC7584564
+PMID: 33126180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+3. Infez Med. 2021 Mar 1;29(1):20-36.
+
+COVID-19 pandemic: from origins to outcomes. A comprehensive review of viral 
+pathogenesis, clinical manifestations, diagnostic evaluation, and management.
+
+Ochani R(1), Asad A(1), Yasmin F(1), Shaikh S(1), Khalid H(1), Batra S(1), 
+Sohail MR(2), Mahmood SF(3), Ochani R(4), Hussham Arshad M(5), Kumar A(6), 
+Surani S(7).
+
+Author information:
+(1)Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+Pakistan.
+(2)Division of Infectious Diseases, Baylor College of Medicine, Houston, Texas, 
+USA.
+(3)Section of Infectious Diseases, Department of Medicine, Aga Khan University, 
+Karachi, Pakistan.
+(4)Department of Anesthesiology, Australian Concept Infertility Medical Center, 
+Karachi, Pakistan.
+(5)Department of Internal Medicine, Aga Khan University, Karachi, Pakistan.
+(6)Department of Medical ICU, Dr. Ruth K.M. Pfau Civil Hospital Karachi, 
+Karachi, Pakistan.
+(7)Department of Internal Medicine, Corpus Christi Medical Center, Corpus 
+Christi, Texas, USA; Department of Internal Medicine, University of North Texas, 
+Dallas, USA.
+
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), the causative 
+pathogen for the COVID-19, first emerged in Wuhan, China, in December 2019 and 
+by March 2020, it was declared a pandemic. COVID-19 pandemic has overburdened 
+healthcare systems in most countries and has led to massive economic losses. 
+SARS-CoV-2 transmission typically occurs by respiratory droplets. The average 
+incubation period is 6.4 days and presenting symptoms typically include fever, 
+cough, dyspnea, myalgia or fatigue. While the majority of patients tend to have 
+a mild illness, a minority of patients develop severe hypoxia requiring 
+hospitalization and mechanical ventilation. Management is mostly supportive. 
+However, several direct anti-viral agents, and immunomodulatory therapy with 
+steroids and various cytokine blockers seem promising in early results. However, 
+an effective vaccine has been established, which will help curb the pandemic.
+
+PMID: 33664170 [Indexed for MEDLINE]
+
+
+4. Expert Rev Anti Infect Ther. 2020 Dec;18(12):1201-1211. doi: 
+10.1080/14787210.2020.1797487. Epub 2020 Aug 4.
+
+Resolution of coronavirus disease 2019 (COVID-19).
+
+Habas K(1), Nganwuchu C(1), Shahzad F(1), Gopalan R(1), Haque M(2), Rahman S(3), 
+Majumder AA(4), Nasim T(1)(5).
+
+Author information:
+(1)Faculty of Life Sciences, University of Bradford , West Yorkshire, UK.
+(2)Faculty of Medicine and Defence Health, Universiti Pertahanan Nasional 
+Malaysia, (National Defence University of Malaysia) , Kuala Lumpur, Malaysia.
+(3)School of Medicine, American University of Integrative Sciences , Bridgetown, 
+Barbados, West Indies.
+(4)Faculty of Medical Sciences, The University of the West Indies, Cave Hill 
+Campus , Bridgetown, Barbados, West Indies.
+(5)Research Division, Centre for Health, Agriculture and Socio-economic 
+Advancements (CHASA) , Lalmonirhat, Bangladesh.
+
+INTRODUCTION: Coronavirus disease 2019 (COVID-19) was first detected in China in 
+December, 2019, and declared as a pandemic by the World Health Organization 
+(WHO) on March 11, 2020. The current management of COVID-19 is based generally 
+on supportive therapy and treatment to prevent respiratory failure. The 
+effective option of antiviral therapy and vaccination are currently under 
+evaluation and development.
+AREAS COVERED: A literature search was performed using PubMed between December 
+1, 2019-June 23, 2020. This review highlights the current state of knowledge on 
+the viral replication and pathogenicity, diagnostic and therapeutic strategies, 
+and management of COVID-19. This review will be of interest to scientists and 
+clinicians and make a significant contribution toward development of vaccines 
+and targeted therapies to contain the pandemic.
+EXPERT OPINION: The exit strategy for a path back to normal life is required, 
+which should involve a multi-prong effort toward development of new treatment 
+and a successful vaccine to protect public health worldwide and prevent future 
+COVID-19 outbreaks. Therefore, the bench to bedside translational research as 
+well as reverse translational works focusing bedside to bench is very important 
+and would provide the foundation for the development of targeted drugs and 
+vaccines for COVID-19 infections.
+
+DOI: 10.1080/14787210.2020.1797487
+PMID: 32749914 [Indexed for MEDLINE]
+
+
+5. Postgrad Med J. 2020 Dec;96(1142):753-758. doi: 
+10.1136/postgradmedj-2020-138234. Epub 2020 Jun 20.
+
+Origin, transmission, diagnosis and management of coronavirus disease 2019 
+(COVID-19).
+
+Umakanthan S(1), Sahu P(2), Ranade AV(3), Bukelo MM(4), Rao JS(5), 
+Abrahao-Machado LF(6), Dahal S(7), Kumar H(8), Kv D(9).
+
+Author information:
+(1)Paraclinical Sciences, The University of the West Indies at Saint Augustine 
+Faculty of Medical Sciences, Saint Augustine, Trinidad and Tobago 
+Srikanth.Umakanthan@sta.uwi.edu dr.u.srikanth@gmail.com.
+(2)Centre for Medical Sciences Education, The University of the West Indies at 
+Saint Augustine, Saint Augustine, Trinidad and Tobago.
+(3)Basic Medical Sciences, University of Sharjah, Sharjah, United Arab Emirates.
+(4)Department of Anatomical Pathology, North Central Regional Health Authority, 
+Eric Williams Medical Sciences Complex, Mount Hope, Trinidad and Tobago.
+(5)Department of Surgery, University of Minnesota, Minneapolis, Minnesota, USA.
+(6)Department of Pathology, Bacchi Laboratory, Sao Paulo, Brazil.
+(7)Department of Oral Pathology, Institute of Medicine, Kathmandu, Nepal.
+(8)Department of International Public Health and Disease Surveillance, Midwest, 
+Australia.
+(9)Department of Radiology, Indiragandhi Institute of Child Health, Bangalore, 
+India.
+
+Coronavirus has emerged as a global health threat due to its accelerated 
+geographic spread over the last two decades. This article reviews the current 
+state of knowledge concerning the origin, transmission, diagnosis and management 
+of coronavirus disease 2019 (COVID-19). Historically, it has caused two 
+pandemics: severe acute respiratory syndrome and Middle East respiratory 
+syndrome followed by the present COVID-19 that emerged from China. The virus is 
+believed to be acquired from zoonotic source and spreads through direct and 
+contact transmission. The symptomatic phase manifests with fever, cough and 
+myalgia to severe respiratory failure. The diagnosis is confirmed using reverse 
+transcriptase PCR. Management of COVID-19 is mainly by supportive therapy along 
+with mechanical ventilation in severe cases. Preventive strategies form the 
+major role in reducing the public spread of virus along with successful disease 
+isolation and community containment. Development of a vaccine to eliminate the 
+virus from the host still remains an ongoing challenge.
+
+© Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/postgradmedj-2020-138234
+PMCID: PMC10016932
+PMID: 32563999 [Indexed for MEDLINE]
+
+Conflict of interest statement: Correction notice: This article has been 
+corrected since it appeared Online First. Minor typographical errors have been 
+corrected. Competing interests: None declared.

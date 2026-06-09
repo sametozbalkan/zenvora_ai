@@ -1,0 +1,77 @@
+=== PubMed: osteoporoz ===
+1. Klin Med (Mosk). 1997;75(6):20-3.
+
+[Osteoporosis].
+
+[Article in Russian]
+
+Luk'ianchikov VS(1), Kalinin AP.
+
+Author information:
+(1)MONIKI of MF Vladimirskií.
+
+PMID: 9273393 [Indexed for MEDLINE]
+
+
+2. Ter Arkh. 2017;89(5):90-97. doi: 10.17116/terarkh201789590-97.
+
+[Osteoporosis: Current state of the art].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Verbovoy AF(1), Pashentseva AV(1), Sharonova LA(1).
+
+Author information:
+(1)Samara State Medical University, Ministry of Health of Russia, Samara, 
+Russia.
+
+As of now, osteoporosis (OP) is one of the most important sociomedical problems 
+because of its high prevalence and resultant disability, as well as significant 
+mortality attributable to complications. The current strategy for providing care 
+for patients of OP is its early diagnosis, by determining the high risk of 
+fractures, and early pathogenetic treatment. The article gives an update on the 
+epidemiology, risk factors, diagnosis, and treatment of OP.
+
+Publisher: В настоящее время остеопороз (ОП) представляет одну из важнейших 
+медико-социальных проблем ввиду его высокой распространенности и обусловленных 
+им инвалидности, значительной смертности от осложнений. Современной стратегией 
+организации помощи больным ОП являются ранняя диагностика с определением 
+высокого риска переломов и раннее назначение патогенетического лечения. В статье 
+представлены современные данные по эпидемиологии, факторам риска, диагностике и 
+лечению ОП.
+
+DOI: 10.17116/terarkh201789590-97
+PMID: 28631706 [Indexed for MEDLINE]
+
+
+3. Feldsher Akush. 1988 Mar;53(3):39-41.
+
+[Osteoporosis].
+
+[Article in Russian]
+
+Chenskiĭ AD, Shestakov VE.
+
+PMID: 3378638 [Indexed for MEDLINE]
+
+
+4. Revmatologiia (Mosk). 1987 Oct-Dec;(4):63-74.
+
+[Involutional osteoporosis].
+
+[Article in Russian]
+
+Bunchuk NV.
+
+PMID: 3329392 [Indexed for MEDLINE]
+
+
+5. Lik Sprava. 1998 Jul-Aug;(5):34-41.
+
+[Glucocorticoid-induced osteoporosis].
+
+[Article in Ukrainian]
+
+Povorozniuk VV, Neĭko IeM, Holovach IIu.
+
+PMID: 9793301 [Indexed for MEDLINE]

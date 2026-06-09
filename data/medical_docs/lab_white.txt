@@ -1,0 +1,255 @@
+=== PubMed: white blood cell count high low causes treatment ===
+1. Lung. 2026 Apr 27;204(1):25. doi: 10.1007/s00408-026-00874-2.
+
+High Serum IgE is Associated with Risk of Severe Exacerbations Among 
+Non-Eosinophilic Bronchiectasis.
+
+Kao TW(1), Wang YH(2), Chang CL(3), Sheu CC(4)(5), Wang PH(6), Hsieh MH(7)(8), 
+Hsu WH(9)(10)(11), Chen MT(12), Ou WF(13), Wei YF(14)(15), Yang TM(16), Lan 
+CC(17), Wang CY(18), Lin CB(19)(20), Lin MS(21), Wang YT(22)(23), Lin 
+CH(24)(25)(26), Liu SF(8)(27)(28), Cheng MH(4)(29), Chen YF(30)(31), Cheng 
+WC(9)(11), Peng CK(12)(32), Chan MC(33)(34), Chen CY(35), Jao LY(20), Chen 
+CJ(19), Chen SP(22)(23), Tsai YH(27)(36), Cheng SL(6), Lin HC(7)(8)(37), Chien 
+JY(1), Wang HC(1)(37)(38); Taiwan Bronchiectasis Research Collaboration (TBARC).
+
+Author information:
+(1)Department of Internal Medicine, National Taiwan University Hospital, 
+National Taiwan University College of Medicine, Taipei, Taiwan.
+(2)Medical Research Center, Cardinal Tien Hospital and School of Medicine, 
+College of Medicine, Fu Jen Catholic University, New Taipei City, Taiwan.
+(3)Department of Internal Medicine, National Taiwan University Hospital Hsin-Chu 
+Branch, HsinChu, Taiwan.
+(4)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, Kaohsiung Medical University Hospital, Kaohsiung, Taiwan.
+(5)Department of Internal Medicine, School of Medicine, College of Medicine, 
+Kaohsiung Medical University, Kaohsiung, Taiwan.
+(6)Division of Thoracic Medicine, Far Eastern Memorial Hospital, New Taipei 
+City, Taiwan.
+(7)Department of Thoracic Medicine, Chang Gung Memorial Hospital, Linkou, 
+Taoyuan, Taiwan.
+(8)College of Medicine, Chang Gung University, Taoyuan, Taiwan.
+(9)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, China Medical University Hospital, Taichung, Taiwan.
+(10)Critical Medical Center, China Medical University Hospital, Taichung, 
+Taiwan.
+(11)School of Medicine, College of Medicine, China Medical University, Taichung, 
+Taiwan.
+(12)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, Tri-Service General Hospital, National Defense Medical University, 
+Taipei, Taiwan.
+(13)Division of Chest Medicine, Department of Internal Medicine, Taichung 
+Veterans General Hospital, Taichung, Taiwan.
+(14)School of Medicine for International Students, College of Medicine, I-Shou 
+University, Kaohsiung, Taiwan.
+(15)Department of Internal Medicine, E-Da Cancer Hospital, I-Shou University, 
+Kaohsiung, Taiwan.
+(16)Division of Pulmonary and Critical Care Medicine, Chiayi Chang Gung Memorial 
+Hospital, Chiayi, Taiwan.
+(17)Division of Pulmonary Medicine, Department of Internal Medicine, Taipei Tzu 
+Chi Hospital, Buddhist Tzu Chi Medical Foundation, New Taipei City, Taiwan.
+(18)Department of Internal Medicine, Cardinal Tien Hospital and School of 
+Medicine, College of Medicine, Fu Jen Catholic University, No. 362, Zhongzheng 
+Road, Xindian District, New Taipei City, 23148, Taiwan. cywang@mospital.com.
+(19)Division of Pulmonary Medicine, Department of Internal Medicine, Hualien Tzu 
+Chi Hospital, Buddhist Tzu Chi Medical Foundation, Hualien, Taiwan.
+(20)School of Medicine, Tzu-Chi University, Hualien, Taiwan.
+(21)Division of Pulmonary Medicine, Department of Internal Medicine, Chia-Yi 
+Chrisitian Hospital, Chiayi, Taiwan.
+(22)Division of Pulmonary Medicine, Department of Internal Medicine, Chung Shan 
+Medical University Hospital, Taichung, Taiwan.
+(23)School of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(24)Department of Internal Medicine, Division of Chest Medicine, Changhua 
+Christian Hospital, Changhua, Taiwan.
+(25)Institute of Genomics and Bioinformatics, National Chung Hsing University, 
+Taichung, Taiwan.
+(26)Ph.D. Program in Translational Medicine, National Chung Hsing University, 
+Taichung, Taiwan.
+(27)Division of Pulmonary & Critical Care Medicine, Department of Internal 
+Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan.
+(28)Department of Respiratory Therapy, Kaohsiung Chang Gung Memorial Hospital, 
+Kaohsiung, Taiwan.
+(29)Department of Respiratory Therapy, College of Medicine, Kaohsiung Medical 
+University, Kaohsiung, Taiwan.
+(30)Department of Internal Medicine, Yunlin Branch, National Taiwan University 
+Hospital, Douliu, Taiwan.
+(31)Thoracic Medicine Center, Yunlin Branch, National Taiwan University 
+Hospital, Douliu, Taiwan.
+(32)Department of Medicine, Hualien Armed Forces General Hospital, Hualien, 
+Taiwan.
+(33)Department of Critical Care Medicine, Taichung Veterans General Hospital, 
+Taichung, Taiwan.
+(34)School of Post Baccalaureate Medicine, College of Medicine, National Chung 
+Hsing University, Taichung, Taiwan.
+(35)Department of Internal Medicine, E-Da Hospital, I-Shou University, 
+Kaohsiung, Taiwan.
+(36)Department of Pulmonary Medicine, Lees Clinic, Pingtung, Taiwan.
+(37)Department of Respiratory Therapy, Chang Gung Memorial Hospital, Linkou, 
+Taoyuan, Taiwan.
+(38)Department of Medicine, National Taiwan University Cancer Center, National 
+Taiwan University College of Medicine, Taipei, Taiwan.
+
+PURPOSE: Bronchiectasis has traditionally been characterized as a 
+neutrophil-driven disease, yet emerging evidence suggested inflammatory 
+heterogeneities. The prognostic significance of elevated serum immunoglobulin E 
+(IgE) in patients without peripheral eosinophilia remains unclear.
+METHODS: We conducted a multicenter prospective cohort study between 2017 and 
+2020 across 16 institutions in Taiwan. Individuals with bronchiectasis but 
+without allergic bronchopulmonary aspergillosis were included. Patients were 
+stratified by baseline absolute eosinophil count (cutoff 300 /uL) and serum IgE 
+level (≤ 100, 100-500, > 500 IU/mL). The primary endpoint was severe 
+exacerbations resulting in hospitalization at one year. Secondary endpoints 
+included all-cause mortality, distribution of sputum pathogen, imaging pattern, 
+and lung function.
+RESULTS: A total of 579 individuals were enrolled. Nontuberculous mycobacteria 
+(10.7%) and Pseudomonas aeruginosa (9.0%) were the most commonly isolated 
+microorganisms in sputum. 493 patients (85.1%) were categorized as 
+low-eosinophil bronchiectasis, and 41 (7.1%) presented serum IgE levels 
+exceeding 500 IU/mL. The rate of hospitalization for acute exacerbation in such 
+group was pronouncedly higher than in patients with lower IgE levels (9.8% vs. 
+0.9% and 2.3%; P = 0.009). In multivariate analysis, IgE exceeding 500 IU/mL was 
+the strongest independent predictor of hospitalization (adjusted odds ratio, 
+7.38; 95% confidence interval, 2.40-22.7; P < 0.001). The association was 
+particularly pronounced in female and patients with coexisting asthma. All-cause 
+mortality did not differ significantly among IgE strata.
+CONCLUSION: Markedly elevated serum IgE independently predicted severe 
+exacerbations resulting in hospitalization in patients with non-eosinophilic 
+bronchiectasis, identifying a high-risk subgroup that may benefit from targeted 
+immunomodulatory therapies.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s00408-026-00874-2
+PMCID: PMC13121277
+PMID: 42045520 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: All authors 
+certify that they have no affiliations with or involvement in any organization 
+or entity with any financial interest or non-financial interest in the subject 
+matter or materials discussed in this manuscript. Ethical approval: This study 
+was performed in line with the principles of the Declaration of Helsinki. 
+Approval was granted by Research Ethics Committee C of the National Taiwan 
+University Hospital (No. 202110079RINC). Consent to participate: Informed 
+consent was obtained from all individual participants included in the study. 
+Consent to publish: Not applicable.
+
+
+2. Zhonghua Liu Xing Bing Xue Za Zhi. 2026 Apr 10;47(4):642-648. doi: 
+10.3760/cma.j.cn112338-20251011-00712.
+
+[Analysis of the association between CD4(+)T lymphocytes counts test index and 
+immunological failure of antiretroviral therapy among HIV-infected patients in 
+Taizhou, Zhejiang Province, from 2006 to 2024].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Xie YL(1), Meng QG(1), Hua TT(1), Wang SL(1), Li CC(1), Li GX(1), Shen WW(1), 
+Chen TL(2), Wang MC(2), Lin HJ(1), He N(2).
+
+Author information:
+(1)Taizhou Center for Disease Control and Prevention (Taizhou Health Supervision 
+Institute), Taizhou 318000, China.
+(2)Department of Epidemiology, School of Public Health, Fudan University, 
+Shanghai 200032, China.
+
+Objective: To investigate the association between CD4+T lymphocytes (CD4) counts 
+test index and immunological failure among HIV-infected patients receiving 
+antiretroviral therapy in Taizhou, Zhejiang Province. Methods: A retrospective 
+cohort study was conducted. A total of 4 609 HIV-infected patients aged 18 and 
+above who received antiretroviral therapy (ART)were derived from Chinese Disease 
+Prevention and Control Information System from 2006 to 2024.The CD4 counts test 
+index was defined as the ratio of actual CD4 counts test times to theoretical 
+test times, and were divided into four groups: 0.00-0.30 (extremely low 
+detection group), 0.31-0.80 (low detection group), 0.81-1.20 (regular detection 
+group), and ≥1.21 (enhanced detection group). Immunological failure was defined 
+as the last CD4 counts after ART that did not exceed the baseline level or 
+persistently below 100 cells/μl. Restricted cubic splines (RCS) and piecewise 
+Cox proportional hazards models were used to analyze the dose-response 
+relationship between the CD4 counts testing index and immunological failure. 
+Results: Among 4 609 cases of HIV-infected patients, a non-linear U-shaped 
+association was observed between the CD4 counts testing index and immunological 
+failure (P<0.001), with an inflection point at 0.93. Below 0.93, each 0.1-unit 
+increase in the index was associated with a 29% reduction in the risk of 
+immunological failure (aHR=0.71, 95%CI: 0.65-0.77). Above 0.93, each 0.1-unit 
+increase was associated with a 13% increase in risk (aHR=1.13, 95%CI: 
+1.09-1.16). Compared with the regular detection group, the risk of immunological 
+failure was significantly higher in the extremely low, low, and enhanced 
+detection groups. (aHR=7.60, 1.49, and 1.37, respectively). Subgroup analyses 
+indicated that the association between a high testing index and immunological 
+failure was positively correlated among patients with low BMI, sexual 
+transmission, and low baseline CD4 counts levels. Conclusions: Among 
+HIV-infected patients in Taizhou City, Zhejiang Province from 2006 to 2024, 
+insufficient frequency of CD4 count testing or intensive testing based on 
+clinical indications were both associated with the risk of immunological failure 
+of ART. In the follow-up management of HIV-infected patients, on the basis of 
+evaluating individual clinical indications and the efficacy of ART, the 
+frequency of CD4 count testing should be reasonably arranged to provide precise 
+and personalized ART and follow-up management plans for HIV-infected patients.
+
+Publisher: 目的： 探讨浙江省台州市HIV感染者CD4+T淋巴细胞（CD4）计数检测指数与抗病毒治疗（ART）免疫学失败的关联。 方法： 
+采用回顾性队列研究，研究对象来源于中国疾病预防控制信息系统，共纳入2006-2024年接受ART的≥18岁HIV感染者4 
+609例。CD4计数检测指数定义为实际CD4计数检测次数与理论应检测次数之比，CD4计数检测指数分为4组：0.00~0.30（极低检测组）、0.31~0.80（低检测组）、0.81~1.20（常规检测组）、≥1.21（强化检测组）；免疫学失败定义为ART后末次CD4计数未超过基线值或持续<100个/μl。采用限制性立方样条（RCS）和分段Cox比例风险回归模型分析CD4计数检测指数与免疫学失败的剂量-反应关系。 
+结果： 在HIV感染者4 
+609例中，HIV感染者CD4计数检测指数与ART免疫学失败呈非线性的U形关系（P<0.001），拐点为0.93。CD4计数检测指数<0.93时，每增加0.1单位，ART免疫学失败风险降低29%（aHR=0.71，95%CI：0.65~0.77）；CD4计数检测指数≥0.93时，每增加0.1单位，ART免疫学失败风险增加13%（aHR=1.13，95%CI：1.09~1.16）。与常规检测组相比，极低检测组、低检测组和强化检测组的ART免疫学失败风险均显著升高（aHR值分别为7.60、1.49和1.37）。亚组分析显示，在BMI偏低、性接触传播和基线CD4计数水平较低的HIV感染者中，CD4计数高检测指数与ART免疫学失败的关联有统计学意义。 
+结论： 
+在2006-2024年浙江省台州市HIV感染者中，CD4计数检测频次不足或基于临床指征的强化检测均与ART免疫学失败风险相关联。在HIV感染者的随访管理中，应在评估个体临床指征与ART效果的基础上，合理安排CD4计数检测频次，为HIV感染者提供精准化和个性化ART和随访管理方案。.
+
+DOI: 10.3760/cma.j.cn112338-20251011-00712
+PMID: 42020165 [Indexed for MEDLINE]
+
+
+3. Front Immunol. 2026 Apr 1;17:1770565. doi: 10.3389/fimmu.2026.1770565. 
+eCollection 2026.
+
+Association between neutrophil-to-lymphocyte ratio and the prognosis of patients 
+with rheumatoid arthritis: a meta-analysis.
+
+Dong Y(1), Zhong Y(2), Zhou H(1), Cheng D(1).
+
+Author information:
+(1)Department of Rheumatology and Nephrology Integrating Traditional Chinese and 
+Western Medicine, Jinhua Traditional Chinese Medicine Hospital Affiliated to 
+Zhejiang Chinese Medical University, Jinhua, Zhejiang, China.
+(2)Department of Rheumatology and Nephrology Integrating Traditional Chinese and 
+Western Medicine, Tongde Hospital of Zhejiang Province, Hangzhou, 
+Zhejiang, China.
+
+BACKGROUND: Rheumatoid arthritis (RA) is an autoimmune disease characterized by 
+chronic systemic inflammation, posing a high risk of death, particularly from 
+cardiovascular events. Finding simple and cost-effective prognostic biomarkers 
+is crucial for risk stratification and improved patient management. The 
+neutrophil-to-lymphocyte ratio (NLR), as a systemic inflammatory marker, has 
+shown prognostic value in various diseases, but its comprehensive evidence in RA 
+remains unclear.
+METHODS: Following the PRISMA 2020 guidelines, relevant literature up to October 
+2025 was systematically searched in PubMed, Embase, Web of Science, and Cochrane 
+databases. Observational studies were included. Random-effects models were used 
+to pool odds ratios (OR) and 95% confidence intervals (CI). Robustness and 
+publication bias were assessed using heterogeneity tests (I²), sensitivity 
+analyses, and Egger's tests. Evidence quality was graded using the GRADE system.
+RESULTS: Overall, seven studies were analyzed, and the meta-analytic findings 
+indicated that elevated NLR was significantly correlated with all-cause 
+mortality (OR = 1.70, 95%CI: 1.39-2.09, P<0.00001) and cardiovascular mortality 
+(OR = 2.60, 95%CI: 1.61-4.21, P = 0.0001) in RA patients, and also with reduced 
+disease remission rate (OR = 0.81, 95%CI: 0.68-0.96, P = 0.02). Heterogeneity 
+for all outcomes was low (I²=0-16%), sensitivity analysis confirmed robustness, 
+and publication bias was not statistically significant. GRADE assessment 
+indicated low quality of evidence for all-cause mortality, moderate for 
+cardiovascular mortality, and very low quality for remission rate.
+CONCLUSION: Analysis based on a multivariate adjusted model showed that high NLR 
+is an important predictor of poor prognosis in RA patients. As an economical and 
+readily available inflammatory marker, it holds promise for use in RA risk 
+stratification and personalized treatment decision support, but further 
+prospective studies are required to clarify the causal relationship and optimize 
+the clinical cutoff value.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier 
+CRD420251234933.
+
+Copyright © 2026 Dong, Zhong, Zhou and Cheng.
+
+DOI: 10.3389/fimmu.2026.1770565
+PMCID: PMC13079348
+PMID: 41993209 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

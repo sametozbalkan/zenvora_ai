@@ -1,0 +1,51 @@
+=== PubMed: kronik böbrek hastalığı ===
+1. Turk Kardiyol Dern Ars. 2020 Jul;48(5):451-453. doi: 10.5543/tkda.2020.80303.
+
+Global burden of chronic kidney disease and decreased kidney function in Turkish 
+heart failure patients.
+
+[Article in English]
+
+Kozdag Gold G(1).
+
+Author information:
+(1)Division of Cardiology, Montefiore Medical Center-Albert Einstein College of 
+Medicine, NY, USA.
+
+DOI: 10.5543/tkda.2020.80303
+PMID: 32633268 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2026 Jan 9;54(1):63 - 67. doi:
+10.5543/tkda.2024.86907.  Epub 2025 Jul 7.
+
+The Dilemma of Edoxaban Interruption and Heparin Bridging Before Upgrading to 
+Cardiac Resynchronization Therapy in an Older Patient with Atrial Fibrillation, 
+Chronic Kidney Disease, and Mitral Bioprosthesis.
+
+[Article in English]
+
+Doğan M(1), Canpolat U(1).
+
+Author information:
+(1)Department of Cardiology, Hacettepe University Faculty of Medicine, Ankara, 
+Türkiye.
+
+The peri-procedural management of novel oral anticoagulants (NOAC) should be 
+individualized based on the patient (age, body weight, renal function, 
+medications, previous thromboembolic/bleeding event, presence of prosthetic 
+valve) and procedural (bleeding risk) characteristics. Less invasive procedures 
+carry a relatively low bleeding risk and may be performed under minimally- or 
+uninterrupted NOAC therapy. However, upgrading from implantable cardioverter 
+defibrillator (ICD) to cardiac resynchronization therapy (CRT) is more complex 
+than the initial implantation procedure. Thus, the timing of the last NOAC 
+intake before an elective procedure requires judgment based on the individual 
+benefit/risk ratio. Herein, we presented the management of an elderly patient 
+with atrial fibrillation, grade IIIb chronic renal disease, low body weight, and 
+bioprosthetic mitral valve who underwent upgrading from ICD to CRT-D procedure, 
+experienced a bioprosthetic valve thrombosis 24 hours after an interruption of 
+edoxaban therapy without heparin bridging, and successfully treated with 
+ultraslow tPA therapy.
+
+DOI: 10.5543/tkda.2024.86907
+PMID: 40679159 [Indexed for MEDLINE]

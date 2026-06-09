@@ -1,0 +1,180 @@
+=== PubMed: kalp yetmezliği ===
+1. Turk Kardiyol Dern Ars. 2023 Jun;51(4):294-295. doi: 10.5543/tkda.2022.59026.
+
+A Cause of Heart Failure: Corona-Cameral Fistula.
+
+[Article in English]
+
+Arter E(1), Sert Şekerci S(1), Güngör B(1), Yıldırımtürk Ö(1).
+
+Author information:
+(1)Department of Cardiology, Health Sciences University, Dr. Siyami Ersek 
+Thoracic and Cardiovascular Surgery Center Training and Research Hospital, 
+İstanbul, Türkiye.
+
+DOI: 10.5543/tkda.2022.59026
+PMID: 37272154 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2026 Jan 9;54(1):24 - 32. doi:
+10.5543/tkda.2025.18598.  Epub 2025 Oct 9.
+
+Detection of Hypokalemia, Hyponatremia, and Hyperkalemia in Heart Failure 
+Patients Using Artificial Intelligence Techniques via Electrocardiography.
+
+[Article in English]
+
+İyigün U(1), Kerkütlüoğlu M(2), Güneş H(3), Kahramanoğulları F(4), Kıvrak T(5), 
+Murat B(6), Yeşil E(7), Ülgen Kunak A(8), Doğduş M(9), Öz A(10), Kaplan M(11), 
+Çayırlı S(12), Yemis M(13), Erdoğan A(14), İleri Doğan Ç(15), Savcılıoğlu N(11), 
+Ekin T(15), Yeni M(16), Küçükler N(17).
+
+Author information:
+(1)Department of Cardiology, Private Medstar Topçular Hospital, Antalya, 
+Türkiye.
+(2)Department of Cardiology, Sütçü İmam University, Kahramanmaraş, Türkiye.
+(3)Department of Cardiology, Health Science University İzmir Tepecik Training 
+and Research Hospital, İzmir, Türkiye.
+(4)Electrical and Electronics Engineering, Me-Fa Engineering, Hatay, Türkiye.
+(5)Department of Cardiology, Fırat University, Elazığ, Türkiye.
+(6)Department of Cardiology, Eskişehir City Hospital, Eskişehir, Türkiye.
+(7)Department of Cardiology, Mersin University, Mersin, Türkiye.
+(8)Department of Cardiology, Antalya Training and Research Hospital, Antalya, 
+Türkiye.
+(9)Department of Cardiology, İzmir Economy University Medical Point Hospital, 
+İzmir, Türkiye.
+(10)Department of Cardiology, İstanbul Training and Research Hospital, İstanbul, 
+Türkiye.
+(11)Department of Cardiology, Gaziantep University, Gaziantep, Türkiye.
+(12)Department of Cardiology, Private Akhisar Medigün Hospital, Manisa, Türkiye.
+(13)Department of Cardiology, Çam and Sakura Hospital, İstanbul, Türkiye.
+(14)Department of Cardiology, Koşuyolu Training and Research Hospital, İstanbul, 
+Türkiye.
+(15)Department of Cardiology, Kırşehir Training and Research Hospital, Kırşehir, 
+Türkiye.
+(16)Department of Cardiology, Isparta City Hospital, Isparta, Türkiye.
+(17)Department of Cardiology, Akdeniz University, Antalya, Türkiye.
+
+OBJECTIVE: Detection and monitoring of electrolyte imbalances are essential for 
+the appropriate treatment of many metabolic diseases. However, no reliable and 
+noninvasive tool currently exists for such detection. Electrolyte disorders, 
+particularly in heart failure patients, can lead to life-threatening situations, 
+which may often develop as a result of medications used in routine treatment.
+METHOD: In this study, we developed a deep learning model (DLM) using 
+electrocardiography (ECG) to detect electrolyte imbalances in heart failure 
+patients and evaluated its performance in a multicenter setting. Seventeen 
+different centers participated in this study. Heart failure patients (ejection 
+fraction ≤ 45%) who had blood electrolyte measurements and ECG taken on the same 
+day were included. Patients were divided into four groups: those with normal 
+electrolyte values, those with hypokalemia, those with hyperkalemia, and those 
+with hyponatremia. Patients who developed electrolyte disorders due to 
+medications used for heart failure were classified in the relevant group. 
+Confidence intervals (CI): We computed 95% CIs for area under the receiver 
+operating characteristic curve (AUROC) via stratified bootstrap (2,000 resamples 
+at the patient level) and 95% CIs for accuracy using the Wilson score interval 
+for binomial proportions.
+RESULTS: The accuracy rates of the DLM in detecting hyponatremia, hypokalemia, 
+and hyperkalemia were 83.33%, 95.33%, and 95.77%, respectively.
+CONCLUSION: The proposed DLM demonstrated high performance in detecting 
+electrolyte imbalances. These results suggest that a DLM can be used to detect 
+and monitor electrolyte imbalances using ECG on a daily basis.
+
+DOI: 10.5543/tkda.2025.18598
+PMID: 41063616 [Indexed for MEDLINE]
+
+
+3. Turk Kardiyol Dern Ars. 2026 Apr 3;54(3):253-260. doi:
+10.5543/tkda.2025.44679.  Epub 2026 Jan 21.
+
+Evaluation of Soluble ST2 and Galectin-3 Levels in Patients with Heart Failure.
+
+[Article in English]
+
+Çetin M(1), Tanrıverdi Z(2), Demirbağ R(2), Altıparmak İH(2), Biçer Yeşilay 
+A(2), Tascanov MB(2), Fedai H(2), Toprak K(2), Koyuncu İ(3).
+
+Author information:
+(1)Clinic of Cardiology, Mehmet Akif Inan Training and Research Hospital, 
+Sanliurfa, Türkiye.
+(2)Department of Cardiology, Faculty of Medicine, Harran University, Sanliurfa, 
+Türkiye.
+(3)Department of Biochemistry, Faculty of Medicine, Harran University, 
+Sanliurfa, Türkiye.
+
+OBJECTIVE: Soluble stromelysin-2 (sST2) and galectin-3 have been found to be 
+associated with prognosis in patients with heart failure (HF). However, there is 
+no study evaluating the clinical importance of sST2 and galectin-3 in HF 
+classification according to ejection fraction (EF). In the present study, we 
+aimed to assess the diagnostic value of sST2 and galectin-3 in HF classification 
+based on EF.
+METHOD: Forty-one heart failure patients with reduced ejection fraction (HFrEF), 
+41 with mildly-reduced EF (HFmrEF), 41 with preserved EF (HFpEF), and 41 healthy 
+controls were included in the study. EF ≤ 40% was defined as HFrEF, 41-49% as 
+HFmrEF, and ≥ 50% as HFpEF. Levels of sST2 and galectin-3 were measured, and 
+comparisons were performed.
+RESULTS: There were significant differences among the groups in terms of sST2 (P 
+< 0.001) and galectin-3 (P = 0.007) levels. Post hoc analysis demonstrated that 
+patients with HFmrEF and HFrEF had significantly higher sST2 (P = 0.001 and P = 
+0.001, respectively) and galectin-3 (P = 0.043 and P = 0.007, respectively) 
+levels compared to the control group, whereas the HFpEF and control groups were 
+similar in terms of sST2 and galectin-3 levels (P = 0.645 and P = 0.436, 
+respectively). In correlation analysis, sST2 and galectin-3 levels were 
+positively correlated with B-type natriuretic peptide (BNP) (r = 0.240, P = 
+0.002 and r = 0.172, P = 0.028, respectively) and negatively correlated with EF 
+(r = -0.403, P < 0.001 and r = -0.295, P < 0.001, respectively).
+CONCLUSION: sST2 and galectin-3 levels were higher in patients with HFrEF and 
+HFmrEF compared to the control group, and these markers increased as EF 
+decreased. However, these markers did not differ between patients with HFpEF and 
+the control group.
+
+DOI: 10.5543/tkda.2025.44679
+PMID: 41562360 [Indexed for MEDLINE]
+
+
+4. Turk Tip Cemiy Mecm. 1970 May;36(5):255-8.
+
+[Mesenteric artery embolism occurring during therapy of chronic auricular 
+fibrillation and heart failure].
+
+[Article in Turkish]
+
+Ogan H, Başar I, Demircan O.
+
+PMID: 5510333 [Indexed for MEDLINE]
+
+
+5. Turk Kardiyol Dern Ars. 2026 Jan 9;54(1):58 - 62. doi:
+10.5543/tkda.2025.75501.  Epub 2025 Dec 5.
+
+When Everything Else Fails: TricValve® in a Dialysis-Dependent Patient with 
+Advanced Right Heart Failure.
+
+[Article in English]
+
+Boulmpou A(1), Kallifatidis A(2), Charalampidis P(2), Zioutas D(2), Papadopoulos 
+C(1), Kamentsidis D(2), Dimitriadis D(2).
+
+Author information:
+(1)St. Luke's Hospital, Panorama, Thessaloniki, Greece;Third Department of 
+Cardiology, Aristotle University of Thessaloniki, Ippokrateio General Hospital, 
+Thessaloniki, Greece.
+(2)St. Luke's Hospital, Panorama, Thessaloniki, Greece.
+
+We report the case of a 72-year-old man with end-stage renal disease on 
+maintenance dialysis and advanced right heart failure with severe tricuspid 
+regurgitation, chronic atrial fibrillation, and cardiac cachexia. The patient 
+presented with profound hypotension and cardiogenic shock, leading to recurrent 
+failure of renal replacement therapy despite inotropic support. Given the 
+prohibitive surgical risk, transcatheter edge-to-edge repair was deemed 
+unsuitable due to extensive annular dilation, and the patient underwent urgent 
+percutaneous caval valve implantation with the TricValve® system. The procedure 
+was technically successful, resulting in immediate hemodynamic stabilization, 
+improved tolerance of dialysis, and rapid clinical recovery. Follow-up imaging 
+confirmed optimal device positioning without complications. To our knowledge, 
+this represents the first TricValve® implantation in a dialysis-dependent 
+patient in Europe, demonstrating the feasibility and therapeutic value of this 
+approach in carefully selected, high-risk patients with severe tricuspid 
+regurgitation.
+
+DOI: 10.5543/tkda.2025.75501
+PMID: 41346190 [Indexed for MEDLINE]

@@ -1,0 +1,146 @@
+=== PubMed: aort anevrizması ===
+1. Anadolu Kardiyol Derg. 2003 Jun;3(2):122-3.
+
+[Abdominal aortic aneurysm: how and when to treat in light of new knowledge].
+
+[Article in Turkish]
+
+Deligönül U.
+
+Comment on
+    Anadolu Kardiyol Derg. 2003 Jun;3(2):115-21.
+
+PMID: 12826505 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2024 Mar;52(2):88-95. doi: 10.5543/tkda.2023.91628.
+
+Endovascular Repair of Ruptured Aortic Aneurysm: A Single-Center Experience.
+
+[Article in English]
+
+Yüksel UÇ(1), Asil S(1), Yıldırım E(1), Karpat MS(1), Görmel S(1), Fırtına S(1), 
+Yaşar S(1), Buğan B(1), Saatçi Yaşar A(1), Çelik M(1), Bolcal C(2), Barçın C(1).
+
+Author information:
+(1)Department of Cardiology, Gülhane Training and Research Hospital, Ankara, 
+Türkiye.
+(2)Department of Cardiovascular Surgery, Gülhane Training and Research Hospital, 
+Ankara, Türkiye.
+
+OBJECTIVE: Aortic rupture is a rare and catastrophic emergency. Prompt diagnosis 
+and treatment are the primary determinants of mortality. During follow-up, the 
+majority of patients who have been effectively treated die from hypovolemic 
+shock and multiorgan failure. This article describes the clinical and procedural 
+details of sixteen patients with ruptured aortic aneurysms treated 
+endovascularly. In addition, it discusses the main factors contributing to the 
+mortality of these patients.
+METHOD: Patients who underwent endovascular treatment for acute aortic rupture 
+at our center from October 2016 to March 2023 were included in this 
+retrospective study.
+RESULTS: A total of 16 patients underwent endovascular aneurysm repair (EVAR) or 
+thoracic endovascular aneurysm repair (TEVAR) for acute aortic rupture. The 
+patients' mean age was 73.06 years (range: 52-92), and 15 of them were male. The 
+ruptures occurred in the abdominal aortic aneurysm in ten patients, in thoracic 
+aortic aneurysm in three patients, in the isolated iliac artery aneurysm in two 
+patients, and there was one case of non-aneurysmal aortic rupture. In our 
+series, patients who presented with an impending, self-limited rupture and 
+stable hemodynamic status had good prognostic outcomes. However, eight patients 
+died due to multiorgan failure, hemorrhagic shock, disseminated intravascular 
+coagulopathy, renal failure, or abdominal compartment syndrome. These patients 
+generally had poor admission vital signs and low hemoglobin values. The most 
+critical determinants for the success of the procedure are promptly stopping the 
+bleeding, avoiding general anesthesia, and opting for blood product replacement 
+instead of fluid replacement.
+CONCLUSION: Each patient with ruptured aortic aneurysm should be managed 
+according to the patient's hemodynamics at presentation, the size of the 
+aneurysm, the suitability for percutaneous procedure, logistical factors, and 
+the operator-center's experience.
+
+DOI: 10.5543/tkda.2023.91628
+PMID: 38465530 [Indexed for MEDLINE]
+
+
+3. Ulus Travma Acil Cerrahi Derg. 2021 Jan;27(1):17-21. doi: 
+10.14744/tjtes.2020.89342.
+
+Abdominal aortic aneurysm screening: A pilot study in Turkey.
+
+[Article in English]
+
+Koç MA(1), Cetinkaya OA(1), Üstüner E(2), Ceyhun Peker AG(3), Uungan M(3), 
+Bengisun U(4).
+
+Author information:
+(1)Department of General Surgery, Ankara University Faculty of Medicine, 
+Ankara-Turkey.
+(2)Department of Radiology, Ankara University Faculty of Medicine, 
+Ankara-Turkey.
+(3)Department of Family Medicine, Ankara University Faculty of Medicine, 
+Ankara-Turkey.
+(4)Department of General Surgery, Division of Peripheral Vascular Surgery, 
+Ankara University Faculty of Medicine, Ankara-Turkey.
+
+BACKGROUND: This study aims to evaluate the prevalence of abdominal aortic 
+aneurysm (AAA) in Turkish men aged 60 years and older and the factors associated 
+with AAA.
+METHODS: Through sixty-two family health centers located in the Kecioren 
+district of Ankara, 239 male volunteers of the target age were recruited for 
+this pilot study. The volunteers were scanned using B-mode ultrasonography. An 
+aorta of 3 cm or larger in outer to outer diameter was accepted as having AAA. 
+The participants were screened for age, height, weight, known diseases and risk 
+factors.
+RESULTS: AAA was detected in 11 volunteers (4.6%). A history of smoking 
+increased the risk of AAA (Odds ratio: 12.75; CI 95%, 1.2-134.3). The presence 
+of an aneurysm with a history of myocardial infarction (MI) was statistically 
+significant when compared to volunteers without a history of MI (p=0.007). 
+Similarly, volunteers with a history of coronary angiography had a greater risk 
+of an aneurysm than volunteers without (9.5% and 1.9%, respectively). Also, 
+there was a negative correlation between diabetes, peripheral arterial disease, 
+and aortic diameters.
+CONCLUSION: Although AAA has high mortality rates when ruptured, it is a 
+preventable disease. Therefore, it is necessary to know the prevalence of AAA in 
+Turkey. Our findings were compatible with the literature. However, our study was 
+performed as a pilot study, and there is a need for larger studies in our 
+country.
+
+DOI: 10.14744/tjtes.2020.89342
+PMID: 33394483 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2025 Apr;53(3):219-220. doi: 10.5543/tkda.2025.52378.
+
+Large Saccular Descending Thoracic Aortic Aneurysm: An Unexpected Cause of 
+Cardiovocal Syndrome.
+
+[Article in English]
+
+Pradana AD(1), Ismail MT(1), Hariawan H(1), Gharini PPR(1).
+
+Author information:
+(1)Department of Cardiology and Vascular Medicine, Faculty of Medicine, Public 
+Health, and Nursing, Universitas Gadjah Mada, Dr. Sardjito General Hospital, 
+Yogyakarta, Indonesia.
+
+DOI: 10.5543/tkda.2025.52378
+PMID: 40152737
+
+
+5. Turk Kardiyol Dern Ars. 2020 Nov;48(8):784. doi: 10.5543/tkda.2020.90258.
+
+Huge aortic root aneurysm as cause of recent-onset dyspnea.
+
+[Article in English]
+
+Arnaiz-Garcia ME(1), López-Rodríguez FJ(1), Merchán-Gómez S(2), Arnaiz J(3), 
+González Santos JM(1).
+
+Author information:
+(1)Department of Cardiovascular Surgery, University Hospital of Salamanca, 
+Salamanca, Spain.
+(2)Department of Cardiology, University Hospital of Salamanca, Salamanca, Spain.
+(3)Department of Radiology, Aspetar- Orthopaedic and Sports Medicine Hospital, 
+Doha, Qatar.
+
+DOI: 10.5543/tkda.2020.90258
+PMID: 33257617 [Indexed for MEDLINE]

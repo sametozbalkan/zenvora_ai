@@ -1,0 +1,84 @@
+=== PubMed: akut solunum yetmezliği ===
+1. Tuberk Toraks. 2021 Dec;69(4):469-476. doi: 10.5578/tt.20219604.
+
+Comparison of the effectiveness of high-flow and conventional nasal cannula 
+oxygen therapy in pulmonary embolism patients with acute hypoxemic respiratory 
+failure.
+
+[Article in English]
+
+Aksakal A(1), Sağlam L(1), Kerget B(1), Yılmazel Uçar E(1).
+
+Author information:
+(1)Department of Pulmonary Diseases, Atatürk University Faculty of Medicine, 
+Erzurum, Turkey.
+
+INTRODUCTION: The leading cause of mortality in pulmonary embolism (PE) is 
+hypoxemic respiratory failure. The aim of this study was to compare the efficacy 
+of high-flow nasal cannula (HFNC) and conventional nasal cannula (CNC) oxygen 
+therapy in PE patients with hypoxemia.
+MATERIALS AND METHODS: Fifty-eight patients with a PaO2/FIO2 ratio below 300 who 
+were admitted to the emergency department with acute respiratory distress and 
+followed up in our intensive care unit due to PE between March and October 2019 
+were included in the study. One group (n= 29) received HFNC oxygen therapy and 
+the other group (n= 29) received CNC oxygen therapy.
+RESULT: Arterial blood gas analysis showed no significant differences in 
+baseline SpO2 and PaO2 between the HFNC and CNC groups, whereas both values were 
+significantly higher in the HFNC group starting at 1 hour (PaO2: p= .01, p= 
+.001, p= .001; SpO2: p= .009, p= .005, p= .002). Among massive PE patients with 
+contraindications for thrombolytic therapy, there was no significant difference 
+between the HFNC and CNC groups in baseline SpO2, PaO2, or respiratory rate, but 
+those who received HFNC therapy had significant higher SpO2 starting at 15 
+minutes (p= .004 for all), significantly higher PaO2 starting at 1 hour (p= .01, 
+p= .001, p= .001), and significantly lower respiratory rate starting at 30 
+minutes (p= .003, p= .001, p= .001, p= .002, p= .002).
+CONCLUSIONS: In patients presenting with PE and hypoxemic respiratory failure, 
+HFNC oxygen therapy was more effective on both vital signs and arterial blood 
+gas parameters compared to conventional oxygen therapy and can be used safely as 
+primary treatment.
+
+DOI: 10.5578/tt.20219604
+PMID: 34957740 [Indexed for MEDLINE]
+
+
+2. Tuberk Toraks. 2010;58(4):408-17.
+
+[The influence of community-acquired pneumonia to the clinical course in COPD 
+cases admitted to intensive care unit with acute respiratory failure].
+
+[Article in Turkish]
+
+Güngör G(1), Yazıcıoğlu Moçin O, Acartürk E, Başbuğ Y, Saltürk C, Yalçınsoy M, 
+Karakurt Z.
+
+Author information:
+(1)Respiratory Intensive Care Unite, Süreyyapaşa Chest Diseases and Chest 
+Surgery, Training and Research Hospital, İstanbul, Turkey.
+
+In this study the influence of community-acquired pneumonia to the clinical 
+course in 173 COPD patients admitted to ICU with acute respiratory failure (ARF) 
+was evaluated. In prospective descriptive study, patients with pneumonia at 
+admission to ICU were grouped as Group 1, others Group 2. The demographics, 
+"Acute Physiology Assessment and Chronic Health Evaluation (APACHE) II" scores, 
+body mass index (BMI), comorbidities, steroid use, admission arterial blood 
+gases (ABG), leucocyte and CRP, utilization and duration of non-invasive and 
+invasive mechanical ventilation (NIMV and IMV), development of ventilator 
+associated pneumonia (VAP) and septic shock, length of stay (LOS) in ICU and 
+mortality of groups were recorded and compared. No differences were found 
+between demographics, but leucocyte and CRP levels were determined higher in 
+Group 1(p= 005, 0.001). NIMV, IMV ratio and IMV days are similar (respectively 
+p= 0.419, 0.170, 0.459); NIMV was applied longer in Group 2 (p= 0.019). 4 
+(17.6%) patients in group 1 and 7 (6.3%) patients in Group 2 were switched to 
+IMV(p= 0.083) due to NIMV failure.While VAP was detected in 8 (17.7%) cases of 
+intubated 45 (26%) patients, rate of VAP was similar in both groups (p= 0.657). 
+2 (6.7%) patients in Group 1 and 12 (8.3%) patients in Group 2 died and no 
+difference was found in terms of LOS in ICU. Mortality was found 3 times higher 
+(26.7%) than overall mortality (8.1%) in patients with IMV. Mortality risk 
+factors are higher CRP levels (p< 0.016, OR: 1.01 CI 95%: 1.00-1.02), NIMV 
+application determined to reduce the mortality. In conclusions, the presence of 
+pneumonia, on admission to ICU in COPD patients with ARF, didn't influence IMV 
+duration, LOS and mortality in ICU. Although mortality can be higher in COPD 
+patients with high CRP levels, but NIMV is thought to be a mortality reducing 
+treatment approach.
+
+PMID: 21341118 [Indexed for MEDLINE]

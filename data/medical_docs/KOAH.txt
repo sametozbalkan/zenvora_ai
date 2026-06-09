@@ -1,0 +1,173 @@
+=== PubMed: KOAH ===
+1. Tuberk Toraks. 2015;63(4):265-77. doi: 10.5578/tt.9885.
+
+[Asthma-COPD overlap syndrome].
+
+[Article in Turkish]
+
+Şen E(1), Oğuzülgen K, Bavbek S, Günen H, Kıyan E, Türktaş H, Yorgancıoğlu A, 
+Polatlı M, Yıldız F, Çelik G, Demir T, Gemicioğlu B, Mungan D, Saryal S, Sayıner 
+A, Yıldırım N.
+
+Author information:
+(1)Department of Chest Diseases, Faculty of Medicine, Ankara University, Ankara, 
+Turkey. esen@ankara.edu.tr.
+
+Asthma and chronic obstructive pulmonary disease (COPD) are common lung diseases 
+characterized by chronic airway inflammation and airway obstruction. Among 
+patient with COPD and asthma; there is a group of patients with an overlap 
+between clinical, functional characteristics and airway inflammation patterns, 
+named "Asthma-COPD Overlap Syndrome" (ACOS). ACOS is a syndrome characterized by 
+reversible but persistant airflow limitation (postbronchodilator FEV1/FVC < 70%) 
+which has some features of both asthma and COPD. ACOS should be suspected in a 
+patient > 40 years, with smoking history, previous asthma diagnosis or history 
+of childhood asthma who has persistant airflow limitation and reversible ariway 
+obstruction (defined by an increase of > %12 of FEV1 pred or increase of FEV1 > 
+200 mL after inhalation of 400 mcg salbutamol or 1000 mcg terbutaline). The 
+prevalence for ACOS has been reported 11-55% in different case series to date 
+and increases by age and is more frequent in females in different age groups. 
+Patients with ACOS are younger than COPD patients and older than asthma 
+patients. Frequent and severe exacerbations and related hospitalization and 
+emergency room visits are common in ACOS and this causes an impaired quality of 
+life. Current recommendations of guidelines for pharmacologic treatment of ACOS 
+have been composed of a combination with optimal COPD and asthma treatment. 
+Future therapeutic approaches should be based on endotypes. Clinical phenotype 
+and underlying endotype driven clinical studies may be the base of ACOS 
+guidelines.
+
+DOI: 10.5578/tt.9885
+PMID: 26963310 [Indexed for MEDLINE]
+
+
+2. Tuberk Toraks. 2015 Jun;63(2):111-31.
+
+[Acute exacerbation in COPD and asthma].
+
+[Article in Turkish]
+
+Yıldırım N(1), Demir T, Gemicioğlu B, Kıyan E, Oğuzülgen K, Polatlı M, Saryal S, 
+Sayıner A, Yorgancıoğlu A, Bavbek S, Çelik GE, Günen H, Mungan D, Şen E, Türktaş 
+H, Yıldız F.
+
+Author information:
+(1)Department of Chest Diseases, Faculty of Cerrahpasa Medicine, Istanbul 
+University, Istanbul, Turkey. nurhayatyil@hotmail.com.
+
+Chronic obstructive pulmonary disease (COPD) and asthma are airway diseases with 
+acute exacerbations. Natural course of both disease are affected by 
+exacerbations. COPD exacerbations may be caused by infections and other causes; 
+indoor and outdoor pollution, cardiovascular diseases, asthma-COPD overlap 
+syndrome, COPD- obstructive sleep apnea syndrome, pulmonary embolism, 
+gastro-oesophageal reflux, anxiety-depression, pulmonary hypertension. Exposure 
+to triggering factors, viral infections, treatment insufficiency may cause 
+asthma exacerbations. Smoking cessations, prevention of infections, long-acting 
+anticholinergics, long-acting 2 agonists, inhaled corticosteroids, 
+phosphodiesterase-4 inhibitors, mucolytics, prophilactic antibiotics can be 
+effective on the prevention of COPD exacerbations. Asthma exacerbations may be 
+decreased by the avoidance of allergens, viral infections, occupational 
+exposures, airpollution, treatment of comorbid diseases. Effective treatment of 
+asthma is required to prevent asthma exacerbations. Inhaled steroids and 
+combined treatments are the most effective preventive therapy for exacerbations. 
+Patient education and cooperation is an element of the preventive measures for 
+asthma attacks. Compliance to therapy, inhalation techniques, written asthma 
+plans are required. The essential of COPD and asthma exacerbation treatment is 
+bronchodilator therapy. Steroids are also implemented to the therapy, targeting 
+the inflammation. Specific treatments of the cause (infection, airpollution, 
+pulmonary embolism etc.) should be administered.
+
+PMID: 26167969 [Indexed for MEDLINE]
+
+
+3. Tuberk Toraks. 2019 Jun;67(2):131-135. doi: 10.5578/tt.68257.
+
+An underestimated comorbidity of COPD: Thyroid dysfunction.
+
+[Article in English]
+
+Akpınar EE(1).
+
+Author information:
+(1)Clinic of Chest Diseases, Dr. Ridvan Ege Hospital, Ufuk University, Ankara, 
+Turkey.
+
+Chronic obstructive pulmonary disease (COPD) has many systemic effects 
+influencing morbidity and mortality of the disease. Thyroid diseases which are 
+more common in COPD patients than who do not have COPD are underestimated 
+despite important clinical consequences. Similar to general population, thyroid 
+dysfunctions are more common in females than males among COPD patients. Both 
+hypothyroidism and hyperthyroidism may be associated to COPD. As well as 
+systemic inflammation hypoxia, age, glucocorticoid use and smoking are some of 
+the effective factors on developing thyroid dysfunction in COPD patients. In 
+this article thyroid dysfunctions that are underrecognized comorbidities of COPD 
+patients, their mechanisms of action and clinical outcomes were reviewed.
+
+DOI: 10.5578/tt.68257
+PMID: 31414644 [Indexed for MEDLINE]
+
+
+4. Tuberk Toraks. 2019 Mar;67(1):63-70. doi: 10.5578/tt.68162.
+
+The methods other than spirometry in the early diagnosis of COPD.
+
+[Article in English]
+
+Şerifoğlu İ(1), Ulubay G(1).
+
+Author information:
+(1)Clinic of Chest Diseases, Faculty of Medicine, Baskent University, Ankara, 
+Turkey.
+
+Chronic obstructive pulmonary disease (COPD) is a major cause of mortality and 
+morbidity around the world. The diagnosis od COPD is based on the presence of 
+clinical symptoms and the fact that the ratio of post-bronhodilator forced 
+expiratory volume in 1 second to forced expiratory vital capacity(FEV1/FVC) is 
+less than 0.70. Persistent limitation of airflow which is a characteristics of 
+COPD is reproducible and most common lung function test that is why it is 
+usually measured by spirometry. The small airway diseases and the parenchymal 
+destruction play a role in the pathogenesis of COPD at different rates over time 
+resulting in chronic airflow limitation. These pathologies are not always 
+together at the same time and the contribution of those to the development of 
+COPD differ from one individual to another. The pathophysiological involvement 
+of small airways in COPD has been confirmed. When the obstruction of the small 
+airways occur either by mucus, smooth muscle hypertrophy, inflammatory 
+infiltration or air wall thickening; then the consequence is the increased 
+resistance and ventilation impairment. The parenchymal destruction can be 
+estimated via scanning and at the initial assessment of a COPD patient, it gives 
+information about the concomitant pulmonary diseases and/or differential 
+diagnosis. There is an increasing interest on symptomatic individuals whose 
+whose COPD diagnosis has not been confirmed yet with spirometry but diagnosis is 
+based on alternative methods and approaches. Although these methods nowadays are 
+commonly used for the clinical research, they will offer an opportunity to the 
+clinician to find out the COPD patients at an early stage. Herein we will 
+discuss the available methods other than spirometry in the early diagnosis of 
+COPD before the overt disease is confirmed.
+
+DOI: 10.5578/tt.68162
+PMID: 31130137 [Indexed for MEDLINE]
+
+
+5. Tuberk Toraks. 2016 Sep;64(3):240-245.
+
+[New bronchodilators and combinations in COPD treatment].
+
+[Article in Turkish]
+
+Günay S(1), Sarıaydın M, Yılmaz Demirci N.
+
+Author information:
+(1)Clinic of Chest Diseases, Afyonkarahisar State Hospital, Afyonkarahisar, 
+Turkey. sibelgunay@gmail.com.
+
+Bronchodilator drugs are widely used therapeutic agents for treatment of asthma 
+and chronic obstructive pulmonary disease (COPD). In order to mantain 
+bronchodilation, both sympathetic system (particularly beta-2 receptors) 
+activation and parasympathetic system inhibition (antimuscarinic effect) 
+mechanisms are utilized. Over 20 years, there were no significant changes in 
+bronchodilator therapy in obstructive pulmonary diseases. In recent years, 
+however, after the development of new ultra long acting bronchodilator drugs, a 
+single dose inhaler treatments per day in the treatment of stable COPD became a 
+current issue. In this review, with the guidence of the current literature, the 
+effects of new beta-2 agonists and anticholinergic bronchodilators will be 
+discussed.
+
+PMID: 28366158 [Indexed for MEDLINE]

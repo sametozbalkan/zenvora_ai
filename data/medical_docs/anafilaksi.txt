@@ -1,0 +1,76 @@
+=== PubMed: anafilaksi ===
+1. Tuberk Toraks. 2023 Sep;71(3):318-324. doi: 10.5578/tt.20239714.
+
+Delayed anaphylaxis due to Alpha-gal allergy: A modified desensitization 
+protocol with red meat in an adult patient.
+
+Tepetam FM(1), Yegin Katran Z(1), Bayraktar Barın R(1), Çakmak Uğurlu B(2).
+
+Author information:
+(1)Clinic of Immunology and Allergy, University of Health Sciences Süreyyapaşa 
+Chest Diseases and Thoracic Surgery Training and Research Hospital, İstanbul, 
+Türkiye.
+(2)Clinic of Pulmonology, University of Health Sciences, Süreyyapaşa Chest 
+Diseases and Thoracic Surgery Training and Research Hospital, İstanbul, Türkiye.
+
+Alpha-gal allergy is the sensitization to Alpha-gal present in saliva when a 
+tick bites and the development of an IgE-mediated reaction to Alpha-gal also 
+present in red meat by cross-reactivity. In contrast to other food allergies, 
+symptoms occur as late as 2-6 hours after a meal. Prick to prick testing with 
+nonmammalian meat in combination with cooked mammalian meat is recommended for 
+diagnosis. However, the main diagnostic test is Alpha-gal sIgE> 0.1 IU/mL. The 
+primary recommendation in patients with Alpha-gal syndrome is to prevent new 
+tick bites and avoid all mammalian meats. Since most of the dishes in our 
+country's food culture contain red meat, elimination diet may adversely affect 
+patients quality of life. In the management of these patients, the option of 
+desensitization with red meat can be considered by evaluating the benefit-risk 
+ratio together with the patient. Our patient with a history of tick bites and a 
+reaction pattern ranging from urticaria to anaphylaxis two hours after meat 
+consumption was evaluated for Alpha gal allergy. The patient was found to be 
+positive by prick-to-prick with cooked red meat. In addition, the high level of 
+Alpha-gal specific IgE (27.3 Ku/L) confirmed the Alpha-gal allergy, and the 
+decision to apply desensitization with red meat was taken. There are only two 
+literatures on this subject, one of which includes two adult cases and the other 
+a single pediatric case. Since a reaction developed in the fifth step of the 
+27-step desensitization scheme (Ünal et al.), which we took as a reference, 
+which led to a dose increase of more than 100 times, we modified the protocol by 
+using an intermediate steps. We repeated the prick-to-prick test with red meat 
+after desensitization in our case who successfully completed the modified 
+desensitization protocol. Observation of more than half reduction in test edema 
+diameter concretely supports the success of our modified desensitization 
+protocol.
+
+ÖZ:
+ALFA-GAL ALERJISINE BAĞLI GECIKMIŞ ANAFILAKSI: YETIŞKIN BIR HASTADA KIRMIZI ET 
+ILE MODIFIYE DESENSITIZASYON PROTOKOLÜ: Alfa-gal alerjisi, bir kene ısırdığında 
+tükürükte bulunan Alfa-gal’a karşı duyarlanma oluşması ve çapraz reaktivite ile 
+kırmızı ette de bulunan Alfa-gal’a karşı IgE aracılı bir reaksiyon gelişmesidir. 
+Diğer gıda alerjilerinin aksine, belirtiler yemekten 2-6 saat kadar sonra ortaya 
+çıkar. Tanı için pişmiş memeli eti ile birlikte memeli olmayan et ile 
+prick-to-prick testi önerilir. Bununla birlikte, ana tanı testi Alfa-gal sIgE> 
+0,1 IU/mL’dir. Alfa-gal sendromlu hastalarda öncelikli öneri yeni kene 
+ısırıklarının önlenmesi ve tüm memeli etlerinden kaçınılmasıdır. Ülkemiz yemek 
+kültüründe yer alan yemeklerin çoğu kırmızı et içerdiğinden eliminasyon diyeti 
+hastaların yaşam kalitesini olumsuz etkileyebilir. Bu durumdaki hastaların 
+yönetiminde, yarar risk oranı hastayla birlikte değerlendirilerek kırmızı et ile 
+desensitizasyon seçeneği düşünülebilir. Kene ısırığı öyküsü olan ve et 
+tüketiminden iki saat sonra ürtikerden anafilaksiye kadar değişen reaksiyon 
+paterni gelişen hastamız Alfa-gal alerjisi açısından değerlendirildi. Hastaya 
+pişmiş kırmızı et ile yapılan prick-to-prick ile pozitif bulundu. Ayrıca yüksek 
+Alfa-gal spesifik IgE düzeyi (27,3 Ku/L) ile Alfa-gal alerjisi doğrulandı ve 
+kırmızı et ile desensitizasyon uygulama kararı alındı. Bu konuda biri iki 
+yetişkin, diğeri tek bir pediatrik vakayı içeren sadece iki literatür 
+bulunmaktadır. Referans aldığımız 27 basamaklı desensitizasyon şemasının (Ünal 
+ve ark.) yüz kattan fazla doz artışına yol açan beşinci basamağında reaksiyon 
+geliştiğinden ara basamaklar kullanarak protokolü modifiye ettik. Modifiye 
+edilmiş desensitizasyon protokolünü başarıyla tamamlayan olgumuzda 
+desensitizasyon sonrasında kırmızı et ile prick-to-prick testini tekrarladık. 
+Test ödem çapında yarıdan fazla azalma gözlenmesi, modifiye desensitizasyon 
+protokolümüzün başarısını somut olarak desteklemektedir.
+
+DOI: 10.5578/tt.20239714
+PMCID: PMC10795274
+PMID: 37740636 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

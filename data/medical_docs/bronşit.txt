@@ -1,0 +1,44 @@
+=== PubMed: bronşit ===
+1. Tuberk Toraks. 2013;61(3):209-15. doi: 10.5578/tt.3070.
+
+[The prevalence of chronic bronchitis in adults living in the center of 
+Gumushane].
+
+[Article in Turkish]
+
+Tutar N(1), Yeşilkaya S, Memetoğlu ME, Özel D, Boşnak E.
+
+Author information:
+(1)Clinic of Chest Diseases, Gumushane State Hospital, Gumushane, Turkey. 
+drnuritutar@gmail.com.
+
+INTRODUCTION: Chronic bronchitis and emphysema are major components of chronic 
+obstructive pulmonary diseases (COPD). The aim of this study was to determine 
+the prevalence of chronic bronchitis 20 years and over living in the center of 
+Gumushane and to analyze the risk factors.
+MATERIALS AND METHODS: The study is targeted to reach 373 people who represent 
+the center of Gumushane, 368 (98.6%) people have been reached. Participants were 
+filled modified version of the questionnaire created by the Medical Research 
+Council by face-to-face interview technique.
+RESULTS: The prevalence of chronic bronchitis was 14.1%. The average age was in 
+the chronic bronchitis group and non-chronic bronchitis group was respectively 
+43.2 ± 12.9, 39.3 ± 11.6, and the differance was statistically significant (p< 
+0.05). Considering the relationship between cigarette smoking with chronic 
+bronchitis, it was more frequent in smokers than non-smokers (p< 0.001, OR 4.74, 
+95% CI 2.47-9.17). Chronic bronchitis was observed in passive smokers than in 
+non-smokers (p= 0.004, OR 2.86, 95% CI 1.36-6.03). Occupational exposure to 
+dust, fumes and history of childhood pulmonary diseases were increased chronic 
+bronchitis prevalence (respectively, p< 0.001, OR 9.53, 95% CI 4.56-19.94; p< 
+0.001, OR 12.14, 95% CI 5.87-25.12). Male gender, low income level and to warm 
+up with stove were found statistically significant by univariate logistic 
+regression analysis but these risk factors were not statistically significant in 
+the multivariate analysis. Educational level was not found statistically 
+significant in both analysis (p> 0.05).
+CONCLUSION: The prevalence of chronic bronchitis was 14.1% in 20 years and older 
+adults living in the center of Gumushane. Old age (especially over the age of 
+50), active or passive smoking, occupational history of dust, fumes and history 
+of childhood pulmonary diseases were found to be risk factors for chronic 
+bronchitis.
+
+DOI: 10.5578/tt.3070
+PMID: 24298962 [Indexed for MEDLINE]

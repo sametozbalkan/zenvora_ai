@@ -1,0 +1,695 @@
+=== PubMed: sodium electrolyte high low causes treatment ===
+1. Int Immunopharmacol. 2026 Jul 1;180:116653. doi: 10.1016/j.intimp.2026.116653.
+ Epub 2026 Apr 23.
+
+The water-soluble alkaloid from Sophora moorcroftiana enhances Tregs populations 
+and ameliorate ulcerative colitis in mice.
+
+Yang Q(1), Yang N(2), Zhang Y(2), An S(3), Si X(2), Kong W(2), Bao T(2), Zhang 
+D(4), Sheng L(5), Ma X(6), Luo Y(7).
+
+Author information:
+(1)Department of Immunology, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou 730000, Gansu, China; Xianyang First People's Hospital, 
+Xianyang 712000, Shanxi, China.
+(2)Department of Immunology, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou 730000, Gansu, China.
+(3)Department of Endocrinology, Gansu Provincial Hospital, Lanzhou 730000, 
+Gansu, China.
+(4)Department of Pathogenic Microbiology, School of Basic Medical Sciences, 
+Lanzhou University, Lanzhou 730000, Gansu, China.
+(5)Department of Immunology, School of Medicine, Northwest Minzu University, 
+Lanzhou 730030, Gansu, China.
+(6)Department of Immunology, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou 730000, Gansu, China. Electronic address: 
+malaoshi123hao@163.com.
+(7)Department of Immunology, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou 730000, Gansu, China. Electronic address: luoyp@lzu.edu.cn.
+
+Ulcerative colitis (UC) is a chronic inflammatory disease that damages colonic 
+and rectal mucosa, and pharmacotherapy is the primary measure. However, the UC 
+drug presents several notable problems, including low therapeutic efficacy, side 
+effects, and high cost. Sophora moorcroftiana (S. moorcroftiana) is a plant 
+native to the Tibetan Plateau. It is recorded that the aqueous extract of the 
+seeds is used for treating digestive tract diseases, and the main alkaloids 
+possess anti-inflammatory properties. Therefore, it is suggested that the 
+water-soluble alkaloid (E2) from S. moorcroftiana may be a potential therapeutic 
+agent against UC. The main alkaloids of the extract (E2, E2-a, and E2-b) were 
+detected and identified by liquid chromatography-mass spectrometry (LC-MS). UC 
+mice were induced with dextran sulfate sodium (DSS), followed by treatment with 
+extract from S. moorcroftiana seeds. Disease activity index (DAI) scores and H&E 
+staining were used to determine which extract has a therapeutic effect. The 
+proportion of Tregs/Th17 cells was detected by flow cytometry, the levels of 
+IL-6, TNF-α, IL-1β, and IL-28B in colon tissue were measured by ELISA, and the 
+expression of p-STAT3, p-p65, p-IκBα, and p-p38 was detected with western blot. 
+The main alkaloids of the extract were identified; there are 7 distinct 
+alkaloids in E2, with E2-a and E2-b each containing 4, and piperine is present 
+only in E2. Compared with the DSS group, mice treated with E2-b or E2 exhibited 
+less severe damage, based on the milder DAI scores, longer colon length, and 
+less pathological injury. In contrast, E2-a failed to alleviate the progression 
+of UC. Further research revealed that both E2-b and E2 reduced the population of 
+IL-17 A+ cells, while E2 upregulated the population of Tregs. In addition, all 
+extracts induced a low level of IL-6, and E2 decreased the level of IL-1β. 
+Moreover, the protein expression of p-STAT3 was significantly inhibited by E2. 
+In the extracts of S. moorcroftiana seeds, the water-soluble alkaloid (E2) 
+exhibits the best therapeutic efficacy in UC mice, suggesting that the compounds 
+present in the extract is a potential therapeutic agent in UC.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2026.116653
+PMID: 42030889 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Am J Trop Med Hyg. 2026 Mar 31;114(5):981-988. doi: 10.4269/ajtmh.25-0635.
+Print  2026 May 6.
+
+Low Blood Glucose and Its Relation to Electrolyte Derangements and Metabolic 
+Acidosis in Critically Ill Children in Malawi.
+
+Kreslins A(1)(2), Ngwalangwa F(3), Langton J(4), Mlia Phiri E(4), King C(1), 
+Hildenwall H(1)(2)(5).
+
+Author information:
+(1)Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+(2)Astrid Lindgren Children's Hospital, Karolinska University Hospital, 
+Stockholm, Sweden.
+(3)Department of Epidemiology and Biostatistics, Kamuzu University of Health 
+Sciences, Blantyre, Malawi.
+(4)Department of Pediatrics and Child Health, Queen Elizabeth Central Hospital 
+and Kamuzu University of Health Sciences, Blantyre, Malawi.
+(5)Department of Clinical Science, Intervention and Technology, Karolinska 
+Institutet, Stockholm, Sweden.
+
+Critically ill children with low blood glucose concentrations in low-income 
+settings suffer a high risk of mortality independent of other signs of disease 
+severity and despite administration of the currently recommended treatment of 
+hypoglycemia. This study explores other pathways that may relate to the high 
+mortality risk, namely electrolyte derangements, metabolic acidosis, and 
+hyperketonemia. Children ages 1 month to 5 years old presenting with one or more 
+WHO emergency signs were recruited upon arrival to the Pediatric Accident and 
+Emergency Department at Queen Elizabeth Central Hospital in Malawi between 
+November 2022 and June 2024. A total of 12 hypoglycemic (blood glucose <2.5 
+mmol/L), 36 low glycemic (blood glucose 2.5-4.9 mmol/L), and 201 normoglycemic 
+(blood glucose 5.0-10.0 mmol/L) children were enrolled. Low glycemic children 
+had increased odds of acidosis (adjusted odds ratio [aOR] = 5.84, 95% CI: 
+1.17-29.2 for moderate acidosis; aOR = 27.1, 95% CI: 6.08-120.9 for severe 
+acidosis). Among children with acidosis, there were increased odds of 
+hypokalemia (aOR = 24.5, 95% CI: 2.91-205.88), hyponatremia (aOR = 2.58, 95% CI: 
+1.33-4.99 for moderate acidosis; aOR = 3.62, 95% CI: 1.71-7.68 for severe 
+acidosis), and hypernatremia (aOR = 9.42, 95% CI: 2.50-35.5 for severe 
+acidosis). There were no increased odds of potassium or sodium derangements in 
+those with low glucose concentrations. Low blood glucose concentrations were 
+associated with metabolic acidosis, which in turn, was associated with 
+hypokalemia and hyponatremia/hypernatremia. However, there was no direct 
+association between low blood glucose and electrolyte derangements.
+
+DOI: 10.4269/ajtmh.25-0635
+PMID: 41916267 [Indexed for MEDLINE]
+
+
+3. Nat Med. 2026 Apr;32(4):1454-1478. doi: 10.1038/s41591-026-04250-8. Epub 2026 
+Mar 30.
+
+Global, regional and national burden of ischemic heart disease attributable to 
+suboptimal diet, 1990-2023: a Global Burden of Disease study.
+
+GBD 2023 IHD & Dietary Risk Factors Collaborators.
+
+Collaborators: Lee S, Lee H, Son Y, Shin JI, Aalruz H, Abate YH, Abbafati C, 
+Abbas N, Abbaspour E, Abbastabar H, ElHafeez SA, Abdi P, Abdisa WM, Abdollahi M, 
+Abdoun M, Abdulkader RS, Abdullahi A, Abiodun OO, Abiodun O, Aboagye RG, 
+Abohashem S, Abreu LG, Abtahi D, Abubakar AK, Abubakar B, Abu-Gharbieh E, 
+Abukhadijah HJ, Aburuz S, Abu-Zaid A, Adane MM, Addo IY, Adebayo OM, Adedokun 
+KA, Adedoyin RA, Adetunji CO, Adetunji JB, Adeyeoluwa TE, Adhikari K, Adiga U, 
+Sakilah Adnani QE, Afolabi AA, Afrooghe A, Afzal MS, Afzal S, Agarwal P, Agide 
+FD, Agyemang-Duah W, Ahinkorah BO, Ahmad A, Ahmad D, Ahmad F, Ahmad MM, Ahmad S, 
+Ahmadi A, Ahmed A, Ahmed H, Ahmed MB, Ahmed M, Ahmed SA, Ajami M, Aji B, Akkaif 
+MA, Amiry AA, Awaidy SA, Qadire MA, Alalwan TA, Al-Aly Z, Alam K, Al-Ashwal FY, 
+Albashtawy M, Aldawsari KA, Aldhaleei WA, Algammal AM, Alhalaiqa FN, Ali A, Ali 
+A, Ali EA, Ali MD, Ali MU, Ali R, Ali SS, Ali W, Alicandro G, Alif SM, Al-Jabi 
+SW, Aljunid SM, Alkhatib A, Al-Marwani S, Alnaeem MM, Alomari MA, Alqahtani SA, 
+Alrawashdeh A, Alrousan SM, Alsabri MA, Alseragi WM, Altaany Z, Altaf A, 
+Alvis-Guzman N, Alwafi H, Al-Wardat M, Al-Worafi YM, Aly S, Ibrahim Alyahya MS, 
+Alzoubi KH, Mohammadi MA, Amani R, Amegah AK, Amin TT, Amu H, Amugsi DA, Amusa 
+GA, Ancuceanu R, Anil A, Ansong R, Anvari S, Anwar SL, Anyasodor AE, Arabloo J, 
+Aravkin AY, Areda D, Armocida B, Ärnlöv J, Arooj M, Artamonov AA, Ashraf J, 
+Ashraf T, Yeboah Asiamah-Asare BK, Askarinejad A, Astell-Burt T, Athari SS, 
+Atorkey P, Awoke MA, Awotidebe AW, A Ayana LA, Azhar M, Aziz S, Azizian H, Azzam 
+AY, Azzolino D, B G, Babu GR, Bagheri N, Taghanaki PB, Bahreini R, Bai R, Baig 
+AA, Baker JL, Bakkannavar SM, Baltatu OC, Bam K, Banach M, Bansal H, Bardhan M, 
+Bärnighausen TW, Barqawi HJ, Barua L, Basharat Z, Aliabadi SB, Basri R, Bastan 
+MM, Basu S, Batra K, Bayati M, Bayih MT, Behera P, Belayneh AG, Belgaumi UI, 
+Bilgin GB, Bell ML, Bello OO, Bensenor IM, Benziger CP, Berezvai Z, Berhie AY, 
+Beyene HB, Beyene KA, Bhadoria AS, Bhagavathula AS, Bhala N, Bharadwaj R, 
+Bhardwaj P, Bhaskar S, Bhat AN, Bhat V, Bhatti GK, Bhatti JS, Bhatti R, Bilgin 
+C, Birhan MM, Biswas B, Bizzozero-Peroni B, Boloor A, Boppana SH, Borhany H, 
+Brahmaiah J, Braithwaite D, Brauer M, Brenner H, Britton G, Bugiardini R, Bulamu 
+NB, Bulto LN, Burkart K, Bustanji Y, Butt ZA, Calina D, Cámera LA, Campos LA, 
+Campos-Nonato I, Capodici A, Carvalho F, Carvalho M, Castañeda-Orjuela CA, 
+Catapano AL, Cattafesta M, Cattaruzza MS, Cegolon L, Cembranel F, Cenko E, 
+Cernigliaro A, Chakraborty S, Kai Chan JS, Chandika RM, Chandran S, Chaudhary 
+AA, Chen H, Chen H, Chen S, Chew NW, Chi G, Chichagi F, Chimoriya R, Ching PR, 
+Chirinos-Caceres JL, S Cho WC, Choi DW, Chong B, Chou HI, Choudhari SG, 
+Chowdhury EK, Chowdhury R, Chu DT, Chukwu IS, Chung SC, Giuseppe Cicero AF, 
+Cioffi I, Criqui MH, Cruz-Martins N, Cui X, da Silva AG, Dababo N, Dadras O, Dai 
+X, Dai Z, Damiani G, D'Amico E, Darcho SD, Das S, Dascalu AM, Dash NR, Dassah C, 
+Davletov K, Bo' CD, Denova-Gutiérrez E, Dergaa I, Dervišević E, Desale AT, 
+Chellaiyan Devanbu VG, Devegowda D, Rahman Dewan SM, Dhama K, Dhimal M, Pumpo 
+MD, Dima A, Phuong Do TH, do Prado CB, Doaei S, Doegah PT, Dohare S, Doshi OP, 
+Doshi RP, Dowou RK, Dsouza VS, Duncan BB, Duraes AR, Dziedzic AM, E'mar AR, 
+Ebrahimi A, Eghbali F, Ejeta D, Ekholuenetale M, El Arab RA, El Bayoumy IF, 
+Sayed IE, Eladl MA, Elgendy IY, Elhadi M, El-Huneidi W, El-Metwally AA, 
+Elmoselhi AB, Elnaem MH, Elsohaby I, Eltaha C, Emeto TI, Eskandarieh S, Eslami 
+M, Espinosa-Montero J, Etaee F, Fadaka AO, Fadhil I, Fagbamigbe AF, Fahim A, 
+Fahimi S, Fakhradiyev IR, Falzone L, Faraji SN, Fareed M, Farina J, Farina S, 
+Farinha CSES, Mahmoud Faris ME, Farrokhpour H, Fazylov T, Feizkhah A, Fekadu G, 
+Feng X, Fernandez-Jimenez R, Ferreira N, Fetensa G, Feyisa BR, Fischer F, 
+Folayan MO, Fortuna D, Foschi M, Fotouhi M, Fraij A, G S, Gaal PA, Gadanya MA, 
+Gaidhane AM, Gaipov A, Galali Y, Gallus S, Gastélum Espinoza WP, Gautam RK, 
+Gebregergis MW, Gebremeskel TG, Getacher L, Getie M, Ghadimi DJ, Ghadirian F, 
+Ghaffari K, Ghafourifard M, Ghamari SH, Ghasemi MR, Ghazy RM, Gholamalizadeh M, 
+Gholami Z, Ghorbani Z, Vajargah PG, Gil AU, Gill TK, Girmay AA, Glasstetter LM, 
+Göbölös L, Golechha M, Goleij P, Goulart AC, Grada A, Grivna M, Grosso G, Grover 
+A, Guadie HA, Guan Z, Guarducci G, Mohialdeen Gubari MI, Guha A, Gulati S, 
+Gunawardane DA, Gupta B, Gupta R, Gupta S, Gupta VB, Gupta VK, Gupta VK, 
+Gutiérrez-Murillo RS, Habteyesus DF, Hadei M, Hadi NR, Hadian Z, Haile D, 
+Hamadeh RR, Hamdy NM, Hankey GJ, Hanna F, Haque OI, Harding KL, Hargono A, 
+Harlianto NI, Haro JM, Marah Has EM, Hasani H, Hashempour R, Hashempur MH, 
+Hasnain MS, Hassan A, Hassan I, Hassan N, Havmoeller RJ, Hay SI, Hayat K, Hbid 
+Y, He J, He Q, Hebert JJ, Heidari G, Hemmati M, Herrera-Serna BY, Hiraike Y, 
+Hoang M, Holla R, Hossain MB, Hosseini SK, Hosseinzadeh H, Hostiuc M, Hostiuc S, 
+Huang J, Hussain J, Huynh HH, Ibrahim R, Ibrahim UI, Ibrayeva A, Ikeda N, 
+Ikiroma A, Ilesanmi OS, Ilic IM, Ilic MD, Imam MT, Immurana M, Inok A, 
+Iqhrammullah M, Iskandar B, Islam MR, Ismail NE, Iso H, Isola G, Iwagami M, Iyer 
+M, J V, Jacob L, Jafarzadeh A, Jahanmehr N, Jahrami H, Jain A, Jairoun AA, 
+Jakovljevic M, Jalloh M, Jamil S, Jawaid T, Jayapal SK, Jayaram S, Jayasinghe 
+RD, Jebasingh FK, Jeong GH, Jeswani BM, Jha AK, Ji Z, Jokar M, Jonas JB, Joseph 
+N, Joshua CE, Jozwiak JJ, Jürisson M, Juweid ME, Jyoti A, Kabir A, Kabir Z, 
+Kakkar AK, Kalra S, Kamath A, Kamorudeen RT, Kankam SB, Kanmiki EW, 
+Karagiannidis E, Karakasis P, Karimi A, Karimi Y, Karimzadhagh S, Kashoo FZ, 
+Kasraei H, Kauppila JH, Kayode GA, Kazemian S, Kedir S, Keflie TS, Kelly JT, 
+Kesse-Guyot E, Keykhaei M, Khaing IK, Khajuria H, Khalid N, Khalilian A, 
+Khammarnia M, Khan A, Khan F, Khan MN, Khan MJ, Khan MA, Khan MU, Khanal V, 
+Khatatbeh MM, Khateri S, Khidri FF, Khosla AA, Khubchandani J, Kifle ZD, Kim K, 
+Kim YJ, Kimokoti RW, Kisa A, Kivimäki M, Km S, Kokkorakis M, Kolahi AA, Kompani 
+F, Korshunov VA, Korzh O, Kosen S, Kostev K, Krishan K, Krishna V, Defo BK, 
+Bicer BK, Kuddus M, Kulimbet M, Kumar A, Kumar N, Kumar S, Kundu S, Kunutsor SK, 
+Kurniasari MD, Kusnali A, Kusuma D, Kytö V, Vecchia C, Lahariya C, Ching Lai DT, 
+Lallukka T, Lám J, Latief K, Lau J, Lauriola P, Nhat Le MH, Hanh Le NH, Thu Le 
+TT, Ledda C, Lee I, Lee PH, Lee SW, Leivaditis V, Li A, Li J, Li MC, Li W, 
+Ligade VS, Lim LL, Lim SS, Lin J, Lin RT, Lindholm D, Liu L, Liu X, López-Gil 
+JF, Lorkowski S, Lucchetti G, Lugo A, Lv L, Ma ZF, Mabrok M, Mafi A, Maghazachi 
+AA, Mahalleh M, Mahmoudi E, Majeed A, Makram AM, Rad EM, Malekzadeh R, Malik AA, 
+Malta DC, Mamun AA, Manla Y, Mansourian M, Mansournia MA, Maqsood S, Marasini 
+BP, Marateb HR, Marghani BH, Marino M, Martinez-Piedra R, Martini D, Martorell 
+M, März W, Marzouk S, Masrouri S, Mathur MR, Mathur M, Mathur N, Mattiello R, 
+Maugeri A, Mazidi M, McKee M, Meena JK, Meftah E, Mehmood A, Mehra R, Meto TM, 
+Melaku YA, Meles HN, Mendez-Lopez MA, Menezes RG, Mentis AA, Meo SA, Mestrovic 
+T, Miazgowski T, Michalek IM, Sá ACMGN, Miller TR, Minervini G, Mini GK, 
+Mirghafourvand M, Mirrakhimov EM, Mocciaro G, Mogessie Y, Mohamed MG, Mohamed 
+NS, Mohammad AM, Mohammadian-Hafshejani A, Mohammadzadeh I, Mohammed S, 
+Vardanjani HM, Namin SM, Ghalibaf AM, Moradi Y, Moradi-Lakeh M, Moraga P, 
+Morovatdar N, Mossialos E, Motappa R, Mougin V, Khaneghah AM, Mubarik S, Mulita 
+A, Munkhsaikhan Y, Murillo-Zamora E, L Murray CJ, Musa S, Mustafa G, Myung W, 
+Nafei A, Naik GR, Nainu F, Najdaghi S, Nambi G, Nanavaty DP, Kuni Nandu KT, 
+Swamy SN, Nargus S, Nascimento BR, Nascimento GG, Nasrollahizadeh A, 
+Nasrollahizadeh A, Nassar M, Natto ZS, Nauman J, Kumari Navaratna SN, Na N, 
+Nayak BP, Nazri-Panjaki A, Negahdary M, Negoi I, Negoi RI, Nekouei O, Netsere 
+HB, Nguyen D, Nguyen VT, Niazi RK, Nikoobar A, Nikravangolsefid N, Anggraini 
+Ningrum DN, Niranjan V, Nomura S, Ahmed Noor ST, Noubiap JJ, Nouri M, Nri-Ezedi 
+CA, Ntsekhe M, Nugen F, Nur A, Nurrika D, Nzoputam CI, Nzoputam OJ, Oancea B, 
+Odetokun IA, Oguta JO, Ojo-Akosile TR, Okati-Aliabad H, Okeke SR, Okekunle AP, 
+Okwute PG, Olagunju AT, Olalusi OV, Oliveira AB, Moraes Oliveira GM, Oludoye OO, 
+Omar HA, Bali AO, Ong SK, Ordak M, Orish VN, Ortiz A, Ortiz-Prado E, Osuagwu UL, 
+Oumer A, Owolabi MO, A MP, Padron-Monedero A, Padubidri JR, Panda SK, Pande 
+Katare D, Pantazopoulos I, Stoian AP, Pardhan S, Parekh U, Parida A, Parija PP, 
+Parikh RR, Park EC, Pashaei A, Passera R, Patel J, Patil S, Patoulias D, Pawar 
+S, Toroudi HP, Peprah P, Pereira G, Perico N, Perna S, Petermann-Rocha F, Pham 
+HN, Pischon T, Plotnikov E, Poddighe D, Poluru R, Avudaiappan AP, Pourghazi F, 
+Pradhan J, Singh Pradhan PM, Prasad M, Prashant A, Sady Prates EJ, Purkait T, 
+Puvvula J, Qattea I, Qiao Y, Radhakrishnan V, Raghav P, Ur Rahman MH, Rahman MA, 
+Rahmanian M, Rahmati M, Rahmawaty S, Rai RK, Raja S, Rajaa S, Rajput P, Ramadan 
+MM, Ramasamy C, Ramasamy SK, Ramazanu S, Ramphul K, Rana K, Rana RK, Ranabhat 
+CL, Rancic N, Rao M, Rashedi S, Rashid AM, Rashidi MM, Rasouli-Saravani A, 
+Rathish D, Rauniyar SK, Rawaf DL, Rawaf S, Razo C, Redwan E, Remuzzi G, Rezaei 
+N, Rezaeian M, Rodrigues M, da Silva TPR, Buendia Rodriguez JA, Roever L, 
+Rohilla R, Romadlon DS, Khan Rony MK, Root KT, Patrick Ross AG, Roy N, Roy P, 
+Roy S, Russo M, Rwegerera GM, A Saad AM, Saber-Ayad MM, Sabet CJ, Sabzmakan L, 
+Dhingra MS, Saddik BA, Sadeghi M, Saeb MR, Saeed U, Safi SZ, Sagoe D, 
+Sharif-Askari FS, Sharif-Askari NS, Sahebkar A, Sahoo SS, Sajadi SM, Sajid MR, 
+Salaroli LB, Saleem S, Saleh MA, Samargandy S, Sami W, Samodra YL, Samy AM, 
+Santos IS, Santric-Milicevic MM, Nadeem Saqib MA, Sarkar T, Sarode GS, Sarode 
+SC, Sarrafzadegan N, Sarveazad A, Sawhney M, Saxena J, Saya GK, Sayeed A, Sayeed 
+MA, Schinckus C, Schmidt MI, Schumacher AE, Schutte AE, Schwendicke F, Selvaraj 
+S, Sendekie AK, Senthilkumaran S, Sepanlou SG, Serban D, Sethi Y, Setoguchi S, 
+Seylani A, Sha'aban A, Shafie M, Shahab M, Shahabi S, Shahid S, Shahwan MJ, 
+Shaikh MA, Shaikh SZ, Sham S, Shamim MA, Shams-Beyranvand M, Shamsutdinova A, 
+Shanawaz M, Shao X, Sharfaei S, Sharifan A, Sharma M, Sharma U, Sharma V, 
+Shehzadi S, Shenoy RR, Shetty PH, Shetty PK, Shetty SS, Shi W, Shiri R, Shittu 
+A, Shiue I, Shokri F, Shool S, Shorofi SA, Shrestha S, Shuval K, Si Y, Siddig 
+EE, Siervo M, Sikdar M, Silva LMLR, Singh A, Singh A, Singh B, Singh BP, Singh 
+H, Singh JA, Singh K, Singh L, Singh P, Singh P, Singh R, Singh S, Skryabina AA, 
+M Soliman SS, Soudah O, Spartalis M, Srichawla BS, Srinivasamurthy SK, Stanaway 
+JD, Stubbs P, Subedi N, Subramaniyan V, Suleman M, Sun J, Sundström J, Sunuwar 
+DR, Swain CK, Szarpak L, T Y SS, Tabarés-Seisdedos R, Tabatabaei SM, 
+Tabatabaeizadeh SA, Tabatabai S, Tabche C, Tabish M, Tadakamadla J, Tadakamadla 
+SK, Taiba J, Talaat IM, Tampa M, Tamuzi JL, Tang H, Tat NY, Temsah MH, Teramoto 
+M, Thakur R, Thangaraju P, Thangavelu L, Thankappan KR, Thapa R, Thapar R, 
+Thayakaran R, Vera Ticoalu JH, Tiwari K, Tomo S, Tonelli M, Touvier M, 
+Tovani-Palone MR, Trabelsi K, Tran NM, Huong Tran QT, Tran TH, Minh Duc NT, 
+Trico D, Truyen TTTT, Tualeka AR, Tumurkhuu M, Tyrovolas S, Udoakang AJ, Umair 
+M, Upadhya D, Upadhyay E, Uppal D, Usman JS, Vaithinathan AG, den Eynde JV, 
+Varghese J, Varthya SB, Vasankari TJ, Verma M, Verras GI, Vervoort D, Vinayak M, 
+Vu LT, Vujcic IS, Waheed Y, Wang X, Wang X, Wang Y, Wanjau MN, Waqar AB, Wassie 
+TH, Werdecker A, Wicaksana AL, Wickramasinghe DP, Wickramasinghe ND, Willeit P, 
+Wojewodzic MW, Wonde TE, Wu F, Wu Z, Wubie YM, Xie W, Xu S, Xu X, Yahya G, 
+Yamagishi K, Yano Y, Yaribeygi H, Yasufuku Y, Ye P, Yesuf SA, Yin D, Yonemoto N, 
+Youssef MY, Yu C, Zanghì A, Zawiah M, M Zeariya MG, Zebari SMMS, P Zhang CJ, 
+Zhang L, Zhang Y, Zhang Z, Zhao H, Zhong A, Zhong CC, Zhou S, Zhou XD, Zhu B, 
+Zhumagaliuly A, Zielińska M, Zoghi G, Zou Z, Zyoud SH, Mokdad AH, Kim MS, Yon 
+DK.
+
+Ischemic heart disease (IHD) remains a leading cause of death worldwide, with 
+dietary risks being its most significant modifiable factor. Here, using the 
+Global Burden of Diseases, Injuries and Risk Factors Study 2023, we estimated 
+the mortality and disability-adjusted life years from diet-related IHD across 
+204 countries. In 2023, a suboptimal diet was responsible for 4.06 million (95% 
+uncertainty interval (UI) 0.74-6.22) IHD deaths and 96.84 million (18.82-142.52) 
+IHD disability-adjusted life years. The global age-standardized death rate of 
+IHD attributable to suboptimal diet decreased by 43.92% (95% UI 34.44-53.23) per 
+100,000 population from 1990 to 2023. Among dietary factors, low intake of nuts 
+and seeds (9.87, 95% UI 2.84-17.12 deaths per 100,000 population), low whole 
+grains (9.22, 4.73-13.67), low fruits (7.25, 1.54-13.34) and high sodium (7.15, 
+0.92-17.97) were primary contributors to IHD deaths. The burden was particularly 
+pronounced in low- and middle-sociodemographic index countries. By disentangling 
+dietary risk factors, we identified the portion of IHD burden directly 
+modifiable through food interventions.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41591-026-04250-8
+PMID: 41912805 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: S. Afzal reports support 
+for the present manuscript from the Institute of Public Health Lahore; grants or 
+contracts by the Dean office Institute of Public Health Lahore; honoraria for 
+experts, lectures, visiting speakers and educational seminars were provided by 
+the Dean Institute of Public Health Lahore; support for attending meetings and 
+travel was provided by the Dean Institute of Public Health, Lahore Pakistan; 
+participation on a Data Safety Monitoring Board or Advisory Board as Member 
+Pakistan National Bioethics Committee, Member Institutional Review Board of 
+Fatima Jinnah Medical University, Member Ethical Review Board and Data 
+Monitoring Board Institute of Public Health Lahore Pakistan, and in charge of 
+Clinical Research Organization King Edward Medical University; leadership or 
+fiduciary roles in board, society, committee or advocacy groups, paid or unpaid 
+as a Member Pakistan Higher Education Commission Research Committee, Member 
+Pakistan Medical and Dental Commission Research and Journals Committee, Member 
+Pakistan Society of Internal Medicine, Member Pakistan Association of Medical 
+Editors, Member Medical Microbiology and Infectious Diseases Society, Fellow of 
+Leads International, Fellow of Faculty of Public Health UK, Fellow of College of 
+Physicians and Surgeons Pakistan; receipt of equipment, materials, drugs and 
+services, including computer software and equipment from Bergen University 
+Norway for research writing; other financial or nonfinancial interests as the 
+Dean of Public Health and Preventive Medicine at King Edward Medical University, 
+Lahore; all outside the submitted work. F. Ahmad reports grants or contracts 
+(22010901112, 24010901173) from the University of Sharjah outside the submitted 
+work. G. Alicandro reports support for the present manuscript from The 
+Department of Pathophysiology and Transplantation, University of Milan, funded 
+by the Italian Ministry of Education and Research (MUR): Dipartimenti di 
+Eccellenza Program 2023 to 2027. S.M. Alif reports support for attending 
+meetings or travel from The University of Melbourne; leadership or fiduciary 
+role in other board, society, committee or advocacy group, paid or unpaid, from 
+the Thoracic Society of Australia and New Zealand; all outside the submitted 
+work. R. Ancuceanu reports consulting fees from Abbvie and Merck Romania; 
+payment or honoraria for lectures, presentations, speakers bureaus, manuscript 
+writing or educational events from Abbvie, Laropharm, Reckitt and Merck Romania; 
+support for attending meetings and/or travel from Merck Romania and Reckitt; all 
+outside the submitted work. J. Ärnlöv reports payment or honoraria for lectures, 
+presentations, speakers bureaus, manuscript writing or educational events from 
+AstraZeneca and Boehringer Ingelheim; participation on a Data Safety Monitoring 
+Board or Advisory Board with AstraZeneca, Boehringer Ingelheim, and Astella; all 
+outside the submitted work. T. Astell-Burt reports grants or contracts from 
+National Health and Medical Research Council, Australian Research Council and 
+Medical Research Future Fund outside the submitted work. J.L. Baker reports 
+grants or contracts from Novo Nordisk Foundation, World Cancer Research Fund and 
+Independent Research Council Denmark; consulting fees from Novo Nordisk A/S paid 
+to her and her institution; support for attending meetings and/or travel from 
+the European Association for the Study of Obesity; leadership or fiduciary role 
+in other board, society, committee or advocacy group, paid or unpaid, with the 
+European Association for the Study of Obesity as Trustee, president-elect; all 
+outside the submitted work. O.C. Baltatu reports support for the present 
+manuscript from Alfaisal University, Anima Institute Research Professor 
+Fellowship, and the National Council for Scientific and Technological 
+Development Fellowship (CNPq, 304224/2022-7); leadership or fiduciary roles in 
+other board, society, committee or advocacy groups, paid or unpaid, with 
+VividiWise Analytics as Managing Partner and with São José dos Campos Technology 
+Park – CITE as Biotech Advisory Board Member outside the submitted work. M.L. 
+Bell reports grants or contracts paid to her institution from US EPA, National 
+Institutes of Health (NIH), Hutchinson Postdoctoral Fellowship, Health Effects 
+Institute, Robert Wood Johnson Foundation, and Wellcome Trust Foundation, and 
+from the Yale Institute for Biospheric Studies; consulting fees from Clinique 
+and ToxiMap; payment or honoraria for lectures, presentations, speakers bureaus, 
+manuscript writing or educational events Colorado School of Public Health, Duke 
+University, Univ. of Texas, Data4Justice, Korea University, UPenn, Brown Univ., 
+Northeastern Univ., IOP Publishing, NIH, Health Canada, EHS, PAC-10, UKRI, AXA 
+Research Fund Fellowship, University of Texas, Korea University, Harvard 
+University, Univ. of Montana and SciQuest; leadership or fiduciary roles in 
+other board, society, committee or advocacy groups with Fifth National Climate 
+Assessment (unpaid), Lancet Countdown (unpaid), US EPA Clean Air Scientific 
+Advisory Committee (honorarium paid to M.L. Bell), Johns Hopkins Department of 
+Environmental Health and Engineering Advisory Board (unpaid), Harvard external 
+advisory committee for training grant (unpaid), WHO Global Air Pollution and 
+Health Technical Advisory group (unpaid), and National Academies Panels and 
+Committees (unpaid); all outside the submitted work. C. Benziger reports grants 
+or contracts from Patient Centered Outcomes Research Network (STAR CRN Phase 4 
+grant) and Agency for Healthcare Research and Quality (Improving pediatric 
+elevated blood pressure and hypertension recognition in youth); consulting fees 
+from Novartis as a consultant for V-1-Prevent and V-inclusion trials; 
+participation on a Data Safety Monitoring Board or Advisory Board with Health 
+Partners Institute on the Adherence Wizard Project; all outside the submitted 
+work. S. Bhaskar reports grants or contracts from Japan Society for the 
+Promotion of Science (JSPS), Japanese Ministry of Education, Culture, Sports, 
+Science and Technology for Grant-in-Aid for Scientific Research (KAKENHI) (grant 
+ID 23KF0126) and from JSPS and the Australian Academy of Science for JSPS 
+International Fellowship (grant ID P23712 ); leadership or fiduciary roles in 
+other board, society, committee or advocacy group, paid or unpaid, with Rotary 
+District 9675, Sydney, Australia as District Chair, Diversity, Equity, Inclusion 
+& Belonging, with Global Health & Migration Hub Community, Global Health Hub 
+Germany, Berlin, Germany as Chair, Founding Member and Manager, with PLoS ONE, 
+BMC Neurology, Frontiers in Neurology, Frontiers in Stroke, Frontiers in Public 
+Health, Journal of Aging Research, Neurology International, Diagnostics and BMC 
+Medical Research Methodology as an Editorial Board Member, with College of 
+Reviewers, Canadian Institutes of Health Research, Government of Canada as a 
+Member, with World Headache Society, Bengaluru, India as Director of Research, 
+with Cariplo Foundation, Milan, Italy as an Expert Adviser/Reviewer, with 
+National Cerebral and Cardiovascular Center, Department of Neurology, Division 
+of Cerebrovascular Medicine and Neurology, Suita, Osaka, Japan as Visiting 
+Director, with Cardiff University Biobank, Cardiff, UK as a Member, Scientific 
+Review Committee, with Rotary Reconciliation Action Plan as Chair, and with 
+Japan Connect, Osaka, Japan as a Healthcare and Medical Adviser; all outside the 
+submitted work. M. Brauer reports support for the present manuscript from The 
+Gates Foundation, paid to his institution, and stock or stock options from 
+Beyond Meat outside the submitted work. R. Bugiardini reports leadership or 
+fiduciary roles in other board, society, committee or advocacy groups, unpaid, 
+with The Lancet Regional Health-Europe commission on inequalities and 
+disparities in cardiovascular health as Chairperson outside the submitted work. 
+K. Burkart reports grants or contracts from The Gates Foundation, NIH and the 
+IHME Innovation Fund, all outside the submitted work. M. Carvalho reports other 
+financial or nonfinancial interests from LAQV/REQUIMTE, University of Porto, 
+Porto, Portugal and from FCT/MCTES under the scope of the project 
+UIDP/50006/2020 ( https://doi.org/10.54499/UIDP/50006/2020 ), all outside the 
+submitted work. A.L. Catapano reports grants or contracts from Chiesi, Amrin, 
+and Ultragenyx; consulting fees from Amarin, Amgen, AstraZeneca, Chiesi, Daiichi 
+Sankyo, Eli Lilly, Esperion, Ionis Pharmaceutical, Medscape, Menarini, MSD, 
+Novartis, Novo Nordisk, Regeneron, Sanofi, Ultragenyx and Viatris; payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing or 
+educational events from Amarin, Amgen, AstraZeneca, Chiesi, Daiichi Sankyo, Eli 
+Lilly, Esperion, Ionis Pharmaceutical, Medscape, Menarini, MSD, Novartis, Novo 
+Nordisk, Regeneron, Sanofi, Ultragenyx and Viatris; all outside the submitted 
+work. E. Cenko reports leadership or fiduciary roles in other board, society, 
+committee or advocacy groups, unpaid, with the ESC Working Group on Coronary 
+Pathophysiology and Microcirculation as Chairperson, outside the submitted work. 
+H. Chen reports support for attending meetings and/or travel from the 
+Alzheimer’s Association outside the submitted work. D.T. Chu reports grants or 
+contracts from Vietnam National University Hanoi (VNU), by the Vietnam National 
+Foundation for Science and Technology Development; D.T. Chu is/has been 
+supported (as a PI unless otherwise indicated) by the VNU for the 2025 research 
+activities of the VNU strong research group - the Interdisciplinary Research 
+Group on Biomedicine and Health (establishing decision no. 4013/QĐ-ĐHQGHN on 24 
+October 2023), by the Vietnam National Foundation for Science and Technology 
+Development (grant number 106.02-2019.314), by the VNU under project 
+‘Researching on some clinical, non-clinical, and epidemiological 
+characteristics, and genetic mutation and expression in Vietnamese patients with 
+ovarian cancer’ (decision number 776/QĐ-ĐHQGHN) and other internal research 
+grants from VNU International School from 2021 to the present, all outside the 
+submitted work. A.F.G. Cicero reports consulting fees from Zentiva, DompéA and 
+Viatris; payment or honoraria for lectures, presentations, speakers bureaus, 
+manuscript writing or educational events from Dompé and Sharper; support for 
+attending meetings and/or travel from Amgen Italy; all outside the submitted 
+work. X. Dai reports support for the present work from IHME/UW in the form of a 
+salary. C.S. Farinha reports consulting fees from Atheneum Partners (Bulgaria, 
+Bucharest) since 2019; payment for expert testimony from Atheneum Partners 
+(Bulgaria, Bucharest) since 2023; patents planned, issued or pending: 
+Sustainable Campus Network (Portugal, Lisbon) since 2019; leadership or 
+fiduciary roles in other board, society, committee or advocacy groups, paid or 
+unpaid, with TOPHEALTH – talents and organizations with purpose (Portugal, 
+Lisbon) since 2023; all outside the submitted work. X. Feng reports grants or 
+contracts from the National Health and Medical Research Council and Medical 
+Research Future Fund outside the submitted work. L. Göbölös reports support for 
+attending meetings and/or travel from APSC 2025 for hotel and registration 
+coverage for faculty member; leadership or fiduciary roles in other board, 
+society, committee or advocacy groups, paid or unpaid, with Editorial Board 
+JAPSC and EBTCS as an examiner; all outside the submitted work. Z. Guan grants 
+or contracts with Dementia Centre of Excellence and Curtin enAble Institute, 
+Curtin University outside the submitted work. A. Guha reports grants or 
+contracts from the American Heart Association and US Department of Defense 
+outside the submitted work. A. Hassan reports consulting fees from Novartis, 
+Sanofi-Genzyme, Biologix, Merck, Hikma Pharma, Janssen, Inspire Pharma, Future 
+Pharma and Elixir Pharma; payment or honoraria for lectures, presentations, 
+speakers bureaus, manuscript writing or educational events from Novartis, 
+Allergan, Merck, Biologix, Janssen, Roche, Sanofi-Genzyme, Bayer, Hikma Pharma, 
+Al Andalus, Chemipharm, Lundbeck, Inspire Pharma, Future Pharma and Habib 
+Scientific Office, and Everpharma; support for attending meetings and/or travel 
+from Novartis, Allergan, Merck, Biologix, Roche, Sanofi-Genzyme, Bayer, Hikma 
+Pharma, Chemipharm, Al Andalus and Clavita Pharm; leadership or fiduciary roles 
+in other board, society, committee or advocacy groups, paid or unpaid, with MENA 
+Headache Society as Vice President, Multiple Sclerosis chapter of the Egyptian 
+Society of Neurology as Board Member, Headache Chapter of the Egyptian Society 
+of Neurology as Board Member, committee of Education of the International 
+Headache Society (IHS), membership committee of IHS, and regional committee of 
+IHS as Member; all outside the submitted work. J.J. Hebert reports grants or 
+contracts from ResearchNB for salary support outside the submitted work. I. Ilic 
+reports support for the present manuscript from Ministry of Science, 
+Technological Development and Innovation of the Republic of Serbia (no. 
+451-03-137/2025-03/200110). M. Ilic reports support for the present manuscript 
+from Ministry of Science, Technological Development and Innovation of the 
+Republic of Serbia (no. 451-03-47/2023-01/200111). N.E. Ismail reports 
+leadership or fiduciary roles in other board, society, committee or advocacy 
+groups, unpaid, with Malaysian Academy of Pharmacy, Malaysia as Bursar and 
+Council Member and Malaysian Pharmacists Society Education Chapter Committee as 
+Committee Member, all outside the submitted work. J. Jozwiak reports payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing or 
+educational events from Novartis, Adamed, Amgen, Boehringer Ingelheim, Servier 
+and Novo Nordisk (personal fees), all outside the submitted work. J. 
+Khubchandani reports grants or contracts from Merck Pharmaceuticals for Research 
+compensation for PI and from National Science Foundation, USA for Research 
+expenses covered for PI, all outside the submitted work. M. Kivimäki reports 
+grants or contracts from the Wellcome Trust (221854/Z/20/Z), Medical Research 
+Council (MR/Y014154/1), National Institute on Aging (R01AG056477 and 
+R01AG062553) and Research Council of Finland (350426) as PI of research grants 
+to his university, all outside the submitted work. K. Krishan reports other 
+nonfinancial support from the University Grants Commission Centre of Advanced 
+Study, CAS II, awarded to the Department of Anthropology, Panjab University, 
+Chandigarh, India, outside the submitted work. A. Kusnali reports support for 
+the present manuscript from National Research and Innovation Agency, Republic of 
+Indonesia for access to scientific literature databases containing paid and 
+unpaid online journals such as SCOPUS, Web of Science and others. T. Lallukka 
+reports support for the present manuscript paid to her institution from the 
+Research Council of Finland (330527). I. Lee reports grants or contracts from 
+AdelaideMRI, Adelaide, Australia (PhD stipend for a project on AI-based medical 
+report generation; payment made to the University of South Australia); outside 
+the submitted work. M.-C. Li reports support for the present manuscript via 
+grants from the National Science and Technology Council of Taiwan 
+(113-2314-B-003-002) and the Higher Education Sprout Project of National Taiwan 
+Normal University; leadership or fiduciary roles in other board, society, 
+committee or advocacy groups, paid or unpaid, with Journal of the American Heart 
+Association as Technical Editor outside the submitted work. D. Lindholm reports 
+stock or stock options in AstraZeneca at the time of employment (>2.5 years 
+ago); other financial or nonfinancial interests with AstraZeneca as a Former 
+employee (>2.5 years ago); all outside the submitted work. S. Lorkowski reports 
+grants or contracts paid to his institution from DSM-Firmenich (formerly DSM 
+Nutritional Products); consulting fees from Danone, Novartis Pharma, Swedish 
+Orphan Biovitrum; payment or honoraria for lectures, presentations, speakers 
+bureaus, manuscript writing or educational events from Amarin Germany, Amedes 
+Holding, Amgen, Berlin-Chemie, Boehringer Ingelheim Pharma, Daiichi Sankyo 
+Deutschland, Danone, Hubert Burda Media Holding, Janssen-Cilag, Lilly 
+Deutschland, Novartis Pharma, Novo Nordisk Pharma, Roche Pharma, Sanofi-Aventis, 
+Swedish Orphan Biovitrum and SYNLAB Holding Deutschland; support for attending 
+meetings and/or travel from Amgen; participation on a Data Safety Monitoring 
+Board or Advisory Board with Amgen, Daiichi Sankyo Deutschland, Novartis Pharma 
+and Sanofi-Aventis; all outside the submitted work. H.R. Marateb reports grants 
+or contracts from LLAVOR 2024 grant from gencia de Gestio d’Ajuts Universitaris 
+i de Recerca, Spain (payments made to Universitat Politècnica de Catalunya - 
+Barcelona Tech) and from Universitat Politècnica de Catalunya - Barcelona Tech 
+(salary), outside the submitted work. M. McKee reports support for attending 
+meetings and/or travel from Population Health Research Institute, McMaster 
+University; leadership or fiduciary roles in other board, society, committee or 
+advocacy groups, paid or unpaid, with Northern Ireland Chest Heart & Stroke as 
+chair of scientific advisory board; all outside the submitted work. A.-F. Mentis 
+reports grants or contracts from ‘MilkSafe: a novel pipeline to enrich formula 
+milk using omics technologies’, research co-financed by the European Regional 
+Development Fund of the European Union and Greek national funds through the 
+Operational Program Competitiveness, Entrepreneurship and Innovation, under the 
+call RESEARCH - CREATE - INNOVATE (project code T2EDK-02222), as well as from 
+ELIDEK (Hellenic Foundation for Research and Innovation, MIMS-860) (both outside 
+of the present manuscript); payment for expert testimony as external 
+peer-reviewer for Fondazione Cariplo, Italy; leadership or fiduciary role in 
+other board, society, committee or advocacy group, paid or unpaid, as as 
+Editorial Board Member for ‘Systematic Reviews’ journal, for ‘Annals of 
+Epidemiology’ journal, and as Associate Editor for ‘Translational Psychiatry’; 
+all outside the submitted work. S.A. Meo reports grants or contracts from 
+Researchers Supporting Project, King Saud University, Riyadh, Saudi Arabia 
+(RSP-2025 R47) outside the submitted work. S. Mohammed reports support for the 
+present manuscript from the Gates Foundation. S. Nomura reports support for the 
+present manuscript from Ministry of Education, Culture, Sports, Science and 
+Technology of Japan (24H00663) and Precursory Research for Embryonic Science and 
+Technology from the Japan Science and Technology Agency (JPMJPR22R8). M. Ntsekhe 
+reports grants or contracts from National Heart, Lung, and Blood Institute, 
+National Institute of Allergy and Infectious Diseases, and South African Medical 
+Research Council; leadership or fiduciary roles in other board, society, 
+committee or advocacy groups, paid or unpaid, with South African Heart 
+Association, Heart Failure Society of South Africa, and Pan African Society of 
+Cardiology; all outside the submitted work. B. Oancea reports support for the 
+present manuscript from the Ministry of Research, Innovation and Digitalization 
+through the Core Program of the National Research, Development and Innovation 
+Plan 2022-2027 (project no. PN 23-02-0101-contract no. 7N/2023). A. Ortiz 
+reports grants or contracts from Sanofi paid to their institution The Fundación 
+Jiménez Díaz Health Research Institute and as Director of the Catedra 
+AstraZeneca-Universidad Autonoma de Madrid (UAM) of Chronic Kidney Disease and 
+Electrolytes paid to their institution UAM; consulting fees from Astellas, 
+AstraZeneca, Bioporto, Boehringer Ingelheim, Fresenius Medical Care, GSK, Bayer, 
+Sanofi-Genzyme, Lilly, Chiesi, Otsuka, Novo Nordisk and Sysmex; payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing or 
+educational events from Astellas, AstraZeneca, Bioporto, Boehringer Ingelheim, 
+Fresenius Medical Care, GSK, Bayer, Sanofi-Genzyme, Sobi, Menarini, Lilly, 
+Chiesi, Otsuka, Novo Nordisk, Sysmex and Vifor Fresenius Medical Care Renal 
+Pharma and Spafarma; support for attending meetings and/or travel from Astellas, 
+AstraZeneca, Fresenius Medical Care, Boehringer Ingelheim, Bayer, 
+Sanofi-Genzyme, Chiesi, Sobi, and Bayer; participation on a Data Safety 
+Monitoring Board or Advisory Board with Astellas, AstraZeneca, Boehringer 
+Ingelheim, Fresenius Medical Care, Bayer, Sanofi-Genzyme, Chiesi, Otsuka, Novo 
+Nordisk and Sysmex; leadership or fiduciary roles in other board, society, 
+committee or advocacy group, unpaid, with Council ERA and Sociedad Madrileña de 
+Nefrología (SOMANE); all outside the submitted work. S.K. Panda reports support 
+for the present manuscript from Siksha ‘O’ Anusandhan (Deemed to be University); 
+grants or contracts from DST-Govt. of Odisha (letter no. 3444/ST); participation 
+on a Data Safety Monitoring Board or Advisory Board with Heliyon as Associate 
+Editor; outside the submitted work. A. Pantea Stoian reports consulting fees 
+paid to her institution from Novo Nordisk, Sanofi, AstraZeneca, Novartis, Eli 
+Lilly, Servier, Amgen, Roche Diagnostics and Sandoz; payment or honoraria for 
+lectures, presentations, speakers bureaus, manuscript writing or educational 
+events paid to her institution from Novo Nordisk, Sanofi, AstraZeneca, Novartis, 
+Eli Lilly, Servier, Amgen, Roche Diagnostics, Sandoz, Boehringer Ingelheim and 
+Medochemie; payment for expert testimony from paid to her institution from Eli 
+Lilly and Novo Nordisk; support for attending meetings and/or travel paid to her 
+institution from Novo Nordisk, Medochemie and Sanofi; patents planned, issued or 
+pending with Novo Nordisk, Novartis, Servier, AstraZeneca and Eli Lilly; 
+participation on a Data Safety Monitoring Board or Advisory Board with Novo 
+Nordisk, Sanofi, AstraZeneca, Novartis, Eli Lilly, Amgen and Roche Diagnostics; 
+leadership or fiduciary roles in other board, society, committee or advocacy 
+groups, unpaid, with Central European Diabetes Association, Association for 
+Renal-Metabolic & Nutritional Studies, EASD Global Council, Central European 
+Diabetes Association; unpaid medical writing for Novo Nordisk and Sanofi; all 
+outside the submitted work. R. Passera reports participation on a Data Safety 
+Monitoring Board or Advisory Board, unpaid, as Member of the Data Safety 
+Monitoring Board dello studio ‘Consolidation with ADCT-402 (loncastuximab 
+tesirine) after immunochemotherapy: a phase II study in BTKi-treated/ineligible 
+Relapse/Refractory Mantle Cell Lymphoma (MCL) patients’ - Fondazione Italiana 
+Linfomi, Alessandria (Italy); leadership or fiduciary roles in other board, 
+society, committee or advocacy groups, unpaid, as Member of the European Society 
+for Blood and Marrow Transplantation Statistical Committee, Paris (F) and past 
+member 2020–2023 (biostatistician) of the Institutional Review Board/Independent 
+Ethics Committee Comitato Etico Azienda Ospedaliero Santi Antonio e Biagio 
+Alessandria Azienda Sanitaria Locale di Alessandria e Azienda Sanitaria Locale 
+di Vercelli (Italy); all outside the submitted work. S. Saleem reports support 
+for the present manuscript from Health Services Academy, Islamabad. Y.L. Samodra 
+reports grants or contracts from Institute of Epidemiology and Preventive 
+Medicine at National Taiwan University, National Science and Technology Council 
+of Taiwan (postdoctoral fellow contract) and School of Public Health, TMU, 
+Taiwan (PhD scholarship); leadership or fiduciary roles in other board, society, 
+committee or advocacy groups, paid or unpaid, with Benang Merah Research Center 
+(benangmerah.net), Indonesia as Co-founder; other financial or nonfinancial 
+interests with Jago Beasiswa (idebeasiswa.com), Indonesia as Mentor; all outside 
+the submitted work. A.E. Schutte reports consulting fees from Medtronic, 
+AstraZeneca, Sky Labs for serving on advisory board; payment or honoraria for 
+lectures, presentations, speakers bureaus, manuscript writing or educational 
+events from Omron, Servier, Medtronic, AstraZeneca and Sky Labs; support for 
+attending meetings and/or travel from Servier, Medtronic and AstraZeneca; all 
+outside the submitted work. S. Setoguchi reports grants or contracts paid to 
+their institution from National Institute of Health, Cystic Fibrosis Foundation, 
+Pfizer Japan, Daiichi Sankyo and Bristol Myers Squib; consulting fees from 
+Regeneron, Pfizer Japan, BMS and Merck for postmarket safety studies and their 
+methodologies; all outside the submitted work. V. Sharma reports other financial 
+or nonfinancial support from Directorate of Forensic Science, Ministry of Home 
+Affairs’s research project (DFSS28(1)2019/EMR/6) at Institute of Forensic 
+Science & Criminology, Panjab University, Chandigarh, India, outside the 
+submitted work. J.I. Shin reports support for the present manuscript from the 
+Yonsei Fellowship, funded by Lee Youn Jae. L.M.L.R. Silva reports grants or 
+contracts from the Sport Physical Activity and Health Research & Innovation 
+Center, Portugal, all outside the submitted work. J.A. Singh reports consulting 
+fees from ROMTech, Atheneum, Clearview Healthcare Partners, American College of 
+Rheumatology, Yale, Hulio, Horizon Pharmaceuticals, DINORA, ANI/Exeltis, USA, 
+Frictionless Solutions, Schipher, Crealta/Horizon, Medisys, Fidia, PK Med, Two 
+Labs, Adept Field Solutions, Clinical Care options, Putnam Associates, Focus 
+Forward, Navigant consulting, Spherix, MedIQ, Jupiter Life Science, UBM, Trio 
+Health, Medscape, WebMD and Practice Point Communications and the NIH; payment 
+or honoraria for lectures, presentations, speakers bureaus, manuscript writing 
+or educational events from Simply Speaking; support for attending meetings 
+and/or travel from Simply Speaking; participation on a Data Safety Monitoring 
+Board or Advisory Board with FDA Arthritis Advisory Committee as a member, no 
+financial support; leadership or fiduciary roles in other board, society, 
+committee or advocacy groups, paid or unpaid as a past steering committee member 
+of OMERACT, an international organization that develops measures for clinical 
+trials and receives arm’s length funding from 12 pharmaceutical companies, and 
+as a Chair of the Veterans Affairs Rheumatology Field Advisory Committee, and as 
+editor and the Director of the University of Alabama at Birmingham Cochrane 
+Musculoskeletal Group Satellite Center on Network Meta-analysis; stock or stock 
+options in Atai Life Sciences, Kintara Therapeutics, Intelligent Biosolutions, 
+Acumen Pharmaceutical, TPT Global Tech, Vaxart Pharmaceuticals, Atyu Biopharma, 
+Adaptimmune Therapeutics, GeoVax Labs, Pieris Pharmaceuticals, Enzolytics, Seres 
+Therapeutics, Tonix Pharmaceuticals Holding Corp., Aebona Pharmaceuticals, and 
+Charlotte’s Web Holdings and previously owned stock options in Amarin, Viking 
+and Moderna Pharmaceuticals; all outside the submitted work. J.D. Stanaway 
+reports support for the present manuscript from the Gates Foundation paid to his 
+institution; grants or contracts from Novo Nordisk paid to his institution 
+outside the submitted work. J. Sundström reports stock or stock options in 
+companies (Anagram Kommunikation, Sence Research, Symptoms Europe and 
+MinForskning) providing services to companies and authorities in the health 
+sector including Amgen, AstraZeneca, Bayer, Boehringer, Eli Lilly, Gilead, GSK, 
+Göteborg University, Itrim, Ipsen, Janssen, Karolinska Institutet, LIF, 
+Linköping University, Novo Nordisk, Parexel, Pfizer, Region Stockholm, Region 
+Uppsala, Sanofi, STRAMA, Takeda, TLV, Uppsala University, Vifor Pharma and 
+WeMind; all outside the submitted work. R. Tabarés-Seisdedos reports grants or 
+contracts from Valencian Regional Government’s Ministry of Education 
+(PROMETEO/CIPROM/2022/58), the Spanish Ministry of Science, Innovation and 
+Universities (PID2021-129099OB-I00) and Valencian Regional Government’s Ministry 
+of Education (PROMETEO/CIPROM/2022/58), outside the submitted work. The funders 
+were not involved in the design of the manuscript or decision to submit the 
+manuscript for publication, nor will they be involved in any aspect of the 
+study’s conduct. J.H.V. Ticoalu reports leadership or fiduciary role in other 
+board, society, committee or advocacy group, paid or unpaid, with Benang Merah 
+Research Center (benangmerah.net), Indonesia as Co-founder, outside the 
+submitted work. M. Touvier reports grants or contracts paid to their institution 
+from European Research Council, French National Research Agency, National Cancer 
+Institute, Bettencourt Foundation and World Cancer Research Fund; payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing or 
+educational events from Collège de France, Chair of Professor in Public Health; 
+all outside the submitted work. E. Upadhyay reports the following published 
+patents: ‘A system and method of reusable filters for anti-pollution mask’, ‘A 
+system and method for electricity generation through crop stubble by using 
+microbial fuel cells’, ‘A system for disposed personal protection equipment 
+(PPE) into biofuel through pyrolysis and method’, ‘A novel herbal pharmaceutical 
+aid for formulation of gel and method thereof’ and ‘Herbal drug formulation for 
+treating lung tissue degenerated by particulate matter exposure’, and the 
+following filed patents: ‘A method to transform cow dung into the wall paint by 
+using natural materials and composition thereof’, ‘Biodegradable packaging 
+composition and method of preparation thereof’, ‘Eco-friendly bio-shoe polish 
+from banana and turmeric’, ‘Honey-based polyherbal syrup composition to treat 
+air pollution-induced inflammation and preparation method thereof’ and ‘Process 
+for preparing a caffeine free, antioxidant and nutrient-rich beverage’; 
+leadership or fiduciary role in other board, society, committee or advocacy 
+group, paid or unpaid, as Executive Council Member of the Indian Meteorological 
+Society, Jaipur Chapter (India) and as Member Secretary of the DSTPURSE Program; 
+all outside the submitted work. P. Willeit reports consulting fees from Novartis 
+Pharmaceuticals outside the submitted work. Y. Yasufuku reports grants or 
+contracts from Shionogi & Co. whose employment expenses are paid from the joint 
+research fund provided by this pharmaceutical company to The University of Osaka 
+(formerly Osaka University), outside the submitted work. M. Zielińska reports 
+other financial or nonfinancial support as an Alexion, AstraZeneca Rare Disease 
+employee. The other authors declare no competing interests.

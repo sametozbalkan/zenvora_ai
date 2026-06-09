@@ -1,0 +1,117 @@
+=== PubMed: insulin drug interactions hypoglycemia beta blocker ===
+1. Proc Soc Exp Biol Med. 1966 May;122(1):114-5. doi: 10.3181/00379727-122-31066.
+
+Insulin hypoglycemia enhanced by beta adrenergic blockade.
+
+Byers SO, Friedman M.
+
+DOI: 10.3181/00379727-122-31066
+PMID: 5944854 [Indexed for MEDLINE]
+
+
+2. Drug Saf. 1996 Aug;15(2):135-57. doi: 10.2165/00002018-199615020-00005.
+
+Drug-induced disorders of glucose metabolism. Mechanisms and management.
+
+Chan JC(1), Cockram CS, Critchley JA.
+
+Author information:
+(1)Department of Clinical Pharmacology, Chinese University of Hong Kong, Prince 
+of Wales Hospital, Shatin, Hong Kong.
+
+Glucose homeostasis is maintained by a balance between the release and action of 
+insulin, and the counterregulatory responses mediated principally by glucagon, 
+catecholamines, growth hormone and cortisol. Hence, the effects of a drug on 
+glucose metabolism may be mediated by any of these agents singly or in 
+combination. Host factors, such as inherent glucoregulatory mechanisms, 
+concurrent diseases, organ function and concomitant medications also increase 
+the risk of drug-induced disturbances of glucose homeostasis in susceptible 
+individuals. By far the most important agents causing hypoglycaemia are insulin 
+and the sulphonylureas. Alcohol (ethanol), over-zealous glycaemic control, 
+hypoglycaemic unawareness, detective counterregulation especially in 
+insulin-dependent diabetes mellitus (IDDM), and renal and liver impairment are 
+all important predisposing factors. Although antihyperglycaemic agents such as 
+metformin and alpha-glucosidase inhibitors do not cause hypoglycaemia alone, 
+they may enhance the hypoglycaemic effects of potent hypoglycaemic agents such 
+as insulin and sulphonylureas. On the other hand, the potential hypoglycaemic 
+effects of ACE inhibitors, alpha-blockers, lipid-lowering agents and recombinant 
+human insulin-like growth factor demonstrated in experimental settings, are of 
+potential therapeutic interest. Iatrogenic hypoglycaemia and intensive insulin 
+treatment are associated with hypoglycaemic unawareness which may be obviated by 
+meticulous avoidance of hypoglycaemia. Effective patient education remains an 
+important preventive measure. Oral glucose is used to treat mild hypoglycaemic 
+episodes while more severe episodes are treated by intravenous glucose or 
+glucagon. Nasal glucagon and theophylline are other experimental measures to 
+improve recovery from hypoglycaemia. In refractory hypoglycaemia due to 
+hyperinsulinaemia such as during sulphonylurea overdosage or quinine treatment, 
+the long-acting somatostatin, octreotide, may suppress insulin release and 
+restore euglycaemia. Diuretics, beta-blockers, sympathomimetics, corticosteroids 
+and sex hormones are commonly prescribed drugs which may have adverse effects on 
+carbohydrate metabolism especially in patients with diabetes mellitus or those 
+who are at risk of developing glucose intolerance. Pentamidine was frequently 
+associated with dysglycaemia due to its pancreatic beta-cell cytotoxic effects 
+but is now used less often to treat Pneumocystis carinii pneumonia in 
+immunosuppressed patients. Despite the large number of anecdotal reports of 
+drug-induced disturbances of glucose metabolism, many of the so-called adverse 
+drug reactions were either idiosyncratic or coincidental. Nevertheless, they 
+emphasise the complex nature of glucose homeostasis and its potential 
+interactions with drugs, host factors and disease states. An understanding of 
+these relationships may allow more critical interpretation of these clinical 
+observations, better prediction of drug induced adverse effects on carbohydrate 
+metabolism and the implementation of more rational therapy. Hence, the 
+hypoglycaemic effects of a drug may be turned to a therapeutic advantage in 
+patients with glucose intolerance. Similarly, the hyperglycaemic effect of a 
+drug may help to treat refractory hypoglycaemia.
+
+DOI: 10.2165/00002018-199615020-00005
+PMID: 8884164 [Indexed for MEDLINE]
+
+
+3. Lancet. 1977 Apr 16;1(8016):843.
+
+Beta blockers for diabetics.
+
+[No authors listed]
+
+PMID: 67346 [Indexed for MEDLINE]
+
+
+4. Clin Ther. 1999 Aug;21(8):1387-400. doi: 10.1016/s0149-2918(99)80039-3.
+
+Association between antihypertensive drug use and hypoglycemia: a case-control 
+study of diabetic users of insulin or sulfonylureas.
+
+Thamer M(1), Ray NF, Taylor T.
+
+Author information:
+(1)Medical Technology and Practice Patterns Institute, Bethesda, Maryland, USA.
+
+Antihypertensive drugs are commonly prescribed for the treatment of patients 
+with both diabetes and hypertension. However, the role of selected agents in the 
+development of hypoglycemia remains controversial. The main objective of this 
+study was to evaluate the effect of antihypertensive agents on the risk of 
+hypoglycemia in diabetic patients receiving insulin or sulfonylurea therapy. A 
+matched case-control study was conducted using Pennsylvania Medicaid data. Five 
+control subjects, matched for sex and age, with no reported medical condition of 
+hypoglycemia, were randomly selected for each case patient admitted for 
+hypoglycemia in 1993, resulting in a total of 404 cases and 1375 controls. With 
+these sample sizes, we were able to detect a difference of 10% (P < 0.05) for 
+our primary outcome measure, hospitalization for hypoglycemia. The relative risk 
+of hypoglycemia was estimated using an unconditional logistic regression. The 
+risk of hypoglycemia was 5.5 times greater (95% confidence interval [CI], 4.0 to 
+7.6) in insulin versus sulfonylurea users and was not influenced by use of 
+angiotensin-converting enzyme (ACE) inhibitors overall. However, use of the ACE 
+inhibitor enalapril was associated with an increased risk of hypoglycemia (odds 
+ratio, 2.4; 95% CI, 1.1 to 5.3) in sulfonylurea users, suggesting that analyzing 
+the unintended side effects of a class of drugs can sometimes mask the adverse 
+effects of individual drugs. Use of beta-blockers was not associated with an 
+increased risk of hypoglycemia, providing further empiric evidence that 
+beta-blockers are an appropriate treatment for persons with concomitant diabetes 
+and hypertension. Per capita health care costs were approximately 3 times higher 
+in patients hospitalized for hypoglycemia compared with controls (P < 0.05). 
+Hospitalization for hypoglycemia is expensive and may be prevented with 
+appropriate monitoring of diabetic patients taking selected antihypertensive 
+agents such as enalapril.
+
+DOI: 10.1016/s0149-2918(99)80039-3
+PMID: 10485510 [Indexed for MEDLINE]

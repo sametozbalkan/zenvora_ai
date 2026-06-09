@@ -1,0 +1,62 @@
+=== PubMed: furosemide drug interactions diuretic electrolyte ototoxicity ===
+1. Eur Heart J. 1992 Dec;13 Suppl G:96-103. doi: 10.1093/eurheartj/13.suppl_g.96.
+
+Adverse reactions to diuretics.
+
+Prichard BN(1), Owens CW, Woolf AS.
+
+Author information:
+(1)Division of Clinical Pharmacology, University College, London, U.K.
+
+Diuretics can result in various undesired biochemical changes, such as 
+impotence, skin rashes, nausea, dizziness and lethargy as well as subjective 
+side effects. The side effects are mostly predictable, their effects depending 
+on both the circulatory blood volume and on the transport of water and solute in 
+the renal tubules. Two of the commonest side effects are mild hypovolaemia, when 
+any diuretic is used, and mild hypokalaemia when the non-potassium-sparing 
+diuretics, such as thiazides and frusemide are used. Its occurrence is dose 
+dependent and can be corrected by potassium supplements, but potassium-retaining 
+diuretics, which also correct the often associated fall in serum magnesium, are 
+preferable. Many reports link hypokalaemia with cardiac arrhythmias, but some 
+dispute this association in the absence of the concomitant use of digoxin. 
+Hyponatraemia rarely occurs, but can be life threatening. Calcium excretion is 
+markedly reduced, but unlike other electrolyte disturbances from diuretics, this 
+may be valuable: some suggest diuretics have an anti-osteoporotic action. 
+Diuretics increase glucose and insulin resistance and should be used sparingly 
+in diabetics. They rarely cause a non-ketotic hyperosmolar coma. Urate is 
+raised, but clinical gout is not common. Cholesterol elevation has been reported 
+in some studies, but long-term studies indicate that lipid changes are minor. 
+Other rare side effects are not predictable from their pharmacological actions 
+and these include the occurrence of skin rashes, thrombocytopenia, pancreatitis 
+and interstitial nephritis; and ototoxicity from frusemide.
+
+DOI: 10.1093/eurheartj/13.suppl_g.96
+PMID: 1486914 [Indexed for MEDLINE]
+
+
+2. Arch Inst Cardiol Mex. 1981 May-Jun;51(3):291-303.
+
+[Pharmacologic bases of cardiovascular therapy with diuretics].
+
+[Article in Spanish]
+
+Reyes AJ.
+
+Diuretics may have high, medium or low diuretic potency and their main site of 
+diuretic action at the ascending limb of Henle's loop or at different 
+biochemical sites of the distal tubulus. Loop diuretics have high diuretic 
+potency, act abruptly, are not antihypertensives when prescribed as a 
+monotherapy and are potentially ototoxic. The diuretics acting at the distal 
+tubulus have a gentle time-course of diuretic activity and variable potencies 
+and other properties. The mose frequent side-effect of diuretics is hypokalemia, 
+whose development may be partially prevented by the prescription of a sodium 
+restricted diet. Arrhythmias provoked by diuretics-induced hypokalaemia should 
+be treated with magnesium and potassium. The most frequent drug interaction of 
+diuretics is with unspecific inhibitors of prostaglandin's synthesis (aspirin 
+and indomethacin) which decrease diuretic effects. Diuretics are indicated in 
+the treatment of acute heart failure because of their direct and indirect 
+vasoactive properties, in the treatment of chronic cardiac insufficiency because 
+of their diuretic and vasodilatatory properties and, those diuretics which show 
+as antihypertensives, are first choice drugs in hypertension.
+
+PMID: 7283541 [Indexed for MEDLINE]

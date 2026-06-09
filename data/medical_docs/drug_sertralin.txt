@@ -1,0 +1,89 @@
+=== PubMed: sertraline drug interactions serotonin syndrome maoi ===
+1. Epilepsy Res Suppl. 1996;11:153-80.
+
+Rational polypharmacy in the bipolar affective disorders.
+
+Post RM(1), Ketter TA, Pazzaglia PJ, Denicoff K, George MS, Callahan A, Leverich 
+G, Frye M.
+
+Author information:
+(1)Biological Psychiatry Branch, NIMH, Bethesda, MD 20892-1272, USA.
+
+Bipolar affective illness represents a syndrome not readily treated by single 
+agents. Approximately 50% of patients are inadequately responsive to lithium and 
+the majority of patients require supplemental antidepressants, antimanic, 
+antipsychotic or hypnotic medications. These traditional adjunctive medications 
+are associated with potential problems. Antidepressants may precipitate mania 
+(at a rate about double that of placebo) or cause cycle acceleration. 
+Neuroleptics may be associated with either more profound or longer depressive 
+phases, and clearly increase the risk of tardive dyskinesia, to which bipolar 
+patients appear particularly predisposed. Moreover, there are subgroups of 
+patients who are known to be poorly responsive to lithium. These include 
+patients with rapid cycling, dysphoric mania, co-morbid drug or alcohol abuse, a 
+pattern of depression-mania-well interval (D-M-I as opposed to the M-D-I 
+pattern), and patients without a family history of bipolar illness in 
+first-degree relatives. There is increasing recognition that the anticonvulsants 
+carbamazepine and valproate are effective alternatives or adjuncts to lithium in 
+the acute and long-term treatment of bipolar illness. Ideally, one would want to 
+assess whether patients who were unresponsive to lithium were responsive to an 
+anticonvulsant alone prior to utilizing lithium in addition to anticonvulsant 
+combination therapy. However, from the clinical perspective, it is often more 
+expedient to use an anticonvulsant adjunctively to lithium to assess the 
+efficacy of this combination and establish mood stabilization. When lithium is 
+not discontinued, the increased morbidity during lithium withdrawal also would 
+not occur and would not confound the evaluation of the new agent. We suggest the 
+initial use of acute adjuncts to lithium with the anticonvulsants carbamazepine 
+or valproate (instead of neuroleptics) so that their efficacy can be assessed in 
+the individual's acute episode, with the likelihood of a positive response in 
+longer-term prophylaxis. Hypnotic benzodiazepines with anticonvulsant 
+properties, such as clonazepam or lorazepam, are often used to help to induce 
+sleep in escalating bipolar patients, and may be useful adjuncts as well. 
+Patients who were inadequately responsive to either carbamazepine or valproate 
+alone may be responsive to the anticonvulsant combination. In a similar fashion, 
+one can also utilize several mood-stabilizing drugs (lithium and an 
+anticonvulsant such as carbamazepine or valproate) in the treatment of 
+depressive breakthroughs, and then augment this combination (if necessary) with 
+a catecholamine-active antidepressant such as bupropion or a serotonin-selective 
+reuptake inhibitor (SSRI) such as fluoxetine, paroxetine, sertraline or if 
+necessary a monoamine oxidase inhibitor (MAOI). Once the patient has responded 
+to a combination of drugs, it becomes problematic to decide whether the last 
+agent added was the crucial ingredient in helping the patient achieve remission 
+or that remission might have occurred with this agent alone. A conservative 
+approach would have merit in patients who are finally stabilized on complex 
+polypharmacy regimens only after many years of sequential trials; in this 
+instance, the potential risk of re-exacerbating the illness with a taper of one 
+of the drugs in the regimen. Rational polypharmacy should thus be implemented 
+with careful delineation of the prior course of illness (typically using life 
+chart methodology) and targeted treatment outcomes titrated against side 
+effects, using sequential clinical trials in individual patients who have not 
+adequately responded to monotherapy. In this fashion, it is hoped that 
+pharmacodynamic differences among agents can be maximized and pharmacokinetic 
+and side effects minimized.
+
+PMID: 9294735 [Indexed for MEDLINE]
+
+
+2. Mayo Clin Proc. 2006 Mar;81(3):330-4. doi: 10.4065/81.3.330.
+
+Anticipating potential linezolid-SSRI interactions in the general hospital 
+setting: an MAOI in disguise.
+
+Sola CL(1), Bostwick JM, Hart DA, Lineberry TW.
+
+Author information:
+(1)Department of Psychiatry and Psychology, Mayo Clinic College of Medicine, 
+Rochester, Minn 55905, USA.
+
+Linezolid, a novel antimicrobial with activity against gram-positive bacteria 
+including pathogens resistant to traditional antimicrobials, also inhibits 
+monoamine oxidase. This latter property can cause potentially lethal adverse 
+interactions with antidepressant medications. Long known to psychiatrists, 
+monoamine oxidase inhibitors (MAOIs) and complications of their use may be 
+unfamiliar to medical and surgical practitioners who may thus unwittingly 
+precipitate a hypertensive crisis or serotonin syndrome. We review the 
+pharmacology of MAOis and describe 3 clinical situations In which 
+linezolid-selective serotonin inhibitor (SSRI) interactions, actual or 
+potential, figured prominently.
+
+DOI: 10.4065/81.3.330
+PMID: 16529136 [Indexed for MEDLINE]

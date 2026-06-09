@@ -1,0 +1,175 @@
+=== PubMed: Alzheimer ===
+1. Eur J Neurol. 2018 Jan;25(1):59-70. doi: 10.1111/ene.13439. Epub 2017 Oct 19.
+
+Alzheimer's disease.
+
+Lane CA(1), Hardy J(2), Schott JM(1).
+
+Author information:
+(1)Dementia Research Centre, UCL Institute of Neurology, London, UK.
+(2)Reta Lila Weston Research Laboratories, Department of Molecular Neuroscience, 
+UCL Institute of Neurology, London, UK.
+
+Alzheimer's disease, the commonest cause of dementia, is a growing global health 
+concern with huge implications for individuals and society. In this review, 
+current understanding of the epidemiology, genetics, pathology and pathogenesis 
+of Alzheimer's disease is outlined, before its clinical presentation and current 
+treatment strategies are discussed. Finally, the review discusses how our 
+enhanced understanding of Alzheimer pathogenesis, including the recognition of a 
+protracted preclinical phase, is informing new therapeutic strategies with the 
+aim of moving from treatment to prevention.
+
+© 2017 EAN.
+
+DOI: 10.1111/ene.13439
+PMID: 28872215 [Indexed for MEDLINE]
+
+
+2. F1000Res. 2018 Jul 31;7:F1000 Faculty Rev-1161. doi: 
+10.12688/f1000research.14506.1. eCollection 2018.
+
+Current understanding of Alzheimer's disease diagnosis and treatment.
+
+Weller J(1)(2), Budson A(1)(2).
+
+Author information:
+(1)Department of Neurology, Boston VA Hospital, 150 South Huntington Street, 
+Jamaica Plain, MA, 02130, USA.
+(2)Department of Neurology, Boston University School of Medicine, 72 East 
+Concord Street C-309, Boston, MA, USA.
+
+Alzheimer's disease is the most common cause of dementia worldwide, with the 
+prevalence continuing to grow in part because of the aging world population. 
+This neurodegenerative disease process is characterized classically by two 
+hallmark pathologies: β-amyloid plaque deposition and neurofibrillary tangles of 
+hyperphosphorylated tau. Diagnosis is based upon clinical presentation 
+fulfilling several criteria as well as fluid and imaging biomarkers. Treatment 
+is currently targeted toward symptomatic therapy, although trials are underway 
+that aim to reduce the production and overall burden of pathology within the 
+brain. Here, we discuss recent advances in our understanding of the clinical 
+evaluation and treatment of Alzheimer's disease, with updates regarding clinical 
+trials still in progress.
+
+DOI: 10.12688/f1000research.14506.1
+PMCID: PMC6073093
+PMID: 30135715 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Jason Weller has no 
+competing interests to declare. Andrew Budson is a consultant and speaker for 
+General Electric, Lilly, and Axovant and is a clinical trial investigator for 
+Biogen, Lilly, vTv therapeutics, and Axovant.No competing interests were 
+disclosed.No competing interests were disclosed.
+
+
+3. Int J Mol Sci. 2023 Mar 30;24(7):6518. doi: 10.3390/ijms24076518.
+
+Inflammatory Processes in Alzheimer's Disease-Pathomechanism, Diagnosis and 
+Treatment: A Review.
+
+Twarowski B(1), Herbet M(1).
+
+Author information:
+(1)Chair and Department of Toxicology, Faculty of Pharmacy, Medical University 
+of Lublin, Jaczewskiego 8b Street, 20-090 Lublin, Poland.
+
+Alzheimer's disease is one of the most commonly diagnosed cases of senile 
+dementia in the world. It is an incurable process, most often leading to death. 
+This disease is multifactorial, and one factor of this is inflammation. Numerous 
+mediators secreted by inflammatory cells can cause neuronal degeneration. 
+Neuritis may coexist with other mechanisms of Alzheimer's disease, contributing 
+to disease progression, and may also directly underlie AD. Although much has 
+been established about the inflammatory processes in the pathogenesis of AD, 
+many aspects remain unexplained. The work is devoted in particular to the 
+pathomechanism of inflammation and its role in diagnosis and treatment. An 
+in-depth and detailed understanding of the pathomechanism of neuroinflammation 
+in Alzheimer's disease may help in the development of diagnostic methods for 
+early diagnosis and may contribute to the development of new therapeutic 
+strategies for the disease.
+
+DOI: 10.3390/ijms24076518
+PMCID: PMC10095343
+PMID: 37047492 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Handb Clin Neurol. 2019;167:231-255. doi: 10.1016/B978-0-12-804766-8.00013-3.
+
+Alzheimer's disease.
+
+Soria Lopez JA(1), González HM(1), Léger GC(2).
+
+Author information:
+(1)Department of Neurosciences, University of California San Diego, La Jolla, 
+CA, United States; Shiley-Marcos Alzheimer's Disease Research Center, University 
+of California San Diego, La Jolla, CA, United States.
+(2)Department of Neurosciences, University of California San Diego, La Jolla, 
+CA, United States; Shiley-Marcos Alzheimer's Disease Research Center, University 
+of California San Diego, La Jolla, CA, United States. Electronic address: 
+gleger@ucsd.edu.
+
+Alzheimer's disease (AD) dementia refers to a particular onset and course of 
+cognitive and functional decline associated with age together with a particular 
+neuropathology. It was first described by Alois Alzheimer in 1906 about a 
+patient whom he first encountered in 1901. Modern clinical diagnostic criteria 
+have been developed, and criteria have also been proposed to recognize 
+preclinical (or presymptomatic) stages of the disease with the use of 
+biomarkers. The primary neuropathology was described by Alzheimer, and in the 
+mid-1980s subsequently evolved into a more specific neuropathologic definition 
+that recognizes the comorbid neuropathologies that frequently contribute to 
+clinical dementia. Alzheimer's disease is now the most common form of 
+neurodegenerative dementia in the United States with a disproportionate disease 
+burden in minority populations. Deficits in the ability to encode and store new 
+memories characterizes the initial stages of the disease. Subsequent progressive 
+changes in cognition and behavior accompany the later stages. Changes in amyloid 
+precursor protein (APP) cleavage and production of the APP fragment beta-amyloid 
+(Aβ) along with hyperphosphorylated tau protein aggregation coalesce to cause 
+reduction in synaptic strength, synaptic loss, and neurodegeneration. Metabolic, 
+vascular, and inflammatory changes, as well as comorbid pathologies are key 
+components of the disease process. Symptomatic treatment offers a modest, 
+clinically measurable effect in cognition, but disease-modifying therapies are 
+desperately needed.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-12-804766-8.00013-3
+PMID: 31753135 [Indexed for MEDLINE]
+
+
+5. Neuron. 2024 Apr 17;112(8):1208-1221. doi: 10.1016/j.neuron.2024.01.024. Epub 
+2024 Feb 22.
+
+Mechanisms of sex differences in Alzheimer's disease.
+
+Lopez-Lee C(1), Torres ERS(2), Carling G(1), Gan L(3).
+
+Author information:
+(1)Helen and Robert Appel Alzheimer's Disease Institute, Feil Family Brain and 
+Mind Research Institute, Weill Cornell Medicine, New York, NY, USA; Neuroscience 
+Graduate Program, Weill Cornell Medicine, New York, NY, USA.
+(2)Helen and Robert Appel Alzheimer's Disease Institute, Feil Family Brain and 
+Mind Research Institute, Weill Cornell Medicine, New York, NY, USA.
+(3)Helen and Robert Appel Alzheimer's Disease Institute, Feil Family Brain and 
+Mind Research Institute, Weill Cornell Medicine, New York, NY, USA; Neuroscience 
+Graduate Program, Weill Cornell Medicine, New York, NY, USA. Electronic address: 
+lig2033@med.cornell.edu.
+
+Alzheimer's disease (AD) and the mechanisms underlying its etiology and 
+progression are complex and multifactorial. The higher AD risk in women may 
+serve as a clue to better understand these complicated processes. In this 
+review, we examine aspects of AD that demonstrate sex-dependent effects and 
+delve into the potential biological mechanisms responsible, compiling findings 
+from advanced technologies such as single-cell RNA sequencing, metabolomics, and 
+multi-omics analyses. We review evidence that sex hormones and sex chromosomes 
+interact with various disease mechanisms during aging, encompassing 
+inflammation, metabolism, and autophagy, leading to unique characteristics in 
+disease progression between men and women.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2024.01.024
+PMCID: PMC11076015
+PMID: 38402606 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

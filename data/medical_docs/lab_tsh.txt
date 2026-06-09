@@ -1,0 +1,150 @@
+=== PubMed: TSH thyroid stimulating hormone high low causes treatment ===
+1. Endocr J. 2026 Apr 15. doi: 10.1507/endocrj.EJ26-0019. Online ahead of print.
+
+Low-affinity IgG-mediated macro-TSH: diagnostic limitations of peak-based gel 
+filtration chromatography-a case report with review of literature.
+
+Kasahara T(1).
+
+Author information:
+(1)Kasahara Clinic, Osaka 542-0076, Japan.
+
+Macro-thyroid-stimulating hormone (macro-TSH) is a well-recognized cause of 
+spuriously elevated TSH results. However, its characterization still relies 
+largely on gel filtration chromatography (GFC), which may fail to detect 
+macro-TSH associated with unstable or low-affinity immune complexes. In 
+particular, when second-line screening tests, such as polyethylene glycol (PEG) 
+precipitation, strongly suggest macro-TSH but GFC shows no distinct 
+high-molecular-weight TSH fraction, macro-TSH may be incorrectly ruled out as 
+the source of interference. A 43-year-old woman treated with levothyroxine for 
+subclinical hypothyroidism showed persistently elevated TSH despite high-normal 
+free thyroxine levels and no clinical signs of hypothyroidism. PEG precipitation 
+and Protein G treatment resulted in TSH recovery rates of 8% and 23%, 
+respectively, indicating macro-TSH mediated by immunoglobulin G, while 
+heterophile and assay-specific interferences were considered unlikely. GFC under 
+neutral conditions revealed a subtly broadened TSH distribution without a 
+distinct high-molecular-weight peak. Quantitative peak analysis showed increased 
+full width at half maximum and area under the curve, with values approximately 
+1.5- to 2-fold higher than those in controls in both the initial and repeat 
+runs, confirming significant peak broadening. Under acidic conditions, the 
+patient's TSH elution profile completely overlapped with those of the controls, 
+supporting the presence of macro-TSH due to low-affinity TSH-IgG complexes. This 
+case highlights the diagnostic challenge posed by macro-TSH, particularly in 
+cases involving low-affinity antibody interactions. It underscores the 
+importance of assessing the overall elution profile rather than relying solely 
+on peak position. Recognizing such atypical presentations can prevent 
+unnecessary thyroid hormone treatment and improve diagnostic accuracy.
+
+DOI: 10.1507/endocrj.EJ26-0019
+PMID: 41987389
+
+
+2. J Assoc Physicians India. 2026 Mar;74(3):94-96. doi: 10.59556/japi.74.1442.
+
+Thyrotropin Controversy in Subclinical Thyroid Disorders.
+
+Agrawal R(1).
+
+Author information:
+(1)Consultant Diabetologist, Secretary RSSDI MP State, CEO, DOT Clinic, Indore, 
+Madhya Pradesh, India, Corresponding Author, Orcid: 
+https://orcid.org/0009-0007-1237-210X.
+
+AIM: The thyrotropin controversy in subclinical thyroid disorders (STDs) is 
+among the most common endocrine disorders globally. In India, approximately 42 
+million people suffer from thyroid disorders, with subclinical hypothyroidism 
+(SCH) affecting about 9.4% of the population. SCH is more prevalent in females 
+(11.4%) compared to males (6.2%).
+DISCUSSION: The diagnosis and treatment of SCH and subclinical hyperthyroidism 
+(SHT) are controversial. SCH is often diagnosed based on biochemical markers, as 
+patients may be asymptomatic or exhibit vague symptoms. Thyrotropin (TSH) levels 
+may be elevated or decreased, while triiodothyronine (T3) and thyroxine (T4) 
+remain within the normal reference range or near the lower or upper limits. STDs 
+refers to an abnormal TSH with normal thyroxine (FT4) and free triiodothyronine 
+(FT3) levels. It includes STDs and individuals at high risk for disease 
+progression or adverse outcomes, with unclear prognosis. Progression of SCH to 
+overt hypothyroidism depends on initial serum TSH levels, thyroid peroxidase 
+antibodies (TPO), family history of thyroid disorders, previous radiation, and 
+smoking. Controversies surround SCH and its association with cardiovascular 
+diseases (CVD), pregnancy outcomes, neuropsychiatric issues, metabolic syndrome, 
+dyslipidemia, and diabetes. Assay interference is a problem in interpreting 
+thyroid function tests (TFTs), occurring in 1% of cases. The health package 
+investigation systems often overlooks the impact of drug intake and assay 
+interference. Various methods for measuring TFTs, such as radioimmunoassay, 
+immunometric assay, and ELISA, differ in sensitivity, specificity, and 
+standardization, leading to methodological variability. Common causes of assay 
+interference include human antimurine antibodies (HAMA), thyroid hormone 
+autoantibodies (THAAbs), rheumatoid factor, antistreptavidin, and antiruthenium 
+antibodies. When diagnosing SCH, it is crucial to rule out other causes of 
+elevated TSH, such as autoantibodies, goiter, and rare conditions such as 
+thyroid hormone resistance (THR), diagnosed by serum glycoprotein alpha subunit 
+(α-GSU) and family history. Biotin, a common supplement, can affect TFT assays, 
+leading to spurious results. It can cause falsely high T4 and T3 levels and low 
+TSH, leading to misdiagnosis of SCH.
+CONCLUSION AND RECOMMENDATIONS: The timing of TFTs, whether fasting, 
+postprandial, or random, remains a debated issue. Assay interference and biotin 
+intake should be considered when analyzing TFTs. The role of iodine and iodine 
+supplementation during pregnancy and its impact on STDs are not yet fully 
+conceptualized. Large randomized clinical and epidemiological studies are needed 
+to establish a consensus on the diagnostic threshold for TSH. These studies 
+should include diverse populations and medical conditions to improve our 
+understanding of the disease and patient outcomes. In practice, avoid rushing to 
+treat elevated TSH levels between 4 and 10 mIU/L or low TSH between 0.5 and 0.1 
+mIU/L without confirming the diagnosis with additional tests (T3, T4, FT4, FT3, 
+and TPO). TSH alone should not be the sole decision-maker; consider other TFTs 
+and sequential testing from the same laboratory and time to make more informed 
+decisions. While TSH levels can be affected by time and prandial state, FT3 and 
+FT4 levels remain stable, suggesting all three TFTs may aid in accurate 
+diagnosis and treatment decisions.
+
+© Journal of The Association of Physicians of India 2026.
+
+DOI: 10.59556/japi.74.1442
+PMID: 41818104 [Indexed for MEDLINE]
+
+
+3. Mol Pharm. 2026 Apr 6;23(4):2742-2751. doi: 10.1021/acs.molpharmaceut.5c01864.
+ Epub 2026 Mar 11.
+
+Synthesis and Evaluation of (64)Cu-Labeled Small-Size Antibody Fragments for 
+Immuno-PET Imaging of Thyroid-Stimulating Hormone Receptor in Thyroid Cancer.
+
+Fu W(1), Parent EE(1), Knight JA(2), Liu B(1), Copland JA 3rd(2), Cai H(1).
+
+Author information:
+(1)Department of Radiology, Mayo Clinic, Jacksonville, Florida 32224, United 
+States.
+(2)Department of Cancer Biology, Mayo Clinic, Jacksonville, Florida 32224, 
+United States.
+
+The thyroid-stimulating hormone receptor (TSHR) is a promising molecular target 
+for thyroid cancer imaging and therapy. Our previous work has demonstrated that 
+PET imaging with the radiolabeled anti-TSHR human monoclonal antibody K1-70 
+enables assessment of TSHR expression in thyroid cancer. However, full-length 
+antibody-based radiopharmaceuticals exhibit delayed systemic clearance and 
+increased off-target radiation burden, resulting in suboptimal pharmacokinetics 
+for immuno-PET imaging. Herein, we report the synthesis and evaluation of 
+64Cu-labeled anti-TSHR K1-70 antibody fragment antigen-binding (Fab) and 
+single-chain variable fragment (scFv), for immuno-PET imaging of TSHR in thyroid 
+cancer mouse models. These smaller formats enabled rapid tumor targeting and 
+favorable pharmacokinetics with high tumor-to-background contrast. Two 
+radiotracers, named 64Cu-NOTA-TSHR-Fab and 64Cu-NOTA-TSHR-scFv, were prepared by 
+conjugating TSHR-Fab or TSHR-scFv to p-SCN-Bn-NOTA, followed by radiolabeling 
+with 64Cu, achieving high radiochemical purity (>99%). The specificity and 
+binding affinity of each radiotracer were determined by cellular uptake and 
+binding assays using TSHR-positive THJ529T cells and corresponding wild-type 
+controls. Both radiotracers exhibited specific, nanomolar binding affinity to 
+TSHR-positive cells. Immuno-PET imaging, ex vivo biodistribution, and blocking 
+studies of each radiotracer were performed in NSG mice bearing subcutaneous 
+TSHR-positive THJ529T tumor xenografts at various time points (1, 4, 18, and 24 
+h postinjection). In comparative in vivo evaluations, 64Cu-NOTA-TSHR-Fab showed 
+rapid and superior TSHR-specific tumor accumulation compared with 
+64Cu-NOTA-TSHR-scFv, evident as early as 1 h postinjection. Both radiotracers 
+demonstrated rapid pharmacokinetics and low background signal, but with high 
+renal uptake. This head-to-head comparison of small-size antibody fragment-based 
+radiotracers for TSHR-targeted immuno-PET imaging identifies 64Cu-NOTA-TSHR-Fab 
+as a promising immuno-PET radiotracer for in vivo detection of TSHR expression 
+in thyroid cancer and for guiding TSHR-targeted therapy.
+
+DOI: 10.1021/acs.molpharmaceut.5c01864
+PMID: 41811708 [Indexed for MEDLINE]

@@ -1,0 +1,218 @@
+=== PubMed: hyperthyroidism ===
+1. Endocrine. 2019 Jul;65(1):144-148. doi: 10.1007/s12020-019-01903-2. Epub 2019 
+Mar 23.
+
+Hyperthyroidism influences renal function.
+
+Sönmez E(1), Bulur O(2), Ertugrul DT(3), Sahin K(4), Beyan E(1), Dal K(1).
+
+Author information:
+(1)Department of Internal Medicine, Health Sciences University, Kecioren 
+Teaching and Research Hospital, Keçiören/Ankara, Turkey.
+(2)Department of Internal Medicine, Health Sciences University, Kecioren 
+Teaching and Research Hospital, Keçiören/Ankara, Turkey. oktaybulur34@gmail.com.
+(3)Department of Endocrinology and Metabolism, Health Sciences University, 
+Kecioren Teaching and Research Hospital, Keçiören/Ankara, Turkey.
+(4)Department of Rheumatology, Health Sciences University, Kecioren Teaching and 
+Research Hospital, Keçiören/Ankara, Turkey.
+
+PURPOSE: While the effects of hypothyroidism on renal function have been studied 
+extensively, there is less information concerning the effect of hyperthyroidism. 
+We aimed to elucidate the effect of overt and subclinical hyperthyroidism, on 
+estimated glomerular filtration rate (eGFR) with large number of patients 
+treated for hyperthyroidism and after euthyroidism was achieved.
+METHOD: A total of 433 consecutive overt and subclinical hyperthyroid patients 
+were included in the study. We assessed serum fT3, fT4, TSH, BUN, creatinine, 
+and eGFR measurements during both hyperthyroid and euthyroid states of the same 
+patients. The eGFR was calculated using the simplified modification of diet in 
+renal disease (MDRD) Formula.
+RESULTS: Among these patients, 367 had overt, and 66 had subclinical 
+hyperthyroidism. fT3, fT4, and eGFR measurements decreased, meanwhile BUN, 
+creatinine and TSH levels increased significantly after euthyroidism was 
+achieved (p < 0.0001 for all). The correlation analyses revealed that eGFR in 
+hyperthyroid state (eGFRh) and fT3 in hyperthyroid state (fT3h) (r = 0,210, 
+p < 0,0001), and fT4 in hyperthyroid state (fT4h) (r = 0,176, p < 0,0001) were 
+significantly correlated. ∆GFR did not differ between overt hyperthyroid group 
+and subclinical hyperthyroid group.
+CONCLUSIONS: We observed a significant decline in eGFR measurements after the 
+patients became euthyroid. Some of these patients had lower values than 
+60 mL/min/1.73 m2, which mean that hyperthyroidism may be masking mild renal 
+failure.
+
+DOI: 10.1007/s12020-019-01903-2
+PMID: 30904999 [Indexed for MEDLINE]
+
+
+2. Endocrine. 2024 Jul;85(1):1-10. doi: 10.1007/s12020-023-03679-y. Epub 2024 Jan
+ 9.
+
+Perchlorates in the treatment of hyperthyroidism and thyrotoxicosis: a 
+comprehensive review.
+
+Lisco G(1), Accardo G(2), Pupilli C(3), Malandrino P(4), De Geronimo V(5), 
+Triggiani V(6).
+
+Author information:
+(1)Interdisciplinary Department of Medicine, School of Medicine, University of 
+Bari "Aldo Moro", Bari, 70124, Italy. giuseppe.lisco@uniba.it.
+(2)Dipartmento di Scienze Mediche, Chirurgiche, Neurologiche, Metabolismo ed 
+Invecchiamento, Università degli Studi della Campania "L. Vanvitelli", Napoli, 
+80133, Italia.
+(3)SOSD Endocrinologia - Azienda USL Toscana Centro, Firenze, 50122, Italia.
+(4)Endocrinologia, Dipartimento di Medicina Clinica e Sperimentale, Arnas 
+Garibaldi, Università di Catania", Catania, Italy.
+(5)Servizio di Endocrinologia, Morgagni CCD, Catania, 95125, Italia. vdg@iol.it.
+(6)Interdisciplinary Department of Medicine, School of Medicine, University of 
+Bari "Aldo Moro", Bari, 70124, Italy. vincenzo.triggiani@uniba.it.
+
+INTRODUCTION: Perchlorates are ionic inhibitors antagonizing iodine transport 
+into thyrocytes, hampering thyroid hormone synthesis. Nevertheless, perchlorates 
+are not considered as first-line treatment in hyperthyroidism and thyrotoxicosis 
+as compared to other pharmacological and non-pharmacological interventions.
+AIM: Reassessing the therapeutic role of perchlorates in hyperthyroidism and 
+thyrotoxicosis throughout a systematic review of the Literature.
+METHODS: Guidelines were searched and examined to summarize current 
+recommendations on the use of perchlorates in the management of hyperthyroidism. 
+Randomized and non-randomized clinical trials were also searched and reviewed to 
+summarize the efficacy/effectiveness and safety of perchlorates in 
+hyperthyroidisms and thyrotoxicosis.
+RESULTS: The management of specific forms of hyperthyroidism was considered, 
+including Graves' disease (GD) in non-pregnant adults, hyperthyroidisms in 
+pregnancy, iodine media contrast-induced hyperthyroidism, amiodarone-induced 
+hyperthyroidisms, and thyroid storm. Most of the reported studies had remarkable 
+limitations in terms of study design (non-controlled trials, lack of blinding), 
+low number of participants, and the lack of clinically relevant endpoints, such 
+as cardiovascular events, cardiovascular mortality, and teratogenicity. Overall, 
+perchlorates could be considered a second-line treatment after thionamides, 
+radioiodine, and total thyroidectomy in both GD and hyperthyroidisms in 
+pregnancy. The therapeutic potential of perchlorates alone or in combination 
+with other agents could be considered a second-line treatment of iodine-related 
+hyperthyroidisms and thyroid storm.
+CONCLUSION: Despite the low level of evidence, perchlorates could be considered 
+in such specific forms of thyroid disorders, including iodine-induced 
+hyperthyroidism and thyroid storm.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s12020-023-03679-y
+PMCID: PMC11246303
+PMID: 38195966 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Thyroid. 2003 Jun;13(6):585-93. doi: 10.1089/105072503322238854.
+
+Hyperthyroidism, bone mineral, and fracture risk--a meta-analysis.
+
+Vestergaard P(1), Mosekilde L.
+
+Author information:
+(1)The Osteoporosis Clinic, Aarhus Amtssygehus, Aarhus University Hospital, 
+Aarhus, Denmark. p-vest@post4.tele.dk
+
+This study examined changes in bone mineral and fracture risk after treatment 
+for hyperthyroidism in a meta-analysis. The PubMed and EMBASE were searched 
+using the MESH terms "hyperthyroidism," "bone mineral density" (BMD), and 
+"fracture," resulting in retrieval of 289 references. Twenty references 
+describing BMD and five describing fracture risk were included in the 
+meta-analysis. BMD was significantly decreased in patients with untreated 
+hyperthyroidism. Upon treatment BMD increased significantly and reversed to 
+normal levels with a temporary increase above normal levels 1-4 years after 
+diagnosis. The risk of hip fractures increased significantly with age at 
+diagnosis of hyperthyroidism. The hip fracture risk after diagnosis predicted 
+from studies on BMD was close to that observed in clinical studies comparing 
+fracture risk in hyperthyroid patients with normal controls. Thus BMD is 
+significantly decreased and fracture risk increased in untreated 
+hyperthyroidism. Upon normalization of the hyperthyroid state BMD return to 
+normal even though no specific antiosteoporotic measures are taken other than 
+normalizing the hyperthyroid state.
+
+DOI: 10.1089/105072503322238854
+PMID: 12930603 [Indexed for MEDLINE]
+
+
+4. J Otolaryngol Head Neck Surg. 2018 Jan 22;47(1):6. doi: 
+10.1186/s40463-018-0254-2.
+
+Does hyperthyroidism worsen prognosis of thyroid carcinoma? A retrospective 
+analysis on 2820 consecutive thyroidectomies.
+
+Medas F(1), Erdas E(2), Canu GL(2), Longheu A(2), Pisano G(2), Tuveri M(3), Calò 
+PG(2).
+
+Author information:
+(1)Department of Surgical Sciences, University of Cagliari, Cittadella 
+Universitaria, SS554, Bivio Sestu, 09042, Monserrato (CA), Italy. 
+fabiomedas@gmail.com.
+(2)Department of Surgical Sciences, University of Cagliari, Cittadella 
+Universitaria, SS554, Bivio Sestu, 09042, Monserrato (CA), Italy.
+(3)Istituto Pancreas, Policlinico Borgo Roma, AOUI Verona, Piazzale L.A. Scuro, 
+10, 37134, Verona, Italy.
+
+BACKGROUND: Hyperthyroidism is associated with high incidence of thyroid 
+carcinoma; furthermore, tumors arisen in hyperthyroid tissue show an aggressive 
+behavior. Thyroid Stimulating Hormone (TSH) and Thyroid-stimulating antibodies, 
+present in Graves's disease, seem to play a key role in carcinogenesis and 
+tumoral growth.
+METHODS: We retrospectively reviewed our series of patients who underwent 
+thyroidectomy for thyroid carcinoma. We compared pathological features and 
+surgical outcomes of hyperthyroid versus euthyroid patients.
+RESULTS: From 2007 to 2015, 909 thyroidectomies were performed at our 
+institution for thyroid cancer: 87 patients were hyperthyroid and 822 euthyroid. 
+We observed, in hyperthyroid patients, a higher rate of transient 
+hypoparathyroidism (28.1% vs 13.2%; p < 0.01) and of node metastases (12.6% vs 
+6.1%; p = 0.03); also local recurrence rate was higher (5.7% vs 2.5%) even if 
+not statistically significant (p = 0.17). Five-year disease free survival rate 
+was significant lower in the same group (89.1% vs 96.6%; p = 0.03).
+CONCLUSION: Thyroid cancers in hyperthyroid patients have an aggressive 
+behavior, with high incidence of local invasion and a worse prognosis than 
+euthyroid patients. All hyperthyroid patients should undergo a careful 
+evaluation with ultrasound and scintigraphy; in case of suspicious nodules, an 
+aggressive approach, including thyroidectomy and lymphectomy, is justified. In 
+patients with toxic adenoma, thyroid cancer is uncommon, thus a loboisthmectomy 
+can be safely performed.
+TRIAL REGISTRATION NUMBER: Research registry n. 2670 registered 19 June 2017 
+(retrospectively registered).
+
+DOI: 10.1186/s40463-018-0254-2
+PMCID: PMC5778700
+PMID: 29357932 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Ethical approval was given by local ethics committee (Indipendent Ethic 
+Committee, University of Cagliari). Each patient included in the study gave 
+consent to participate to this study. CONSENT FOR PUBLICATION: Not applicable. 
+COMPETING INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
+
+
+5. Pol Merkur Lekarski. 2014 Mar;36(213):206-11.
+
+[Classification and etiology of hyperthyroidism].
+
+[Article in Polish]
+
+Łacka K, Fraczek MM.
+
+The prevalence of hyperthyroidism in women is between 0.5-2% and it is 10 times 
+less common in men. The most common causes are Graves' disease, toxic 
+multinodular goiter, and autonomously functioning thyroid adenoma. Rare causes 
+of hyperthyroidisms are as follow: pituitary adenoma, autoimmune thyroiditis 
+(Hashitoxicosis), levothyroxine overdose, inadequate iodine supplementation 
+(including amiodaron induced hyperthyroidism, iodine-based contrast media), hCG 
+excess (pregnancy, gestational trophoblastic disease, germ-cell tumors), drug 
+induced hyperthyroidism, differentiated thyroid carcinomas and/or their 
+metastases, struma ovarii, and familial nonautoimmune hyperthyroidism. This 
+article focuses on the current data of etiopathogenesis of hyperthyroidisms. 
+Genetic factors (like HLA-DR3,CD40, CTLA-4, PTPN22, FOXP3 CD25) and thyroid 
+specific genes (thyroglobulin, TSHR, G(s)alpha) and environmental and endogenous 
+factors (such as age, iodine, selenium, emotional stress, smoking, gender, 
+pregnancy, sex hormones, fetal microchimerism, fetal growth, bacterial 
+infections, viral infections, allergies, drugs (alemtuzumab, interferon alpha, 
+iplimumab/tremelimumab, tyrosine kinase inhibitors, denileukindiftitox, 
+thalidomide/lenalidomide, exposition to fallout and radiotherapy) have been 
+described.
+
+PMID: 24779222 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+=== PubMed: metoclopramide drug interactions dopamine tardive dyskinesia ===
+1. Synapse. 2011 Feb;65(2):119-24. doi: 10.1002/syn.20825.
+
+Antipsychotic drug binding in the substantia nigra: an examination of high 
+metoclopramide binding in the brains of normal, Alzheimer's disease, 
+Huntington's disease, and Multiple Sclerosis patients, and its relation to 
+tardive dyskinesia.
+
+Chen S(1), Seeman P, Liu F.
+
+Author information:
+(1)Department of Neuroscience, Centre for Addiction and Mental Health, Clarke 
+Division, Toronto, Ontario, Canada M5T 1R8.
+
+This project was done in order to determine why the annual incidence of 
+metoclopramide-associated tardive dyskinesia is much higher than that for the 
+commonly used antipsychotics. To test the hypothesis that metoclopramide tardive 
+dyskinesia may be associated with high concentrations of metoclopramide in the 
+substantia nigra under clinical conditions, the nonspecific binding of tritiated 
+antipsychotics to the dissected melaninized regions of postmortem human 
+substantia nigra was measured. The nonspecific binding at 1 nM [³H]ligand was 
+7.3, 4.2, 2.6, 0.91 and 0.66 fmoles/mg for [³H]haloperidol, [³H]clozapine, 
+[³H]raclopride, [³H]metoclopramide, and [³H]olanzapine, respectively. After 
+adjusting these values for the known free concentrations of these drugs in 
+plasma or spinal fluid, the amounts that would be bound under clinical 
+conditions would be 231, 113, 15, 11, and 3.4 fmoles/mg for metoclopramide, 
+clozapine, raclopride, haloperidol, and olanzapine, respectively. Using rat 
+striatum as baseline to define antipsychotic binding to nonnigral tissue, the 
+excess amount of binding to the Alzheimer nigral tissue under clinical 
+conditions would be 209, 19, 0, 3.4 and 0.8 fmole/mg for metoclopramide, 
+clozapine, raclopride, haloperidol, and olanzapine, respectively, with a similar 
+pattern for nigral tissues from Huntington and Multiple Sclerosis patients. The 
+high accumulation of metoclopramide is sufficiently high to cause nigral nerve 
+cell membrane damage by metoclopramide's detergent-like action, possibly 
+explaining metoclopramide's toxic ability to elicit early tardive dyskinesia. In 
+addition, the nonspecific binding of metoclopramide was much higher in 
+Alzheimer-diseased substantia nigra, consistent with the fact that older 
+individuals are relatively more vulnerable to metoclopramide tardive dyskinesia.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/syn.20825
+PMID: 20524177 [Indexed for MEDLINE]

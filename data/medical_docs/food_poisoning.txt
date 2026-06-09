@@ -1,0 +1,99 @@
+=== PubMed: food poisoning ===
+1. Emerg Med Clin North Am. 2007 May;25(2):357-73; abstract ix. doi: 
+10.1016/j.emc.2007.02.014.
+
+Food poisoning.
+
+Lawrence DT(1), Dobmeier SG, Bechtel LK, Holstege CP.
+
+Author information:
+(1)Blue Ridge Poison Center, Division of Medical Toxicology, Department of 
+Emergency Medicine, University of Virginia, Charlottesville, VA 22908-0774, USA.
+
+Food poisoning is encountered throughout the world. Many of the toxins 
+responsible for specific food poisoning syndromes are no longer limited to 
+isolated geographic locations. With increased travel and the ease of 
+transporting food products, it is likely that a patient may present to any 
+emergency department with the clinical effects of food poisoning. Recognizing 
+specific food poisoning syndromes allows emergency health care providers not 
+only to initiate appropriate treatment rapidly but also to notify health 
+departments early and thereby prevent further poisoning cases. This article 
+reviews several potential food-borne poisons and describes each agent's 
+mechanism of toxicity, expected clinical presentation, and currently accepted 
+treatment.
+
+DOI: 10.1016/j.emc.2007.02.014
+PMID: 17482025 [Indexed for MEDLINE]
+
+
+2. Ann Allergy Asthma Immunol. 2023 Apr;130(4):444-451. doi: 
+10.1016/j.anai.2022.10.021. Epub 2022 Nov 2.
+
+An allergist's approach to food poisoning.
+
+Patel P(1), Komorowski AS(2), Mack DP(3).
+
+Author information:
+(1)Division of Immunology and Allergy, Department of Pediatrics, The Hospital 
+for Sick Children and University of Toronto, Toronto, Ontario, Canada.
+(2)Division of Medical Microbiology, Department of Pathology, and Molecular 
+Medicine, McMaster University, Hamilton, Ontario, Canada; Department of Health 
+Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, 
+Canada.
+(3)Department of Pediatrics, McMaster Children's Hospital, McMaster University, 
+Hamilton, Ontario, Canada. Electronic address: mackd1@mcmaster.ca.
+
+Comment in
+    Ann Allergy Asthma Immunol. 2023 Apr;130(4):403-404. doi: 
+10.1016/j.anai.2022.12.019.
+
+Foodborne illnesses represent a significant global health concern. These 
+preventable diseases lead to substantial mortality and morbidity worldwide. 
+Substantial overlap with food allergy exists with similar clinical presentations 
+and symptom onset. Knowledge of the typically implicated microorganisms and 
+toxins can help properly identify these diseases. A thorough history is 
+essential to differentiate between these 2 disorders. The types of food 
+implicated may be similar including milk, egg, fish, and shellfish. The timing 
+of symptom onset may overlap and lead to misdiagnosis of disorders such as food 
+protein-induced enterocolitis syndrome. Classically, histamine-related food 
+poisoning is also typically confused with true food allergy and may be seen as 
+related to fish and cheese. Knowledge of epidemiology, patterns, and etiology of 
+allergic conditions and foodborne illness may help the allergist differentiate 
+among these common diseases.
+
+Copyright © 2022 American College of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2022.10.021
+PMID: 36334721 [Indexed for MEDLINE]
+
+
+3. Am Fam Physician. 2015 Sep 1;92(5):Online.
+
+Food Poisoning.
+
+[No authors listed]
+
+PMID: 26371578 [Indexed for MEDLINE]
+
+
+4. Br Med J. 1952 Mar 15;1(4758):593-5. doi: 10.1136/bmj.1.4758.593.
+
+Food-poisoning.
+
+TAYLOR J.
+
+DOI: 10.1136/bmj.1.4758.593
+PMCID: PMC2023075
+PMID: 14904998 [Indexed for MEDLINE]
+
+
+5. Med J Aust. 1984 Aug 18;141(4):205-7. doi:
+10.5694/j.1326-5377.1984.tb132748.x.
+
+Food poisoning.
+
+Christopher P.
+
+DOI: 10.5694/j.1326-5377.1984.tb132748.x
+PMID: 6482753 [Indexed for MEDLINE]

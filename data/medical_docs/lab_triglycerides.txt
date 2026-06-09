@@ -1,0 +1,167 @@
+=== PubMed: triglycerides high low causes treatment ===
+1. Eur J Clin Pharmacol. 2026 May 7;82(6):142. doi: 10.1007/s00228-026-04072-0.
+
+Effects of hypoxia-inducible factor prolyl hydroxylase inhibitors on lipid 
+profiles in patients with chronic kidney disease: a systematic review and 
+meta-analysis.
+
+Huang YH(1), Huang YH(1), Peng TR(1)(2)(3), Wu TW(4)(5).
+
+Author information:
+(1)Department of Pharmacy, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical 
+Foundation, New Taipei City, Taiwan.
+(2)School of Pharmacy, College of Pharmacy, Taipei Medical University, Taipei, 
+Taiwan.
+(3)Department of Basic Medical Sciences, College of Nursing, Tzu Chi University, 
+Hualien, Taiwan.
+(4)Department of Pharmacy, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical 
+Foundation, New Taipei City, Taiwan. b405101056@gmail.com.
+(5)Department of Pharmacy and Master Program, Tajen University, Pingtung, 
+Taiwan. b405101056@gmail.com.
+
+BACKGROUND: Hypoxia-inducible factor prolyl hydroxylase inhibitors (HIF-PHIs) 
+are novel oral agents for treating anemia in chronic kidney disease (CKD), with 
+potential effects on lipid modulation. We aimed to systematically evaluate the 
+effects of HIF-PHIs on lipid profiles and cardiovascular outcomes in CKD 
+patients.
+MATERIALS AND METHODS: PubMed, the Cochrane Central Register of Controlled 
+Trials (CENTRAL), and Embase (Ovid) were searched for randomized controlled 
+trials comparing HIF-PHIs with erythropoiesis-stimulating agents (ESAs) or 
+placebo in dialysis-dependent (DD) or nondialysis-dependent (NDD) CKD patients. 
+Primary outcomes included changes in low-density lipoprotein cholesterol 
+(LDL-C), total cholesterol, triglycerides, and high-density lipoprotein 
+cholesterol (HDL-C). Secondary outcomes included cardiovascular outcomes, 
+including cardiovascular death, myocardial infarction, stroke, and all-cause 
+mortality.
+RESULTS: A total of 20 trials involving 12,155 patients were analyzed in this 
+review. Roxadustat significantly reduced LDL-C (mean difference [MD], 
+-16.07 mg/dL; 95% CI, -17.92 to -14.21; 14 randomized controlled trials [RCTs], 
+10,510 patients), total cholesterol (MD, -25.25 mg/dL; 95% CI, -29.70 to -20.81; 
+10 RCTs, 5,538 patients), triglycerides (MD, -19.70 mg/dL; 95% CI, -30.78 to 
+-8.61; 9 RCTs, 4,616 patients), but also decreased HDL-C (MD, -4.91 mg/dL; 95% 
+CI, -6.80 to -3.02; 9 RCTs, 5,132 patients). Desidustat significantly reduced 
+LDL-C and total cholesterol, but showed no significant effects on triglycerides 
+or HDL-C, whereas molidustat showed no significant lipid-lowering effects. 
+Overall, treatment with HIF-PHIs was not associated with significant differences 
+in cardiovascular death (RR, 1.00; 95% CI, 0.84 to 1.18; 10 RCTs, 9,371 
+patients), myocardial infarction (RR, 1.12; 95% CI, 0.90 to 1.38; 15 RCTs, 
+11,265 patients), stroke (RR, 1.18; 95% CI, 0.86 to 1.61; 14 RCTs, 11,136 
+patients), or all-cause mortality (RR, 1.06; 95% CI, 0.96 to 1.17; 19 RCTs, 
+11,903 patients), compared with ESAs or placebo.
+CONCLUSION: Roxadustat showed the most substantial lipid-lowering effects, while 
+desidustat showed significant reductions in LDL-C and total cholesterol but no 
+significant effects on triglycerides or HDL-C, and molidustat showed no 
+significant effects. Despite these changes in lipid profiles, no significant 
+differences in cardiovascular outcomes were observed for these three HIF-PHIs, 
+compared with ESAs or placebo.
+
+© 2026. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00228-026-04072-0
+PMID: 42091697 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+2. Sci Rep. 2026 May 4. doi: 10.1038/s41598-026-50012-4. Online ahead of print.
+
+The therapeutic potential of zinc-nanoparticles against the cerebellar 
+neurotoxicity induced by bacterial lipopolysaccharides in female rats and their 
+pups.
+
+El-Beltagy AEBM(1), Eladad M(1), Kamel K(1), Elsayyad HIH(2), Attallah A(3).
+
+Author information:
+(1)Zoology Department, Faculty of Science, Damanhour University, Damanhour, 
+Egypt.
+(2)Zoology Department, Faculty of Science, Mansoura University, Mansoura, Egypt.
+(3)Zoology Department, Faculty of Science, Damanhour University, Damanhour, 
+Egypt. amany.abdallah@sci.dmu.edu.eg.
+
+Lipopolysaccharide (LPS) is an immunostimulatory endotoxin component of the cell 
+wall of Gram-negative bacteria. LPS correlates with unfavorable developmental 
+consequences, such as preterm birth, fetal demise, teratogenic effects, and 
+intrauterine growth restriction. Zinc is essential for embryogenesis, fetal 
+development, and lactation. This study sought to assess the efficacy of zinc 
+nanoparticles (Zn-NPs) in alleviating cerebellar toxicity caused by LPS in 
+female rats and their offspring. Treatment of LPS-administered female rats with 
+Zn-NPs led to a significant restoration of oxidative stress levels, as indicated 
+by a substantial reduction in malondialdehyde and a marked improvement in 
+superoxide dismutase catalase activity, and Glutathione content in the 
+cerebellar tissues. A significant enhancement was observed in the lipid profiles 
+(total cholesterol, triglycerides, low-density lipoprotein, and high-density 
+lipoprotein) and neurotransmitters (serotonin and dopamine). This was 
+accompanied by significant restoration in the histological and ultrastructural 
+architecture of the cerebellar cortex damaged by LPS. Furthermore, the treatment 
+of LPS-administered mothers with Zn-NPs significantly mitigated the 
+neurodegenerative alterations generated by LPS, as demonstrated by the 
+regulation of synaptophysin, chromogranin, and neuron-specific enolase. 
+Conclusion: Zinc nanoparticles could potentially have a therapeutic role by 
+mitigating cerebellar neurotoxicity caused by bacterial LPS during gestation by 
+reducing oxidative stress and apoptosis.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41598-026-50012-4
+PMID: 42082605
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethical approval: This study was approved by the 
+Institutional Animal Ethics Committee of Faculty of Science, Damanhour 
+university (Approval No. DMU-SCI-CSRE-09-11-24) and conducted in compliance with 
+the NIH Guide for the Care and Use of Laboratory Animals. All procedures 
+minimized animal suffering, with humane endpoints observed.
+
+
+3. Cureus. 2026 Apr 1;18(4):e106258. doi: 10.7759/cureus.106258. eCollection 2026
+ Apr.
+
+The Past, Present, and Future of Dyslipidemia: A Narrative Review.
+
+Manoria PC(1).
+
+Author information:
+(1)Cardiology, Manoria Heart and Critical Care Hospital, Bhopal, IND.
+
+Cardiovascular disease (CVD) remains the leading global cause of death, with 
+dyslipidemia as its most modifiable driver of atherosclerotic CVD. The burden is 
+especially severe in India, where early-onset disease and a distinct lipid 
+profile, marked by elevated triglycerides, low high-density lipoprotein 
+cholesterol (HDL-C), and small dense low-density lipoprotein (sdLDL) particles, 
+contribute to increased lifetime risk. The pathophysiology of atherosclerosis 
+has evolved from the cholesterol-centric model to the response-to-retention 
+hypothesis, highlighting the role of apolipoprotein B (ApoB)-containing 
+lipoproteins in initiating vascular inflammation and plaque formation. Advances 
+in lipid science have revealed complex interactions between lipid metabolism, 
+endothelial dysfunction, and immune activation. The Lipid Association of India 
+2023 guidelines recommend lifetime risk-based assessment and early intervention 
+using coronary artery calcium scoring (CACS), carotid and femoral plaque 
+imaging, and ankle-brachial index (ABI) to refine risk stratification. 
+Therapeutic options have expanded beyond statins to include ezetimibe, PCSK9 
+inhibitors, bempedoic acid, and RNA-based agents, offering deeper and safer 
+lipid reduction. Emerging therapies targeting ANGPTL3, liver X receptor (LXR) β, 
+and PPAR-β/δ pathways promise further innovation in lipid modulation. These 
+developments mark a shift toward precision lipidology, integrating genomics, 
+imaging, and long-acting therapeutics to enable early, aggressive, and 
+individualized prevention. As India faces a rising tide of cardiovascular events 
+in younger populations, the future of lipid management lies in personalized, 
+multimodal strategies that address both traditional and residual risk, aiming 
+for sustained cardiovascular protection and improved public health outcomes.
+
+Copyright © 2026, Manoria et al.
+
+DOI: 10.7759/cureus.106258
+PMCID: PMC13133743
+PMID: 42078291
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.

@@ -1,0 +1,132 @@
+=== PubMed: eczema dermatitis ===
+1. JAMA. 2023 Jan 17;329(3):268. doi: 10.1001/jama.2022.21457.
+
+Atopic Dermatitis (Eczema).
+
+Chovatiya R(1).
+
+Author information:
+(1)Department of Dermatology, Feinberg School of Medicine at Northwestern 
+University, Chicago, Illinois.
+
+Plain Language Summary: This JAMA Patient Page describes atopic dermatitis 
+(eczema) and its symptoms and treatment options.
+
+DOI: 10.1001/jama.2022.21457
+PMCID: PMC10190158
+PMID: 36648466 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: RC has served as an 
+advisory board member, consultant, and/or investigator for AbbVie, Arcutis, 
+Arena, Argenx, Beiersdorf, Bristol Myers Squibb, Dermavant, Eli Lilly and 
+Company, EPI Health, Incyte, L'Oréal, National Eczema Association, Pfizer Inc., 
+Regeneron, Sanofi, and UCB, and speaker for AbbVie, Dermavant, Eli Lilly and 
+Company, EPI Health, Incyte, LEO Pharma, Pfizer Inc., Regeneron, Sanofi, and 
+UCB.
+
+
+2. J Invest Dermatol. 2017 Jan;137(1):26-30. doi: 10.1016/j.jid.2016.07.012. Epub
+ 2016 Sep 8.
+
+The Burden of Atopic Dermatitis: Summary of a Report for the National Eczema 
+Association.
+
+Drucker AM(1), Wang AR(2), Li WQ(3), Sevetson E(4), Block JK(5), Qureshi AA(3).
+
+Author information:
+(1)Department of Dermatology, Alpert Medical School of Brown University, 
+Providence, Rhode Island, USA. Electronic address: aaron_drucker@brown.edu.
+(2)Department of Dermatology, Alpert Medical School of Brown University, 
+Providence, Rhode Island, USA.
+(3)Department of Dermatology, Alpert Medical School of Brown University, 
+Providence, Rhode Island, USA; Department of Epidemiology, Brown University 
+School of Public Health, Providence, Rhode Island, USA.
+(4)Health and Information Services, Brown University Library, Providence, Rhode 
+Island, USA.
+(5)National Eczema Association, San Rafael, California, USA.
+
+To assess the patient-level and societal burden of atopic dermatitis, we 
+comprehensively reviewed the literature related to quality of life, social, 
+economic, academic, and occupational impacts. Atopic dermatitis has profound 
+impacts on patient and family quality of life. A conservative estimate of the 
+annual costs of atopic dermatitis in the United States is $5.297 billion (in 
+2015 USD). People with atopic dermatitis may change their occupation because of 
+their skin disease. Research gaps include quality of life assessments outside of 
+tertiary care centers, impacts on partners and families of adult patients, and 
+updated comprehensive cost estimates.
+
+Copyright © 2016 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jid.2016.07.012
+PMID: 27616422 [Indexed for MEDLINE]
+
+
+3. Chem Immunol Allergy. 2014;100:81-96. doi: 10.1159/000358606. Epub 2014 May
+22.
+
+Atopic dermatitis/atopic eczema.
+
+Wallach D(1), Taïeb A.
+
+Author information:
+(1)Department of Dermatology, Hôpital Tarnier-Cochin, Paris, France.
+
+Atopic dermatitis was described in 1933 but exists since antiquity. We review 
+descriptions of a childhood skin disease compatible with our modern diagnosis of 
+atopic dermatitis, in ancient medicine and in nineteenth century dermatology 
+texts. We identify Hebra's prurigo and Besnier's diathetic prurigo as 
+forerunners of atopic dermatitis, the latter being a synthesis of infantile 
+eczema and prurigo. The pathogenic theories which link atopic dermatitis to 
+humoralistic medicine, to digestive diseases, to allergy may have had 
+consequences on today's reluctance to consider atopic dermatitis as a skin 
+disorder, the treatment of which relies mainly on topicals.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000358606
+PMID: 24925387 [Indexed for MEDLINE]
+
+
+4. J Indian Med Assoc. 1993 Mar;91(3):78-9.
+
+Eczema/dermatitis.
+
+Sehgal VN(1), Jain S.
+
+Author information:
+(1)Department of Dermatology and Venereology, Maulana Azad Medical College, New 
+Delhi.
+
+PMID: 8350011 [Indexed for MEDLINE]
+
+
+5. Med Clin North Am. 2021 Jul;105(4):611-626. doi: 10.1016/j.mcna.2021.04.003.
+
+Diagnosis and Management of Dermatitis, Including Atopic, Contact, and Hand 
+Eczemas.
+
+Chan CX(1), Zug KA(2).
+
+Author information:
+(1)Geisel School of Medicine at Dartmouth, Hanover, NH, USA. Electronic address: 
+Cynthia.X.Chan.med@dartmouth.edu.
+(2)Geisel School of Medicine at Dartmouth, Hanover, NH, USA; Department of 
+Dermatology, Dartmouth-Hitchcock Medical Center, 18 Old Etna Road, Lebanon, NH 
+03766, USA.
+
+This is a comprehensive and current guide for the diagnosis, differential 
+diagnosis, treatment, and management of eczematous dermatitis, with a focus on 
+atopic dermatitis, irritant and allergic contact dermatitis, hand dermatitis 
+including recurrent vesicular and hyperkeratotic types, asteatotic dermatitis, 
+and nummular or discoid dermatitis. Diagnostic options highlighted are clinical 
+history, physical examination, and patch testing. Therapeutic options 
+highlighted are moisturizers, topical corticosteroids, topical calcineurin 
+inhibitors, crisaborole, phototherapy, and systemic medications including 
+biologics.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2021.04.003
+PMID: 34059241 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.

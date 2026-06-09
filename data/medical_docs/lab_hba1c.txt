@@ -1,0 +1,184 @@
+=== PubMed: HbA1c diabetes control high causes treatment ===
+1. Endocrinol Diabetes Metab. 2026 May;9(3):e70233. doi: 10.1002/edm2.70233.
+
+Poor Glycemic Control in East Africa: Prevalence, Risk Factors and Public Health 
+Implications in Diabetes Management.
+
+Onohuean FE(1)(2), Onohuean M(1), Olot H(2)(3), Onohuean H(2)(3).
+
+Author information:
+(1)Department of Nursing and Midwifery, Faculty of Health Science, Metropolitan 
+International University, Kisorot, Uganda.
+(2)Biomolecules, Metagenomics, Endocrine & Tropical Disease Research Group 
+(BMETDREG), Kampala International University, Ishaka-Bushenyi, Uganda.
+(3)Biopharmaceutics Unit, Department of Pharmacology & Toxicology, School of 
+Pharmacy, Kampala International University, Ishaka-Bushenyi, Uganda.
+
+BACKGROUND: Diabetes mellitus remains a major public health concern in East 
+Africa, and poor glycaemic control continues to drive avoidable complications, 
+deaths and pressure on already stretched health systems.
+OBJECTIVE: To estimate the prevalence of poor glycemic control and describe the 
+main factors associated with it among people living with diabetes in East 
+Africa.
+METHODS: This review synthesized evidence from observational studies, 
+cross-sectional surveys and regional health databases identified through PubMed, 
+Scopus and Web of Science, following PRISMA guidance. Sociodemographic, clinical 
+and behavioural indicators were examined to identify common patterns and 
+predictors of poor glycaemic control. The review also considered how measurement 
+approaches shaped reported estimates.
+RESULTS: Fifty records were identified across PubMed (10), Scopus (23) and Web 
+of Science (17). After screening, 37 records were eligible for full-text review, 
+and 15 studies met the inclusion criteria for evidence synthesis. Across the 
+region, poor glycemic control was consistently high, ranging from 60% to 85%. 
+Most studies were facility-based and cross-sectional. Glycemic control was 
+assessed mainly using HbA1c, commonly defined as ≥ 7% or > 7.5%, and less 
+frequently by fasting blood glucose, typically ≥ 7.2 mmol/L or > 130 mg/dL. Type 
+2 diabetes was the dominant population studied, with fewer mixed cohorts and 
+only one study focused on type 1 diabetes. Factors repeatedly linked to poor 
+control included older age, longer duration of diabetes, poor medication 
+adherence, limited access to care, low health literacy, inadequate diabetes 
+education, insulin use, comorbidities, diabetic complications, unhealthy diet, 
+physical inactivity, sedentary behaviour, substance use and limited 
+self-management support.
+CONCLUSION: Poor glycemic control is alarmingly common among people with 
+diabetes in East Africa and reflects intertwined clinical, behavioural and 
+health-system challenges. Region-specific strategies are needed to strengthen 
+primary care, improve diabetes education, expand affordable monitoring and 
+treatment and enhance surveillance to guide policy and resource allocation.
+
+© 2026 The Author(s). Endocrinology, Diabetes & Metabolism published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1002/edm2.70233
+PMCID: PMC13139639
+PMID: 42083116 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. J Eval Clin Pract. 2026 Jun;32(4):e70456. doi: 10.1111/jep.70456.
+
+A Remote Chronic Disease Management Program to Improve Cardiovascular and 
+Metabolic Outcomes in a Diverse Community-Based Diabetic Population: Study 
+Design of the TAMIS Trial.
+
+Barros RC(1)(2), Stephanus A(1), Filho JAB(1)(3), Mariana E(1), Botelho Y(1), 
+Severino TMM(1)(3), Silva RC(1)(4), Almeida LJ(1), Koeche C(1), Gedeon B(1), 
+Oliveira MGS(1), Augusto AC(1), Ferraz C(1), Enzo F(1), Lima G(1), Ibiapina 
+JA(1), Pinto G(1), Ramalho SHR(5), Nogueira ACC(1)(3)(6), Sposito AC(7), 
+Campos-Staffico AM(8), Soares AASM(1)(6), Carvalho LSF(1)(3)(5)(6)(7)(9).
+
+Author information:
+(1)Data Laboratory for Research on Quality of Care and Outcomes (LaDaQCOR), 
+Catholic University of Brasília (UCB), Brasília, Brazil.
+(2)Post-Graduation Program in Medical Sciences, University of Brasília, 
+Brasília, Distrito Federal, Brazil.
+(3)Research Group on Cardiovascular Diseases of Brasília, Higher School of 
+Health Sciences (ESCS), University of the Federal District (UnDF), Brasília, 
+Brazil.
+(4)Postgraduate Program in Physical Education (PPGEF), Catholic University of 
+Brasília (UCB), Brasília, Brazil.
+(5)Hospital Sírio Libanês, Brasília, Distrito Federal, Brazil.
+(6)Aramari Apo Institute, Brasília, Brazil.
+(7)Department of Cardiology, State University of Campinas (Unicamp), Campinas 
+(SP), Brazil.
+(8)Department of Pharmaceutical Sciences, School of Pharmacy and Health 
+Professions, Creighton University, Omaha, USA.
+(9)Clarity Healthcare Intelligence, Campinas (SP), Brazil.
+
+INTRODUCTION: Cardiovascular and cerebrovascular diseases are projected to 
+expand in the coming decades as the main cause of death. This study outlines the 
+escalating burden of cardiovascular diseases in low- and middle-income countries 
+(LMICs), particularly in Latin America (LA), which is expected to surpass that 
+of other high-population regions. Despite advances in prevention strategies, 
+adherence to therapeutic goals remains a global challenge, especially in LMICs 
+where control rates are notably low for conditions such as hypertension, type 2 
+diabetes mellitus (DM2), and dyslipidemia. Emerging evidence from LMICs supports 
+the feasibility and effectiveness of telehealth interventions for 
+cardiometabolic disease management in primary care.
+AIMS: To address these challenges, a remote chronic disease management program 
+has been developed to optimize risk factor control through standardized medical 
+protocols and task automation.
+METHODS: This is an open-label randomized and decentralized clinical trial 
+describing the design and methodology of the TAMIS program, which will assess 
+its impact on community-dwelling diabetic subjects with uncontrolled HBA1c and 
+uncontrolled LDL-C and/or blood pressure. Individuals will be randomized to 
+usual care or remote care and followed for 84 weeks. Remote monitoring offers a 
+practical response to the limited capacity of LMIC health systems to ensure 
+sustained follow-up and continuity of care for chronic conditions. The primary 
+endpoint is a win-ratio of hierarchical events, including all-cause deaths and 
+the frequency of all-cause hospitalizations. The secondary endpoints include 
+control of HbA1c, LDL-C and blood pressure according to clinical guidelines, as 
+well as patient-reported outcomes and clinical parameters, including blood 
+pressure, glycemic control, and LDL cholesterol levels. Subgroup analyses will 
+explore the impact of demographics and clinical characteristics on treatment 
+outcomes. Overall, the study aims to improve health care delivery, enhance 
+patient education, and foster collaboration between patients and health care 
+providers to mitigate the growing burden of cardiovascular diseases in LMICs.
+
+© 2026 The Author(s). Journal of Evaluation in Clinical Practice published by 
+John Wiley & Sons Ltd.
+
+DOI: 10.1111/jep.70456
+PMCID: PMC13127239
+PMID: 42053330 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Endocrinol Diabetes Nutr (Engl Ed). 2026 Apr;73(4):501719. doi: 
+10.1016/j.endien.2026.501719.
+
+Psychopathological aspects of EDs in adolescents with type 1 diabetes: Findings 
+from the DEPS-R and clinical outcomes.
+
+Bilici ME(1), Altıntaş H(2), Özsu E(3), Şıklar Z(3), Berberoğlu M(3), Aycan 
+Z(3).
+
+Author information:
+(1)Zonguldak Bülent Ecevit University School of Medicine, Department of 
+Pediatric Endocrinology, Zonguldak, Turkey. Electronic address: 
+drmesrabilici@gmail.com.
+(2)Ankara University Faculty of Nursing, Registered Nurse, Department of 
+Pediatric Endocrinology, Ankara, Turkey.
+(3)Ankara University Faculty of Medicine, Department of Pediatric Endocrinology, 
+Ankara, Turkey.
+
+OBJECTIVE: Adolescence is marked by significant physiological and psychological 
+changes that can lead to body image dissatisfaction and eating disorders (ED). 
+Adolescents with type 1 diabetes mellitus (T1DM) may engage in restrictive 
+dieting or insulin manipulation to control weight, risking severe complications. 
+This study aims to identify adolescents with T1DM at risk for diabetes-specific 
+eating behaviors using the Diabetes-Specific Eating Problems Scale-Revised 
+(DEPS-R) and assess associated psychopathological factors, including diabulimia.
+METHODS: Adolescents (10-18 years) with T1DM who were under follow-up in our 
+clinic within the past year were included. Patients were categorized into 3 
+metabolic control groups according to HbA1c levels: good (<7%), moderate (7-9%), 
+and poor (>9%) based on the cumulative glycemic index that was calculated from 
+the average HbA1c values over the past year. Eating behaviors were assessed 
+using the DEPS-R scale, with scores≥20 indicating risk for ED. Individuals with 
+high DEPS-R scores (at-risk group) were referred for psychiatric evaluation.
+RESULTS: A total of 11.2% our of 80 adolescents, were identified as at risk for 
+EDs. The mean DEPS-R score of the at-risk group was significantly higher vs the 
+other group (25.8±3.5 vs 10.0±4.6, p<0.001). No significant differences were 
+observed for age, gender, height SDS, and relative BMI. Although the at-risk 
+group had a higher cumulative glycemic index and longer diabetes duration, there 
+was no statistical significance (p=0.29, 0.28, respectively). Logistic 
+regression analysis, adjusted for age, sex, diabetes duration, and 
+comorbidities, did not identify statistically significant predictors of high 
+DEPS-R scores. A weak positive correlation was found between high DEPS-R scores 
+and basal-bolus insulin therapy (r=0.09, p=0.03). Psychopathology was observed 
+in 55% of high-risk adolescents, with a higher prevalence in the poor metabolic 
+control subgroup.
+CONCLUSION: Although the DEPS-R scale is a valuable tool for identifying not 
+only EDs but also early changes in eating behaviors in adolescents with T1DM, 
+psychiatric evaluation is essential for confirming underlying psychopathology. 
+Psychological factors play a key role in shaping eating behaviors, highlighting 
+the need for integrated care combining diabetes management with psychological 
+support.
+
+Copyright © 2025 SEEN and SED. Published by Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.endien.2026.501719
+PMID: 42025345 [Indexed for MEDLINE]

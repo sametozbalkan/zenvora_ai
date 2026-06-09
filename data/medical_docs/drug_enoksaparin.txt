@@ -1,0 +1,34 @@
+İLAÇ: Enoksaparin (Clexane)
+SINIF: Düşük molekül ağırlıklı heparin (DMAH), antikoagülan
+
+ENDİKASYONLAR:
+- Derin ven trombozu (DVT) tedavisi ve profilaksisi
+- Pulmoner emboli tedavisi
+- Akut koroner sendrom
+- Cerrahi sonrası tromboz profilaksisi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Warfarin: Birlikte kullanımda kanama riski ciddi artar; INR yakından izlenmeli
+- Aspirin/NSAİD'ler (ibuprofen, naproksen, diklofenak): Kanama riski belirgin artar
+- Klopidogrel, apixaban, rivaroksaban: Çakışan antikoagülan etki, kanama riski çok yüksek
+- Trombolitikler (alteplaz): Ciddi kanama riski
+- SSRİ/SNRİ antidepresanlar (sertralin, fluoksetin): Kanama riskini artırır
+- Alopurinol, probenesid: Enoksaparin atılımını azaltır, etki artar
+
+UYARILAR:
+- Böbrek yetmezliğinde doz azaltılmalı (kreatinin klirensi <30 ml/dk)
+- Anti-Xa düzeyi izlenmeli (özellikle obez hastalarda)
+- Epidural/spinal anesteziden önce kullanım kesilmeli
+- Trombositopeni (HIT) riski: Trombosit sayısı izlenmeli
+- Yaşlı hastalarda (>75 yaş) kanama riski artar
+
+KONTRENDİKASYONLAR:
+- Aktif major kanama
+- Heparine bağlı trombositopeni (HIT) öyküsü
+- Kontrol edilemeyen ciddi hipertansiyon
+
+YAN ETKİLER:
+- Enjeksiyon yerinde hematom, ekimoz
+- Kanama (burun, diş eti, idrar, dışkıda kan)
+- Trombositopeni
+- Karaciğer enzim yüksekliği

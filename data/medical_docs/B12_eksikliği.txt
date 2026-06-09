@@ -1,0 +1,102 @@
+=== PubMed: B12 eksikliği ===
+1. Turk J Haematol. 2011 Dec 5;28(4):286-93. doi: 10.5152/tjh.2011.82.
+
+Long-term outcome in children with nutritional vitamin B12 deficiency.
+
+[Article in English]
+
+Sezgin Evim M(1), Erdöl Ş, Özdemir Ö, Baytan B, Güneş AM.
+
+Author information:
+(1)Department of Pediatric Hematology, Faculty of Medicine, Uludağ University, 
+Bursa, Turkey Phone: +90 224 295 05 47 E-mail: melikevim@yahoo.com.
+
+OBJECTIVE: Vitamin B12 deficiency is frequently observed in developing 
+countries. Herein we report the long-term clinical and laboratory outcomes in 45 
+children presented with various symptoms of vitamin B12 deficiency.
+METHODS: Symptoms and physical findings, and percentiles for weight, height, and 
+head circumference at presentation were recorded. The educational level of the 
+patients' mothers, vitamin B12 deficiency-related diseases and family income 
+data were collected. Complete blood count, serum vitamin B12, folate, iron, iron 
+binding capacity and ferritin, and plasma homocysteine levels were recorded 
+measured at presentation. The patients were treated with vitamin B12, as 
+follows: 1 mg/d IM for 1 week, followed by 1 mg IM QWK for 2 weeks, and then 
+monthly 1mg injections. Patients were neurologically and hematologically 
+re-evaluated after treatment. The visual evoked potential (VEP) test was used to 
+examine the integrity and function of the visual pathway. Brainstem evoked 
+potential (BAEP) responses were used to analyze auditory function. Neuromotor 
+development was assessed using Denver II Development Screening Test.
+RESULTS: The mean age of 20 male and 25 female patients was 5.6±5.9 years 
+(range: 1.4 months-17 years). The most common symptoms at presentation were 
+weakness, failure to thrive, and hematologic manifestations (pallor, petechiae, 
+ecchymosis). Abnormal neurologic findings at presentation were observed in 20% 
+of the patients, and were more commonly observed in those <2 years. VEP, BAEP, 
+and Denver II Development tests were performed in 66% of the patients one year 
+after vitamin B12 replacement was started. VEP and BAEP interval prolongation 
+was observed in 37% and 17% of the cases, respectively. Denver II Development 
+Test results showed developmental delay in 20% of the patients tested.
+CONCLUSION: All the patients achieved full hematologic recovery within 1 month 
+of treatment onset. Neurological symptoms resolved following B12 administration; 
+however, during long-term follow-up ranged from 17% to 37% of the tested 
+patients had persistent VEP; BERA, and Denver II abnormalities. Neurological 
+symptoms resolved following B12 administration; however, during long-term 
+followup 33% of the patients had persistent VEP, BERA, and Denver II 
+abnormalities. As such, clinicians should continue to follow-up such patients 
+even after hematologic and clinical improvement are obtained in order to assess 
+their neurologic status.
+
+Publisher: AMAÇ: Vitamin B12 eksikliği gelişmekte olan ülkelerde sık görülür. 
+B12 eksikliğinin değişik yakınmaları ile gelen 45 çocuğun uzun dönem laboratuar 
+ve klinik bulgularını bildirdik. YÖNTEMLER: Başvuru anındaki yakınma ve muayene 
+bulguları, kilo, boy ve baş çevresi persentilleri not edildi. Annenin eğitim 
+düzeyi, eşlik eden hastalıklar ve aile geliri sorgulandı. Tanıdaki tam kan 
+sayımı, serum vitamin B12, folat, demir, demir bağlama kapasitesi, ferritin ve 
+plazma homosistein seviyeleri kaydedildi. Tedavi için B12 intramüsküler olarak 
+ilk hafta her gün, sonra iki hafta boyunca haftada bir, takiben aylık verildi. 
+Tedaviden sonra hastalar nörolojik ve hematolojik bulgular için tekrar 
+değerlendirildi. Görsel uyarılmış potansiyel (VEP), görsel yolların 
+fonksiyonlarını ve bütünlüğünü değerlendirmede kullanıldı. Beyin sapı uyarılmış 
+işitsel cevapları (BAEP), işitsel fonksiyonları değerlendirmek için kullanıldı, 
+Nöromotor gelişim, Denver II gelişim tarama testi ile değerlendirildi.
+BULGULAR: Ortalama yaş ve cinsiyet oranı sırasıyla 5.6±5.9 yıl (1.4 ay -17 yıl), 
+20 erkek/25 kız idi. En sık yakınmalar halsizlik, gelişme geriliği ve 
+hematolojik yakınmalardı. Baş vuruda anormal nörolojik bulgular tüm vakaların 
+%20’sinde görüldü. Bu bulgular iki yaştan küçük çocuklarda daha sıktı. B12 
+tedavisinden bir yıl sonra VEP, BERA ve Denver II gelişim testi vakaların 
+%66’sına yapıldı. VEP ve BERA’da uzama sırasıyla vakaların %37 ve %17’sinde 
+gösterildi. Denver II gelişim testi %20 hastada gecikmiş bulundu. SONUÇ: Tüm 
+çocuklarda birinci ayda tam hematolojik düzelme sağlandı. Baş vuruda nörolojik 
+bulgular iki yaş altında daha sık görüldü. Bu bulgular B12 tedavisi ile 
+geriledi. Buna karşın uzun dönem sonuçlarda VEP, BERA ve Denver II testinde 
+bozukluk test yapılan olguların %17'si ile %37'si arasında değişen oranda devam 
+ediyordu. Bu nedenle klinisyenler bu çocukları hematolojik ve klinik düzelme 
+olsa bile nörolojik prognoz açısından uzun vadeli izlemeli ve 
+değerlendirmelidir.
+
+DOI: 10.5152/tjh.2011.82
+PMID: 27264585
+
+
+2. Turkiye Parazitol Derg. 2015 Sep;39(3):238-40. doi: 10.5152/tpd.2015.3712.
+
+[Rare Case of Strongyloides stercoralis with Vitamin B12 Deficiency].
+
+[Article in Turkish]
+
+Kadılar Ö(1), Bozkurt B, Karakeçe E, Kaya T, Çiftçi İH, Tamer A.
+
+Author information:
+(1)Sağlık Bakanlığı Sakarya Üniversitesi Eğitim ve Araştırma Hastanesi, Tıbbi 
+Biyokimya Anabilim Dalı, Sakarya, Türkiye. ozlem_hur@hotmail.com.
+
+Strongyloidiyasis is endemic in tropical and subtropical regions, and mostly 
+soil transmitted nematode disease that is seen as sporadic cases in Turkey. As 
+may be asymptomatic in healthy individuals, it may even cause death in 
+immunosuppressive people. We report a case of Strongyloides stercoralis 
+infection in a patient, 29 years old young male was admitted to our institution 
+with diarrhea who has got vitamin B12 deficiency and eosinophilia. The case 
+represents an extremely rare and in our knowledge, it is the first case in 
+Sakarya.
+
+DOI: 10.5152/tpd.2015.3712
+PMID: 26470934 [Indexed for MEDLINE]

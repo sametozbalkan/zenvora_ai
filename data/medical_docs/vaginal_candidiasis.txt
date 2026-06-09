@@ -1,0 +1,243 @@
+=== PubMed: vaginal candidiasis ===
+1. Front Cell Infect Microbiol. 2023 Feb 3;13:1123026. doi: 
+10.3389/fcimb.2023.1123026. eCollection 2023.
+
+Vulvovaginal candidiasis and vaginal microflora interaction: Microflora changes 
+and probiotic therapy.
+
+Sun Z(1), Ge X(2), Qiu B(3), Xiang Z(2), Jiang C(4), Wu J(4), Li Y(5).
+
+Author information:
+(1)Department of Medical Technology, Suzhou Vocational Health College, Suzhou, 
+Jiangsu, China.
+(2)Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.
+(3)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, 
+National Clinical Research Center for Infectious Diseases, Collaborative 
+Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First 
+Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 
+China.
+(4)Department of Clinical Laboratory, The Affiliated Suzhou Hospital of Nanjing 
+Medical University, Suzhou Municipal Hospital, Gusu School, Nanjing Medical 
+University, Suzhou, Jiangsu, China.
+(5)Departments of Cardiology, The Affiliated Suzhou Hospital of Nanjing Medical 
+University, Suzhou Municipal Hospital, Gusu School, Nanjing Medical University, 
+Suzhou, Jiangsu, China.
+
+Vaginal microbiome is mutually beneficial to the host and has a significant 
+impact on health and disease. Candida species, including Candida albicans, are 
+part of the mucosal flora of most healthy women. Under suitable conditions, they 
+can live in the vulvovaginal mucosa, resulting in symptomatic vulvovaginal 
+candidiasis (VVC). Based on the analysis of 16S ribosomal RNA gene sequences, 
+great progress has been made in exploring the composition and structure of 
+vaginal bacterial community. Moreover, researchers have conducted several 
+studies on whether vaginal microbiome will change during VVC infection. In 
+addition, it has been reported that vaginal colonization of probiotics in 
+vaginal microorganisms, especially Lactobacillus, can effectively reduce the 
+risk of VVC and treat VVC. This review aims to summarize the changes of vaginal 
+microflora during VVC infection, and further point out the possibility of using 
+lactic acid bacteria as probiotics to treat VVC, so as to reduce the adverse 
+consequences of VVC infection and reduce the expensive treatment cost.
+
+Copyright © 2023 Sun, Ge, Qiu, Xiang, Jiang, Wu and Li.
+
+DOI: 10.3389/fcimb.2023.1123026
+PMCID: PMC9936092
+PMID: 36816582 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Sci Transl Med. 2023 Dec 6;15(725):eadi3363. doi:
+10.1126/scitranslmed.adi3363.  Epub 2023 Dec 6.
+
+Zinc prevents vaginal candidiasis by inhibiting expression of an inflammatory 
+fungal protein.
+
+Roselletti E(1), Pericolini E(2), Nore A(1), Takacs P(3)(4), Kozma B(3), Sala 
+A(2), De Seta F(5), Comar M(6), Usher J(1), Brown GD(1), Wilson D(1).
+
+Author information:
+(1)Medical Research Council Centre for Medical Mycology at the University of 
+Exeter, University of Exeter, Geoffrey Pope Building Stocker Road, Exeter EX4 
+4QD, UK.
+(2)Department of Surgical, Medical, Dental and Morphological Sciences with 
+Interest in Transplant, Oncological and Regenerative Medicine, University of 
+Modena and Reggio Emilia, Modena 41125, Italy.
+(3)Department of Obstetrics and Gynecology, Faculty of Medicine, University of 
+Debrecen, Debrecen 4032, Hungary.
+(4)Division of Female Pelvic Medicine and Reconstructive Surgery, Department of 
+Obstetrics and Gynecology, Eastern Virginia Medical School, Norfolk, VA 23507, 
+USA.
+(5)Department of Medicine, Surgery, and Health Sciences, Institute for Maternal 
+and Child Health-IRCCS, Burlo Garofolo, University of Trieste, Trieste 34137, 
+Italy.
+(6)Unit of Advanced Microbiology Diagnosis and Translational Research, Institute 
+for Maternal and Child Health-IRCCS, Burlo Garofolo, University of Trieste, 
+Trieste 34137, Italy.
+
+Candida causes an estimated half-billion cases of vulvovaginal candidiasis (VVC) 
+every year. VVC is most commonly caused by Candida albicans, which, in this 
+setting, triggers nonprotective neutrophil infiltration, aggressive local 
+inflammation, and symptomatic disease. Despite its prevalence, little is known 
+about the molecular mechanisms underpinning the immunopathology of this fungal 
+infection. In this study, we describe the molecular determinant of VVC 
+immunopathology and a potentially straightforward way to prevent disease. In 
+response to zinc limitation, C. albicans releases a trace mineral binding 
+molecule called Pra1 (pH-regulated antigen). Here, we show that the PRA1 gene is 
+strongly up-regulated during vaginal infections and that its expression 
+positively correlated with proinflammatory cytokine concentrations in women. 
+Genetic deletion of PRA1 prevented vaginal inflammation in mice, and application 
+of a zinc solution down-regulated expression of the gene and also blocked 
+immunopathology. We also show that treatment of women suffering from recurrent 
+VVC with a zinc gel prevented reinfections. We have therefore identified a key 
+mediator of symptomatic VVC, giving us an opportunity to develop a range of 
+preventative measures for combatting this disease.
+
+DOI: 10.1126/scitranslmed.adi3363
+PMCID: PMC7616067
+PMID: 38055800 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Peter Takacs a paid 
+consultant for: Fempharma LLC (Hungary), Materna Medical LLC (USA), Chemical 
+Works of Gedeon Richter Plc. (Hungary) and holds: U.S. Patent: 9,375,450 Title: 
+Vaginal tissue rejuvenation and compositions and methods; U.S. Patent 
+Application: 63456387 Title: Pharmaceutical composition and method for treating 
+candidiasis. Bence Kozma is an unpaid consultant for Fempharma LLC (Hungary). 
+The other authors declare that they have no competing interests.
+
+
+3. Benef Microbes. 2023 Nov 23;14(5):421-431. doi: 10.1163/18762891-20220103.
+
+Lactobacillus probiotics restore vaginal and gut microbiota of pregnant women 
+with vaginal candidiasis.
+
+Ang XY(1), Roslan NS(2)(3), Ahmad N(4), Yusof SM(5), Abdullah N(6), Nik Ab 
+Rahman NN(7), Woon JJ(8), Teh CS(8), Todorov SD(9), Liu G(10)(11), Liong 
+MT(1)(12).
+
+Author information:
+(1)School of Industrial Technology, Universiti Sains Malaysia, 11800 Penang, 
+Malaysia.
+(2)School of Medical Sciences, Universiti Sains Malaysia, 16150 Kelantan, 
+Malaysia.
+(3)Hospital Universiti Sains Malaysia (HUSM), Health Campus, 16150 Kelantan, 
+Malaysia.
+(4)Kota Bharu Health Clinic, Ministry of Health Malaysia, 15200 Kelantan, 
+Malaysia.
+(5)Kubang Kerian Health Clinic, Ministry of Health Malaysia, 16150 Kelantan, 
+Malaysia.
+(6)Pengkalan Chepa Health Clinic, Ministry of Health Malaysia, 16100 Kelantan, 
+Malaysia.
+(7)Wakaf Che Yeh Health Clinic, Ministry of Health Malaysia, 15100 Kelantan, 
+Malaysia.
+(8)Department of Medical Microbiology, Faculty of Medicine, University of 
+Malaya, 50603 Kuala Lumpur, Malaysia.
+(9)ProBacLab, Department of Food Science and Experimental Nutrition, Faculty of 
+Pharmaceutical Sciences, University of Sao Paulo, Sao Paulo, 05508-090, Brazil.
+(10)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, 
+State Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese 
+Academy of Sciences, Beijing 100864, China P.R.
+(11)CAS-TWAS Centre of Excellence for Biotechnology, Beijing 100101, China P.R.
+(12)Renewable Biomass Transformation Cluster, School of Industrial Technology, 
+Universiti Sains Malaysia, Penang 11800, Malaysia.
+
+The development of probiotics has now included the areas along the gut-vaginal 
+axis. We thus aimed to investigate the effects of lactobacilli probiotic to 
+modulate and restore vaginal and gut microbiota of pregnant women with vaginal 
+candidiasis (VC). A randomised, double-blind and placebo-controlled study was 
+performed in 78 pregnant women with VC. Patients were randomised to either the 
+probiotic (SynForU-HerCare) or placebo which were administered at baseline and 
+continued for 8-weeks (two capsules/day of 9.5 log cfu/capsule). Microbiota 
+profiles were assessed at time points of weeks-0, 4 and 8 for high vaginal swab 
+and faecal samples. Shannon diversity index showed that after 8-weeks amid VC, a 
+shift in microbial community compositional changes occurred in the high vaginal 
+region at both genus (P=0.025) and species (P=0.044) levels, where the 
+administration of probiotic prevented such a shift. These changes were mainly 
+attributed to a decreased in abundance of Lactobacillus (P=0.042) accompanied by 
+increased abundance of Prevotella (P=0.002) and Atopobium (P=0.002) in the 
+placebo group while the probiotic group remained unchanged over time. The 
+administration of probiotics also prevented a reduced abundance of faecal phylum 
+Firmicutes after 8-weeks as seen in the placebo group (P<0.0001), which also 
+showed reduction at subsequent taxonomic levels of class, family, genera and 
+species. VC has not only altered the microbiota of vagina regions but also gut 
+microbiota profiles, causing lessening of gut microbiota that are crucial for 
+gut nutrient availability, protection and immunity. The administration of 
+lactobacilli probiotics has prevented such a shift, leading to better modulated 
+gut and vaginal microenvironment amid VC. The study was registered at 
+ClinicalTrials.gov: identifier number NCT03940612.
+
+DOI: 10.1163/18762891-20220103
+PMID: 38350486 [Indexed for MEDLINE]
+
+
+4. Am J Obstet Gynecol. 2016 Jan;214(1):15-21. doi: 10.1016/j.ajog.2015.06.067. 
+Epub 2015 Jul 9.
+
+Recurrent vulvovaginal candidiasis.
+
+Sobel JD(1).
+
+Author information:
+(1)Detroit Medical Center, Wayne State University School of Medicine, Detroit, 
+MI. Electronic address: Jsobel@med.wayne.edu.
+
+Comment in
+    Am J Obstet Gynecol. 2017 Apr;216(4):426-427. doi: 
+10.1016/j.ajog.2016.11.1029.
+    Am J Obstet Gynecol. 2017 Apr;216(4):427. doi: 10.1016/j.ajog.2016.11.1025.
+
+Recurrent vulvovaginal candidiasis (RVVC) is a common cause of significant 
+morbidity in women in all strata of society affecting millions of women 
+worldwide. Previously, RVVC occurrence was limited by onset of menopause but the 
+widespread use of hormone replacement therapy has extended the at-risk period. 
+Candida albicans remains the dominant species responsible for RVVC, however 
+optimal management of RVVC requires species determination and effective 
+treatment measures are best if species-specific. Considerable progress has been 
+made in understanding risk factors that determine susceptibility to RVVC, 
+particularly genetic factors, as well as new insights into normal vaginal 
+defense immune mechanisms and their aberrations in RVVC. While effective control 
+of RVVC is achievable with the use of fluconazole maintenance suppressive 
+therapy, cure of RVVC remains elusive especially in this era of fluconazole drug 
+resistance. Vaccine development remains a critical challenge and need.
+
+Copyright © 2016. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ajog.2015.06.067
+PMID: 26164695 [Indexed for MEDLINE]
+
+
+5. Crit Rev Microbiol. 2016 Nov;42(6):905-27. doi: 10.3109/1040841X.2015.1091805.
+ Epub 2015 Dec 21.
+
+Vulvovaginal candidiasis: Epidemiology, microbiology and risk factors.
+
+Gonçalves B(1), Ferreira C(1), Alves CT(1), Henriques M(1), Azeredo J(1), Silva 
+S(1).
+
+Author information:
+(1)a CEB - Centre of Biological Engineering, LIBRO - Laboratório de Investigação 
+em Biofilmes Rosário Oliveira, University of Minho , Braga , Portugal.
+
+Vulvovaginal candidiasis (VVC) is an infection caused by Candida species that 
+affects millions of women every year. Although Candida albicans is the main 
+cause of VVC, the identification of non-Candida albicans Candida (NCAC) species, 
+especially Candida glabrata, as the cause of this infection, appears to be 
+increasing. The development of VVC is usually attributed to the disturbance of 
+the balance between Candida vaginal colonization and host environment by 
+physiological or nonphysiological changes. Several host-related and behavioral 
+risk factors have been proposed as predisposing factors for VVC. Host-related 
+factors include pregnancy, hormone replacement, uncontrolled diabetes, 
+immunosuppression, antibiotics, glucocorticoids use and genetic predispositions. 
+Behavioral risk factors include use of oral contraceptives, intrauterine device, 
+spermicides and condoms and some habits of hygiene, clothing and sexual 
+practices. Despite a growing list of recognized risk factors, much remains to be 
+elucidated as the role of host versus microorganisms, in inducing VVC and its 
+recurrence. Thus, this review provides information about the current state of 
+knowledge on the risk factors that predispose to VVC, also including a revision 
+of the epidemiology and microbiology of VVC, as well as of Candida virulence 
+factors associated with vaginal pathogenicity.
+
+DOI: 10.3109/1040841X.2015.1091805
+PMID: 26690853 [Indexed for MEDLINE]

@@ -1,0 +1,161 @@
+{
+  "method": "platt",
+  "model": "DenseNet121 (NIH ChestX-ray14)",
+  "n_validation_samples": 25596,
+  "labels": {
+    "Atelectasis": {
+      "platt_a": 1.0146323561367745,
+      "platt_b": -2.132205193904855,
+      "optimal_threshold_calibrated": 0.2,
+      "auroc": 0.7760944243433049,
+      "ece_before": 0.32009514022211083,
+      "ece_after": 0.013771941285813225,
+      "n_positives": 3279,
+      "n_negatives": 22317
+    },
+    "Cardiomegaly": {
+      "platt_a": 0.9014238259334029,
+      "platt_b": -2.1880571571282714,
+      "optimal_threshold_calibrated": 0.17000000000000004,
+      "auroc": 0.9111478413872984,
+      "ece_before": 0.11008734536153497,
+      "ece_after": 0.006252483422758814,
+      "n_positives": 1069,
+      "n_negatives": 24527
+    },
+    "Effusion": {
+      "platt_a": 0.813507284687174,
+      "platt_b": -1.0912064371763845,
+      "optimal_threshold_calibrated": 0.22000000000000003,
+      "auroc": 0.7311374037257601,
+      "ece_before": 0.16122012544801692,
+      "ece_after": 0.014075919207243713,
+      "n_positives": 4658,
+      "n_negatives": 20938
+    },
+    "Infiltration": {
+      "platt_a": 0.3613498626895707,
+      "platt_b": -0.375585944427069,
+      "optimal_threshold_calibrated": 0.24000000000000005,
+      "auroc": 0.701922224276383,
+      "ece_before": 0.11382502405467675,
+      "ece_after": 0.015392059851728845,
+      "n_positives": 6112,
+      "n_negatives": 19484
+    },
+    "Mass": {
+      "platt_a": 0.14224789618606418,
+      "platt_b": -2.6087214403941177,
+      "optimal_threshold_calibrated": 0.060000000000000005,
+      "auroc": 0.5675778668216784,
+      "ece_before": 0.3969055652341922,
+      "ece_after": 0.00087735615670681,
+      "n_positives": 1748,
+      "n_negatives": 23848
+    },
+    "Nodule": {
+      "platt_a": 0.09199117194956516,
+      "platt_b": -2.4661898806718945,
+      "optimal_threshold_calibrated": 0.060000000000000005,
+      "auroc": 0.5522030213750173,
+      "ece_before": 0.12772860185505125,
+      "ece_after": 0.0007495458448829595,
+      "n_positives": 1623,
+      "n_negatives": 23973
+    },
+    "Pneumonia": {
+      "platt_a": 0.027597088990011287,
+      "platt_b": -3.7287411587937016,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.5158665194486447,
+      "ece_before": 0.07605563748365968,
+      "ece_after": 9.238719940185547e-06,
+      "n_positives": 555,
+      "n_negatives": 25041
+    },
+    "Pneumothorax": {
+      "platt_a": 0.15794312006311162,
+      "platt_b": -1.221358880733192,
+      "optimal_threshold_calibrated": 0.09000000000000001,
+      "auroc": 0.6021736962253103,
+      "ece_before": 0.10159860769927036,
+      "ece_after": 0.016229347091575617,
+      "n_positives": 2665,
+      "n_negatives": 22931
+    },
+    "Consolidation": {
+      "platt_a": 0.8241999019070874,
+      "platt_b": -2.931295085819288,
+      "optimal_threshold_calibrated": 0.1,
+      "auroc": 0.6952142501427454,
+      "ece_before": 0.4723485394613818,
+      "ece_after": 0.004408257908653467,
+      "n_positives": 1815,
+      "n_negatives": 23781
+    },
+    "Edema": {
+      "platt_a": -0.10548426946647756,
+      "platt_b": -3.429752458753691,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.4593146127360387,
+      "ece_before": 0.24071978803403907,
+      "ece_after": 6.810948252677917e-05,
+      "n_positives": 925,
+      "n_negatives": 24671
+    },
+    "Emphysema": {
+      "platt_a": 0.0908195089640075,
+      "platt_b": -3.0294423528299164,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.5457557356439988,
+      "ece_before": 0.2657730818260461,
+      "ece_after": 0.00012304633855819702,
+      "n_positives": 1093,
+      "n_negatives": 24503
+    },
+    "Fibrosis": {
+      "platt_a": 0.6510354202870732,
+      "platt_b": -3.3700410391035525,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.7279129760663169,
+      "ece_before": 0.21589743217336949,
+      "ece_after": 0.00036625005304813385,
+      "n_positives": 435,
+      "n_negatives": 25161
+    },
+    "Pleural_Thickening": {
+      "platt_a": 0.14404427687717883,
+      "platt_b": -2.752474616202766,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.5425608910896934,
+      "ece_before": 0.0907718342372391,
+      "ece_after": 0.00016822293400764465,
+      "n_positives": 1143,
+      "n_negatives": 24453
+    },
+    "Hernia": {
+      "platt_a": -0.24785520233310604,
+      "platt_b": -6.110402164889926,
+      "optimal_threshold_calibrated": 0.05,
+      "auroc": 0.38277693198289775,
+      "ece_before": 0.2819493994218647,
+      "ece_after": 0.00012141373008489609,
+      "n_positives": 86,
+      "n_negatives": 25510
+    }
+  },
+  "low_confidence_labels": [
+    "Pneumothorax",
+    "Mass",
+    "Nodule",
+    "Emphysema",
+    "Pleural_Thickening",
+    "Pneumonia",
+    "Edema",
+    "Hernia"
+  ],
+  "low_confidence_threshold_override": {
+    "Pneumothorax": 0.05
+  },
+  "_notes": "low_confidence_labels: AUROC<0.65 olan zayıf modellenmiş sınıflar — model belirsizliği yüksek. UI'da 'model emin değil — doktor değerlendirmesi şart' uyarısı eklenir. Pneumothorax için ayrıca threshold 0.05'e düşürüldü (acil bulgu — false-negative kaçırılmamalı, false-positive uyarıyla göze alındı)."
+}

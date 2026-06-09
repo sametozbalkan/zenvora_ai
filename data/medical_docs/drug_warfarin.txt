@@ -1,0 +1,173 @@
+=== PubMed: warfarin drug interactions bleeding INR antibiotics ===
+1. Life (Basel). 2023 Jul 30;13(8):1661. doi: 10.3390/life13081661.
+
+Warfarin and Antibiotics: Drug Interactions and Clinical Considerations.
+
+Vega AJ(1), Smith C(1), Matejowsky HG(1), Thornhill KJ(1), Borne GE(1), Mosieri 
+CN(2), Shekoohi S(2), Cornett EM(2), Kaye AD(2)(3).
+
+Author information:
+(1)School of Medicine, Louisiana State University Health Sciences Center at 
+Shreveport, 1501 Kings Highway, Shreveport, LA 71103, USA.
+(2)Department of Anesthesiology, Louisiana State University Health Sciences 
+Center at Shreveport, 1501 Kings Highway, Shreveport, LA 71103, USA.
+(3)Department of Pharmacology, Louisiana State University Health Sciences Center 
+at Shreveport, 1501 Kings Highway, Shreveport, LA 71103, USA.
+
+Warfarin administration poses a notable challenge in clinical practice due to 
+the increased susceptibility of patients to major bleeding, particularly when 
+co-administered with other medications capable of modulating its metabolic 
+pathways. Among these medications, antibiotics have been recognized as potential 
+agents that can either induce or inhibit cytochrome P450-2C9, thereby impacting 
+the effects of warfarin. A wealth of evidence from numerous studies consistently 
+supports an elevated risk of serious bleeding in patients concurrently receiving 
+antibiotics and warfarin therapy. This narrative review elucidates the intricate 
+interactions between warfarin and various antibiotic classes. Notably, 
+significant increases in the International Normalized Ratio (INR) were observed 
+among warfarin-treated patients receiving penicillin derivatives, 
+fluoroquinolones, TMP-SMX, and macrolides. Conversely, investigations have also 
+demonstrated a reduction in INR levels in patients on warfarin when exposed to 
+rifampin, a potent inducer of cytochrome P-450. Intriguingly, cephalosporin 
+antibiotics and amoxicillin/clavulanate, despite not interfering with the 
+cytochrome P450 system, exhibited a positive association with increased INR 
+values. The findings of this narrative review underscore the importance of 
+diligent monitoring in patients on warfarin requiring concomitant antibiotic 
+therapy, as this surveillance strategy proves pivotal in mitigating the risk of 
+major bleeding complications. Additionally, for patients necessitating 
+cytochrome P450 inhibitors such as penicillin derivatives, fluoroquinolones, 
+TMP-SMX, and macrolides, the consideration of dose reduction in warfarin therapy 
+may confer substantial benefits in reducing the occurrence of major bleeding 
+events. Similarly, patients who are co-administered rifampin alongside warfarin 
+necessitate vigilant monitoring, with a potential need for escalating warfarin 
+doses to counteract the risk of a hypercoagulable state.
+
+DOI: 10.3390/life13081661
+PMCID: PMC10455514
+PMID: 37629518
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. J Clin Pharmacol. 2016 Jan;56(1):39-46. doi: 10.1002/jcph.583. Epub 2015 Sep
+29.
+
+Warfarin-drug interactions: An emphasis on influence of polypharmacy and high 
+doses of amoxicillin/clavulanate.
+
+Abdel-Aziz MI(1), Ali MA(1), Hassan AK(2), Elfaham TH(3).
+
+Author information:
+(1)Department of Clinical Pharmacy, Faculty of Pharmacy, Assiut University, 
+Assiut, Egypt.
+(2)Department of Cardiovascular Medicine, Faculty of Medicine, Assiut 
+University, Assiut, Egypt.
+(3)Department of Pharmaceutics, Faculty of Pharmacy, Assiut University, Assiut, 
+Egypt.
+
+The objective of this study was to investigate the effect of polypharmacy and 
+high doses of amoxicillin/clavulanate on warfarin response in hospitalized 
+patients. This was a prospective cross-sectional observational study on 120 
+patients from July 2013 to January 2014. Potentially interacting drugs were 
+classified according to their tendency of increasing international normalized 
+ratio (INR) or bleeding risk. The 87.5% of patients prescribed high-dose 
+amoxicillin/clavulanate (10-12 g daily) compared with 28.9% of patients 
+prescribed a normal dose (up to 3.6 g daily) had INR values ≥ 4 during the 
+hospital stay (P ≤ .001). Increased number of potentially interacting drugs that 
+are known to increase INR was a significant predictor of having INR values ≥ 4 
+(OR, 2.5; 95%CI, 1.3-4.7), and increased number of potentially interacting drugs 
+that are known to increase bleeding risk was a significant predictor of 
+experiencing bleeding episodes (OR, 3.1; 95%CI, 1.3-7.3). High doses of 
+amoxicillin/clavulanate were associated with a higher risk of 
+over-anticoagulation when combined with warfarin than were normal doses. 
+Increased risk of having INR ≥ 4 and bleeding events was associated with 
+increased numbers of potentially interacting drugs prescribed, indicating that 
+polypharmacy is a problem of concern. Frequent monitoring of warfarin therapy 
+along with patients' medications is necessary to avoid complications.
+
+© 2015, The American College of Clinical Pharmacology.
+
+DOI: 10.1002/jcph.583
+PMID: 26138877 [Indexed for MEDLINE]
+
+
+3. Eur J Case Rep Intern Med. 2022 May 13;9(5):003380. doi: 10.12890/2022_003380.
+ eCollection 2022.
+
+Deranged Haemostasis: Rifampin-Induced Coagulopathy.
+
+Tiperneni R(1), Khalid F(1), Fichadiya H(1), Al-Alwan A(1), Mohan G(1), Heis 
+F(1).
+
+Author information:
+(1)Monmouth Medical Center, Long Branch, NJ, USA.
+
+Prothrombin time (PT), first used in 1935, is the most commonly employed marker 
+of coagulopathy to assess bleeding tendency. It is a screening test and measures 
+the time in seconds to the formation of a clot after platelet-poor plasma has 
+been mixed with a thromboplastin reagent consisting of tissue factor, lipids and 
+calcium chloride ions. The International Normalized Ratio (INR) is a 
+standardized number based on the PT of the patient. It is used by clinicians to 
+measure the effectiveness of anticoagulants and to guide therapy. Drugs such as 
+warfarin can affect the level of or the metabolism of vitamin K in the body, 
+which can impact PT and INR levels. A supratherapeutic INR is rare in a patient 
+not on therapy with vitamin K inhibitors and with preserved liver function. Here 
+we describe an elderly man with a supratherapeutic INR, secondary to the use of 
+rifampin. Antibiotic-induced coagulopathy is an extremely rare complication. To 
+the authors' knowledge, this is a unique case of rifampin-induced coagulopathy 
+with no other associated complications of disseminated intravascular 
+coagulation. A literature review revealed a small number of cases of 
+rifampicin-induced coagulopathy. A high index of suspicion and knowledge is 
+essential for the diagnosis and management of such cases.
+LEARNING POINTS: Given the unpredictability and rarity of rifampicin-induced 
+coagulopathy in clinical practice, clinicians should be aware of the possibility 
+of bleeding or drug-induced thromboembolic events with antibiotics.Early 
+recognition and withdrawal of the offending agent are key to the successful 
+management of this condition.Clinicians should be aware of the possible side 
+effects of administered drugs and their possible interactions.
+
+© EFIM 2022.
+
+DOI: 10.12890/2022_003380
+PMCID: PMC9239022
+PMID: 35774731
+
+Conflict of interest statement: Conflicts of Interests: The authors declare 
+there are no competing interests.
+
+
+4. Pharmacoepidemiol Drug Saf. 2002 Oct-Nov;11(7):569-76. doi: 10.1002/pds.748.
+
+The nature and frequency of potential warfarin drug interactions that increase 
+the risk of bleeding in patients with atrial fibrillation.
+
+Howard PA(1), Ellerbeck EF, Engelman KK, Patterson KL.
+
+Author information:
+(1)Departments of Pharmacy Practice and Cardiovascular Medicine, University of 
+Kansas Medical Center, 3901 Rainbow Blvd., Kansas City, KS 66160-7231, USA. 
+phoward@kumc.edu
+
+PURPOSE: To determine the frequency with which atrial fibrillation (AF) patients 
+receiving warfarin are prescribed interacting drugs that could increase bleeding 
+risks.
+METHODS: We retrospectively examined medical records for 704 Medicare 
+beneficiaries > or = 65 years of age discharged from Kansas hospitals with AF. 
+We identified all patients receiving warfarin and examined discharge 
+prescriptions for drugs that could increase bleeding risk either by increasing 
+the international normalized ratio (INR) or directly inhibiting hemostasis.
+RESULTS: Of 256 patients discharged on warfarin, 138 (54%) were prescribed 
+another medication that could increase bleeding risk. Among these patients, 106 
+(41%) were discharged with a total of 150 prescriptions for drugs that could 
+interact with warfarin to increase the INR. Antibiotics accounted for 67% of 
+these prescriptions. Fifty-three patients (21%) received 56 prescriptions for 
+drugs which could inhibit hemostasis. These were primarily antiplatelet drugs 
+with 61% of the prescriptions for aspirin. Patients with coronary artery disease 
+were more likely than others to be prescribed warfarin plus antiplatelet agents 
+(OR = 2.80; p = 0.04). More than one interacting drug was prescribed for 20% of 
+the patients.
+CONCLUSIONS: AF patients discharged on warfarin were frequently prescribed 
+concomitant medications that increase bleeding risks. These patients should be 
+closely monitored and counseled to watch for signs of bleeding.
+
+DOI: 10.1002/pds.748
+PMID: 12462133 [Indexed for MEDLINE]

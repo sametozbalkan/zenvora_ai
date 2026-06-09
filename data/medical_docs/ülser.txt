@@ -1,0 +1,261 @@
+=== PubMed: ülser ===
+1. Ulus Travma Derg. 2000 Oct;6(4):234-6.
+
+[Perforated peptic ulcers].
+
+[Article in Turkish]
+
+Balik A(1), Celebi F, Başoğlu M, Yildirgan I, Dalga S, Polat KY, Oren D.
+
+Author information:
+(1)Atatürk Universitesi Tip Fakültesi Genel Cerrahi Anabilim Dali, Erzurum. 
+abalik@hotmail.com
+
+Two hundred forty-eight patients were operated for perforated peptic ulcer 
+between 1983 and 1998. Of the patients 112 (45.1%) had chronic, 34 (13.7%) had 
+acute ulcer history and 102 (41.2%) had no ulcer history. Of the patients 228 
+(92.0%) had duodenal, 9 (3.6%) had juxtapyloric, 6 (2.4%) had marginal, and 5 
+(2.0%) had antral ulcer. Forty two patients (16.9%) admitted within 12 hours and 
+206 patients (83.1%) between 12 hours and six days after perforation. Simple 
+closure and omental patch was performed in 32 patients (12.9%) who had severe 
+concomitant illness and 126 (50.8%) intraabdominal sepsis, truncal vagotomy + 
+pyloroplasty in 32 (12.9%), simple closure + omental patch + truncal vagotomy + 
+gastroenterostomy in 34 (13.7%), simple closure + omental patch + parietal cell 
+vagotomy in 21 (8.5%), truncal vagotomy + antrectomy in 3 (1.2%). Patients who 
+didn't have definitive procedure received H2 receptor blockers or proton pomp 
+inhibitors. One hundred ninety-three patients (77.8%) underwent endoscopic 
+control. Two of 53 patients with definitive procedure (3.8%) and 34 of 140 
+patients (24.3%) with simple closure had recurrence. Two patients in simple 
+closure group underwent parietal cell vagotomy, the others received medical 
+treatment. The recurrence rate was significantly higher in simple closure group 
+(p < 0.01).
+
+PMID: 11813477 [Indexed for MEDLINE]
+
+
+2. Trop Life Sci Res. 2023 Mar;34(1):279-291. doi: 10.21315/tlsr2023.34.1.15.
+Epub  2023 Mar 31.
+
+2-Octylcyclopentanone Inhibits Beta Lactam Resistant Diabetic Wound Pathogens.
+
+Rozman NAS(1), Yenn TW(1)(2), Ring LC(1), Ab Rashid S(1), Wen-Nee T(3), Lim 
+JW(4).
+
+Author information:
+(1)Universiti Kuala Lumpur, Branch Campus Malaysian Institute of Chemical and 
+Bioengineering Technology, Lot 1988 Kawasan Perindustrian Bandar Vendor, Taboh 
+Naning, 78000 Alor Gajah, Melaka, Malaysia.
+(2)Universiti Kuala Lumpur - Institute of Medical Science Technology, A1, 1, 
+Jalan TKS 1, Taman Kajang Sentral, 43000 Kajang, Selangor.
+(3)Chemistry Section, School of Distance Education, Universiti Sains Malaysia, 
+11800 USM, Pulau Pinang, Malaysia.
+(4)Department of Fundamental and Applied Sciences, Institute of Sustainable 
+Building, Centre for Biofuel and Biochemical Research, Universiti Teknologi 
+PETRONAS, 32610 Seri Iskandar, Perak, Malaysia.
+
+Microbial infection is a frequent complication of diabetic foot ulcers, with up 
+to 82% of ulcers being infected at the initial stage of diabetes. Furthermore, 
+the emergence of beta lactam resistant pathogens managed to eliminate the use of 
+beta lactam antibiotics as a chemotherapeutic alternative. This further 
+increases the amputation and mortality rate. Hence, the aim of this study is to 
+evaluate antimicrobial efficacy of a ketone derivative 2-octylcyclopentanone 
+against diabetic wound pathogens. The inhibitory activity of the compound was 
+determined using disc diffusion and broth microdilution assay. Generally, 
+2-octylcyclopentanone showed broad-spectrum antimicrobial activity, particularly 
+against beta lactam resistant pathogens. The compound showed comparably better 
+antimicrobial activity than all reference antibiotics, including 
+chloramphenicol, streptomycin, ampicillin and penicillin. In addition, the same 
+compound also inhibits a clinically isolated Pseudonomas aeruginosa that was 
+resistant to all reference antibiotics. The activity was microbicidal based on 
+the low minimal lethality concentration recorded, particularly on MRSA, P. 
+aeruginosa and Candida utilis. The killing efficiency of the compound was 
+concentration dependent. During kill curve analysis, the inhibitory activity of 
+2-octylcyclopentanone was concentration and time-dependent. 99.9% of reduction 
+of bacterial growth was observed. MRSA and P. aeruginosa, two significant 
+diabetic wound infections, are totally inhibited by the molecule at a 
+concentration of minimum lethality concentration. In short, 
+2-octylcyclopentanone exhibited significant inhibitory towards wide range of 
+diabetic wound pathogens. Which is considered crucial since it will provide a 
+safe and effective alternative treatment for diabetic ulcer infection.
+
+Publisher: Jangkitan mikrob adalah komplikasi ulser yang kerap dijangkiti pada 
+kaki pesakit diabetes, yang boleh mencapai sehingga 82% jangkitan pada peringkat 
+awal diabetes. Kemunculan patogen tahan beta laktam berjaya menghapuskan 
+penggunaan antibiotik beta laktam sebagai alternatif kemoterapi. Ini 
+meningkatkan lagi kadar amputasi dan kematian. Oleh itu, tujuan kajian ini 
+adalah untuk menilai keberkesanan antimikrob bagi derivatif keton 
+2-octylcyclopentanone terhadap patogen luka diabetes. Aktiviti perencatan 
+sebatian ditentukan menggunakan resapan cakera dan ujian cerakinan mikrodilusi. 
+Secara amnya, 2-octylcyclopentanone menunjukkan aktiviti antimikrob spektrum 
+luas, terutamanya terhadap patogen tahan beta laktam. Kompaun tersebut 
+menunjukkan aktiviti antimikrob yang lebih baik berbanding semua antibiotik 
+rujukan, termasuk kloramfenikol, streptomisin, ampisilin dan penisilin. Di 
+samping itu, sebatian yang sama juga menghalang Pseudonomas aeruginosa yang 
+diasingkan secara klinikal yang tahan terhadap semua antibiotik rujukan. 
+Aktiviti ini adalah mikrobisida berdasarkan kepekatan kematian minimum yang 
+rendah yang direkodkan, terutamanya pada MRSA, P. aeruginosa dan Candida utilis. 
+Kecekapan membunuh kompaun adalah bergantung kepada kepekatan. Semasa analisis 
+keluk bunuh, aktiviti perencatan 2-octylcyclopentanone adalah kepekatan dan 
+bergantung kepada masa. 99.9% pengurangan pertumbuhan bakteria diperhatikan. 
+MRSA dan P. aeruginosa, dua jangkitan luka diabetes yang ketara, dihalang 
+sepenuhnya oleh molekul pada kepekatan kepekatan maut minimum. Ringkasnya, 
+2-octylcyclopentanone menunjukkan perencatan yang ketara terhadap pelbagai 
+patogen luka diabetes. Yang dianggap penting kerana ia akan menyediakan rawatan 
+alternatif yang selamat dan berkesan untuk jangkitan ulser diabetik.
+
+© Penerbit Universiti Sains Malaysia, 2023.
+
+DOI: 10.21315/tlsr2023.34.1.15
+PMCID: PMC10093773
+PMID: 37065798
+
+
+3. Ulus Travma Acil Cerrahi Derg. 2023 Oct 27;29(11):1237-1241. doi: 
+10.14744/tjtes.2023.53246.
+
+The feasibility of falciformopexy in the repair of peptic ulcer perforation.
+
+Terzioglu SG(1), Canlıkarakaya F(2), Ocaklı S(3), Ceylan C(4), Ağaçkıran İ(5), 
+Akıncı F(3), Kılıç MÖ(6).
+
+Author information:
+(1)Department of General Surgery, Ankara City Hospital, Ankara-Türkiye.
+(2)Department of General Surgery, Niksar State Hospital, Tokat-Türkiye.
+(3)Department of General Surgery, Pusraklar State Hospital, Ankara-Türkiye.
+(4)Department of Gastrointestinal Surgery, Faculty of Medicine, İnönü 
+University, Malatya-Türkiye.
+(5)Department of General Surgery, Vital Hospital, İstanbul-Türkiye.
+(6)Department of Surgical Oncology, Eskisehir City Hospital, Eskisehir-Türkiye.
+
+BACKGROUND: Modified Graham omentopexy is the most commonly used operative 
+technique in the repair of peptic ulcer perfo-ration (PUP); however, there is 
+little data on falciformopexy in the literature. The aim is to investigate the 
+feasibility of falciformopexy in the repair of PUP, comparing with modified 
+Graham omentopexy.
+METHODS: Data of 471 patients who were operated for PUP were retrospectively 
+analyzed. Patients' demographics, pre-operative basic laboratory findings, 
+American Society of Anesthesiologists (ASA) status, operative findings, and 
+post-operative complications were recorded. The patients were classified into 
+two groups modified Graham omentopexy and falciformopexy, and then compared with 
+each other in terms of clinical characteristics, operative findings, and 
+post-operative complications.
+RESULTS: Modified Graham omentopexy and falciformopexy were performed in 425 
+(90.2%) and 46 (9.8%) patients, respectively. The two groups were similar in 
+terms of basic patient characteristics and pre-operative laboratory findings 
+(P>0.05). ASA physical status was significantly different between the groups 
+(P=0.001). No statistically significant difference was found between the groups 
+in terms of complications, except for an anastomotic leak. Anastomotic leak was 
+observed more frequently in patients who underwent falciformopexy than in 
+patients with modified Graham omentopexy (P=0.017).
+CONCLUSION: Although falciformopexy technique has a higher rate of leak compared 
+to the modified Graham omentopexy method, it should be kept in mind as an 
+alternative method for repair of PUP, especially in cases where omentopexy 
+cannot be applied for various reasons such as the presence of unavailable or 
+unsuitable omentum.
+
+DOI: 10.14744/tjtes.2023.53246
+PMCID: PMC10771241
+PMID: 37889028 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+4. Ulus Travma Acil Cerrahi Derg. 2019 Nov;25(6):580-584. doi: 
+10.14744/tjtes.2019.11387.
+
+Omentopexy versus falciformopexy for peptic ulcer perforation.
+
+[Article in English]
+
+Ölmez A(1), Çiçek E(2), Aydın C(2), Kaplan K(2), Kayaalp C(2).
+
+Author information:
+(1)Department of General Surgery, Mersin University Faculty of Medicine, 
+Mersin-Turkey.
+(2)Department of General Surgery, İnönü University Faculty of Medicine, 
+Malatya-Turkey.
+
+BACKGROUND: Open or laparoscopic Graham's omentopexy is frequently used in the 
+treatment of peptic ulcer perforation (PUP). The technical difficulty of 
+applying the omental plug, especially in patients with previous omentum 
+resection, has led to the use of falciform ligament for the PUP, and some 
+studies have reported that PUP may even be a more advantageous technique than 
+omentopexy. Here, in this study, we aimed to compare the retrospective results 
+of patients who underwent falciformopexy or omentopexy for PUP.
+METHODS: Between 1999 and 2018, 303 patients who were followed-up and treated 
+for PUP were included in this study. Patients who had malignancy, gastric 
+resection, definitive ulcer surgery, laparoscopic surgery and nonoperative 
+treatment were excluded from this study. In the remaining patients, either open 
+ometopexy or falciformopexy were applied based on the surgeon's choice. These 
+two techniques were compared for intraoperative and postoperative outcomes.
+RESULTS: Falciformopexy (n=46) and omentopexy (n=243) groups had similar 
+demographics, but ASA scores were lower in the falciformopexy group. For ulcer 
+size and localization, duration of operation, no difference was found between 
+the groups. There was no significant difference between the groups concerning 
+general postoperative morbidity and mortality. However, atelectasis was more 
+frequently observed in the omentopexy group, whereas the pexia failure was more 
+frequent in the falciformopexy group (2.6% and 8.7%, p=0.04).
+CONCLUSION: Falciformopexy is an alternative technique that can be used in 
+situations where it is not possible to use the omentum. Falciformopexy is not 
+superior to omentopexy for the repair of the PUP.
+
+DOI: 10.14744/tjtes.2019.11387
+PMID: 31701495 [Indexed for MEDLINE]
+
+
+5. Ulus Travma Acil Cerrahi Derg. 2023 Dec;29(12):1357-1363. doi: 
+10.14744/tjtes.2023.53146.
+
+Methamphetamine-related peptic ulcer perforation: a growing medical concern.
+
+Turan B(1), Eroğlu H(1), Sultanoğlu B(1), Demirbakan K(2).
+
+Author information:
+(1)General Surgery Clinic, Dr Ersin Arslan Training and Research Hospital, 
+Gaziantep-Türkiye.
+(2)Department of General Surgery, Sanko University Faculty of Medicine, 
+Gaziantep-Türkiye.
+
+BACKGROUND: Many studies have been done in the literature on perforations due to 
+substance abuse, and there are limited publications on perforations related to 
+inhaled methamphetamine. Recently, in our clinic, we observed an increase in the 
+number of patients with perforated peptic ulcer, which we think is secondary to 
+a significant increase in the consumption of this drug. The main purpose of this 
+study is to determine whether the use of inhaled methamphetamine known as 'fire 
+and ice' is a factor directly related to peptic perforation and its 
+complications and also to determine the demographic variables of patients with 
+peptic ulcer perforation due to this substance use, in the context of the 
+literature.
+METHODS: A retrospective study was conducted by examining the medical records of 
+29 gastric perforation patients who underwent surgical treatment in our clinic 
+in 2021. Data were transferred to SPSS.23 (IBM Inc., Chicago, IL, USA) program 
+and evaluated with statistical analysis. Normality assumptions of continuous 
+variables were examined with Kolmogorov-Smirnov test, and variance homogeneity 
+was examined with Levene's test. Bi-level comparisons, t-test if the data are 
+normally distributed and Mann-Whitney U-test for bi-level comparisons where the 
+data are not normally distributed were used. Relationships between categorical 
+variables were examined by Chi-square test analysis. P<0.05 was accepted as the 
+level of significance in all analyzes.
+RESULTS: Twenty-nine patients were divided into two groups as methamphetamine 
+users (n=13) and non-users (n=16). There was a statistically significant 
+difference according to the lower age in the group using methamphetamine 
+(31.69-48.8-P=0.025). The pres-ence of PU history differed significantly between 
+the groups (P=0.009). Interestingly, aspartate transaminase alanine 
+aminotransferase values were lower in substance dependents (P=0.020). 
+Furthermore, there was a significant difference in localization between groups 
+(P<0.001). There was no statistically significant difference between the two 
+groups in terms of gender, clinical presentation, and other laboratory values.
+CONCLUSION: Methamphetamine consumption, known as fire and ice, is an important 
+risk factor for ulcer development and subsequent perforation, especially in 
+young patients and long-term consumption of this narcotic substance. It has been 
+determined that this risk factor, which is currently considered rare, has been 
+seen in a very large number in a short time in our clinic. The use of this 
+substance, which is considered a major social threat, is becoming more and more 
+widespread, and this study is only a small part of the iceberg reflected in the 
+general surgery clinic of a hospital.
+
+DOI: 10.14744/tjtes.2023.53146
+PMCID: PMC10767286
+PMID: 38073456 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.

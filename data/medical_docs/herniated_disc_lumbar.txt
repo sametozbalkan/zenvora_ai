@@ -1,0 +1,276 @@
+=== PubMed: herniated disc lumbar ===
+1. Cochrane Database Syst Rev. 2010 Feb 17;(2):CD007431. doi: 
+10.1002/14651858.CD007431.pub2.
+
+Physical examination for lumbar radiculopathy due to disc herniation in patients 
+with low-back pain.
+
+van der Windt DA(1), Simons E, Riphagen II, Ammendolia C, Verhagen AP, Laslett 
+M, Devillé W, Deyo RA, Bouter LM, de Vet HC, Aertgeerts B.
+
+Author information:
+(1)Department of Primary Care & Health Sciences, Keele University, Keele, 
+Staffordshire, UK, ST5 5BG.
+
+Comment in
+    Evid Based Med. 2010 Jun;15(3):82-3. doi: 10.1136/ebm1071.
+
+BACKGROUND: Low-back pain with leg pain (sciatica) may be caused by a herniated 
+intervertebral disc exerting pressure on the nerve root. Most patients will 
+respond to conservative treatment, but in carefully selected patients, surgical 
+discectomy may provide faster relief of symptoms. Primary care clinicians use 
+patient history and physical examination to evaluate the likelihood of disc 
+herniation and select patients for further imaging and possible surgery.
+OBJECTIVES: (1) To assess the performance of tests performed during physical 
+examination (alone or in combination) to identify radiculopathy due to lower 
+lumbar disc herniation in patients with low-back pain and sciatica;(2) To assess 
+the influence of sources of heterogeneity on diagnostic performance.
+SEARCH STRATEGY: We searched electronic databases for primary studies: PubMed 
+(includes MEDLINE), EMBASE, and CINAHL, and (systematic) reviews: PubMed and 
+Medion (all from earliest until 30 April 2008), and checked references of 
+retrieved articles.
+SELECTION CRITERIA: We considered studies if they compared the results of tests 
+performed during physical examination on patients with back pain with those of 
+diagnostic imaging (MRI, CT, myelography) or findings at surgery.
+DATA COLLECTION AND ANALYSIS: Two review authors assessed the quality of each 
+publication with the QUADAS tool, and extracted details on patient and study 
+design characteristics, index tests and reference standard, and the diagnostic 
+two-by-two table. We presented information on sensitivities and specificities 
+with 95% confidence intervals (95% CI) for all aspects of physical examination. 
+Pooled estimates of sensitivity and specificity were computed for subsets of 
+studies showing sufficient clinical and statistical homogeneity.
+MAIN RESULTS: We included 16 cohort studies (median N = 126, range 71 to 2504) 
+and three case control studies (38 to100 cases). Only one study was carried out 
+in a primary care population. When used in isolation, diagnostic performance of 
+most physical tests (scoliosis, paresis or muscle weakness, muscle wasting, 
+impaired reflexes, sensory deficits) was poor. Some tests (forward flexion, 
+hyper-extension test, and slump test) performed slightly better, but the number 
+of studies was small. In the one primary care study, most tests showed higher 
+specificity and lower sensitivity compared to other settings.Most studies 
+assessed the Straight Leg Raising (SLR) test. In surgical populations, 
+characterized by a high prevalence of disc herniation (58% to 98%), the SLR 
+showed high sensitivity (pooled estimate 0.92, 95% CI: 0.87 to 0.95) with widely 
+varying specificity (0.10 to 1.00, pooled estimate 0.28, 95% CI: 0.18 to 0.40). 
+Results of studies using imaging showed more heterogeneity and poorer 
+sensitivity. The crossed SLR showed high specificity (pooled estimate 0.90, 95% 
+CI: 0.85 to 0.94) with consistently low sensitivity (pooled estimate 0.28, 95% 
+CI: 0.22 to 0.35).Combining positive test results increased the specificity of 
+physical tests, but few studies presented data on test combinations.
+AUTHORS' CONCLUSIONS: When used in isolation, current evidence indicates poor 
+diagnostic performance of most physical tests used to identify lumbar disc 
+herniation. However, most findings arise from surgical populations and may not 
+apply to primary care or non-selected populations. Better performance may be 
+obtained when tests are combined.
+
+DOI: 10.1002/14651858.CD007431.pub2
+PMID: 20166095 [Indexed for MEDLINE]
+
+
+2. JBJS Rev. 2023 Jan 4;11(1). doi: 10.2106/JBJS.RVW.22.00148. eCollection 2023
+Jan  1.
+
+Resorption of Lumbar Disk Herniation: Mechanisms, Clinical Predictors, and 
+Future Directions.
+
+Hornung AL(1), Baker JD(1), Mallow GM(1), Sayari AJ(1), Albert HB(2), Tkachev 
+A(1), An HS(1), Samartzis D(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Rush University Medical Center, Chicago.
+(2)The Modic Clinic, Odense, Denmark.
+
+INTRODUCTION: Resorption after lumbar disk herniation is a common yet 
+unpredictable finding. It is hypothesized that nearly 70% of lumbar herniated 
+nucleus pulposus (HNP) undergo the resorption to a significant degree after 
+acute herniation, which has led to nonoperative management before surgical 
+planning.
+METHODS: This narrative review on the literature from 4 databases (MEDLINE, 
+Cumulative Index to Nursing and Allied Health Literature, Scopus, and Cochrane) 
+examines historical and recent advancements related to disk resorption. Studies 
+were appraised for their description of the predictive factor (e.g., imaging or 
+morphologic factors), pathophysiology, and treatment recommendations.
+OBSERVATIONS: We reviewed 68 articles considering the possibility of resorption 
+of lumbar HNP. Recent literature has proposed various mechanisms (inflammation 
+and neovascularization, dehydration, and mechanical traction) of lumbar disk 
+resorption; however, consensus has yet to be established. Current factors that 
+increase the likelihood of resorption include the initial size of the 
+herniation, sequestration, percentage of rim enhancement on initial 
+gadolinium-based magnetic resonance imaging (MRI), composition of inflammatory 
+mediators, and involvement of the posterior longitudinal ligament.
+CONCLUSION: Heterogeneity in imaging and morphologic factors has led to 
+uncertainty in the identification of which lumbar herniations will resorb. 
+Current factors that increase the likelihood of disk resorption include the 
+initial size of the herniation, sequestration, percentage of rim enhancement on 
+initial MRI, composition of cellular and inflammatory mediators present, and 
+involvement of the posterior longitudinal ligament. This review article 
+highlights the role of disk resorption after herniation without surgical 
+intervention and questions the role of traditional noninflammatory medications 
+after acute herniation. Further research is warranted to refine the ideal 
+patient profile for disk resorption to ultimately avoid unnecessary treatment, 
+thus individualizing patient care.
+
+Copyright © 2023 by The Journal of Bone and Joint Surgery, Incorporated.
+
+DOI: 10.2106/JBJS.RVW.22.00148
+PMID: 36722839 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: The Disclosure of Potential 
+Conflicts of Interest forms are provided with the online version of the article 
+(http://links.lww.com/JBJSREV/A886).
+
+
+3. Medicine (Baltimore). 2023 Feb 3;102(5):e32832. doi: 
+10.1097/MD.0000000000032832.
+
+Percutaneous endoscopic lumbar discectomy for L5-S1 disc herniation based on 
+image analysis and clinical findings: A retrospective review of 345 cases.
+
+Shen SC(1)(2), Chen HC(3)(4), Tsou HK(5)(6)(7)(8), Lin RH(5), Shih YT(9)(10), 
+Huang CW(11), Tang CL(11), Chen HT(12)(13)(14), Chang CC(13)(14), Tzeng 
+CY(15)(16).
+
+Author information:
+(1)Department of Surgery, Tri-Service General Hospital Songshan Branch, 
+National, Defense Medical Center, Taiwan, R.O.C.
+(2)Department of Biomedical Engineering, National Yang Ming Chiao Tung 
+University, Taiwan, R.O.C.
+(3)Department of Radiology, Taichung Veterans General Hospital, Taichung, 
+Taiwan, R.O.C.
+(4)School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan, 
+R.O.C.
+(5)Functional Neurosurgery Division, Neurological Institute, Taichung Veterans 
+General Hospital, Taichung, Taiwan, R.O.C.
+(6)Department of Rehabilitation, Jen-Teh Junior College of Medicine, Nursing and 
+Management, Miaoli County, Taiwan, R.O.C.
+(7)Department of Post-Baccalaureate Medicine, College of Medicine, National 
+Chung Hsing University, Taichung, Taiwan, R.O.C.
+(8)College of Health, National Taichung University of Science and Technology, 
+Taichung, Taiwan, R.O.C.
+(9)Department of Neurosurgery, Jen-Ai Hospital, Taichung, Taiwan, R.O.C.
+(10)Institute of Biomedical Sciences, National Chung Hsing University, Taichung, 
+Taiwan, R.O.C.
+(11)Department of Neurosurgery, Neurological Institute, Taichung Veterans 
+General Hospital, Taichung, Taiwan, R.O.C.
+(12)Department of Sports Medicine, College of Health Care, China Medical 
+University, Taichung, Taiwan, R.O.C.
+(13)Department of Orthopedic Surgery, China Medical University Hospital, China 
+Medical University, Taichung, Taiwan, R.O.C.
+(14)Spine Center, China Medical University Hospital, China Medical University, 
+Taichung, Taiwan, R.O.C.
+(15)Department of Orthopedics, Taichung Veterans General Hospital, Taichung, 
+Taiwan, R.O.C.
+(16)Department of Medicinal Botanicals and Health Applications, Da-Yeh 
+University, Changhua County, Taiwan, R.O.C.
+
+The effect of spinal anatomical anomalies on the efficacy of percutaneous 
+endoscopic lumbar discectomy (PELD) for disc herniation repair is unclear. This 
+retrospective review aims to assess the safety and effectiveness of PELD for 
+treating L5-S1 disc herniation with a range of characteristics and to determine 
+the prevalence of lumbosacral transitional vertebrae (LSTV) anatomical anomalies 
+to facilitate pre-surgical planning. From July 2005 to June 2019, 345 patients 
+with L5-S1 disc herniations were treated with PELD. The primary outcome was 
+1-year postoperative visual analogue scale scores for low back and lower limb 
+pain. The secondary outcomes included the surgical approach used, lumbosacral 
+bony anomalies, presence of a ruptured disc or severely calcified disc, 
+pediatric lumbar disc herniation, recurrent disc herniation management, and the 
+long-term outcome. visual analogue scale scores for most patients were 
+significantly improved after surgery. The prevalence of LSTVs was 4.05% (14/345 
+patients) in lumbar sacralization and 7.53% (26/345 patients) in sacral 
+lumbarization. The prevalence of ruptured and severely calcified discs was 
+18.55% (64/345) and 5.79% (20/345), respectively. The prevalence of pediatric 
+lumbar disc herniation was 2.02% (7/345). The recurrence rate was 4.34% 
+(15/345). Two durotomy cases without sequelae and 8 cases of lower limb 
+dysesthesia lasting longer than 3 months postoperatively were reported. PELD is 
+safe and effective for treating L5-S1 disc herniation, including cases 
+complicated by calcified lumbar disc herniation, disc rupture with migration, 
+and the presence of LSTV. Appropriate imaging is essential to identify 
+case-specific factors, including the prevalent LSTV anatomical anomalies, before 
+surgery.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000032832
+PMCID: PMC9901959
+PMID: 36749265 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+4. Pain Physician. 2020 Jan;23(1):49-56.
+
+Percutaneous Endoscopic Lumbar Discectomy: Indications and Complications.
+
+Pan M(1), Li Q(1), Li S(1), Mao H(1), Meng B(1), Zhou F(1), Yang H(2).
+
+Author information:
+(1)Department of Orthopaedic Surgery, The First Affiliated Hospital of Soochow 
+University, Suzhou, Jiangsu Province, China.
+(2)Department of Orthopaedic Surgery The First Affiliated Hospital of Soochow 
+University.
+
+BACKGROUND: Percutaneous endoscopic lumbar discectomy (PELD) often refers to 
+percutaneous endoscopic transforaminal discectomy (PETD) and percutaneous 
+endoscopic interlaminar discectomy (PEID). As a minimally invasive spinal 
+procedure, PELD has gained increasing recognition for its small incision, quick 
+recovery, short hospital stay, and equivalent clinical outcome compared to open 
+surgery. In order to obtain satisfactory clinical efficacy, adequate 
+consideration should be given regarding the indication of PELD. On the other 
+hand, complications related to PELD will also significantly affect the safety 
+and outcome of surgery.
+OBJECTIVE: Our objective was to conduct a literature review of the indications 
+and complications of PELD and to provide our experience in patient selection and 
+solutions to complications related to PELD.
+STUDY DESIGN: The study is a literature review focused on the indications and 
+complications of PELD.
+SETTING: The study is a literature review on the indications and complications 
+of PELD.
+METHODS: A comprehensive review of available literature on PELD was performed. 
+Particular focus was given to the development of indications and prevention of 
+complications. The literature was searched in PubMed database, and key words 
+were set as "percutaneous endoscopic lumbar discectomy", "percutaneous 
+endoscopic transforaminal discectomy", "percutaneous endoscopic interlaminar 
+discectomy", "PELD", "PETD", "PEID", "YESS" and "TESSYS".
+RESULTS: PELD is an effective and safe treatment for lumbar disc herniation, 
+lumbar spinal stenosis, recurrent lumbar disc herniation, and other lumbar 
+diseases. Complications related to PELD include dural tear, nerve root injury, 
+recurrence, and so on.
+LIMITATIONS: Some results drawn in this review are based on retrospective study 
+or small sample size. Studies of larger sample size and more multicenter, 
+randomized controlled trials should be conducted to evaluate the clinical 
+efficacy and safety of PELD.
+CONCLUSIONS: PELD is a promising surgical technique for lumbar diseases. Proper 
+patient selection, excellent surgical skills, and rich experience are required 
+for satisfactory outcomes.
+KEY WORDS: Complications, indications, minimally invasive spine surgery, PELD.
+
+PMID: 32013278 [Indexed for MEDLINE]
+
+
+5. Neurol Res. 1999;21 Suppl 1:S33-6. doi: 10.1080/01616412.1999.11741024.
+
+The anatomical basis of sciatica secondary to herniated lumbar disc: a review.
+
+Spencer DL(1).
+
+Author information:
+(1)Lutheran General Spine Center, Park Ridge, IL 60068, USA.
+
+The purpose of this manuscript is to illustrate the key anatomical and 
+biomechanical elements involved in the etiopathogenesis of sciatica, and to 
+demonstrate how periradicular fibrosis contributes to the pathophysiology of 
+recurrent post-operative sciatica. History, etiology, anatomy and diagnosis of 
+herniated inter-vertebral disc are reviewed. The straight leg raising exam is a 
+well accepted test in the diagnosis of lumbar disc herniation. In the 
+post-operative patients, the results of the straight leg raising test are 
+affected by the presence of scar and fibrosis around the lumbar root(s) 
+involved. The mechanisms by which perineural fibrosis and adhesions change and 
+compromise the neural dynamics and causes symptoms to recur in the 
+post-operative patient are discussed. Due to its dramatic clinical relevance, 
+prevention of periradicular fibrosis has high priority in the surgical 
+management of herniated lumbar disc. Such a goal should be obtained by using a 
+combination of appropriate indication to surgery, impeccable operative technique 
+and the use of an effective anti-fibrotic agent.
+
+DOI: 10.1080/01616412.1999.11741024
+PMID: 10214569 [Indexed for MEDLINE]

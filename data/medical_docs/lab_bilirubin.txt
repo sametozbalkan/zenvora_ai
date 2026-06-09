@@ -1,0 +1,184 @@
+=== PubMed: bilirubin high jaundice causes treatment ===
+1. Clin Case Rep. 2026 Mar 11;14(3):e72253. doi: 10.1002/ccr3.72253. eCollection 
+2026 Mar.
+
+Low-Volume Plasma Exchange for Fulminant Hepatic Failure Secondary to Hepatitis 
+A in a Young Adult: A Case Report.
+
+Khawaja AA(1), Sattar S(2), Chaudhry HF(3), Mehmood Qadri H(4), Anjum AF(5), 
+Yokolo H(6).
+
+Author information:
+(1)Department of General Surgery and Surgical Oncology Shaikh Zayed Medical 
+Complex Lahore Pakistan.
+(2)Department of Internal Medicine Shaikh Zayed Medical Complex Lahore Pakistan.
+(3)Rashid Latif Medical College Lahore Pakistan.
+(4)Department of General Surgery Lahore General Hospital Lahore Pakistan.
+(5)Shaikh Zayed Postgraduate Medical Institute (SZPGMI) Lahore Pakistan.
+(6)Department of Research, Medical Research Circle (MedReC) Goma DR Congo.
+
+Acute liver failure accounts for a very fatal and severe complication. It is 
+defined as acute liver injury with hepatic encephalopathy (HE) and an elevated 
+international normalized ratio (INR above 1.5). There are multiple factors that 
+can lead to acute liver failure. These different etiologies can vary depending 
+on certain geographical areas where they are more prevalent than other factors 
+in the area. Hepatitis caused by the Hepatitis A virus (HAV) is one of the 
+leading causes of acute liver failure worldwide, especially in developing 
+countries. Artificial Liver Support System (ALSS), on the other hand, consists 
+of certain techniques by which the function of the liver is maintained 
+artificially outside the body. These techniques try to filter out harmful 
+substances and detoxify the blood. We report a 20-year-old male, with no known 
+comorbidities, who presented to the medical outdoor with a history of high-grade 
+fever for 5 days. On examination, the patient had mucocutaneous jaundice, 
+moderate epigastric tenderness. His initial laboratory investigation showed 
+Hb = 13.5, TLC = 6.8, PLT = 236, Pt = 22 (13 control), INR 1.7, Bilirubin 
+total = 17.9, Bilirubin direct = 11.6, Bilirubin indirect = 6.3, AST = 5868, 
+ALT = 5368, ALP = 160. His HbsAg and HCV by ELISA were negative, hepatitis E 
+virus IgM was negative, and Hepatitis A IgM was positive. He was preliminarily 
+diagnosed as a case of acute viral hepatitis A. He was shifted to the medical 
+HDU for optimization. Over the next 12 h, the patient gradually deteriorated. He 
+developed high-grade fever, 102°F, total bilirubin worsened, and hepatic 
+encephalopathy grade II developed, with flapping tremors appreciated. The 
+patient was shifted to the Medical Intensive Care Unit for monitoring and 
+probable need for ventilatory support. Over the next 24 h, due to worsening 
+clinical and biochemical parameters, it was decided to proceed with plasma 
+exchange. Three sessions of plasma exchange were carried out, using eight units 
+of fresh frozen plasma (approximately 1.6 L) as the replacement solution, over a 
+period of 1.5 h for each session. The patient showed a marvelous improvement in 
+clinical and biochemical parameters. He was admitted to the medical ICU for 
+7 days. He was stepped down to medical HDU for a further 2 days before being 
+discharged. Low-volume plasma exchange therapy is a relatively safe option for 
+young adult patients with fulminant hepatic failure secondary to hepatitis A 
+infection. The therapy can be used early in the disease course when neurological 
+signs/haptic encephalopathy start to develop. This can lead to a better 
+prognosis and survival in selected patients.
+
+© 2026 The Author(s). Clinical Case Reports published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/ccr3.72253
+PMCID: PMC13093835
+PMID: 42016672
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Pediatric Health Med Ther. 2026 Apr 16;17:589666. doi: 10.2147/PHMT.S589666. 
+eCollection 2026.
+
+Evaluating the Impact of Phototherapy on Serum Bilirubin Levels and Clinical 
+Outcomes in Neonates: A Single-Center Retrospective Study in a Resource-Limited 
+Setting in Somalia.
+
+Ali MN(1)(2), Kassim MM(1), Gahnug M(1), Jama AA(1), Mohamed NA(3), Ali YK(1), 
+Hassan MY(1), Ahmed FA(1), Hassan AI(4), Ismail FA(1), Abdi İA(5), Ibrahim 
+IG(6), Fujeyra AMH(7), Jimale AM(8), Ahmed SA(9).
+
+Author information:
+(1)Department of Pediatrics, Mogadishu Somali-Turkish Training and Research 
+Hospital, Mogadishu, Somalia.
+(2)Faculty of Medicine & Surgery, Al Hayat Medical University, 
+Mogadishu, Somalia.
+(3)Department of Psychiatry, Mogadishu Somali-Turkish Training and Research 
+Hospital, Mogadishu, Somalia.
+(4)Faculty of Medicine and Health Sciences, Jamhuriya University of Science and 
+Technology, Mogadishu, Somalia.
+(5)Department of Emergency Medicine, Mogadishu Somali-Turkish Training and 
+Research Hospital, Mogadishu, Somalia.
+(6)Department of Radiology, Mogadishu Somali-Turkish Training and Research 
+Hospital, Mogadishu, Somalia.
+(7)Faculty of Medicine and Surgery, Somali National University, Mogadishu, 
+Somalia.
+(8)Faculty of Health Science, Department of Public Health, University of Somalia 
+(UNISO), Mogadishu, Somalia.
+(9)Department of Cardiology, Mogadishu Somali-Turkish Training and Research 
+Hospital, Mogadishu, Somalia.
+
+BACKGROUND: Neonatal hyperbilirubinemia is a major cause of preventable 
+morbidity and mortality in low- and middle-income countries. Phototherapy 
+remains the primary treatment strategy; however, its real-world effectiveness 
+and clinical outcomes in Somalia are poorly documented.
+OBJECTIVE: To evaluate the effectiveness of phototherapy in reducing serum 
+bilirubin levels and to identify predictors of mortality among neonates treated 
+for hyperbilirubinemia in a resource-limited Somali NICU.
+METHODS: This retrospective cohort study was conducted among neonates treated 
+with phototherapy at Mogadishu Somali-Türkiye Recep Tayyip Erdoğan Training and 
+Research Hospital between January 2023 and December 2024. Demographic, clinical, 
+and laboratory data were extracted from NICU records. Paired t-tests and 
+Wilcoxon signed-rank tests were used to compare pre- and post-treatment 
+bilirubin levels. Independent t-tests and ANOVA were used to evaluate subgroup 
+differences, and multivariable logistic regression was performed to identify 
+predictors of mortality.
+RESULTS: A total of 110 neonates were included; 58.2% were male and 35.5% were 
+preterm. Mean baseline total serum bilirubin(TSB) was 17.29 ± 7.91 mg/dL, which 
+decreased to 9.10 ± 4.90 mg/dL following phototherapy(mean reduction 8.19 ± 7.09 
+mg/dL). Positive blood cultures were identified in 18(16.4%) cases. 
+Effectiveness did not differ significantly by sex, gestational age group, 
+duration of phototherapy, or feeding method. Overall all-cause in-hospital 
+mortality was 16.4% (n=18). In multivariable analysis, only birth weight was 
+independently associated with mortality(aOR 0.34; 95% CI: 0.12-0.97). Baseline 
+bilirubin level and bilirubin reduction did not independently predict death.
+CONCLUSION: Phototherapy significantly reduced serum bilirubin levels across all 
+neonatal subgroups, supporting its effectiveness in resource-limited settings. 
+However, mortality remained high and was primarily associated with low birth 
+weight rather than bilirubin severity or treatment response. Strengthening 
+neonatal intensive care services and improving early detection and management 
+are essential to improve survival outcomes in Somalia.
+
+© 2026 Ali et al.
+
+DOI: 10.2147/PHMT.S589666
+PMCID: PMC13094580
+PMID: 42016142
+
+Conflict of interest statement: The authors declare no competing interests in 
+this work.
+
+
+3. Anal Chem. 2026 Mar 31;98(12):9428-9440. doi: 10.1021/acs.analchem.6c00575.
+Epub  2026 Mar 17.
+
+Hydroxylated Bimetallic MOF Dual-Mode Biosensor: A Platform for Rapid Screening 
+and Accurate Quantitative Detection of Free Bilirubin.
+
+Wang LY(1), Cheng Y(2), Yin S(2), Wei YP(1), Chen JS(1), Zhu H(1), Liu XP(1)(3), 
+Mao CJ(1), Jin BK(1).
+
+Author information:
+(1)Key Laboratory of Structure and Functional Regulation of Hybrid Materials 
+(Ministry of Education), Key Laboratory of Chemistry for Inorganic/Organic 
+Hybrid Functionalized Materials of Anhui Province Key Laboratory of Functional 
+Inorganic Materials of Anhui Province, School of Chemistry & Chemical 
+Engineering, Anhui University, Hefei 230601, P. R. China.
+(2)Department of Pediatrics, The Second Affiliated Hospital of Anhui Medical 
+University, Hefei 230601, P. R. China.
+(3)School of Materials Science and Engineering, Hefei Institute of Technology, 
+Hefei 238076, P. R. China.
+
+Elevated levels of free bilirubin (f-Bil) in the blood can cause neonatal brain 
+damage, making the development of rapid and accurate detection methods critical 
+for diagnosing neonatal jaundice. This study targeted the structural 
+characteristics of f-Bil and synthesized a hydroxylated bimetallic MOF 
+(FeCu-MOF-OH) with high specificity for f-Bil through surface modification using 
+organic small molecules (THBA). Based on its excellent peroxidase-like activity 
+and photochemical properties, a dual-mode detection platform combining 
+colorimetric and molecularly imprinted photoelectrochemical detection was 
+developed. FeCu-MOF-OH exhibits significantly enhanced peroxidase-like activity 
+and photochemical properties due to its high porosity, abundant catalytically 
+active sites, and bimetallic synergistic effects. The electronic structure of 
+the bimetallic nanozyme was studied by using first-principles density functional 
+theory calculations. In colorimetry, the coordination interaction between f-Bil 
+and the Fe3+ and Cu2+ active sites inhibits the nanozyme's activity, reducing 
+the substrate's colorimetric absorbance and enabling rapid screening of f-Bil 
+within 10 min. To further accurately detect the concentration of f-Bil in blood, 
+a molecularly imprinted photoelectrochemical sensor was constructed on an 
+electrode surface via electropolymerization. Detection was achieved by 
+monitoring changes in photocurrent caused by the elution and rebinding of f-Bil. 
+The detection limits of the two methods were as low as 0.68 nM and 1 pM, 
+respectively. Clinical serum sample testing validated the reliability of this 
+approach. This dual-mode method combines the rapid initial screening capability 
+of colorimetry with the precision of molecular imprinting and is expected to 
+play a significant role in the early diagnosis and treatment monitoring of 
+neonatal jaundice.
+
+DOI: 10.1021/acs.analchem.6c00575
+PMID: 41843470 [Indexed for MEDLINE]

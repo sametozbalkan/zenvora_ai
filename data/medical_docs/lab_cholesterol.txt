@@ -1,0 +1,170 @@
+=== PubMed: cholesterol LDL HDL high low causes treatment ===
+1. Eur J Clin Pharmacol. 2026 May 7;82(6):142. doi: 10.1007/s00228-026-04072-0.
+
+Effects of hypoxia-inducible factor prolyl hydroxylase inhibitors on lipid 
+profiles in patients with chronic kidney disease: a systematic review and 
+meta-analysis.
+
+Huang YH(1), Huang YH(1), Peng TR(1)(2)(3), Wu TW(4)(5).
+
+Author information:
+(1)Department of Pharmacy, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical 
+Foundation, New Taipei City, Taiwan.
+(2)School of Pharmacy, College of Pharmacy, Taipei Medical University, Taipei, 
+Taiwan.
+(3)Department of Basic Medical Sciences, College of Nursing, Tzu Chi University, 
+Hualien, Taiwan.
+(4)Department of Pharmacy, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical 
+Foundation, New Taipei City, Taiwan. b405101056@gmail.com.
+(5)Department of Pharmacy and Master Program, Tajen University, Pingtung, 
+Taiwan. b405101056@gmail.com.
+
+BACKGROUND: Hypoxia-inducible factor prolyl hydroxylase inhibitors (HIF-PHIs) 
+are novel oral agents for treating anemia in chronic kidney disease (CKD), with 
+potential effects on lipid modulation. We aimed to systematically evaluate the 
+effects of HIF-PHIs on lipid profiles and cardiovascular outcomes in CKD 
+patients.
+MATERIALS AND METHODS: PubMed, the Cochrane Central Register of Controlled 
+Trials (CENTRAL), and Embase (Ovid) were searched for randomized controlled 
+trials comparing HIF-PHIs with erythropoiesis-stimulating agents (ESAs) or 
+placebo in dialysis-dependent (DD) or nondialysis-dependent (NDD) CKD patients. 
+Primary outcomes included changes in low-density lipoprotein cholesterol 
+(LDL-C), total cholesterol, triglycerides, and high-density lipoprotein 
+cholesterol (HDL-C). Secondary outcomes included cardiovascular outcomes, 
+including cardiovascular death, myocardial infarction, stroke, and all-cause 
+mortality.
+RESULTS: A total of 20 trials involving 12,155 patients were analyzed in this 
+review. Roxadustat significantly reduced LDL-C (mean difference [MD], 
+-16.07 mg/dL; 95% CI, -17.92 to -14.21; 14 randomized controlled trials [RCTs], 
+10,510 patients), total cholesterol (MD, -25.25 mg/dL; 95% CI, -29.70 to -20.81; 
+10 RCTs, 5,538 patients), triglycerides (MD, -19.70 mg/dL; 95% CI, -30.78 to 
+-8.61; 9 RCTs, 4,616 patients), but also decreased HDL-C (MD, -4.91 mg/dL; 95% 
+CI, -6.80 to -3.02; 9 RCTs, 5,132 patients). Desidustat significantly reduced 
+LDL-C and total cholesterol, but showed no significant effects on triglycerides 
+or HDL-C, whereas molidustat showed no significant lipid-lowering effects. 
+Overall, treatment with HIF-PHIs was not associated with significant differences 
+in cardiovascular death (RR, 1.00; 95% CI, 0.84 to 1.18; 10 RCTs, 9,371 
+patients), myocardial infarction (RR, 1.12; 95% CI, 0.90 to 1.38; 15 RCTs, 
+11,265 patients), stroke (RR, 1.18; 95% CI, 0.86 to 1.61; 14 RCTs, 11,136 
+patients), or all-cause mortality (RR, 1.06; 95% CI, 0.96 to 1.17; 19 RCTs, 
+11,903 patients), compared with ESAs or placebo.
+CONCLUSION: Roxadustat showed the most substantial lipid-lowering effects, while 
+desidustat showed significant reductions in LDL-C and total cholesterol but no 
+significant effects on triglycerides or HDL-C, and molidustat showed no 
+significant effects. Despite these changes in lipid profiles, no significant 
+differences in cardiovascular outcomes were observed for these three HIF-PHIs, 
+compared with ESAs or placebo.
+
+© 2026. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00228-026-04072-0
+PMID: 42091697 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+2. J Agric Food Chem. 2026 May 6;74(17):13620-13633. doi:
+10.1021/acs.jafc.5c16652.  Epub 2026 Apr 27.
+
+A Neutral Triple-Helix Pomegranate (Punica granatum) Peel Polysaccharide with 
+Lipid-Lowering and Prebiotic Activities.
+
+Shen HX(1), Shi L(1), Li YX(1), Zhang XY(1), Zhao CQ(1), Ma H(2), Lu YM(1)(2).
+
+Author information:
+(1)School of Life Sciences and Medical Engineering, Anhui University, Hefei, 
+Anhui 230601, P. R. China.
+(2)Bioactive Botanical Research Laboratory, Department of Biomedical and 
+Pharmaceutical Sciences, College of Pharmacy, University of Rhode Island, 
+Kingston, Rhode Island 02881, United States.
+
+A homogeneous neutral polysaccharide (PPP-1; 1.5 × 104 Da) was isolated from 
+pomegranate peel and characterized as a glucose-rich glucan with α-/β-pyranose 
+linkages and a triple-helix conformation. PPP-1 improved lipid dysregulation in 
+oleic acid-treated HepG2 cells, reducing total cholesterol and triglycerides 
+(TG) by up to 76.2 and 70.4%, respectively, and lowering low-density lipoprotein 
+cholesterol (LDL-C) while increasing high-density lipoprotein cholesterol 
+(HDL-C), accompanied by suppression of SREBP-1c and FAS via SIRT1/AMPK 
+activation. In high-fat diet (HFD)-fed mice, PPP-1 reduced weight gain and 
+epididymal fat by 42.1 and 41.5%, alleviated hepatic steatosis, and lowered 
+alanine aminotransferase/aspartate aminotransferase by 27.9 and 32.1% without 
+affecting food intake. PPP-1 also corrected HFD-induced dyslipidemia, increasing 
+HDL-C by 36.4% and reducing TG and LDL-C by 37.0% and 35.4%. PPP-1 lowered the 
+Firmicutes/Bacteroidetes ratio and enriched Lactobacillus and Bifidobacterium. 
+Metabolomics confirmed normalization of obesity-related metabolites and 
+modulation of lipid-related pathways. These findings identify PPP-1 as a 
+dual-acting hepatic and prebiotic polysaccharide with promise for metabolic 
+health.
+
+DOI: 10.1021/acs.jafc.5c16652
+PMID: 42046378 [Indexed for MEDLINE]
+
+
+3. J Clin Lipidol. 2026 Apr 7:S1933-2874(26)00097-8. doi: 
+10.1016/j.jacl.2026.03.026. Online ahead of print.
+
+The association between remnant cholesterol and cardiovascular events: A 
+systematic review and meta-regression.
+
+Byrne P(1), Lin T(2), Jones M(3), Demasi M(4), Saif-Ur-Rahman KM(5), Dubroff 
+R(6).
+
+Author information:
+(1)Centre for Health Research Methodology, College of Medicine, Nursing and 
+Health Sciences, University of Galway, Galway, Ireland (Byrne and 
+Saif-Ur-Rahman); Evidence Synthesis Ireland and Cochrane Ireland, College of 
+Medicine, Nursing and Health Sciences, University of Galway, Galway, Ireland 
+(Byrne and Saif-Ur-Rahman). Electronic address: 
+paula.p.byrne@universityofgalway.ie.
+(2)Morsani College of Medicine, University of South Florida, USA (Lin).
+(3)Institute for Evidence-Based Healthcare, Faculty of Health Sciences & 
+Medicine, Bond University, Robina, Queensland, Australia (Jones).
+(4)Brownstone Institute, Austin, TX, USA (Demasi).
+(5)Centre for Health Research Methodology, College of Medicine, Nursing and 
+Health Sciences, University of Galway, Galway, Ireland (Byrne and 
+Saif-Ur-Rahman); Evidence Synthesis Ireland and Cochrane Ireland, College of 
+Medicine, Nursing and Health Sciences, University of Galway, Galway, Ireland 
+(Byrne and Saif-Ur-Rahman).
+(6)Retired (Dubroff).
+
+BACKGROUND: Despite extensive efforts to lower low-density lipoprotein 
+cholesterol (LDL-C), cardiovascular disease remains highly prevalent. Remnant 
+cholesterol (RC) has been proposed as a potentially more relevant therapeutic 
+target.
+OBJECTIVE: To evaluate the association between RC reduction and cardiovascular 
+outcomes in randomized controlled trials (RCTs) of cholesterol- and 
+triglyceride-lowering therapies, assessing whether RC independently influences 
+cardiovascular risk.
+METHODS: Cochrane Central and Embase were searched for RCTs with ≥1000 
+participants and ≥2 years' planned duration that assessed cholesterol- or 
+triglyceride-lowering therapies vs placebo, usual care, or other lipid-lowering 
+drugs in adults. Two reviewers independently extracted data and evaluated 
+methodological quality. Meta-analysis and meta-regression were performed.
+RESULTS: Forty-three RCTs met the inclusion criteria; most had some risk of 
+bias, and evidence certainty was moderate. Meta-analysis showed absolute risk 
+reductions of 0.4% (95% CI 0.1%-0.6%) for all-cause mortality, 1.3% (95% CI 
+1.1%-1.6%) for myocardial infarction, and 0.4% (95% CI 0.2%-0.6%) for stroke in 
+treatment vs control groups. Meta-regression demonstrated no association between 
+RC reduction and any clinical outcome, whereas LDL-C and non-high-density 
+lipoprotein cholesterol reductions were associated with risk reduction.
+CONCLUSION: RC reduction was not associated with cardiovascular benefit. This 
+contrasts with observational and Mendelian randomization studies, likely 
+reflecting methodological differences; MR estimates lifelong genetically 
+mediated exposure and may not reliably predict the effects of short-term 
+pharmacological lipid lowering.
+LAY SUMMARY: In a review of 43 large clinical trials, lowering "remnant 
+cholesterol" did not reduce heart attacks, strokes, or deaths - unlike lowering 
+LDL ("bad") cholesterol, which did - suggesting that remnant cholesterol may not 
+be a useful treatment target despite earlier studies hinting otherwise.Summary 
+sentence A review of 43 clinical trials found that lowering remnant cholesterol 
+did not translate into fewer deaths, heart attacks, or strokes.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacl.2026.03.026
+PMID: 42031588
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest related to the material in the manuscript.

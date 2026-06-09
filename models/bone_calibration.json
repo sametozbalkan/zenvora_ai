@@ -1,0 +1,16 @@
+{
+  "method": "platt",
+  "model": "DenseNet121 (MURA-v1.1, üst ekstremite)",
+  "n_validation_samples": 3197,
+  "abnormal": {
+    "platt_a": 0.7442835417939426,
+    "platt_b": -0.08590308055420658,
+    "optimal_threshold_calibrated": 0.38000000000000006,
+    "auroc": 0.8462554547913947,
+    "ece_before": 0.057107072719372806,
+    "ece_after": 0.039429779583588245,
+    "n_positives": 1530,
+    "n_negatives": 1667
+  },
+  "_notes": "MURA-v1.1 valid set (3197 görüntü) üzerinde Platt scaling. AUROC 0.846 — Stanford'un orijinal MURA yayınıyla uyumlu, model güvenilir ayrım yapıyor. low_confidence flag kullanılmıyor (AUROC > 0.65). Threshold 0.50 → 0.38'e düştü; recall yüksek tutuluyor, kemik kırıklarının kaçırılma riski azalıyor."
+}

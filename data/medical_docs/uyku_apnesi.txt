@@ -1,0 +1,197 @@
+=== PubMed: uyku apnesi ===
+1. Turk Kardiyol Dern Ars. 2008 Jan;36(1):44-50.
+
+[Obstructive sleep apnea syndrome and cardiac arrhythmias].
+
+[Article in Turkish]
+
+Bayram NA(1), Diker E.
+
+Author information:
+(1)Atatürk Eğitim ve Araştirma Hastanesi Kardiyoloji Kliniği, Ankara. 
+drnihkar@yahoo.co.uk
+
+Obstructive sleep apnea syndrome (OSAS) refers to recurring episodes of upper 
+respiratory track obstruction and frequent decreases in arterial oxygen 
+saturation due to repetitive occlusions of the posterior pharynx during sleep. 
+Its prevalence in adult population is 4% in men and 2% in women. The most 
+important causes of morbidity and mortality in affected patients are traffic 
+accidents and cardiovascular complications including systemic arterial 
+hypertension, coronary artery disease, congestive heart failure, and cardiac 
+arrhythmias. The initial phases of apnea are associated with a transient 
+increase in the parasympathetic activity resulting in bradyarrhythmias, followed 
+by tachycardias due to increased sympathetic activity and arousal after the end 
+of apnea episodes. The most frequent arrhythmia in OSAS is cyclic variation of 
+heart rate. Most of the arrhythmias seen in OSAS are secondary to OSAS and 
+disappear with OSAS treatment, without any electrophysiological conduction 
+system abnormalities.
+
+PMID: 18453787 [Indexed for MEDLINE]
+
+
+2. Turk Kardiyol Dern Ars. 2010 Mar;38(2):135-43.
+
+[Heart failure and sleep apnea].
+
+[Article in Turkish]
+
+Dursunoğlu D(1), Dursunoğlu N.
+
+Author information:
+(1)Department of Cardiology, Medicine Faculty of Pamukkale University, Denizli, 
+Turkey. dursundursunoglu@yahoo.com
+
+Sleep-disordered breathing is one of the important factors contributing to the 
+development and/or progression of heart failure (HF). This condition is related 
+to recurring attacks of apnea, hypopnea, and hyperpnea, sleep disruptions, 
+arousals, intermittent hypoxemia, hypocapnia, and hypercapnia, and intrathoracic 
+pressure changes. Obstructive sleep apnea (OSA) is characterized by recurrent 
+upper airway obstruction (apnea and hypopnea), increased breathing effort 
+against totally or partially occluded upper airway, and sleep disruptions. 
+Cardiovascular consequences are the most serious complications of OSA and 
+include acute myocardial infarction, heart failure, left/right ventricular 
+dysfunction, arrhythmias, stroke, and systemic and pulmonary hypertension. 
+Cheyne-Stokes respiration and central apneas may also occur in patients with HF. 
+This article reviews the most recent information on the physiopathology, 
+diagnosis, and treatment modalities of obstructive and central apneas in 
+patients with HF.
+
+PMID: 20473019 [Indexed for MEDLINE]
+
+
+3. Tuberk Toraks. 2018 Dec;66(4):304-311. doi: 10.5578/tt.57403.
+
+Obstructive sleep apnea is a risk factor for osteoarthritis.
+
+[Article in English]
+
+Kanbay A(1), Köktürk O(2), Pıhtılı A(3), Ceylan E(1), Tulu S(4), Madenci E(5), 
+İnönü Köseoğlu H(6), Verbraecken J(7).
+
+Author information:
+(1)Department of Chest Diseases, Faculty of Medicine, Istanbul Medeniyet 
+University, Istanbul, Turkey.
+(2)Department of Chest Disesases, Faculty of Medicine, Gazi University, Ankara, 
+Turkey.
+(3)Department of Chest Disesases, Faculty of Medicine, Bezmialem Vakif 
+University, Istanbul, Turkey.
+(4)Department of Internal Medicine, Faculty of Medicine, Istanbul Medeniyet 
+University, Istanbul, Turkey.
+(5)Department of Physical Therapy and Rehabilitation, Faculty of Medicine, 
+Istanbul Medeniyet University, Istanbul, Turkey.
+(6)Department of Chest Diseases, Faculty of Medicine, Tokat Gaziosmanpasa 
+University, Tokat, Turkey.
+(7)Department of Pulmonary Medicine and Multidisciplinary Sleep Disorders 
+Centre, Antwerp University Hospital and University of Antwerp, Edegem, Belgium.
+
+INTRODUCTION: Obstructive sleep apnea (OSA) syndrome is closely associated with 
+cardiovascular and metabolic disorders. Recent studies reported that 
+osteoarthritis (OA) is associated with cardiovascular disease as well as 
+inflammation defined as "metabolic disorder". Due to the strong association of 
+metabolic disorders with both OA and OSA, we aimed to investigate the 
+association between severity of OSA and osteoarthritis grade based on X-Ray.
+MATERIALS AND METHODS: Patients who underwent polysomnography due to suspicion 
+of OSA were recruited in a cross-sectional study. Included patients were grouped 
+according to apnea-hypopnea index (AHI) as mild (AHI between 5 and 14.9), 
+moderately (AHI between 15 and 29.9), and severe OSA (AHI ≥ 30). Patients with 
+AHI p< 5 served as the control group. Kellgren-Lawrence scoring system was used 
+to express OA severity, which was graded as Grade 0, 1, 2, 3 and 4.
+RESULT: One hundred twenty patients were enrolled into the study. Mean age was 
+52.4 ± 11.5 years and 56% (68/120) of the patients were male. A strong 
+correlation was present between severity of OSA and severity of OA. Among those 
+with Grade 4 OA group (33 patients), all patients had severe OSA and this 
+association was independent from body-mass index. In the Grade 1 OA group, none 
+of the patients had severe OSA (p< 0.05). A positive correlation was also seen 
+between severity of OSA, OA and hs-CRP.
+CONCLUSIONS: There is a strong association between OSA and OA. OSA might be a 
+novel risk factor for the development OA. Further studies should evaluate the 
+effect of OSA treatment on OA.
+
+DOI: 10.5578/tt.57403
+PMID: 30683025 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2012 Sep;40(6):505-12. doi: 10.5543/tkda.2012.21347.
+
+[Evaluation of serum adiponectin levels in patients with obstructive sleep apnea 
+syndrome].
+
+[Article in Turkish]
+
+Öztürk E(1), Dursunoğlu N, Dursunoğlu D, Özkurt S, Rota S.
+
+Author information:
+(1)Department of Chest Disease, Pamukkale University Faculty of Medicine, 
+Denizli, Turkey.
+
+OBJECTIVES: Serum adiponectin levels have been found to be lower in patients 
+with obesity, hypertension, and coronary artery diseases. In this study, we 
+aimed to evaluate serum adiponectin levels in patients with obstructive sleep 
+apnea syndrome (OSAS) and to correlate these levels with the severity of OSAS.
+STUDY DESIGN: In 62 OSAS patients (39 males, 23 females) and 32 controls (23 
+males, 9 females) determined by polisomnography, serum adiponectin levels were 
+analyzed by the ELISA method. Patients were classified as having either mild 
+(apnea hypopnea index, AHI: 5-14), moderate (AHI: 15-29) or severe (AHI ≥30) 
+OSAS, and controls were defined as AHI <5. Plasma fasting glucose, total 
+cholesterol (TC), triglyceride (TG), and high (HDL-C) and low (LDL-C) density 
+lipoprotein cholesterols were analyzed, and the results were compared between 
+the groups.
+RESULTS: There was no significant difference in mean age (51.6±10.7 years for 
+patients, 48.3±10.8 years for controls) or body mass index (32.9±6.0 kg/m2 for 
+patients, 31.3±5.6 kg/m2 for controls, p>0.05) in our study population. There 
+was no significant difference in the number of hypertensive, diabetics, or 
+smokers between the patients and controls. While serum TC, TG, and HDL 
+cholesterol levels were not significantly different between two groups, the 
+serum adiponectin levels of patients (3.0±3.4 µg/dl) were significantly lower 
+than those of the controls (5.2±5.2 µg/dl, p=0.01). While serum adiponectin 
+levels showed a significantly negative correlation with AHI (r=-0.221, p=0.03), 
+there was a significantly positive correlation with minimum and mean oxygen 
+saturations (r=0.213, p=0.04 and r=0.205, p=0.05).
+CONCLUSION: Serum adiponectin levels were significantly lower in patients with 
+OSAS, especially for those in the severe OSAS group. Serum adiponectin levels 
+are related to the severity of OSAS and arterial oxygen saturation.
+
+DOI: 10.5543/tkda.2012.21347
+PMID: 23363896 [Indexed for MEDLINE]
+
+
+5. Kulak Burun Bogaz Ihtis Derg. 2013 Jan-Feb;23(1):1-9. doi: 
+10.5606/kbbihtisas.2013.43043.
+
+[Long-term results of transnasal radiofrequency in patients with obstructive 
+sleep apnea syndrome].
+
+[Article in Turkish]
+
+Oğuz AS(1), Gümüşsoy M, Cukurova I.
+
+Author information:
+(1)Department of Otolaryngology, Tepecik Training and Research Hospital, İzmir, 
+Turkey.
+
+OBJECTIVES: This study aims to investigate the long-term effects of 
+radiofrequency thermal ablation (RFTA) performed to the inferior concha on 
+snoring, apnea index, and daytime sleepiness symptoms in patients who presents 
+with the complaint of snoring and mild obstructive sleep apnea syndrome (OSAS).
+PATIENTS AND METHODS: Between March 2009 and May 2011, 50 patients (29 females, 
+21 males; mean age 40.7 years; range 19 to 64 years) who had witnessed sleep 
+apnea and diagnosed with mild OSAS as assessed by polysomnographic analysis in 
+our clinic were included in the study. Twenty-five patients with the history of 
+witnessed sleep apnea underwent sleep analysis using conventional 
+polysomnography (PSG), while portable PSG device was used in other 25 patients. 
+During the follow-up visits, all patients who underwent tissue ablation using RF 
+were assessed by the baseline examination method. Following the polysomnographic 
+analysis, RFTA was performed to the inferior concha of all patients.
+RESULTS: The mean follow-up period was 18.7 months (range 6-26 months). In the 
+group who underwent conventional PSG, the mean pre-treatment apnea-hipopnea 
+index (AHI) was 11.356±2.9841, while the mean post-treatment AHI was 9.93±2.822. 
+In the group who underwent portable PSG, the mean pre-treatment AHI was 
+9.196±3.2696, whereas the mean post-treatment AHI was 8.04±3.241. In two 
+patients (4%), inferior concha ulceration was detected.
+CONCLUSION: Radiofrequency used in the treatment of mild OSAS results in better 
+patient compliance and post-treatment patient comfort, as well as lower 
+post-treatment morbidity and complication rate, compared to conventional 
+surgical techniques.
+
+DOI: 10.5606/kbbihtisas.2013.43043
+PMID: 23521405 [Indexed for MEDLINE]

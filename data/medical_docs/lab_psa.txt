@@ -1,0 +1,310 @@
+=== PubMed: PSA prostate high causes treatment ===
+1. Lancet Oncol. 2026 May;27(5):625-636. doi: 10.1016/S1470-2045(26)00066-5.
+
+On-treatment serum prostate-specific antigen and overall survival in prostate 
+cancer (STAMPEDE platform protocol): a post-hoc analysis of data from five phase 
+3 trials.
+
+Kayani M(1), Murphy L(2), Dutey-Magni P(2), Howlett S(3), Sachdeva A(4), 
+Padden-Modi M(5), Abdel-Aty H(6), Brown LC(2), Amos CL(2), Chan K(2), Gilbert 
+DC(2), Langley RE(2), Brown M(7), Sydes MR(2), Parker CC(5); STAMPEDE 
+Collaborators; Cross W(8), Malik Z(9), Varughese M(10), Turco F(11), Millman 
+R(2), Matheson D(2), Gillessen S(11), Clarke NW(12), Parmar MKB(2), James ND(5), 
+Attard G(13).
+
+Collaborators: Jones E, Hyde K, Glen H, Needleman S, McGovern U, Sheehan D, 
+Paisey S, Shaffer R, Beresford M, Malik Z, Zarkar A, Porfiri E, Fackrell D, Lee 
+L, Sreenivasan T, Brock S, Brown S, Bahl A, Smith-Howell M, Woodward C, Phan MD, 
+Mazhar D, Narahari K, Tanguay J, Douglas F, Kumar A, Hamid A, Ibrahim A, 
+Muthukumar D, Simms M, Worlding J, Tran A, Kagzi M, Das P, Pezaro C, Sivoglo V, 
+Masters B, Keng-Koh P, Manetta C, McLaren D, Gupta N, Sheehan D, Boussios S, 
+Taylor H, Graham J, Perna C, Melcher L, Grant W, Hyde K, Sabharwal A, Hofmann U, 
+Dealey R, McPhail N, Brierly R, Brown S, Capaldi L, Sidek N, Whelan P, 
+Sreenivasan T, Robson P, Falconer A, Rudman S, Vivekanandan S, Mullessey V, 
+Needleman S, Vilarino-Varela M, Khoo V, Tipples K, Afshar M, Falconer A, 
+Brulinski P, Sangar V, Peedell C, Azzabi A, Hoskin P, Mullassery V, Sundar S, 
+Khan Y, Conroy R, Protheroe A, Carser J, Rogers P, Capaldi L, Tarver K, Gibbs S, 
+Khan MM, Hingorani M, Azzabi A, Crabb S, Alameddine M, Bhalla N, Manetta C, 
+Hughes R, Logue J, Leaning D, Vengalil S, Azzabi A, Ford D, Walker G, Shaheen A, 
+Khan O, Chan A, Ahmed I, Hilman S, Douglas F, Kumar A, Tran A, Paisey S, Sayers 
+I, Capaldi L, Nikapota A, Bloomfield D, Porter T, Joseph J, Rentsch C, Pereira 
+Mestre R, Roggero E, Beyer J, Borner M, Strebel R, Berthold D, Engeler D, John 
+H, Popescu R, Durr D.
+
+Author information:
+(1)UCL Cancer Institute, University College London, London, UK; MRC Clinical 
+Trials Unit at UCL, Institute of Clinical Trials and Methodology, University 
+College London, London, UK; Department of Oncology, University College London 
+Hospitals, London, UK.
+(2)MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and 
+Methodology, University College London, London, UK.
+(3)UCL Cancer Institute, University College London, London, UK; Department of 
+Oncology, University College London Hospitals, London, UK.
+(4)Division of Cancer Sciences, University of Manchester, Manchester, UK; 
+Department of Surgery, Christie NHS Foundation Trust, Manchester, UK.
+(5)Royal Marsden NHS Foundation Trust and The Institute of Cancer Research, 
+London, UK.
+(6)MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and 
+Methodology, University College London, London, UK; Royal Marsden NHS Foundation 
+Trust and The Institute of Cancer Research, London, UK.
+(7)Division of Cancer Sciences, University of Manchester, Manchester, UK.
+(8)St James's University Hospital, Leeds, UK.
+(9)Clatterbridge Cancer Centre NHS Foundation Trust, Wirral, UK.
+(10)Royal Devon University Healthcare NHS Foundation Trust and University of 
+Exeter, UK.
+(11)Institute of Oncology of Southern Switzerland, Ente Ospedaliero Cantonale, 
+Bellinzona, Switzerland and Faculty of Biosciences, University of Southern 
+Switzerland, Lugano, Switzerland.
+(12)Division of Cancer Sciences, University of Manchester, Manchester, UK; 
+Department of Surgery, Christie NHS Foundation Trust, Manchester, UK; Department 
+of Urology, Salford Royal Hospital, Northern Care Alliance NHS Foundation Trust, 
+Manchester, UK.
+(13)UCL Cancer Institute, University College London, London, UK; Department of 
+Oncology, University College London Hospitals, London, UK. Electronic address: 
+g.attard@ucl.ac.uk.
+
+BACKGROUND: Serum prostate-specific antigen (PSA) concentrations decrease after 
+hormone therapy for prostate cancer, with the nadir serving as a potentially 
+useful prognostic biomarker. To support clinical use, we evaluated the 
+association between PSA nadir values and survival outcomes, stratified by 
+pre-treatment metastatic volume or, in patients with non-metastatic cancer, 
+stratified by lymph node status.
+METHODS: As part of the STAMPEDE platform trial, patients with metastatic or 
+very high-risk non-metastatic prostate adenocarcinoma were recruited to five 
+randomised, controlled, phase 3 trials conducted at 126 hospitals or oncology 
+centres in Switzerland and the UK. Patients were randomly assigned to either 
+standard of care (androgren deprivation therapy [ADT] alone or ADT plus 
+docetaxel) or to one of five experimental treatment groups: ADT plus docetaxel 
+with or without zoledronic acid, ADT plus abiraterone acetate with or without 
+enzalutamide, or ADT plus prostate radiotherapy (only patients with metastatic 
+disease). We used trial data from these participants to perform landmark 
+analyses to test associations of PSA at 6, 12, and 24 weeks after randomisation 
+with overall survival. Only patients with a PSA value were included in each 
+landmark analysis. The Kaplan-Meier method was used to estimate 96-month overall 
+survival rates and the corresponding 95% CIs for patients categorised by either 
+metastatic volume or lymph node status. The STAMPEDE protocol platform is 
+registered with ClinicalTrials.gov (NCT00268476), EUDRACT (2004-000193-31), and 
+ISRCTN (ISRCTN78818544).
+FINDINGS: This study included 7129 patients from the STAMPEDE platform, who were 
+recruited between Oct 5, 2005, and Sept 2, 2016; 4438 had metastases and 2691 
+had very high-risk non-metastatic disease. Among patients with metastasis and 
+volumetric assessment, 2211 (55·9%) of 3956 had high-volume metastases, and 
+among those with non-metastatic disease, 1033 (38·4%) were lymph node positive. 
+A PSA concentration of 0·2 ng/mL or less was less frequent at 6 weeks or 12 
+weeks, but was associated with equivalent survival rates, compared with a PSA of 
+0·2 ng/mL or less at 24 weeks. Survival rates of PSA subcategories (≤0·2 ng/mL, 
+>0·2 to 1·0 ng/mL, >1·0 to 3·0 ng/mL, and >3·0 ng/mL) differed by metastatic 
+volume or, in patients with non-metastatic disease, by nodal status. Survival 
+was longest for patients allocated to abiraterone with or without enzalutamide. 
+Among patients with metastatic disease in the abiraterone with or without 
+enzalutamide group who had a PSA of 0·2 ng/mL or less at 24 weeks, 96-month 
+overall survival in patients with low-volume metastatic disease (64·1% [95% CI 
+57·8-69·8]) was higher than in patients with high-volume metastatic disease 
+(44·6% [37·1-51·9]), but lower than in patients with non-metastatic, 
+node-positive disease (79·4% [73·8-83·9]). 96-month overall survival was highest 
+for patients with non-metastatic, node-negative disease (82·8% [95% CI 
+78·7-86·1]).
+INTERPRETATION: Metastatic volume or nodal status influence survival rates 
+associated with on-treatment serum PSA categories, including for undetectable 
+PSA. Radiological features and serum PSA could be combined to better predict 
+survival. PSA at 24 weeks showed strongest associations with overall survival, 
+although a PSA concentration of 0·2 ng/mL or less at any timepoint predicted 
+favourable outcome. These findings could inform prognosis and warrant evaluation 
+for treatment selection in clinical trials.
+FUNDING: Cancer Research UK, Prostate Cancer UK, UK Medical Research Council, 
+and John Black Charitable Foundation.
+
+Copyright © 2026 Copyright © 2026 The Author(s). Published by Elsevier Ltd. This 
+is an Open Access article under the CC BY 4.0 license. Published by Elsevier 
+Ltd.. All rights reserved.
+
+DOI: 10.1016/S1470-2045(26)00066-5
+PMID: 42061373 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests LM reports support for 
+the present manuscript from Cancer Research UK and research funding to her 
+institution for the STAMPEDE trial from Janssen, Astellas, Novartis, Sanofi, and 
+Clovis. AS reports grants or contracts from Cancer Research UK, The Urology 
+Foundation, the Prostate Cancer Foundation, the Engineering and Physical 
+Sciences Research Council, and Prostate Cancer UK; consulting fees from Veracyte 
+and Novartis; payment or honoraria for lectures, presentations, speakers 
+bureaus, manuscript writing, or educational events from Ipsen and Gedeon 
+Richter; support for attending meetings or travel from Janssen; participation on 
+a data safety monitoring board or advisory board for Act-ResoLUTE, Veracyte, and 
+Janssen; and a leadership role as an associate member of the European 
+Association of Urology Prostate Cancer Guidelines Panel. REL reports support for 
+the present manuscript from UK Research and Innovation–Medical Research Council 
+core funding. MRS reports support for the present manuscript from UK Research 
+and Innovation–Medical Research Council through part of his employment in a 
+previous role; grants or contracts from Astellas, Janssen, and Sanofi-Aventis to 
+his previous institution for research elsewhere within the STAMPEDE research 
+platform; payment or honoraria for lectures, presentations, speakers bureaus, 
+manuscript writing, or educational events from Eisai, Eli Lilly, and Janssen; 
+support for attending meetings or travel from the Health Research Board 
+(Ireland), the Trials Research Methodology Network (Ireland), and the National 
+Cancer Grid (India); and participation on independent data monitoring committees 
+for academic sponsors, none of which are paid. CCP reports participation on an 
+advisory board for Janssen (payment to institution); consultancy for Novartis 
+(payment to institution); and participation on an independent data monitoring 
+committee for Telix Pharmaceuticals. WC reports payment or honoraria for 
+lectures, presentations, speakers bureaus, manuscript writing, or educational 
+events from Bayer, Johnson & Johnson, and Ipsen; support for attending meetings 
+or travel from Bayer, Johnson & Johnson, and Ipsen; and a leadership role as a 
+clinical adviser for the UK National Institute for Health and Care Excellence 
+clinical adviser. MV reports payment or honoraria for lectures, presentations, 
+speakers bureaus, manuscript writing, or educational events from Astellas, and 
+support for attending meetings or travel from Astellas. FT reports payment or 
+honoraria for lectures, presentations, speakers bureaus, manuscript writing, or 
+educational events from Silvio Grasso Consulting, the Swiss Group for Clinical 
+Cancer Research, Merck, and Novartis (payment to institution), and from Bayer 
+and MSD (personal); support for attending meetings or travel from Bayer; and 
+participation on a data safety monitoring board or advisory board for Bayer and 
+Telix Pharmaceuticals. SG reports consulting fees from Ipsen and Avalere Health; 
+payment or honoraria for lectures, presentations, speakers bureaus, manuscript 
+writing, or educational events from Silvio Grasso Consulting, Peer Voice, the 
+European Society for Medical Oncology, Meister ConCept, the Swiss Group for 
+Clinical Cancer Research, American Society of Clinical Oncology Genitourinary, 
+AdMeTech Foundation, EPG Health, Intellisphere, Orikata, Medtoday Switzerland, 
+UroPratica Group in São Paulo, Swiss Infomed Organisation, Swiss Cancer 
+Institute, Emirates Oncology, Symposia Congressi, and ideA-Z Project in 
+progress; support for attending meetings or travel from Bayer, Intellisphere, 
+Gilead, and Johnson & Johnson; patents planned, issued, or pending for prostate 
+cancer biomarkers (WO2009138392); participation on data safety monitoring boards 
+or advisory boards for MSD, Bayer, Bristol Myers Squibb, Daiichi Sankyo, 
+Boehringer Ingelheim, Innomedica, Macrogenics, Astellas, Novartis, Amgen, Merck, 
+and GSK; leadership or fiduciary roles in other boards, societies, committees, 
+or advocacy groups for Pfizer, the ALPINE Prostate Cancer Committee, LinkinVax, 
+and the University of Applied Sciences and Arts of Southern Switzerland (Manno, 
+Switzerland); and other financial or non-financial interests from ASCO, 
+Unicancer, AstraZeneca, Pfizer, and Bayer. NWC reports support for the present 
+manuscript through STAMPEDE trial funding; payment or honoraria for lectures, 
+presentations, speakers bureaus, manuscript writing, or educational events from 
+Bayer, AstraZeneca, Janssen, and Astellas; participation on a data safety 
+monitoring board or advisory board for the CAPItello-281 trial; and a leadership 
+role as Clinical Lead of the National Prostate Cancer Audit for England and 
+Wales. MKBP reports support for the present manuscript from the UK Medical 
+Research Council through core funding to the Clinical Trials Unit. NDJ reports 
+support for the present manuscript from Cancer Research UK and the UK Medical 
+Research Council; study funding and provision of study drug from Sanofi, 
+Astellas, and Janssen; grants or contracts from the Prostate Cancer Foundation; 
+consulting fees from Johnson & Johnson and AstraZeneca; payment or honoraria for 
+lectures, presentations, speakers bureaus, manuscript writing, or educational 
+events from Astellas; patents planned, issued, or pending related to an AI 
+pathology tool licensed to ArteraAI; and participation on a data safety 
+monitoring board as a member of the VISION trial. GA reports grants or contracts 
+from Janssen, Astellas Pharma, Novartis, and Agilent; royalties or licenses 
+through the Institute of Cancer Research Rewards to Discoverers Scheme; support 
+for attending meetings or travel and personal fees from Janssen, Astellas 
+Pharma, Pfizer, Ipsen, Novartis/AAA, Abbott Laboratories, Ferring, ESSA 
+Pharmaceuticals, Bayer Healthcare Pharmaceuticals, Beigene, Blue Earth 
+Therapeutics, Takeda, Veracyte, AstraZeneca, and Sanofi-Aventis; and patents 
+planned, issued, or pending for blood-based methylation markers (GB1915469.9). 
+All other authors declare no competing interests.
+
+
+2. Urologia. 2026 Apr 29:3915603261440245. doi: 10.1177/03915603261440245. Online
+ ahead of print.
+
+Miniaturized laser enucleation of the prostate (MiLEP) is feasible and safe: 
+12-month follow-up, real-life, prospective multicenter study.
+
+Cindolo L(1), Salvaggio MD(1), Scoffone CM(2), Cracco CM(2), Kartalas IG(3), 
+Bevilacqua L(3), Orecchia L(4), Castellucci R(1), Dibitetto F(5), Ferrari G(1).
+
+Author information:
+(1)Department of Urology, Centro Urologico Europeo CURE Group, Modena, Italy.
+(2)Department of Urology, Cottolengo Hospital, Torino, Italy.
+(3)Department of Urology, Istituto Clinico Beato Matteo, Vigevano, Italy.
+(4)Urology Unit, Fondazione PTV Policlinico Tor Vergata, Rome, Italy.
+(5)Urocenter, Clinica Nuova Villa Claudia, Rome, Italy.
+
+BACKGROUND: Holmium laser enucleation of the prostate (HoLEP) is considered one 
+of the option for the treatment of men with bothersome lower urinary tract 
+symptoms (LUTS) related to Benign Prostatic Obstruction (BPO). HoLEP is 
+performed with 26Ch instruments, which can cause urethral trauma, strictures, 
+transient incontinence. Recent miniaturized 22Ch tools (MiLEP) aim to reduce 
+morbidity without compromising efficacy.
+METHODS: This is a prospective multicenter study on men underwent MiLEP. 
+Preoperative assessment included IPSS, uroflowmetry, PSA, prostate volume and 
+urinary continence. The MiLEP were performed en-bloc with early apical release. 
+Follow-up assessed subjective and objective outcomes together with complications 
+and patient satisfaction. Clinical success was defined as Trifecta.
+RESULTS: Sixty-five men were enrolled. No major intraoperative complications 
+occurred; median catheterization and hospital stay were 2 and 2 days, 
+respectively. Overall complication rate was 18.4%, mostly Clavien-Dindo grade 
+I-II. Late complications were urethral stricture in 4.6% and persistent stress 
+incontinence in 1.5%. At 12 months, mean IPSS, IPSS QoL, Qmax, PSA significantly 
+improved (all p < 0.001). Overall satisfaction was very high (96.8%). Trifecta 
+was achieved in 61.5% of cases. Logistic regression identified lower pre 
+operative Qmax as the only predictor of Trifecta achievement.
+CONCLUSIONS: MiLEP appears feasible and safe in this preliminary series, with 
+perioperative and functional outcomes consistent with enucleation-like goals. 
+Significant improvements in symptom scores, flow rate and PSA were sustained at 
+12 months with low morbidity and high continence preservation. Larger 
+appropriate trials and longer follow up are needed to confirm our data.
+
+DOI: 10.1177/03915603261440245
+PMID: 42053386
+
+
+3. Future Oncol. 2026 May;22(11):1301-1309. doi: 10.1080/14796694.2026.2651959. 
+Epub 2026 Apr 29.
+
+Real-world treatment patterns in patients with biochemical recurrence after 
+local prostate cancer therapy.
+
+McKay RR(1), Khan N(2), Shore ND(3), Chen G(2), Hlebec V(4), Srinivasan S(2), 
+Spratt DE(5).
+
+Author information:
+(1)Department of Medical Oncology, University of California, San Diego, CA, USA.
+(2)Bayer HealthCare Pharmaceuticals, Inc., Whippany, NJ, USA.
+(3)Department of Urology, START Carolinas Research Center, Myrtle Beach, SC, 
+USA.
+(4)Bayer Consumer Care AG, Basel, Switzerland.
+(5)University Hospitals Seidman Cancer Center, Cleveland, OH, USA.
+
+AIM: Describe real-world anticancer treatment patterns in the USA among patients 
+with prostate cancer (PC) who experience biochemical recurrence (BCR) following 
+radical prostatectomy (RP) or radiation therapy (RT), stratified by 
+prostate-specific antigen doubling time (PSA-DT).
+METHODS: Retrospective, observational cohort study using the Optum® PC 
+electronic medical record database (2012-2023). Patients with BCR were 
+stratified into high-/low-risk groups based on PSA-DT of <12/≥12 months. A 
+sensitivity analysis defined risk status using a ≤9-/>9-month cutoff.
+RESULTS: The study included 2,981 patients with BCR in the RP cohort and 697 in 
+the RT cohort. Median follow-up was 30.8 months (Q1-Q3: 18.1-50.8). Any 
+treatment use was higher among high-risk BCR patients (RP: 67.1% vs 54.9%; RT: 
+52.8% vs 28.7%). After RP, most patients received salvage RT (high-risk: 41.3%; 
+low-risk: 40.7%), followed by androgen-deprivation therapy (ADT) monotherapy 
+(high-risk: 30.2%; low-risk: 22.8%) and ADT plus androgen receptor pathway 
+inhibitor (ARPI) (high-risk: 11.9%; low-risk: 3.7%). After RT, ADT monotherapy 
+(high-risk: 22.9%; low-risk: 12.3%) and ADT plus ARPI (high-risk: 16.5%; 
+low-risk 4.9%) were most common. Sensitivity analyses showed similar results.
+CONCLUSIONS: These findings demonstrate that ADT remains the predominant 
+standard of care, whereas ADT plus ARPI is infrequently used, even among 
+high-risk BCR patients.
+
+Plain Language Summary: How men are treated when their prostate cancer returns 
+after initial therapyProstate cancer (PC) is the most common cancer diagnosed in 
+men in the USA and was the second leading cause of death in 2023. Primary 
+treatment options include radical prostatectomy and radiation therapy (RT); 
+however, approximately 20–50% of patients will subsequently show rising 
+prostate-specific antigen–a state known as biochemical recurrence (BCR). 
+Patients with BCR tend to have high risk of morbidity and mortality, with many 
+patients going on to develop metastasis. Therefore, it is important to monitor 
+patients for BCR, identify their risk for disease progression, and tailor 
+treatments to optimize outcomes. In this study, we examined medical record data 
+from a large, nationally representative US database to examine real-world 
+treatment patterns in patients with PC who developed BCR after primary therapy. 
+The findings of our analysis suggest that many patients with BCR are not being 
+treated–even those considered at high risk for disease progression. Of the 
+patients who were treated, most received salvage RT or androgen-deprivation 
+therapy alone. Patients and caregivers should discuss available treatment 
+options and weigh individual risks and benefits at the first sign of BCR in PC. 
+The use of androgen-deprivation therapy combined with a second-generation 
+androgen receptor inhibitor is infrequently selected for patients with high-risk 
+BCR.
+
+DOI: 10.1080/14796694.2026.2651959
+PMID: 42052875 [Indexed for MEDLINE]

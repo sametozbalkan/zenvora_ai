@@ -1,0 +1,202 @@
+=== PubMed: donepezil drug interactions cholinesterase anticholinergic ===
+1. CNS Neurol Disord Drug Targets. 2017;16(4):501-513. doi: 
+10.2174/1871527316666170303144817.
+
+Clinically Relevant Drug Interactions with Anti-Alzheimer's Drugs.
+
+Caraci F(1), Sultana J(2), Drago F(3), Spina E(2).
+
+Author information:
+(1)Department of Drug Sciences, University of Catania, Viale Andrea Doria 6, 
+95125 Catania, Italy.
+(2)Department of Clinical and Experimental Medicine, University of Messina, 
+Italy.
+(3)Department of Biomedical and Biotechnological Sciences, University of 
+Catania, Catania, Italy.
+
+BACKGROUND: The aging world population had led to an increase in the prevalence 
+of Alzheimer's disease (AD). The drugs used to slow down the onset of AD, 
+galantamine, donepezil, rivastigmine and memantine, are generally 
+well-tolerated. However, drug interactions between these drugs and other drugs 
+are an important aspect of patient safety that should be borne in mind, 
+particularly given the high burden of polypharmacy in the elderly. The aim of 
+this review is to provide an updated review of clinically significant drug-drug 
+interactions concerning drugs approved for AD.
+METHOD: PubMed was searched for relevant keywords. No time limit was imposed but 
+only articles in English published in peer-reviewed journals were selected. 
+Relevant literature was also identified from the references of identified 
+articles. Further information was obtained from drug summary of product 
+characteristics.
+RESULTS: The major pharmacokinetic interactions identified concerned fluoxetine, 
+paroxetine and ketoconazole when used with galantamine or donepezil. On the 
+other hand, the major potential pharmacodynamic interactions concerned 
+anti-dementia drugs and general anesthesia agents, anti-cholinergic drugs, 
+conventional antipsychotics and bradycardia-inducing drugs. In clinical practice 
+memantine shows a lower potential for pharmacodynamic drug-drug interactions 
+(DDIs) compared to other drug classes.
+CONCLUSION: The concomitant use of anti-dementia drugs with other drugs can have 
+variable clinical effects, making appropriate prescribing of these drugs very 
+challenging. A simple and coherent way of presenting evidence on complex drug 
+interaction information from heterogenous sources to clinicians is needed in 
+order for the voluminous data available to have an impact on clinical practice.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.
+
+DOI: 10.2174/1871527316666170303144817
+PMID: 28260511 [Indexed for MEDLINE]
+
+
+2. Drug Saf. 2007;30(11):1063-71. doi: 10.2165/00002018-200730110-00005.
+
+Drug interactions with cholinesterase inhibitors: an analysis of the French 
+pharmacovigilance database and a comparison of two national drug formularies 
+(Vidal, British National Formulary).
+
+Tavassoli N(1), Sommet A, Lapeyre-Mestre M, Bagheri H, Montrastruc JL.
+
+Author information:
+(1)Clinical Pharmacology Department, Centre of Pharmacoepidemiology and Drug 
+Information, Pharmacoepidemiology Unit, Faculty of Medicine, Paul Sabateir 
+University, Toulouse, France. tavassol@cict.fr
+
+BACKGROUND: Cholinesterase inhibitors (ChEIs) could be involved in several 
+drug-drug interactions (DDIs) because of their complex pharmacodynamic and/or 
+pharmacokinetic properties.
+AIM: To identify spontaneous reports in the French Pharmacovigilance Database 
+containing DDIs with the three ChEIs marketed in France (donepezil, galantamine 
+or rivastigmine) and to compare the informativity of two national drug 
+references, the French national formulary (Vidal) and the British National 
+Formulary (BNF), for their ability to identify ChEI-related DDIs.
+METHODS: Spontaneous reports submitted to the French Pharmacovigilance Database 
+concerning donepezil, galantamine or rivastigmine were reviewed by two clinical 
+pharmacologists from Toulouse Regional Pharmacovigilance Centre. Spontaneous 
+reports containing DDIs were identified according to Vidal, BNF or their own 
+judgement (and with use of the interaction supplement of the French independent 
+drug information bulletin La Revue Prescrire). Then, the potential of DDIs to 
+result in adverse drug reactions (ADRs) was evaluated. Finally, the 
+presentations of the different ChEIs in the two references (Vidal, BNF) were 
+compared for their DDI informativity.
+RESULTS: A total of 1058 spontaneous reports were identified that involved ChEIs 
+in the French Pharmacovigilance Database up to 31 March 2006; of these 376 
+(35.5%) contained at least one DDI according to experts' judgement. In total, 
+118 DDIs (31.4%) were the cause of ADRs. Most of the DDIs were due to 
+pharmacodynamic interactions (247 cases, 65.7%). The most frequently encountered 
+drugs involved in DDIs were bradycardic (205 cases, 54.5%) and anticholinergic 
+(118 cases, 31.4%) drugs. DDIs were found in 309 spontaneous reports (29.2%) 
+according to Vidal and in 127 (12.0%) according to BNF. In total, 88 'serious' 
+ADRs were related to DDIs (including seven deaths, mainly due to cardiovascular 
+ADRs). The most frequently observed ADRs due to DDIs were cardiovascular (67 
+cases, mainly bradycardia, atrioventricular block and arterial hypotension) and 
+neurological (33 cases, mainly mental confusion). Comparison of the different 
+presentations of summary of product characteristics (SPC) showed that Vidal was 
+more informative than BNF for all the ChEIs, and that galantamine had the most 
+complete data in the two references.
+CONCLUSION: DDIs were present in more than one-third of spontaneous reports 
+including ChEIs registered in the French Pharmacovigilance Database. 
+Approximately, one-third of these DDIs were the cause of ADRs. The informativity 
+of European drug dictionaries differs substantially and Vidal was found to be 
+more informative than BNF for all the ChEIs.
+
+DOI: 10.2165/00002018-200730110-00005
+PMID: 17973542 [Indexed for MEDLINE]
+
+
+3. Drugs Aging. 2018 Jan;35(1):27-41. doi: 10.1007/s40266-017-0510-6.
+
+Brain Over Bladder: A Systematic Review of Dual Cholinesterase Inhibitor and 
+Urinary Anticholinergic Use.
+
+Triantafylidis LK(1), Clemons JS(2), Peron EP(3), Roefaro J(4), Zimmerman KM(3).
+
+Author information:
+(1)Department of Pharmacy, VA Boston Healthcare System, 150 S Huntington Avenue, 
+Jamaica Plain, MA, 02130, USA. lkd07001@gmail.com.
+(2)Clinical Pharmacy Services, Kaiser Permanente Mid-Atlantic, 6501 Loisdale Ct, 
+Springfield, VA, 22150, USA.
+(3)Department of Pharmacotherapy and Outcomes Science, Virginia Commonwealth 
+University School of Pharmacy, 410 N. 12th Street, PO Box 980533, Richmond, VA, 
+23298-0533, USA.
+(4)Department of Pharmacy, VA Boston Healthcare System, 150 S Huntington Avenue, 
+Jamaica Plain, MA, 02130, USA.
+
+BACKGROUND: Case reports have demonstrated that dual use of cholinesterase 
+inhibitors (ChIs) and urinary anticholinergics (UAChs) in older adults may be 
+associated with delusions, aggression, changes in cognition, and anxiety, which 
+typically resolve on drug discontinuation. Despite opposing mechanisms of 
+action, these drugs continue to be co-prescribed.
+OBJECTIVE: This systematic review evaluates cognitive and functional outcomes of 
+dual use of ChIs and UAChs and describes its prevalence.
+PATIENTS AND METHODS: A literature search using terms related to ChIs and UAChs 
+was conducted. Observational or interventional studies evaluating cognitive or 
+functional outcomes in subjects receiving dual therapy were included for the 
+primary aim. Articles describing prevalence of dual use were included for the 
+secondary aim.
+RESULTS: Of 1340 unique results, five studies met the inclusion criteria for the 
+primary aim. Four of the studies assessed cognitive outcomes-three failed to 
+identify a significant difference in cognitive function with dual use and the 
+fourth study observed a statistically significant improvement in cognition with 
+dual use of high-dose donepezil and solifenacin when compared with baseline. 
+Three studies assessed functional outcomes-one revealed a 50% greater quarterly 
+decline in activities of daily living (p = 0.01) among dual users functioning in 
+the top quartile, another revealed significant functional improvement in dual 
+users, and the final study did not demonstrate a significant difference. 
+Seventeen articles were included for the secondary aim. Prevalence of dual use 
+ranged from 1.2 to 40.5%.
+CONCLUSION: This systematic review revealed a high prevalence of dual use of 
+ChIs and UAChs; however, there are mixed results for cognitive and functional 
+outcomes. Results were limited by methodological flaws. Observational or 
+interventional studies assessing dual users are lacking and further study of 
+cognitive and functional risks of dual ChI and UACh use is needed.
+
+DOI: 10.1007/s40266-017-0510-6
+PMID: 29350336 [Indexed for MEDLINE]
+
+
+4. J Am Geriatr Soc. 2019 Jul;67(7):1508-1515. doi: 10.1111/jgs.15810. Epub 2019 
+Feb 12.
+
+Navigating the Minefield of QTc Interval-Prolonging Therapy in Nursing Facility 
+Residents.
+
+Zarowitz BJ(1), Tisdale JE(2).
+
+Author information:
+(1)The Peter Lamy Center on Drug Therapy and Aging, University of Maryland, 
+College of Pharmacy, West Bloomfield, Michigan.
+(2)College of Pharmacy, Purdue University, School of Medicine, Indiana 
+University, Indianapolis, Indiana.
+
+BACKGROUND: The exponential increase in the number of medications associated 
+with clinically important prolongation of the heart rate-corrected QT interval 
+(QTc) places older adults at increased risk of arrhythmias including 
+life-threatening torsade de pointes (TdP) and sudden death. Risk factors, other 
+than age older than 65 years and female sex, include multiple concurrent drugs 
+that prolong QTc and a variety of underlying predisposing conditions. Although 
+electronic medical records and pharmacy dispensing systems can alert clinicians 
+to the risk of QTc-prolonging therapy, more than 95% of safety alerts are 
+overridden, and many systems have deactivated QTc drug interaction alerts. The 
+clinical consequences, magnitude of the effect, mitigation strategies, and 
+recommended monitoring are not well defined for nursing facility (NF) residents.
+DESIGN: Narrative review.
+SETTING: NFs in the United States.
+PARTICIPANTS: NF residents.
+RESULTS: Medications known to prolong QTc include selected anti-infectives, 
+antidepressants, urinary anticholinergics, antipsychotics, and cholinesterase 
+inhibitors (eg, donepezil), used commonly in NFs. Drug-drug interactions are a 
+risk when adding a medication that exaggerates the effect or inhibits the 
+metabolism of a QTc-prolonging medication. The vast majority of patients in whom 
+TdP is induced by noncardiac drugs have risk factors that are easily 
+identifiable.
+CONCLUSIONS: Recommendations are provided to improve standardization and use of 
+drug interaction alerts, evaluate the risk of QTc-prolonging drugs in older 
+adults receiving generally lower doses, validate a QTc risk score addressing 
+complex multimorbidity, garner evidence to guide clinical decision making, avail 
+NFs of access to electrocardiograms and interpretive recommendations, and 
+develop standards of practice for hosting risk discussions with residents and 
+their families. J Am Geriatr Soc, 1-8, 2019.
+
+© 2019 The American Geriatrics Society.
+
+DOI: 10.1111/jgs.15810
+PMID: 30747995 [Indexed for MEDLINE]

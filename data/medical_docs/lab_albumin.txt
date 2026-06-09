@@ -1,0 +1,138 @@
+=== PubMed: albumin protein low causes treatment ===
+1. Vaccine. 2026 May 5;84:128635. doi: 10.1016/j.vaccine.2026.128635. Online
+ahead  of print.
+
+The impact of unspecific viral adsorption on pharmaceutical container surfaces 
+in vaccine process development.
+
+Kress M(1), Heindl-Wruss J(2), Schlegl R(2), Jungbauer A(3).
+
+Author information:
+(1)VALNEVA Austria GmbH, Vienna, Austria; Department of Biotechnology, BOKU 
+University, Vienna, Austria.
+(2)VALNEVA Austria GmbH, Vienna, Austria.
+(3)Department of Biotechnology, BOKU University, Vienna, Austria; Austrian 
+Centre of Industrial Biotechnology (ACIB), Vienna, Austria. Electronic address: 
+alois.jungbauer@boku.ac.at.
+
+Unspecific adsorption of viral particles to container materials represents an 
+under-recognized source of product loss in vaccine and viral gene-therapy 
+manufacturing. While protein adsorption is well described, dedicated 
+investigations of viral particle adsorption remain limited. Understanding 
+virus-surface interactions and selecting appropriate container materials is 
+essential, as adsorption can cause substantial product losses, particularly 
+during process steps involving purified viruses. These losses are further 
+amplified by the low viral protein concentrations typically used in vaccine 
+development, combined with high surface-to-volume ratios in small-scale 
+operations, potentially compromising analytical accuracy, mass balance 
+assessments, and subsequent decision-making. We evaluated viral particle 
+adsorption across commonly used pharmaceutical containers, including PETG 
+bottles and single-use bags, using multiple model viruses. All container types 
+exhibited measurable nonspecific adsorption, enabling differentiation between 
+low- and high-binding materials. Scanning electron microscopy and contact angle 
+measurements identified distinct surface appearances and material-dependent 
+differences in viral binding, with surface energy dominated by non-polar, 
+hydrophobic interactions. These surface properties could be modulated through 
+excipient addition. Excipient screening identified effective mitigation 
+strategies, with surfactants such as Pluronic F-68 and proteins such as albumin 
+nearly eliminating viral adsorption. These findings highlight the need to 
+consider adsorption effects early in vaccine development and underscore the 
+value of selecting low-binding materials and suitable excipients to safeguard 
+process performance and product recovery.
+
+Copyright © 2026 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2026.128635
+PMID: 42092316
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Pathogens. 2026 Apr 13;15(4):418. doi: 10.3390/pathogens15040418.
+
+Phenotype-Based Stratification and Early Prediction of Staphylococcal Infective 
+Endocarditis: Development of a Pragmatic Bedside Score.
+
+Nanu AA(1)(2), Lazăr MI(3), Lazăr DȘ(1)(2), Popescu CP(1)(2), Nica M(1)(2), 
+Florescu SA(1)(2).
+
+Author information:
+(1)Department of Infectious Diseases, "Carol Davila" University of Medicine and 
+Pharmacy, 020021 Bucharest, Romania.
+(2)"Dr. Victor Babeș" Clinical Hospital of Infectious and Tropical Diseases, 
+030303 Bucharest, Romania.
+(3)"Nicolae Malaxa" Clinical Hospital, 022441 Bucharest, Romania.
+
+Background: Early identification of Staphylococcus spp. infective endocarditis 
+(IE) remains clinically challenging but essential for timely initiation of 
+targeted antimicrobial therapy. We aimed to characterize pathogen-specific 
+clinical phenotypes and to develop a pragmatic bedside prediction model for 
+staphylococcal etiology. Methods: We conducted a retrospective cohort study 
+including 112 patients diagnosed with definite IE. Demographic, clinical, 
+echocardiographic, and laboratory data were analyzed. Independent predictors of 
+staphylococcal etiology were identified using multivariable logistic regression, 
+with internal validation by bootstrap resampling. A simplified clinical risk 
+score was derived from regression coefficients. Platelet kinetics were evaluated 
+as a potential complementary biomarker. Results: Patients with staphylococcal IE 
+(n = 66) were younger and exhibited a distinct clinical profile characterized by 
+a high prevalence of intravenous drug use, right-sided valve involvement, and a 
+markedly elevated inflammatory response. Independent predictors included 
+intravenous drug use (OR 7.1, 95% CI 2.45-20.6, p < 0.001), higher C-reactive 
+protein levels (OR 1.08 per unit increase, p = 0.025), and lower oxygen 
+saturation (OR 0.75 per 1% increase, p = 0.007). The model demonstrated good 
+discrimination (AUC 0.82, 95% CI 0.74-0.90) and calibration. The simplified 
+exploratory risk score stratified patients into low-, intermediate-, and 
+high-risk groups, with observed probabilities of 27%, 82%, and 94%, 
+respectively. Conclusions: Staphylococcal IE represents a distinct clinical 
+phenotype. A simple three-variable model enables early bedside identification of 
+high-probability cases and may support risk-adapted management decisions. 
+Nevertheless, external validation is required before clinical implementation of 
+a score.
+
+DOI: 10.3390/pathogens15040418
+PMCID: PMC13118454
+PMID: 42075746 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Medicina (Kaunas). 2026 Apr 15;62(4):755. doi: 10.3390/medicina62040755.
+
+Prognostic Value of the CALLY Index in Predicting All-Cause Mortality After 
+Transcatheter Aortic Valve Implantation: A Two-Year Follow-Up Study.
+
+Güner ZE(1), Balaban İ(2), Keten MF(2), Bolataslan R(2), Akbaş RB(3), Üzel 
+ST(2), Zehir R(2), Alizade E(2).
+
+Author information:
+(1)Department of Cardiology, Uzunköprü State Hospital, Edirne 22000, Turkey.
+(2)Department of Cardiology, Kartal Koşuyolu High Specialization Training and 
+Research Hospital, Istanbul 34846, Turkey.
+(3)Deparment of Cardiology, Bitlis Tatvan State Hospital, Bitlis 13200, Turkey.
+
+Background and Objectives: This study investigated the prognostic value of the 
+C-reactive protein-albumin-lymphocyte (CALLY) index in predicting all-cause 
+mortality among patients undergoing transcatheter aortic valve implantation 
+(TAVI) for severe aortic stenosis. Materials and methods: This retrospective 
+single-center study included 303 patients who underwent TAVI. The CALLY index 
+and other established prognostic scores were calculated at baseline. Patients 
+were followed for a median of 21 months. The primary endpoint was all-cause 
+mortality. Results: A total of 60 patients (19.8%) died during follow-up. The 
+CALLY index demonstrated the highest predictive performance for all-cause 
+mortality, with an AUC of 0.698 (95% CI: 0.628-0.768, p < 0.001). In 
+multivariate Cox regression, a low CALLY index remained an independent predictor 
+of mortality (HR: 3.80, 95% CI: 2.03-7.11, p < 0.001), along with reduced LVEF, 
+chronic kidney disease, and diabetes mellitus. Kaplan-Meier analysis further 
+confirmed markedly worse survival in the high-risk group (log-rank p < 0.001). 
+Conclusions: The CALLY index was independently associated with mortality after 
+TAVI and may represent a complementary biomarker for risk stratification in this 
+population.
+
+DOI: 10.3390/medicina62040755
+PMCID: PMC13117720
+PMID: 42075625 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

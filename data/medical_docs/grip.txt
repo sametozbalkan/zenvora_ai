@@ -1,0 +1,181 @@
+=== PubMed: grip ===
+1. Curr Opin Clin Nutr Metab Care. 2015 Sep;18(5):465-70. doi: 
+10.1097/MCO.0000000000000202.
+
+Muscle strength: clinical and prognostic value of hand-grip dynamometry.
+
+Bohannon RW(1).
+
+Author information:
+(1)Physical Therapy Program of the Department of Kinesiology, College of 
+Agriculture, Health, and Natural Resources, University of Connecticut, Storrs, 
+Connecticut, USA.
+
+PURPOSE OF REVIEW: Grip strength measured by dynamometry is well established as 
+an indicator of muscle status, particularly among older adults. This review was 
+undertaken to provide a synopsis of recent literature addressing the clinical 
+and prognostic value of hand-grip dynamometry.
+RECENT FINDINGS: Numerous large-scale normative grip strength projects have been 
+published lately. Other recent studies have reinforced the concurrent 
+relationship of grip strength with measures of nutritional status or muscle mass 
+and measures of function and health status. Studies published in the past few 
+years have confirmed the value of grip strength as a predictor of mortality, 
+hospital length of stay, and physical functioning.
+SUMMARY: As a whole, the recent literature supports the use of hand-grip 
+dynamometry as a fundamental element of the physical examination of patients, 
+particularly if they are older adults.
+
+DOI: 10.1097/MCO.0000000000000202
+PMID: 26147527 [Indexed for MEDLINE]
+
+
+2. Clin Nutr. 2011 Apr;30(2):135-42. doi: 10.1016/j.clnu.2010.09.010. Epub 2010
+Oct  30.
+
+Hand grip strength: outcome predictor and marker of nutritional status.
+
+Norman K(1), Stobäus N, Gonzalez MC, Schulzke JD, Pirlich M.
+
+Author information:
+(1)Department of Gastroenterology, Hepatology and Endocrinology, 
+Charité-University Medicine Berlin, Berlin, Germany. kristina.norman@charite.de
+
+BACKGROUND & AIMS: Among all muscle function tests, measurement of hand grip 
+strength has gained attention as a simple, non-invasive marker of muscle 
+strength of upper extremities, well suitable for clinical use. This review 
+outlines the prognostic relevance of grip strength in various clinical and 
+epidemiologic settings and investigates its suitability as marker of nutritional 
+status in cross-sectional as well as intervention studies.
+METHODS: Studies investigating grip strength as prognostic marker or nutritional 
+parameter in cross-sectional or intervention studies were summarized.
+RESULTS AND CONCLUSIONS: Numerous clinical and epidemiological studies have 
+shown the predictive potential of hand grip strength regarding short and 
+long-term mortality and morbidity. In patients, impaired grip strength is an 
+indicator of increased postoperative complications, increased length of 
+hospitalization, higher rehospitalisation rate and decreased physical status. In 
+elderly in particular, loss of grip strength implies loss of independence. 
+Epidemiological studies have moreover demonstrated that low grip strength in 
+healthy adults predicts increased risk of functional limitations and disability 
+in higher age as well as all-cause mortality. As muscle function reacts early to 
+nutritional deprivation, hand grip strength has also become a popular marker of 
+nutritional status and is increasingly being employed as outcome variable in 
+nutritional intervention studies.
+
+Copyright © 2010 Elsevier Ltd and European Society for Clinical Nutrition and 
+Metabolism. All rights reserved.
+
+DOI: 10.1016/j.clnu.2010.09.010
+PMID: 21035927 [Indexed for MEDLINE]
+
+
+3. J Bodyw Mov Ther. 2020 Jan;24(1):235-243. doi: 10.1016/j.jbmt.2019.05.029.
+Epub  2019 May 24.
+
+Measurement of hand grip strength in the elderly: A scoping review with 
+recommendations.
+
+Mehmet H(1), Yang AWH(1), Robinson SR(2).
+
+Author information:
+(1)School of Health and Biomedical Sciences, RMIT University, Australia.
+(2)School of Health and Biomedical Sciences, RMIT University, Australia. 
+Electronic address: stephen.robinson@rmit.edu.au.
+
+INTRODUCTION: Hand grip strength has been widely used as a lead measure in 
+geriatric conditions such as frailty. However, diversity in assessment protocols 
+and methodologies creates uncertainty in the comparison of outcome measurements. 
+The aim of this study was to review the literature relating to the measurement 
+of hand grip strength in older adults, in order to develop further consensus in 
+relation to the use of existing protocols in clinical and community settings, 
+with an emphasis on practicality and suitability for frail persons.
+METHODS: Five electronic English databases were searched using keywords such as 
+'hand grip strength', 'clinimetric assessment', and their synonyms. Age-related 
+trends in adults aged ≥65 years were assessed, and comparisons were made of the 
+following variables: dynamometer model and handle setting, hand positioning, 
+warm-up trials, grip duration, number of repeated tests, rest periods, 
+laterality of tested hand, and whether encouragement was given to the subjects.
+RESULTS: Thirty-four research papers met the inclusion criteria and were 
+included. A Jamar hand dynamometer was most frequently used. Variations were 
+found in the positioning of the subject and in the duration of the rest period, 
+which ranged from 10 to 20 s to 1 min. Grip strength was typically measured 
+three times in the dominant hand, with the strongest grip being recorded and no 
+encouragement being provided during assessment.
+CONCLUSIONS: Based on the scoping review, we propose a detailed and standardised 
+protocol that is suitable for the assessment of hand grip strength in frail 
+older adults.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jbmt.2019.05.029
+PMID: 31987550 [Indexed for MEDLINE]
+
+
+4. J Orthop Sports Phys Ther. 2018 Sep;48(9):685-693. doi:
+10.2519/jospt.2018.7851.  Epub 2018 May 23.
+
+Hand-Grip Strength: Normative Reference Values and Equations for Individuals 18 
+to 85 Years of Age Residing in the United States.
+
+Wang YC, Bohannon RW, Li X, Sindhu B, Kapellusch J.
+
+Background Hand-grip strength is an indicator of overall strength and a 
+predictor of important outcomes. Up-to-date, population-specific reference 
+values for measurements of grip strength are needed to properly interpret 
+strength outcomes. Objectives To provide population-based grip-strength 
+reference values and equations for US residents 18 to 85 years of age. Methods 
+Hand-grip data from 1232 participants 18 to 85 years of age were extracted from 
+the database of the 2011 normative phase of the US National Institutes of Health 
+Toolbox project in this cross-sectional study. Descriptive reference values and 
+equations were derived from the data. Results The authors present grip-strength 
+reference values using summary statistics (mean, standard deviation, and 
+percentile). The mean grip strength ranged from 49.7 kg for the dominant hand of 
+men 25 to 29 years of age to 18.7 kg for the nondominant hand of women 75 to 79 
+years of age. The researchers also present reference regression equations for 
+the dominant and nondominant sides of men and women. The explanatory variables 
+in the equations are age, height, and weight. Conclusion The normative reference 
+values and equations provided in this study may serve as a guide for 
+interpreting grip-strength measurements obtained from tested individuals. J 
+Orthop Sports Phys Ther 2018;48(9):685-693. Epub 23 May 2018. 
+doi:10.2519/jospt.2018.7851.
+
+DOI: 10.2519/jospt.2018.7851
+PMID: 29792107 [Indexed for MEDLINE]
+
+
+5. Eur J Appl Physiol. 2007 Mar;99(4):415-21. doi: 10.1007/s00421-006-0351-1.
+Epub  2006 Dec 22.
+
+Hand-grip strength of young men, women and highly trained female athletes.
+
+Leyk D(1), Gorges W, Ridder D, Wunderlich M, Rüther T, Sievert A, Essfeld D.
+
+Author information:
+(1)Department IV-Military Ergonomics and Exercise Physiology, Central Institute 
+of the Federal Armed Forces Medical Services Koblenz, Andernacher Strasse 100, 
+56070, Koblenz, Germany. leyk@dshs-koeln.de
+
+Hand-grip strength has been identified as one limiting factor for manual lifting 
+and carrying loads. To obtain epidemiologically relevant hand-grip strength data 
+for pre-employment screening, we determined maximal isometric hand-grip strength 
+in 1,654 healthy men and 533 healthy women aged 20-25 years. Moreover, to assess 
+the potential margins for improvement in hand-grip strength of women by 
+training, we studied 60 highly trained elite female athletes from sports known 
+to require high hand-grip forces (judo, handball). Maximal isometric hand-grip 
+force was recorded over 15 s using a handheld hand-grip ergometer. Biometric 
+parameters included lean body mass (LBM) and hand dimensions. Mean maximal 
+hand-grip strength showed the expected clear difference between men (541 N) and 
+women (329 N). Less expected was the gender related distribution of hand-grip 
+strength: 90% of females produced less force than 95% of males. Though female 
+athletes were significantly stronger (444 N) than their untrained female 
+counterparts, this value corresponded to only the 25th percentile of the male 
+subjects. Hand-grip strength was linearly correlated with LBM. Furthermore, both 
+relative hand-grip strength parameters (F (max)/body weight and F (max)/LBM) did 
+not show any correlation to hand dimensions. The present findings show that the 
+differences in hand-grip strength of men and women are larger than previously 
+reported. An appreciable difference still remains when using lean body mass as 
+reference. The results of female national elite athletes even indicate that the 
+strength level attainable by extremely high training will rarely surpass the 
+50th percentile of untrained or not specifically trained men.
+
+DOI: 10.1007/s00421-006-0351-1
+PMID: 17186303 [Indexed for MEDLINE]

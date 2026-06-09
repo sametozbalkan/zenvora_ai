@@ -1,0 +1,111 @@
+=== PubMed: tendinit ===
+1. Ter Arkh. 2023 Jul 16;95(5):438-443. doi: 10.26442/00403660.2023.05.202273.
+
+[The use of sodium hyaluronate to treat upper limb disease: A review].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Filatova YS(1), Ilyin MV(1).
+
+Author information:
+(1)Yaroslavl State Medical University.
+
+The most common diseases of the upper limb are osteoarthritis (OA) of the joints 
+of the hands, lateral epiconlitis, tendinitis of the shoulder muscles, adhesive 
+capsulitis. OA of the shoulder and acromioclavicular joints is less common. The 
+development of acute and subacute pain in the elbow and shoulder joints in the 
+vast majority of cases is determined by the pathology of soft tissues: muscles, 
+ligamentous apparatus and related synovial bags, making it difficult to 
+diagnose. A clinical and radiological heterogeneity of OA of the joints of the 
+hands is a very complex pathology for the study, and also to create a unified 
+algorithms for therapy. Therapy nonsteroidal anti-inflammatory drugs are 
+effective in the short term, but it has several side effects. Despite a variety 
+of attempts at therapy with successful and unsuccessful outcome, the attention 
+of researchers for several decades converted to the injection therapy with 
+hyaluronic acid. The article presents the data of studies demonstrating the 
+anti-inflammatory effect of hyaluronic acid in the treatment of OA, as well as 
+the results of clinical trials and data system of meta-analysis demonstrating 
+the effectiveness of intra-articular and extra-articular therapy tendinopathy of 
+the upper limb. Most of the cited studies demonstrated the efficacy and good 
+tolerance of 1% sodium hyaluronate. In the domestic market it is presented in 
+the drug Flexotron Forte. The authors provide the results of the study results, 
+demonstrating the efficacy and safety of using Flexotron Forte to clinical 
+practice.
+
+Publisher: Самыми распространенными заболеваниями верхней конечности являются 
+остеоартрит (ОА) суставов кистей, латеральный эпикондилит, тендинит мышц плеча, 
+адгезивный капсулит. Реже встречаются ОА плечевого и акромиально-ключичного 
+суставов. Развитие острой и подострой боли в локтевом и плечевом суставах в 
+подавляющем большинстве случаев определяется патологией мягких тканей: мышц, 
+связочного аппарата и связанных с ним синовиальных сумок, что затрудняет 
+диагностику, а клиническая и рентгенологическая неоднородность ОА суставов 
+кистей является очень сложной патологией для изучения, а также для создания 
+единых алгоритмов терапии. Терапия нестероидными противовоспалительными 
+препаратами эффективна в краткосрочной перспективе, но имеет ряд побочных 
+эффектов. Несмотря на разнообразие попыток терапии с успешным и неуспешным 
+исходом, внимание исследователей уже несколько десятилетий обращено на 
+инъекционную терапию гиалуроновой кислотой. В статье приведены данные 
+исследований, доказывающие противовоспалительное действие гиалуроновой кислоты в 
+терапии ОА, а также результаты клинических исследований и данных системных 
+метаанализов, демонстрирующие эффективность внутрисуставной и околосуставной 
+терапии тенденопатий верхней конечности. Большинство цитируемых исследований 
+продемонстрировали эффективность и хорошую переносимость 1% гиалуроната натрия. 
+На отечественном рынке он представлен препаратом Флексотрон Форте 3 младший 
+Авторами приводятся результаты исследований, демонстрирующие эффективность и 
+безопасность использования Флексотрон Форте 1%, 3 мл в клинической практике.
+
+DOI: 10.26442/00403660.2023.05.202273
+PMID: 38158998 [Indexed for MEDLINE]
+
+
+2. Lakartidningen. 1976 Apr 7;73(15):1430-1.
+
+[Retropharyngeal tendinitis].
+
+[Article in Swedish]
+
+Elander I.
+
+PMID: 1263664 [Indexed for MEDLINE]
+
+
+3. Lakartidningen. 1991 Nov 20;88(47):4029-30.
+
+[Retropharyngeal tendinitis still an unknown disease?].
+
+[Article in Swedish]
+
+Kulling P(1), Kulling KG, Kulling B.
+
+Author information:
+(1)Giftinformations-centralen, Karolinska sjukhuset, Stockholm.
+
+PMID: 1956242 [Indexed for MEDLINE]
+
+
+4. Lakartidningen. 2012 Nov 21-27;109(47):2156-8.
+
+[Severe neck pain and swallowing difficulties can be Fahlgrens syndrome. CT 
+provides diagnosis: retropharyngeal tendinitis].
+
+[Article in Swedish]
+
+Sveinsson O(1), Herrman L.
+
+Author information:
+(1)Neuroradiologiska kliniken, båda Karolinska universitetssjukhuset, Solna. 
+olafur.sveinsson@karolinska.se
+
+PMID: 23330479 [Indexed for MEDLINE]
+
+
+5. Lakartidningen. 1988 Jun 1;85(22):2002-3.
+
+[Computer tomography improves x-ray diagnosis of acute retropharyngeal 
+tendinitis].
+
+[Article in Swedish]
+
+Fahlgren H, Marions O.
+
+PMID: 3374212 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+İLAÇ: Enalapril (Renitec, Enap)
+SINIF: ACE inhibitörü, antihipertansif
+
+ENDİKASYONLAR:
+- Hipertansiyon
+- Kalp yetmezliği
+- Sol ventrikül disfonksiyonu
+- Diyabetik nefropati
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Potasyum tutucu diüretikler (spironolakton, eplerenon): Ciddi hiperkalemi riski
+- Potasyum takviyeleri: Hiperkalemi
+- ARB'ler (losartan, valsartan): Çift renin-anjiyotensin blokajı — hipotansiyon, hiperkalemi, böbrek yetmezliği
+- NSAİD'ler (ibuprofen, naproksen): Antihipertansif etki azalır, böbrek fonksiyonu bozulur
+- Lityum: Lityum toksisitesi riski artar
+- Aliskiren (diyabetiklerde): Hipotansiyon, hiperkalemi, böbrek yetmezliği — birlikte kullanılmaz
+- Diüretikler (furosemid): İlk doz hipotansiyonu riski
+
+UYARILAR:
+- Kuru öksürük sık görülür (bradikinin birikimi) — tolere edilemiyorsa ARB'ye geç
+- Anjiyoödem: Yüz, dudak, dil, gırtlak şişmesi — acil durum; enalapril ve tüm ACE inhibitörleri kalıcı kesilmeli
+- Böbrek fonksiyonu ve potasyum izlenmeli (başlangıç + 1-2 haftada)
+- Bilateral renal arter stenozu varsa böbrek yetmezliği riski
+- Hamilelikte KESİNLİKLE KULLANILMAZ (fetal nefrotoksisite, ölüm)
+- İlk doz hipotansiyonu: Yatarak alınmalı
+
+KONTRENDİKASYONLAR:
+- Hamilelik (tüm trimesterler)
+- ACE inhibitörüne bağlı anjiyoödem öyküsü
+- Bilateral renal arter stenozu
+
+YAN ETKİLER:
+- Kuru öksürük (%10-15)
+- Başdönmesi, hipotansiyon
+- Hiperkalemi
+- Böbrek fonksiyon bozukluğu
+- Anjiyoödem (nadir ama ciddi)

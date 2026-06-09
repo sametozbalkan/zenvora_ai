@@ -1,0 +1,164 @@
+=== PubMed: azithromycin drug interactions qt prolongation cardiac ===
+1. Can Pharm J (Ott). 2016 May;149(3):139-52. doi: 10.1177/1715163516641136. Epub
+ 2016 Apr 8.
+
+Drug-induced QT interval prolongation and torsades de pointes: Role of the 
+pharmacist in risk assessment, prevention and management.
+
+Tisdale JE(1).
+
+Author information:
+(1)College of Pharmacy, Purdue University, and the School of Medicine, Indiana 
+University, Indianapolis, Indiana, USA.
+
+Torsades de pointes (TdP) is a life-threatening arrhythmia associated with 
+prolongation of the corrected QT (QTc) interval on the electrocardiogram. More 
+than 100 drugs available in Canada, including widely used antibiotics, 
+antidepressants, cardiovascular drugs and many others, may cause QTc interval 
+prolongation and TdP. Risk factors for TdP include QTc interval >500 ms, 
+increase in QTc interval ≥60 ms from the pretreatment value, advanced age, 
+female sex, acute myocardial infarction, heart failure with reduced ejection 
+fraction, hypokalemia, hypomagnesemia, hypocalcemia, bradycardia, treatment with 
+diuretics and elevated plasma concentrations of QTc interval-prolonging drugs 
+due to drug interactions, inadequate dose adjustment of renally eliminated drugs 
+in patients with kidney disease and rapid intravenous administration. 
+Pharmacokinetic drug interactions associated with the highest risk of TdP 
+include antifungal agents, macrolide antibiotics (except azithromycin) and drugs 
+to treat human immunodeficiency virus interacting with amiodarone, disopyramide, 
+dofetilide or pimozide. Other important pharmacokinetic interactions include 
+antidepressants (bupropion, duloxetine, fluoxetine, paroxetine) interacting with 
+flecainide, quinidine or thioridazine. Pharmacists play an important role in 
+minimizing the risk of drug-induced QTc interval prolongation and TdP through 
+knowledge of drugs that are associated with a known or possible risk of TdP, 
+individualized assessment of risk of drug-induced QTc interval prolongation, 
+awareness of drug interactions most likely to result in TdP and attention to 
+dose reduction of renally eliminated QTc interval-prolonging drugs in patients 
+with kidney disease. Treatment of hemodynamically stable TdP consists of 
+discontinuation of the offending drug(s), correction of electrolyte 
+abnormalities and administration of intravenous magnesium sulfate 1 to 2 g.
+
+DOI: 10.1177/1715163516641136
+PMCID: PMC4860751
+PMID: 27212965
+
+Conflict of interest statement: Declaration of Conflicting Interests:The author 
+is a volunteer member of the Advisory Board for the QT Drug Lists for the 
+website www.crediblemeds.org. The author declared no potential conflicts of 
+interest with respect to the research, authorship and/or publication of this 
+article.
+
+
+2. Mo Med. 2010 Jan-Feb;107(1):53-8.
+
+Drug-induced QT prolongation and sudden death.
+
+Del Rosario ME(1), Weachter R, Flaker GC.
+
+Author information:
+(1)University of Missouri Hospital and Clinics, Division of Cardiovascular 
+Medicine, USA.
+
+Prolongation of the QT interval can predispose to a potentially fatal 
+polymorphic ventricular tachycardia called torsades de pointes (TdP). Although 
+usually self-limited, TdP may degenerate into ventricular fibrillation and cause 
+sudden death. Some medications that cause QT prolongation and possible TdP are 
+commonly used in general practice. This paper presents a case of sudden death 
+that is likely from drug-induced TdP. It reviews the mechanisms, risk factors, 
+offending agents, and management of drug-induced torsades de pointes.
+
+PMCID: PMC6192813
+PMID: 20222297 [Indexed for MEDLINE]
+
+
+3. Pacing Clin Electrophysiol. 2001 Oct;24(10):1572-4. doi: 
+10.1046/j.1460-9592.2001.01572.x.
+
+QT prolongation associated with azithromycin/amiodarone combination.
+
+Samarendra P(1), Kumari S, Evans SJ, Sacchi TJ, Navarro V.
+
+Author information:
+(1)Department of Cardiology, Long Island College Hospital, Brooklyn, New York, 
+USA. Padmaraj@aol.com
+
+Administration of oral azithromycin, in addition to previously well-tolerated 
+long-term amiodarone therapy, was associated with a marked prolongation of QT 
+interval and increased QT dispersion, both substrates for life-threatening 
+ventricular tachyarrhythmia and torsades de pointes. This is a report of QT 
+prolongation and increased QT dispersion associated with the use of 
+azithromycin. The report assumes an added significance, in view of widespread 
+empirical use of this antibiotic for the treatment of lower respiratory 
+infections and belief of its safety in patients with cardiac diseases. Based on 
+the authors' experience, they would like to emphasize that the combination of 
+azithromycin with other drugs known to prolong QT or causing torsades de pointes 
+be used with caution until the question of the proarrhythmic effect of 
+azithromycin is resolved by further studies.
+
+DOI: 10.1046/j.1460-9592.2001.01572.x
+PMID: 11707055 [Indexed for MEDLINE]
+
+
+4. JAMA Netw Open. 2020 Sep 1;3(9):e2016864. doi: 
+10.1001/jamanetworkopen.2020.16864.
+
+Comparison of Cardiac Events Associated With Azithromycin vs Amoxicillin.
+
+Patel H(1), Calip GS(1)(2), DiDomenico RJ(1)(3), Schumock GT(1), Suda KJ(4)(5), 
+Lee TA(1).
+
+Author information:
+(1)Department of Pharmacy Systems, Outcomes, and Policy, College of Pharmacy, 
+University of Illinois at Chicago.
+(2)Flatiron Health, Inc, New York, New York.
+(3)Department of Pharmacy Practice, College of Pharmacy, University of Illinois 
+at Chicago.
+(4)Center for Health Equity Research and Promotions, University of Pittsburgh 
+School of Medicine, Pittsburgh, Pennsylvania.
+(5)Department of Medicine, Veterans Affairs Pittsburgh Healthcare System, 
+Pittsburgh, Pennsylvania.
+
+IMPORTANCE: Conflicting evidence exists on the association between azithromycin 
+use and cardiac events.
+OBJECTIVE: To compare the odds of cardiac events among new users of azithromycin 
+relative to new users of amoxicillin using real-world data.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study used data 
+from Truven Health Analytics MarketScan database from January 1, 2009, to June 
+30, 2015. Patients receiving either amoxicillin or azithromycin and enrolled in 
+a health care plan 365 days before (baseline period) the dispensing date (index 
+date) were included in the study. Patients were matched 1:1 on high-dimensional 
+propensity scores. Data were analyzed from October 1, 2018, to December 31, 
+2019.
+EXPOSURES: New use of azithromycin compared with new use of amoxicillin.
+MAIN OUTCOMES AND MEASURES: The primary outcome consisted of cardiac events, 
+including syncope, palpitations, ventricular arrhythmias, cardiac arrest, or 
+death as a primary diagnosis for hospitalization at 5, 10, and 30 days from the 
+index date. Logistic regression models were used to estimate odds ratios (ORs) 
+with 95% CIs.
+RESULTS: After matching, the final cohort included 2 141 285 episodes of each 
+index therapy (N = 4 282 570) (mean [SD] age of patients, 35.7 [22.3] years; 
+52.6% female). Within 5 days after therapy initiation, 1474 cardiac events 
+(0.03%) occurred (708 in the amoxicillin cohort and 766 in the azithromycin 
+cohort). The 2 most frequent events were syncope (1032 [70.0%]) and palpitations 
+(331 [22.5%]). The odds of cardiac events with azithromycin compared with 
+amoxicillin were not significantly higher at 5 days (OR, 1.08; 95% CI, 
+0.98-1.20), 10 days (OR, 1.05; 95% CI, 0.97-1.15), and 30 days (OR, 0.98; 95% 
+CI, 0.92-1.04). Among patients receiving any concurrent QT-prolonging drug, the 
+odds of cardiac events with azithromycin were 1.40 (95% CI, 1.04-1.87) greater 
+compared with amoxicillin. Among patients 65 years or older and those with a 
+history of cardiovascular disease and other risk factors, no increased risk of 
+cardiac events with azithromycin was noted.
+CONCLUSIONS AND RELEVANCE: This study found no association of cardiac events 
+with azithromycin compared with amoxicillin except among patients using other 
+QT-prolonging drugs concurrently. Although azithromycin is a safe therapy, 
+clinicians should carefully consider its use among patients concurrently using 
+other QT-prolonging drugs.
+
+DOI: 10.1001/jamanetworkopen.2020.16864
+PMCID: PMC7492910
+PMID: 32930780 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Calip 
+reported current employment with Flatiron Health, Inc, which is an independent 
+subsidiary of the Roche Group. Dr DiDomenico reported receiving personal fees 
+from ABIOMED and grants from CSL Behring outside the submitted work. No other 
+disclosures were reported.

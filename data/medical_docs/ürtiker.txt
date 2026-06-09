@@ -1,0 +1,175 @@
+=== PubMed: ürtiker ===
+1. Tuberk Toraks. 2022 Sep;70(3):231-241. doi: 10.5578/tt.20229702.
+
+Incidence and clinical course of COVID-19 in patients using omalizumab for 
+chronic spontaneous urticaria and/or severe allergic asthma and using 
+mepolizumab for severe eosinophilic asthma: A single center real life 
+experience.
+
+[Article in English]
+
+Yıldız R(1), Demirel YS(1), Mungan VD(1), Aydın Ö(1), Sin BA(1), Ağca M(2), 
+Bavbek S(1).
+
+Author information:
+(1)Division of Immunology and Allergic Diseases, Department of Chest Diseases, 
+Ankara University Faculty of Medicine, Ankara, Türkiye.
+(2)Clinic of Pulmonology, Süreyyapaşa Chest Diseases and Thoracic Surgery 
+Training and Research Hospital, İstanbul, Türkiye.
+
+INTRODUCTION: To assess the incidence and course of COVID-19 in patients with 
+severe asthma/chronic spontaneous urticaria using biological agents.
+MATERIALS AND METHODS: A total of 202 patients (142 with asthma, and 60 with 
+urticaria) were enrolled. The subjects were asked via face-to-face or telephone 
+interview whether they had been diagnosed with COVID-19 and the course of the 
+disease.
+RESULT: Study group consisted of 132 women, and 70 men (median age= 48 years). 
+Median omalizumab dose was 300 mg/month in asthma (min-max= 150-1200 mg). The 
+mepolizumab dose of two patients diagnosed with EGPA was 300 mg/month. Thirty 
+one (15.3%) patients were diagnosed with COVID-19, 22 (71%) of whom were 
+receiving omalizumab and nine (29%) were receiving mepolizumab. Asthma or 
+chronic spontaneous urticaria diagnosis, age, sex, smoking, weight, 
+comorbidities, atopy, and biological agent use were not statistically different 
+between patients with or without COVID-19. Nine COVID-19 patients were 
+hospitalized, and three of them required intensive care. Mepolizumab usage was 
+higher in hospitalized patients (5, 55.6%), whereas omalizumab usage was higher 
+in home-treated patients (18, 81%). The mean duration of biological use in 
+home-treated patients was significantly higher than that of the hospitalized 
+patients (35.64 months vs. 22.56 months, p= 0.024). Biological treatment was 
+interrupted in 47 (23%) patients, selfinterruption due to the infection risk was 
+the foremost reason (34%).
+CONCLUSIONS: The incidence of COVID-19 among patients with asthma and urticaria 
+on mepolizumab and omalizumab was higher compared to studies from other 
+countries. The disease course appeared mild in patients receiving long-term 
+biological therapy.
+
+DOI: 10.5578/tt.20229702
+PMID: 36164947 [Indexed for MEDLINE]
+
+
+2. Allergol Immunopathol (Madr). 2025 May 1;53(3):80-87. doi: 
+10.15586/aei.v53i3.1351. eCollection 2025.
+
+Can urticaria images found on the internet be a source of health information?
+
+Erkoç M(1), Durmaz MSB(2).
+
+Author information:
+(1)Division of Immunology and Allergy, Adana City Training and Research 
+Hospital, Adana, Turkey.
+(2)Division of Immunology and Allergy, Ankara Bilkent City Hospital, Ankara, 
+Turkey; dr.seda_bayrak@hotmail.com.
+
+BACKGROUND: In parallel with technological developments, patients increasingly 
+benefit from information and communication technologies.
+OBJECTIVE: The aim was to evaluate urticaria images that are available on the 
+internet in two different languages.
+MATERIALS AND METHODS: The terms "urticaria" and "ürtiker" were used as search 
+terms on Google Images. One hundred images were saved for each term, and each 
+image was opened via its link. Two specialists in immunology and allergy jointly 
+assessed the uploader information, pixel resolution, characteristics of the 
+urticarial lesions, and image quality of the photos.
+RESULTS: A total of 178 images were included, with 87 from the "urticaria" 
+search term and 91 from the "ürtiker" search term-71.3% images had isolated 
+urticaria, 1.7% had isolated angioedema, 0.6% had both urticaria and angioedema, 
+and 26.4% had neither urticaria nor angioedema; 131 photographs depicting 
+urticaria and/or angioedema were analyzed. The majority of urticarial plaques 
+were erythematous (84%), with extremities (32.1%) being the most commonly 
+affected area. Images in the preview on Google Images appeared more blurred and 
+of lower resolution than the images after opening the link (n:99 vs. n:26, p < 
+0.001 and n:55 vs. n:10, p < 0.001, respectively). The quality of the images was 
+found to be better after opening the link compared to the preview (n:34 vs. 
+n:107; p < 0.001).
+CONCLUSION: Our study found that approximately one-quarter of urticaria images 
+on Google Images did not match true urticarial lesions and were of suboptimal 
+quality in both Turkish and universally accessible English.
+
+DOI: 10.15586/aei.v53i3.1351
+PMID: 40342117 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest.
+
+
+3. Turk Tip Cemiy Mecm. 1970;36(10):360-8.
+
+[Classification of urticaria in Turkey on various bases].
+
+[Article in Turkish]
+
+Tekül N, Akkor A, Sevan S.
+
+PMID: 5524551 [Indexed for MEDLINE]
+
+
+4. Tip Tarihi Arastirmalari. 2000;6:11-85.
+
+[Dermatological diseases and treatment described in the Turkish manuscripts 
+(XIV-XVth centuries)].
+
+[Article in Turkish]
+
+Tokac M.
+
+This study deals with skin diseases described in the earliest compiled or 
+translated Turkish medical manuscripts of the 14th and 15th centuries in 
+Anatolia. The manuscripts studies are: Müntehab-i Sifa, Edviye-i Müfrede, 
+Tervihü'l-Ervah, Yadigâr, Cerrahiyyetü'l-Haniyye, Kamilü's-Sinaatü't-Tibbiye 
+Tercü-mesi, Kitab-i Müntehab-i fi't-Tibb, Haza'inü's-Sa'adat, Akrabadin 
+Tercümesi, Mücerrebname, Müfredât-Ibn-i Baytar Tercümesi, Tuhfe-i Mübarizi, 
+Tuhfe-i Muradi. The skin disease know at that time are studied under the 
+following topics: Cüderi (Ciçek, Variola, Small-pox); Hasbe (Kizamik, Rubeola, 
+Measles); Cüzzam (Lepra, Leprosy, Hansen's disease); Demregü (Temriye, 
+Dermatophtosis, Tinea coproris); Behak (There are two types: the white and the 
+black; the black is Addison's disease ); Baras (Ala, Vitilio); Nemle (Isirga, 
+Makül); Ateş paresi (Nar-i farisi, frunculosis); Cemre (Kara kabarcik, Sirpenşe, 
+Karbonkül, Carbuncle); Caversiye (Kabarcik hastaliği, blisters disease); 
+Sivilceler (Various types of pimples; Humre: Yilancik, Erizipel, Erysipelas, St. 
+Anthony's fire; Başbert: Ciban, Fronkül, Boil, Fruncle; Dümmel: Kan çibani, 
+Abse, Abscess); Abile (Kabarcik, Bule); Seretan (Kanser, Cancer); Hanaziz 
+(Siraca, Scrofuloderma); Akile (Yinürbaş, Gangren); Kurdeşen (Urtiker, 
+Urticeria); Uyuz (Gale, Scabies); Giciyik (Kaşinti, Prutitus); Sa'fe (Konak, 
+Seboreik dermatit, Scurf); Kel (Aloposi, Favus); Evram (Sişler, Urlar, Tumours); 
+Yara (Karha, Cerahat, Wound). The terminology and symptoms of these diseases are 
+studied and tired to find their equivalents of today. The causes and the 
+treatment of the skin diseases known then are presented.
+
+PMID: 15049324 [Indexed for MEDLINE]
+
+
+5. Yeni Tip Tarihi Arastirmalari. 2000;6:11-85.
+
+[Dermatological diseases and treatment described in the Turkish manuscripts 
+(XIV-XVth centuries) (part I)].
+
+[Article in Turkish]
+
+Tokaç M(1).
+
+Author information:
+(1)Istanbul Il Sağlik Müdürlüğü.
+
+This study deals with skin diseases described in the earliest compiled or 
+translated Turkish medical manuscripts of the 14th and 15th centuries in 
+Anatolia. The manuscripts studied are: Müntehab-i Sifa, Edviye-i Müfrede, 
+Tervihü'l-Ervah, Yadigâr, Cerrahiyyetü'l-Haniyye, Kamilü's-Sinaatü't-Tibbiye 
+Tercü-mesi, Kitab-i Müntehab-i fi't-Tibb, Haza'inü's-Sa'adat, Akrabadin 
+Tercümesi, Mücerrebname, Müfredât-i Ibn-i Baytar Tercümesi, Tuhfe-i Mübarizi, 
+Tuhfe-i Muradi. The skin diseases known at that time are studied under the 
+following topics: Cüderi (Ciçek, Variola, Small-pox); Hasbe (Kizamik, Rubeola, 
+Measles); Cüzzam (Lepra, Leprosy, Hansen's disease); Demregü (Temriye, 
+Dermatophtosis, Tinea corporis); Behak (There are two types: the white and the 
+black; the black is Addison's disease); Baras (Ala, Vitilio); Nemle (Isirga, 
+Makül); Ateş paresi (Nar-l farisi, frunculosis); Cemre (Kara kabarcik, Sirpençe, 
+Karbonkül, Carbuncle); Caversiye (Kabarcik hastaliği, blisters disease); 
+Sivilceler (Various types of pimples; Humre: Yilancik, Erizipel, Erysipelas, St. 
+Anthony's fire; Başbert: Ciban, Fronkül, Boil, Fruncle; Dümmel: Kan çibani, 
+Abse, Abscess); Abile (Kabarcik, Bule); Seretan (kanser, Cancer); Hanazir 
+(Siraca, Scrofuloderma); Akile (Yinürbaş, Gangren); Kurdeşen (Urtiker, 
+Urticeria); Uyuz (Gale, Scabies); Giciyik (Kaşinti, Pruritus); Sa'fe (Konak, 
+Seboreik dermatit, Scurf); Kel (Alopesi, Favus); Evram (Sişler, Urlar, Tumours); 
+Yara (Karha, Cerahat, Wound). The terminology and symptoms of these diseases are 
+studied and tried to find their equivalents of today. The causes and the 
+treatment of the skin diseases known then are presented.
+
+PMID: 14567379 [Indexed for MEDLINE]

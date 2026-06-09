@@ -1,0 +1,148 @@
+=== PubMed: otit ===
+1. J Infect Chemother. 2010 Feb;16(1):1-9. doi: 10.1007/s10156-009-0001-8.
+
+Experimental verification of the efficacy of optimized two-step infusion therapy 
+with meropenem using an in vitro pharmacodynamic model and Monte Carlo 
+simulation.
+
+Eguchi K(1), Kanazawa K, Shimizudani T, Kanemitsu K, Kaku M.
+
+Author information:
+(1)Pharmacology Research Laboratories, Dainippon Sumitomo Pharma Co., Ltd., 
+Konohana-ku, Osaka, Japan. ken-eguchi@ds-pharma.co.jp
+
+In this study we compared the efficacy of a theoretically optimized two-step 
+infusion therapy (OTIT; rapid first-step infusion and slow second-step infusion) 
+to the efficacies of prolonged infusion therapy (PIT) and traditional 0.5 h 
+infusion therapy (TIT) with meropenem against Pseudomonas aeruginosa using an in 
+vitro pharmacodynamic model and a Monte Carlo simulation. In the in vitro 
+pharmacodynamic model, the bactericidal effect against P. aeruginosa was 
+evaluated for 8 h, which is the usual dosing interval of meropenem. It was 
+confirmed that the durability of the bactericidal effect of OTIT (0.25-1 g/0.5 h 
++ 0.25-1 g/4 h t.i.d.) was almost equal to that of PIT and superior to that of 
+TIT (0.5-2 g/0.5-4 h t.i.d.). In addition, the initial bactericidal effects of 
+OTIT were superior to those of the prolonged 4 h infusion. In the Monte Carlo 
+simulation study, the probability of target attainments (PTAs) of all dosing 
+regimens of OTIT at MICs of 2-8 μg/ml were apparently superior to those of TIT 
+and 4- and 6 h-PIT, when the target therapeutic condition for serious 
+life-threatening infections was the achievement of both the percentage of the 
+dosing interval at which the drug concentration exceeds the MIC (%T(>MIC)) ≥ 50% 
+and the peak level divided by the MIC (Cmax/MIC) ≥ 4. Especially, the PTAs of 
+the dosing regimens of 0.25-1 g/0.5 h + 0.25-1 g/4-6 h were excellent at MICs of 
+2-8 μg/ml. Against recent clinical isolates of P. aeruginosa in Japan, the 
+dosing regimens of OTIT provided higher PTAs compared with those of TIT and 4- 
+and 6 h-PIT. These results suggested that OTIT with sufficient pharmacokinetic 
+conditions could be useful for enhancing the therapeutic efficacy of meropenem 
+against serious life-threatening infections.
+
+DOI: 10.1007/s10156-009-0001-8
+PMID: 20072800 [Indexed for MEDLINE]
+
+
+2. Vestn Otorinolaringol. 2023;88(6):38-41. doi: 10.17116/otorino20238806138.
+
+[Acute purulent otitis media in children].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Mileshina NA(1)(2), Kurbatova EV(1), Osipenkov SS(1), Dobryakova MM(2).
+
+Author information:
+(1)Research Institute of Otorhinolaryngology, Moscow, Russia.
+(2)Russian Medical Academy of Continuous Professionel Education, Moscow, Russia.
+
+OBJECTIVE: Improving the effectiveness of inpatient care for children with acute 
+purulent otitis media.
+MATERIAL AND METHODS: 100 children at the age from 0 to 18 years were inspected 
+from January to August 2021. The main diagnostic methods included otoscopy, 
+pharyngoscopy, rhinoscopy. Bacteriological examination of the pus from the ear 
+was done for all patients.
+RESULTS: Acute purulent otitis media is a common cause of hospitalization in 
+children aged 0 to 3 years. The main causative agents of the disease in toddlers 
+are Staphylococcus aureus and pneumococcus (38%), in preschoolers and primary 
+school children - pyogenic streptococcus and pneumococcus (30%), in high school 
+students - Staphylococcus aureus.
+
+Publisher: ЦЕЛЬ ИССЛЕДОВАНИЯ: Повысить эффективность оказания стационарной 
+медицинской помощи детям с острым гнойным средним отитом (ОГСО).
+МАТЕРИАЛ И МЕТОДЫ: Обследованы 100 детей в возрасте 0—18 лет с диагнозом «острый 
+гнойный средний отит», получивших лечение в клинике ФГБУ» НМИЦО ФМБА России» на 
+базе оториноларингологического отделения ГБУЗ города Москвы «Детская городская 
+клиническая больница Святого Владимира Департамента здравоохранения города 
+Москвы» в период с января по август 2021 г. Проанализированы жалобы пациентов и 
+их родителей, данные анамнеза, результаты отоскопии, риноскопии, фарингоскопии, 
+бактериологического исследования отделяемого из уха с определением 
+чувствительности к антибактериальным препаратам, эффективность лечения, 
+осложнения.
+РЕЗУЛЬТАТЫ: Наиболее часто в стационарном лечении ОГСО нуждаются дети грудного и 
+ясельного возраста. У больных дошкольного возраста возбудителем ОГСО был 
+преимущественно стрептококк, у детей школьного возраста — стафилококк. 
+Чувствительность микрофлоры к широко применяемым антибиотикам во всех возрастных 
+группах была сохранена.
+ЗАКЛЮЧЕНИЕ: Лечение детей дошкольного возраста можно начинать с незащищенных 
+ампициллинов (стрептококки не вырабатывают бета-лактамазу), детям старших 
+возрастных групп целесообразно назначать цефалоспорины 3-го поколения.
+
+DOI: 10.17116/otorino20238806138
+PMID: 38153891 [Indexed for MEDLINE]
+
+
+3. Nord Med. 1977 Sep;92(8-9):199.
+
+[Follow-up of otitis].
+
+[Article in Swedish]
+
+Renvall U.
+
+PMID: 905103 [Indexed for MEDLINE]
+
+
+4. Arq Bras Cardiol. 2005 Jun;84(6):449-51. doi: 10.1590/s0066-782x2005000600003.
+ Epub 2005 Jun 28.
+
+[Analysis of the intra-hospital attending of ventricular fibrilation/ventricular 
+taquicardia simulated events].
+
+[Article in Portuguese]
+
+Moretti MA(1), Bento AM, Quilici AP, Martins M, Cardoso LF, Timerman S.
+
+Author information:
+(1)Instituto do Coração do Hospital das Clínicas, FMUSP, São Paulo, Brazil. 
+moretti@cardiol.br
+
+OBJECTIVE: To analyze the time intervals between the beginning of the 
+Ventricular Fibrilation/Ventricular Taquicardia (VF/VT) and the main procedures 
+made.
+METHODS: Twenty VF/VT simulations were performed and filmed in a hospital 
+environment, using a static mannequin, on random days at random times. All teams 
+had the same level of skills. The times (in sec.) related to basic life support 
+(BLS) - arrival of the team (AT), confirmation of the arrest (CAT), beginning of 
+the CPR (IT) and the times related to the advanced life support (ALS) - 1st 
+defibrillation (DT), 1st dose of adrenalin (AT) and orotracheal intubation 
+(OTIT). The variables were analyzed and compared in two groups: intensive care 
+unit (ICU) and wards with telemetry (TLW).
+RESULTS: The results in both groups was in that order (GW x ICU ) - AT 
+(70.2+38.7 x 38.6+49.2); CCA (89.4+57.1 x 71+63.9); SC (166.8+81.1 x 142+66.2); 
+FD (282.5+142.8 x 108.4+52.5); FE (401.4+161.7 x 263.3+122.8) e OI (470.3+150.6 
+x 278.8+98.8). Shows the comparison of the average times between the two groups.
+CONCLUSION: The differences noted in relation to DT, AT and OTIT favorable to 
+ICU are associated to the facility of performance of the ALS maneuvers in such 
+environment. The BLS-related times were similar in both groups, which reinforce 
+the need for the use of semi-automatic defibrillators, even in a hospital 
+environment.
+
+DOI: 10.1590/s0066-782x2005000600003
+PMID: 16007308 [Indexed for MEDLINE]
+
+
+5. Vestn Otorinolaringol. 1970 Jan-Feb;32(1):100-13.
+
+[Exudative otitis media].
+
+[Article in Russian]
+
+Preobrazhenskiĭ NA, Riman IB.
+
+PMID: 4913551 [Indexed for MEDLINE]

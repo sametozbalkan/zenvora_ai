@@ -1,0 +1,162 @@
+=== PubMed: irritable bowel syndrome ===
+1. Med Clin (Barc). 2022 Jan 21;158(2):76-81. doi: 10.1016/j.medcli.2021.04.029. 
+Epub 2021 Jul 6.
+
+Irritable bowel syndrome.
+
+[Article in English, Spanish]
+
+Sebastián Domingo JJ(1).
+
+Author information:
+(1)Servicio de Aparato Digestivo, Hospital Royo Villanova, Zaragoza, España. 
+Electronic address: jjsebastian@salud.aragon.es.
+
+Irritable bowel syndrome is one of the most common functional bowel disorders, 
+and has a substantial impact on patients' daily lives, as well as a big economic 
+impact on society. It is characterised by abdominal pain, bloating and abdominal 
+distention and altered bowel movements, with a predominance of diarrhoea, 
+constipation, or alternation of these signs, which cannot be explained by a 
+structural or biochemical abnormality. Its aetiopathogenesis and 
+pathophysiological mechanism are unknown. The disease affects 5%-10% of healthy 
+individuals at any given time and, in most people, has a relapsing-remitting 
+course. This article reviews some of the main and most current evidence on its 
+epidemiology, risk factors, pathophysiology, clinical manifestations, diagnostic 
+approach, and therapeutic options, both dietary, pharmacological and 
+psychotherapeutic.
+
+Copyright © 2021 Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.medcli.2021.04.029
+PMID: 34238582 [Indexed for MEDLINE]
+
+
+2. Lancet Gastroenterol Hepatol. 2016 Oct;1(2):133-146. doi: 
+10.1016/S2468-1253(16)30023-1. Epub 2016 Sep 8.
+
+Pathophysiology of irritable bowel syndrome.
+
+Holtmann GJ(1), Ford AC(2), Talley NJ(3).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Princess Alexandra Hospital 
+Brisbane, and Translational Research Institute, University of Queensland, 
+Brisbane, QLD, Australia.
+(2)Leeds Gastroenterology Institute, St James's University Hospital, Leeds, UK; 
+Leeds Institute of Biomedical and Clinical Sciences, University of Leeds, Leeds, 
+UK.
+(3)Faculty of Health and Medicine, University of Newcastle, NSW, Australia; 
+Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, USA. 
+Electronic address: nicholas.talley@newcastle.edu.au.
+
+Traditionally, irritable bowel syndrome has been considered to be a disorder 
+with no known underlying structural or biochemical explanation, but this concept 
+is likely to be outdated. In this Review we challenge the widely accepted view 
+that irritable bowel syndrome is an unexplained brain-gut disorder. There is 
+epidemiological evidence that, in a major subset of patients, gastrointestinal 
+symptoms arise first and only later do incident mood disorders occur. 
+Additionally, possible mechanisms for gut-brain dysfunction have been 
+identified, suggesting primary gut disturbances might be the underlying cause in 
+a subgroup. Underlying mechanisms that could lead to irritable bowel syndrome 
+include genetic factors (most notably an identified mutation of SCN5A); 
+post-infectious changes, chronic infections and disturbances in the intestinal 
+microbiota; low-grade mucosal inflammation, immune activation, and altered 
+intestinal permeability; disordered bile salt metabolism (in 10-20% of cases 
+with diarrhoea); abnormalities in serotonin metabolism; and alterations in brain 
+function, which could be primary or secondary factors. Identical irritable bowel 
+syndrome symptoms are probably due to different disease processes; grouping 
+patients with this disorder into either diarrhoea-predominant or 
+constipation-predominant subtypes promotes heterogeneity. An approach based on 
+the underlying pathophysiology could help to develop therapies that target 
+causes and ultimately provide a cure for patients with irritable bowel syndrome.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2468-1253(16)30023-1
+PMID: 28404070 [Indexed for MEDLINE]
+
+
+3. Ann Intern Med. 2025 Aug;178(8):ITC113-ITC128. doi: 10.7326/ANNALS-25-01965. 
+Epub 2025 Aug 12.
+
+Irritable Bowel Syndrome.
+
+Greer KB(1), Sultan S(2).
+
+Author information:
+(1)Case Western Reserve University and Cleveland Veterans Affairs Medical 
+Center, Cleveland, Ohio (K.B.G.).
+(2)University of Minnesota and Minneapolis Veterans Affairs Medical Center, 
+Minneapolis, Minnesota (S.S.).
+
+Irritable bowel syndrome (IBS) is a common gastrointestinal disorder, with a 
+prevalence of 4% to 10%. It is a chronic condition characterized by abdominal 
+pain in conjunction with altered bowel habits, abdominal distention, or 
+bloating. IBS can present with 3 different defecation patterns: IBS with 
+constipation, IBS with diarrhea, or mixed IBS. Recent advances in IBS include a 
+positive diagnosis based on symptom-based criteria and a treatment plan based on 
+IBS subtype and bothersome symptoms. In addition to diet and lifestyle 
+modifications, this article discusses the role of new pharmacologic and 
+nonpharmacologic treatment options for the management of IBS.
+
+DOI: 10.7326/ANNALS-25-01965
+PMID: 40789179 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: All relevant financial 
+relationships have been mitigated. Disclosure forms are available with the 
+article online.
+
+
+4. N Engl J Med. 2017 Jun 29;376(26):2566-2578. doi: 10.1056/NEJMra1607547.
+
+Irritable Bowel Syndrome.
+
+Ford AC(1), Lacy BE(1), Talley NJ(1).
+
+Author information:
+(1)From the Leeds Institute of Biomedical and Clinical Sciences, University of 
+Leeds, and the Leeds Gastroenterology Institute, St. James's University 
+Hospital, Leeds, United Kingdom (A.C.F.); the Section of Gastroenterology and 
+Hepatology, Dartmouth-Hitchcock Medical Center, Lebanon, NH (B.E.L.); the 
+Faculty of Health and Medicine, University of Newcastle, Newcastle, NSW, 
+Australia (N.J.T.); the Division of Gastroenterology and Hepatology, Mayo 
+Clinic, Rochester, MN (N.J.T.); and Karolinska Institute, Stockholm (N.J.T.).
+
+DOI: 10.1056/NEJMra1607547
+PMID: 28657875 [Indexed for MEDLINE]
+
+
+5. World J Gastroenterol. 2014 Oct 21;20(39):14126-31. doi: 
+10.3748/wjg.v20.i39.14126.
+
+Impact of psychological stress on irritable bowel syndrome.
+
+Qin HY(1), Cheng CW(1), Tang XD(1), Bian ZX(1).
+
+Author information:
+(1)Hong-Yan Qin, Department of Pharmacy, First Hospital of Lanzhou University, 
+Lanzhou 730000, China.
+
+Psychological stress is an important factor for the development of irritable 
+bowel syndrome (IBS). More and more clinical and experimental evidence showed 
+that IBS is a combination of irritable bowel and irritable brain. In the present 
+review we discuss the potential role of psychological stress in the pathogenesis 
+of IBS and provide comprehensive approaches in clinical treatment. Evidence from 
+clinical and experimental studies showed that psychological stresses have marked 
+impact on intestinal sensitivity, motility, secretion and permeability, and the 
+underlying mechanism has a close correlation with mucosal immune activation, 
+alterations in central nervous system, peripheral neurons and gastrointestinal 
+microbiota. Stress-induced alterations in neuro-endocrine-immune pathways acts 
+on the gut-brain axis and microbiota-gut-brain axis, and cause symptom flare-ups 
+or exaggeration in IBS. IBS is a stress-sensitive disorder, therefore, the 
+treatment of IBS should focus on managing stress and stress-induced responses. 
+Now, non-pharmacological approaches and pharmacological strategies that target 
+on stress-related alterations, such as antidepressants, antipsychotics, 
+miscellaneous agents, 5-HT synthesis inhibitors, selective 5-HT reuptake 
+inhibitors, and specific 5-HT receptor antagonists or agonists have shown a 
+critical role in IBS management. A integrative approach for IBS management is a 
+necessary.
+
+DOI: 10.3748/wjg.v20.i39.14126
+PMCID: PMC4202343
+PMID: 25339801 [Indexed for MEDLINE]

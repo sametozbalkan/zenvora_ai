@@ -1,0 +1,212 @@
+=== PubMed: migren ===
+1. Zh Nevrol Psikhiatr Im S S Korsakova. 2022;122(5):78-83. doi: 
+10.17116/jnevro202212205178.
+
+[Vestibular migraine].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Illarionova EM(1), Gribova NP(1).
+
+Author information:
+(1)Smolensk State Medical University, Smolensk, Russia.
+
+OBJECTIVE: To study the clinical features and the possibility of objectification 
+of vestibular dysfunction in patients with vestibular migraine.
+MATERIAL AND METHODS: The study included 46 patients (10 men and 36 women) aged 
+18 to 50 years, with vestibular migraine and control groups. A targeted 
+collection of complaints was carried out with an assessment of vestibular 
+symptoms; a detailed history; a study of neurological status, with an emphasis 
+on the study of oculomotor reactions, vestibular tests. Functional computer 
+stabilometric tests were used to objectify vestibular dysfunction.
+RESULTS: Clinical features, as well as features of stabilometric parameters in 
+patients with vestibular migraine have been identified, which can be used to 
+obtain a quantitative assessment of vestibular dysfunction and objectification 
+of vertigo in this category of patients.
+CONCLUSION: A purposeful and complete collection of complaints and anamnesis 
+detailing the features of the symptoms in patients with vestibular migraine 
+helps to identify the clinical polymorphism of the pathology in question and 
+contributes to the correct diagnosis. And the use of functional stabilometric 
+tests contributes to the objectification of vestibular dysfunction in this 
+category of patients, quantifying the distinctive features of the balance system 
+in vestibular migraine.
+
+Publisher: ЦЕЛЬ ИССЛЕДОВАНИЯ: Изучение клинических особенностей и возможности 
+объективизации вестибулярной дисфункции у пациентов с вестибулярной мигренью.
+МАТЕРИАЛ И МЕТОДЫ: В исследование были включены 46 пациентов (10 мужчин и 36 
+женщин в возрасте от 18 до 50 лет)с вестибулярной мигренью и группы контроля (с 
+простой мигренью). Проводился целенаправленный сбор жалоб с оценкой 
+вестибулярных пароксизмов; детализация анамнеза; исследование неврологического 
+статуса, с акцентом на исследование глазодвигательных реакций, вестибулярных 
+проб. Для объективизации вестибулярной дисфункции использовалась функциональная 
+компьютерная стабилометрия.
+РЕЗУЛЬТАТЫ: Выявлены клинические особенности, а также особенности 
+стабилометрических параметров у пациентов с вестибулярной мигренью, которые 
+можно использовать для получения количественной оценки вестибулярной дисфункции 
+и объективизации головокружения у данной категории пациентов.
+ЗАКЛЮЧЕНИЕ: Целенаправленный и полный сбор жалоб и анамнеза с детализацией 
+особенностей приступов у пациентов с вестибулярной мигренью помогает выявить 
+клинический полиморфизм рассматриваемой патологии и способствует точной 
+постановке диагноза. При этом использование функциональных стабилометрических 
+тестов способствует объективизации вестибулярной дисфункции у данной категории 
+пациентов, количественно определяя важные отличия системы баланса при 
+вестибулярной мигрени.
+
+DOI: 10.17116/jnevro202212205178
+PMID: 35611904 [Indexed for MEDLINE]
+
+
+2. Zh Nevrol Psikhiatr Im S S Korsakova. 2017;117(11):146-152. doi: 
+10.17116/jnevro2017117111146-152.
+
+[Migraine and sleep].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Evdokimova EM(1), Shagbazyan AE(1), Tabeeva GR(1).
+
+Author information:
+(1)Sechenov First Moscow State Medical University, Moscow, Russia.
+
+This review discusses the epidemiological, clinical and pathophysiological 
+aspects of the comorbidity of migraine and various forms of sleep disorders, the 
+role of disturbances in the sleep and wake cycle in the processes of 
+transformation of headaches, and possible strategies for modifying therapeutic 
+approaches in this comorbidity.
+
+Publisher: В обзоре обсуждаются эпидемиологические, клинические и 
+патофизиологические аспекты коморбидности мигрени и разных форм расстройств сна, 
+роль нарушений цикла сна и бодрствования в процессах трансформации головных 
+болей, а также возможные стратегии модификации терапевтических подходов в 
+условиях этой коморбидности.
+
+DOI: 10.17116/jnevro2017117111146-152
+PMID: 29265101 [Indexed for MEDLINE]
+
+
+3. Orv Hetil. 2021 Mar 30;162(14):542-554. doi: 10.1556/650.2021.32056.
+
+[Health utility measurement by time trade-off method in Hungary].
+
+[Article in Hungarian]
+
+Balázs PG(1)(2), Brodszky V(1), Rencz F(1)(3).
+
+Author information:
+(1)1 Budapesti Corvinus Egyetem, Egészségügyi Közgazdaságtan Tanszék, Budapest, 
+Fővám tér 8., 1093.
+(2)2 Budapesti Corvinus Egyetem, Gazdálkodástani Doktori Iskola, Budapest.
+(3)3 Magyar Tudományos Akadémia, Prémium Posztdoktori Kutatói Program, Budapest.
+
+Összefoglaló. Bevezetés: Az időalku (time trade-off) egy nemzetközileg széles 
+körben alkalmazott életminőség- és egészséghasznosság-mérési módszer. Az 
+időalkuval mért hasznosságértékek az egészségügyi technológiák 
+költséghatékonysági vizsgálatakor az életminőséggel korrigált életév 
+(quality-adjusted life year, QALY) mutatószám számítására használhatók. Kevés 
+ismerettel rendelkezünk arról, hogy Magyarországon milyen betegségekben állnak 
+rendelkezésre időalkuval mért hasznosságértékek. Célkitűzés: Célunk 
+szisztematikus irodalmi áttekintés keretében összefoglalni és katalogizálni az 
+időalku módszerrel mért hasznosságértékeket közlő publikációkat Magyarországon. 
+Módszer: 2020 januárjában szisztematikus folyóirat-keresést végeztünk a PubMed, 
+Web of Science és Matarka elektronikus adatbázisokban. Beválogatási 
+kritériumaink a következők voltak: (1) eredeti közlemények, melyek (2) időalku 
+módszerrel mértek hasznosságértéket, és (3) magyarországi mintán mért adatokat 
+közöltek. Eredmények: 9 eredeti közleményt válogattunk be, amelyek összesen 7 
+krónikus betegségben (Crohn-betegség, időskori maculadegeneratio, krónikus 
+migrén, pemphigus, psoriasis, primer dysmenorrhoea és rheumatoid arthritis) 23 
+egészségi állapot hasznosságát határozták meg. A kutatások mintanagysága 108 és 
+1996 fő között alakult. Két kutatás betegcsoportokat vizsgált, kettő az 
+általános populációt, és három vizsgálatban szerepelt mindkettő. Hat kutatás 
+használta a hagyományos időalku valamelyik formáját, egy pedig az összetett 
+időalku módszert. Egy kutatásban szerepelt 'rosszabb a halálnál' 
+válaszlehetőség. A leggyakrabban alkalmazott időtáv a standard 10 év volt (71%). 
+Az egyes állapotok hasznosságának átlaga 0,34 (kezeletlen pemphigus vulgaris) és 
+0,94 (enyhe primer dysmenorrhoea) között változott. A 'non-traderek' aránya az 
+egyes kutatásokban 0 és 29% között változott. Következtetések: Egyre több 
+krónikus betegségben elérhetők a magyar társadalom vagy betegek preferenciáin 
+alapuló egészséghasznosság-értékek. A hazai időalku-vizsgálatok többsége 
+megfelel a nemzetközi minőségi követelményeknek. Az időalku módszer alkalmazása 
+javasolt más krónikus állapotokban is, a felmért hasznosságértékek segíthetik az 
+egészségügyi technológiákkal kapcsolatos finanszírozói döntéshozatalt. Orv 
+Hetil. 2021; 162(14): 542-554.
+INTRODUCTION: Time trade-off (TTO) is a widely used method to assess 
+health-related quality of life and health utilities for economic evaluations of 
+health technologies. Little is known about the use of TTO in the Hungarian 
+context.
+OBJECTIVE: To systematically summarize the existing literature on the method in 
+Hungary.
+METHOD: In January 2020, we conducted a systematic literature search in three 
+electronic databases (MEDLINE, Web of Science and the Hungarian Periodicals 
+Table of Contents Database). Our inclusion criteria were: (1) original 
+publications, which (2) measured utilities by using TTO, (3) from a Hungarian 
+sample.
+RESULTS: Nine publications containing seven original studies were included that 
+reported utilities for 23 different health states in seven chronic diseases 
+(age-related macular degeneration, chronic migraine, Crohn's disease, pemphigus, 
+primary dysmenorrhoea, psoriasis and rheumatoid arthritis). Sample sizes ranged 
+from 108 to 1996 respondents. Two studies used general population samples, 
+another two used patient groups and three studies used both. Six studies used a 
+form of conventional TTO and one used composite TTO method. The most frequent 
+timeframe was 10 years (71%). The lowest mean utility was 0.34 (uncontrolled 
+pemphigus vulgaris), while the highest was 0.94 (mild primary dysmenorrhoea). 
+The overall proportion of non-traders ranged between 0 and 29% across studies.
+CONCLUSIONS: A growing number of studies are using TTO to assess utilities for 
+chronic conditions from the general population or patients in Hungary. The 
+majority of Hungarian TTO studies have met international quality standards. The 
+assessment of TTO utilities is recommended also in other chronic conditions to 
+assist health technology assessment. Orv Hetil. 2021; 162(14): 542-554.
+
+DOI: 10.1556/650.2021.32056
+PMID: 33784247 [Indexed for MEDLINE]
+
+
+4. Zh Nevrol Psikhiatr Im S S Korsakova. 1994;94(6):83-6.
+
+[Migraine and stroke].
+
+[Article in Russian]
+
+Burtsev EM.
+
+PMID: 7740887 [Indexed for MEDLINE]
+
+
+5. Zh Nevrol Psikhiatr Im S S Korsakova. 2021;121(7):114-117. doi: 
+10.17116/jnevro2021121071114.
+
+[Familial hemiplegic migraine].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Starikova NL(1), Kulesh AA(1).
+
+Author information:
+(1)Vagner Perm State Medical University, Perm, Russia.
+
+Hemiplegic migraine (HM) is a rare subtype of migraine with aura which 
+prevalence is about 0.01%. The characteristic features include motor symptoms 
+(hemiparesis) along with the signs of migraine with typical aura (visual, 
+sensory and/or speech disturbances). The diagnosis of familial hemiplegic 
+migraine (FHM) is established when at least 1 or more relatives of the 1st or 
+2nd degree in the family have the attacks of HM. This report describes a family 
+in which two members (father and daughter) develop attacks of severe headache 
+with nausea and, sometimes, vomiting, accompanied by visual disturbances, speech 
+impairment, followed by unilateral numbness and weakness of extremities. The 
+diagnosis of FHM was established. The report includes the review of literature 
+and the discussion of some aspects of differential diagnosis.
+
+Publisher: Гемиплегическая мигрень — редкий вариант мигрени с аурой, 
+распространенность которого оценивается в 0,01%. Клиническая картина включает 
+двигательные расстройства (гемипарез) наряду с симптомами мигрени с типичной 
+аурой (зрительные, чувствительные и/или речевые нарушения). Диагноз семейной 
+гемиплегической мигрени устанавливается в том случае, если, по крайней мере, 
+один и более родственников пациента 1-й или 2-й степени родства также страдают 
+гемиплегической мигренью. В этом сообщении мы описываем семью, 2 члена которой 
+(отец и дочь) страдают повторными приступами сильной головной боли с тошнотой и 
+иногда рвотой, сопровождающимися нарушением зрения, речевыми расстройствами, 
+односторонним онемением и слабостью конечностей. Установлен диагноз семейной 
+гемиплегической мигрени. Статья содержит обзор литературы и обсуждение некоторых 
+аспектов дифференциального диагноза.
+
+DOI: 10.17116/jnevro2021121071114
+PMID: 34460166 [Indexed for MEDLINE]

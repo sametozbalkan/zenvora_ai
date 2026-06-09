@@ -1,0 +1,181 @@
+=== PubMed: spironolactone drug interactions potassium ace inhibitor ===
+1. J Investig Med. 2008 Apr;56(4):714-9. doi: 10.2310/JIM.0b013e31816d78e9.
+
+Effects of additive therapy with spironolactone on proteinuria in diabetic 
+patients already on ACE inhibitor or ARB therapy: results of a randomized, 
+placebo-controlled, double-blind, crossover trial.
+
+Saklayen MG(1), Gyebi LK, Tasosa J, Yap J.
+
+Author information:
+(1)VA Medical Center, Dayton, OH 45428, USA. mohammad.saklayen@va.gov
+
+INTRODUCTION: Aldosterone seems to have deleterious effects on the kidneys. Many 
+animal studies and a few clinical trials have shown that suppression of 
+aldosteroneby aldosterone receptor blockers ameliorates these effects.
+METHOD: In a double-blind crossover study, patients with diabetic nephropathy 
+who were already receiving either angiotensin converting enzyme inhibitor (ACEI) 
+or angiotensin receptor blocker (ARB) were given spironolactone or matching 
+placebo with 1 month of washout in between. Blood pressure (BP), serum 
+creatinine, serum potassium, and spot urine protein/creatinine were measured at 
+the beginning and end of each study period.
+RESULTS: Mean systolic BP on spironolactone went down from 153.64 (+/-25.95) at 
+the beginning to 141.60 (+/-16.54) at the end of study (P = 0.01). Diastolic BP 
+during spironolactone therapy did not change significantly. The urine 
+protein/creatinine increased from 1.24 (+/-1.13) to 1.57 (+/-2.13) on placebo (P 
+= 0.35) and decreased from 1.80 (+/-1.78) to 0.79 (+/-0.99) during 
+spironolactone therapy (P = 0.004). In other words proteinuria increased by 24% 
+during the placebo treatment period but decreased by half (57%) during the 
+active treatment. Serum potassium increased from 4.29 (+/-0.47) to 4.64 
+(+/-0.55) during spironolactone therapy (P = 0.002), no significant change with 
+placebo. Whereas serum creatinine did not change on placebo, it increased from 
+1.35 (+/-0.54) to 1.56 (+/-0.62) on spironolactone (P = 0.006). Glomerular 
+filtration rate decreased from 61.91 (+/-23.4) to 53.94 (+/-23.58) on 
+spironolactone (P = 0.0001) but not on placebo.
+CONCLUSIONS: Addition of a modest dose of spironolactone to a regimen of ACEI or 
+ARB in patients with diabetic proteinuria causes further reduction in 
+proteinuria and also lowers the systolic BP. As with ACEI or ARB, spironolactone 
+modestly reduces the glomerular filtration rate and raises serum potassium.
+
+DOI: 10.2310/JIM.0b013e31816d78e9
+PMID: 18382267 [Indexed for MEDLINE]
+
+
+2. Curr Drug Saf. 2020;15(3):190-197. doi: 10.2174/1574886315666200621184913.
+
+A Prospective Analysis of Potential and Observed Drug-Drug Interactions, Adverse 
+Events and its Associated Risk Factors in Hospitalized Cardiology Patients in 
+Benin.
+
+Allabi ACE(1), Tchabi Y(2), Hounkponou M(2), Quenum R(1), Vehounkpe-Sacca J(2).
+
+Author information:
+(1)Pharmacology Department, Faculty of Health Sciences, University of Abomey- 
+Calavi, 01 BP 188Cotonou, Benin.
+(2)Cardiology Department of Teaching Hospital CNHU-HKM, Faculty of Health 
+Sciences, University of Abomey- Calavi, 01 BP 188 Cotonou, Benin.
+
+BACKGROUND & AIMS: The objective is to ascertain the pattern of potential 
+drug-drug interactions (pDDIs) and record any observed DDIs and adverse events 
+(AEs) in hospitalized Beninese cardiology patients from Sub-Saharan Africa and 
+analyze all risk factors associated with DDIs and AEs.
+METHODS: It was a prospective study in which data including AEs were assessed 
+from medical files and interview of patients and their relatives. Patients who 
+were treated with more than two drugs and who remained in the hospital for at 
+least 48 hours were included. A computerized database system Pharma IAM- VIDAL 
+version 2011 was used to identify the pattern for potential DDIs.
+RESULTS: 156 patients were included in this study. The prevalence of potential 
+DDIs was estimated at 93 % (145/156). Forty (5.1%) among 804 potential DDIs 
+identified were observed clinically. The observed DDIs were attributable to low 
+blood pressure (27.5%), hyponatremia (22.5%), hemorrhage (20.0%), hyperkalemia 
+(17.5%) and nephrotoxicity (7.5%). The combination of spironolactone and 
+furosemide resulted in hyponatremia while the combination of enoxaparin and 
+potassium resulted in hyperkalemia. ACE inhibitor (or ARAII) in combination with 
+furosemide resulted in the nephrotoxicity cases observed. Enoxaparin, Acetyl 
+salicylic acid, Acenocoumarol and Clopidogrel were decreasingly involved in the 
+pairs of drugs responsible for observed hemorrhages. 29 patients out of 156 
+(18.6%) had at least one AE. AEs were mainly (34.2%) of metabolic type. Severe 
+AEs, which represented 18.4% was mostly from nephrotoxicity and metabolic 
+disorders. More than 14 active substances multiplied the risk factor for AEs 
+occurrence by 42, while more than 14 days hospitalization increased this risk by 
+42.
+CONCLUSION: This study highlights the need to optimize treatments by strictly 
+regulating blood pressure, serum sodium and potassium levels, coagulation 
+parameters and looking for clinical signs of hemorrhage. Physician should be 
+aware of certain drug associations that may carry a risk of severe adverse 
+events.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1574886315666200621184913
+PMID: 32564759 [Indexed for MEDLINE]
+
+
+3. J Pediatr Pharmacol Ther. 2026 Feb;31(1):83-87. doi: 10.5863/JPPT-25-00009.
+Epub  2026 Feb 9.
+
+Concomitant Enalapril and Spironolactone-Induced Hyperkalemia in a Pediatric 
+Patient.
+
+Rogado SM(1), Pinto JM(1)(2), Hernandez LC(1)(3), Chin S(1), Siu A(1)(4).
+
+Author information:
+(1)K. Hovnanian Children's Hospital at Jersey Shore University Medical Center 
+(SMR, JMP, LCH, SC, AS), Neptune, NJ.
+(2)Hackensack Meridian School of Medicine (JMP), Nutley, NJ.
+(3)New York University Grossman School of Medicine (LCH), New York, NY.
+(4)Ernest Mario School of Pharmacy at Rutgers University (AS), Piscataway, NJ.
+
+Spironolactone is a mineralocorticoid receptor antagonist with potassium-sparing 
+effects used in the management of heart failure to minimize morbidity and 
+mortality. It is typically given in combination with an angiotensin-converting 
+enzyme inhibitor (ACEI) as part of standard management of pediatric heart 
+failure but has limited literature regarding safety and efficacy in this 
+population. We report a case of probable concomitant enalapril and 
+spironolactone-induced hyperkalemia in a 2-month old female. The patient 
+presented with Class III congestive heart failure and was initiated on enalapril 
+and spironolactone. New hyperkalemia (serum potassium concentration 8.9 mEq/L) 
+developed on day 7 after initiation and persisted despite decreases in the 
+spironolactone dose. Persistent hyperkalemia and hyponatremia with a metabolic 
+acidosis led to the discontinuation of spironolactone by day 12 of admission. 
+The hyperkalemia resolved within 72 hours of discontinuation without further 
+interventions. Based on our patient's course, hyperkalemia in a pediatric 
+patient may occur when spironolactone and an ACEI are given concomitantly and 
+resolve upon discontinuation of spironolactone.
+
+Copyright. Pediatric Pharmacy Association. All rights reserved. For permissions, 
+email: membership@pediatricpharmacy.org.
+
+DOI: 10.5863/JPPT-25-00009
+PMCID: PMC12889005
+PMID: 41675470
+
+
+4. Eur J Heart Fail. 2015 Feb;17(2):159-68. doi: 10.1002/ejhf.210. Epub 2014 Dec 
+30.
+
+Impact of worsening renal function related to medication in heart failure.
+
+Brunner-La Rocca HP(1), Knackstedt C, Eurlings L, Rolny V, Krause F, Pfisterer 
+ME, Tobler D, Rickenbacher P, Maeder MT; TIME‐CHF investigators.
+
+Author information:
+(1)Cardiovascular Research Institute Maastricht (CARIM), Maastricht University 
+Medical Centre (MUMC+), Maastricht, The Netherlands; Division of Cardiology, 
+University Hospital Basel, Switzerland.
+
+AIMS: Renal failure is a major challenge in treating heart failure (HF) 
+patients. HF medication may deteriorate renal function, but the impact thereof 
+on outcome is unknown. We investigated the effects of HF medication on worsening 
+renal function (WRF) and the relationship to outcome.
+METHODS AND RESULTS: This post-hoc analysis of TIME-CHF (NT-proBNP-guided vs. 
+symptom-guided management in chronic HF) included patients with LVEF ≤45% and ≥1 
+follow-up visit (n = 462). WRF III was defined as a rise in serum creatinine 
+≥0.5 mg/dL (i.e. 44.2 µmol/L) at any time during the first 6 months. Four 
+classes of medication were considered: loop diuretics, beta-blockers, 
+renin-angiotensin system (RAS)-blockers, and spironolactone. Functional 
+principal component analysis of daily doses was used to comprehend medication 
+over time. All-cause mortality after 18 months was the primary outcome. 
+Interactions between WRF, medication, and outcome were tested. Patients with WRF 
+III received on average higher loop diuretic doses (P = 0.0002) and more 
+spironolactone (P = 0.02), whereas beta-blockers (P = 0.69) did not differ and 
+lower doses of RAS-blockers were given (P = 0.09). There were significant 
+interactions between WRF III, medicationn and outcome. Thus, WRF III was 
+associated with poor prognosis if high loop diuretic doses were given (P = 
+0.001), but not with low doses (P = 0.29). The opposite was found for 
+spironolactone (poor prognosis in the case of WRF III with no spironolactone, P 
+<0.0001; but not with spironolactone, P = 0.31). Beta-blockers were protective 
+in all patients (P <0.001), but most in those with WRF III (P <0.05 for 
+interaction). RAS-blockade was associated with improved outcome (P = 0.006), 
+irrespective of WRF III.
+CONCLUSION: Based on this analysis, it may be hypothesized that high doses of 
+loop diuretics might have detrimental effects, particularly in combination with 
+significant WRF, whereas spironolactone and beta-blockers might be protective in 
+patients with WRF.
+
+© 2014 The Authors. European Journal of Heart Failure © 2014 European Society of 
+Cardiology.
+
+DOI: 10.1002/ejhf.210
+PMID: 25808849 [Indexed for MEDLINE]

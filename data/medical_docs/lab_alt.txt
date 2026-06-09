@@ -1,0 +1,137 @@
+=== PubMed: ALT AST liver enzymes high causes treatment ===
+1. Biomolecules. 2026 Apr 10;16(4):567. doi: 10.3390/biom16040567.
+
+Antioxidant Properties of Novel Lipophilic Fluoroquinolone Compounds Against 
+Oxidative Stress Induced by Acetaminophen and Carbon Tetrachloride in Male 
+Wistar Rats.
+
+Alwahsh M(1), Shawaqfeh B(1), Alejel R(1), Hasan A(1), Yousef D(1), Saqallah 
+FG(1), Al-Kouz S(1), Alassi A(1), Swaiss Y(1), Al-Hiari Y(2), Al-Qirim T(1).
+
+Author information:
+(1)Department of Pharmacy, Faculty of Pharmacy, Al-Zaytoonah University of 
+Jordan, Amman 11733, Jordan.
+(2)Department of Pharmaceutical Sciences, Faculty of Pharmacy, The University of 
+Jordan, Amman 11942, Jordan.
+
+Oxidative stress is characterised by the production of free radicals in higher 
+amounts than the antioxidant scavenging capacity. This may cause damage to 
+several organs especially the main site of detoxification, the liver. In this 
+study, the antioxidant activity of five novel lipophilic fluoroquinolones (FQs) 
+derivatives was evaluated against oxidative stress induced by acetaminophen 
+(APAP) and carbon tetrachloride (CCl4). Sixty-four male Wistar rats were divided 
+into two oxidative-stress models. FQ compounds (25 mg/kg) were administered six 
+hours after CCl4 or APAP administration. Serum liver enzymes including aspartate 
+aminotransferase (AST) and alanine aminotransferase (ALT) were measured. Changes 
+in antioxidant parameters were determined in the serum including measurement of 
+total antioxidant status and reduced-glutathione levels as well as catalase, 
+glutathione peroxidase and superoxide dismutase activities. Additionally, 
+molecular docking analyses were performed against catalase, CYP3A4, and Keap-1 
+to elucidate the potential molecular interactions underlying the observed 
+biological activities. A significant decrease in ALT and AST levels was seen 
+following FQ compound administration in both models. In addition, FQ compounds 
+exhibited excellent antioxidant activity, leading to increased antioxidant 
+enzyme activity, high total antioxidant status, and elevated reduced-glutathione 
+levels. The docking results revealed that compound 4A exhibited the highest 
+binding affinities toward catalase, CYP3A4, and Keap-1. These interactions 
+suggest a possible enhancement of catalase activity, modulation of CYP3A4, and 
+activation of the Keap-1/Nrf2 signalling pathway. Overall, these findings 
+demonstrate the promising therapeutic potential on hepatic injury and oxidative 
+stress of the novel FQ derivatives.
+
+DOI: 10.3390/biom16040567
+PMCID: PMC13114021
+PMID: 42072688 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+2. F1000Res. 2026 Mar 31;15:136. doi: 10.12688/f1000research.174090.2.
+eCollection  2026.
+
+Effect of anti-obesity drug orlistat (Xenical™) on liver and kidney function in 
+male rats fed a high-fat diet.
+
+Alkadhimy SM(1), Neamah AM(2), Al-Hamadani MYI(3), Jarad AS(4), I Yousef M(5).
+
+Author information:
+(1)Department of Biology, College of Science, University of Karbala, Karbala, 
+Iraq.
+(2)Department of Environment, College of Science, University of Al-Qadisiyah, 
+Al-Qadisiyah, Iraq.
+(3)Department of Biology, College of Education, University of Fallujah, 
+Al-Fallujah, Iraq.
+(4)Department of Pathology and Poultry Disease, College of Veterinary Medicine, 
+University of Fallujah, Al-Fallujah, Iraq.
+(5)Department of Environmental Studies,Institute of Graduate Studies and 
+Research, Alexandria University,163 Horeya Avenue, Chatby 21526, P.O. Box 
+832,Alexandria, Egypt.
+
+BACKGROUND: HFDs have adverse effects on metabolic health, which puts 
+individuals at risk of obesity and liver and kidney dysfunction. Orlistat is an 
+antihypertensive agent against obesity that prevents the absorption of dietary 
+fats, although its impact on hepatic and renal functions is still disputed. In 
+this study, the dose-dependent effects of orlistat on liver and renal 
+functioning were in male rats on an HFD were assessed.
+METHODS: There was a control HFD group and three HFD groups with orlistat (360, 
+480 and 600 mg/kg) on male rats over 60 days. Lipid profiles, liver enzymes 
+(AST, ALT, GGT, ALP), kidney (urea, creatinine, direct and indirect bilirubin), 
+and hematological (hemoglobin, hematocrit, RBC, WBC counts, MCV, MCH, MCHC) 
+serum tests were done. Histopathological analysis of liver and kidney tissues 
+was done.
+FINDINGS: Orlistat caused dose-related changes in lipid profiles, increased 
+liver enzymes, and an increased mark of kidney functioning. The hematological 
+parameters were also greatly impaired, and the histopathology indicated 
+structural and tissue damage in both of the organs, more so at higher doses.
+CONCLUSIONS: Orlistat was used in HFD-conditions in male rats, which resulted in 
+severe dose-related impairment of the liver and kidney. These results highlight 
+the importance of close observation of hepatic and renal functions when using 
+orlistat especially in the high-fat dietary situation.
+
+Copyright: © 2026 Alkadhimy SM et al.
+
+DOI: 10.12688/f1000research.174090.2
+PMCID: PMC13126012
+PMID: 42063983 [Indexed for MEDLINE]
+
+Conflict of interest statement: No competing interests were disclosed.
+
+
+3. Korean J Gastroenterol. 2026 Apr 25;86(2):122-127. doi: 10.4166/kjg.2025.104.
+
+Macro-Aspartate Aminotransferase Elevation in a Patient with Chronic Hepatitis 
+B.
+
+Heo NY(1), Kim JH(1), Park S(1), Choi JH(1), Kim TO(1), Lee J(1), Park YE(1), 
+Jun KR(2).
+
+Author information:
+(1)Department of Internal Medicine, Inje University College of Medicine, Inje 
+University Haundae Paik Hospital, Busan, Korea.
+(2)Department of Laboratory Medicine, Inje University College of Medicine, Inje 
+University Haundae Paik Hospital, Busan, Korea.
+
+Although aspartate aminotransferase (AST) is a serum marker of hepatocellular 
+damage in chronic hepatitis, it is difficult to interpret very high AST levels 
+with concurrent low alanine aminotransferase (ALT) levels. Macro-AST is an 
+immunoglobulin-AST complex that can present as aberrant high enzymatic activity 
+without significant inflammation in the liver. Two patients with chronic 
+hepatitis B presented with disproportionate AST elevations. Their plasma samples 
+were precipitated with polyethylene glycol (PEG) and stored at 4°C for macro-AST 
+determinations. In Case 1, PEG precipitation showed 100% removal of AST 
+activity, and refrigerated storage resulted in a ~70% decline over seven days, 
+confirming macro-AST. In Case 2, both tests showed minimal changes, suggesting 
+that macro-AST was unlikely. The AST levels normalized after antiviral therapy, 
+suggesting immune-active hepatitis as the probable cause, but the other 
+contributing factors could not be completely excluded. The abrupt decrease in 
+AST activity after PEG precipitation and during refrigeration storage suggests 
+that relatively high AST values compared to ALT might be attributed to the 
+presence of macro-AST. These non-invasive methods for detecting macroenzymes 
+might help the patient avoid unnecessary further work-ups.
+
+DOI: 10.4166/kjg.2025.104
+PMCID: PMC13111937
+PMID: 42026963 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest None.

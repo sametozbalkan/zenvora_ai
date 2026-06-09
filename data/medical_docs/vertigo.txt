@@ -1,0 +1,169 @@
+=== PubMed: vertigo ===
+1. Rinsho Shinkeigaku. 2021 May 19;61(5):279-287. doi: 
+10.5692/clinicalneurol.cn-001570. Epub 2021 Apr 17.
+
+[Vertigo and dizziness].
+
+[Article in Japanese]
+
+Johkura K(1).
+
+Author information:
+(1)Department of Neurology, Yokohama Brain and Spine Center.
+
+Pathophysiology of vertigo/dizziness can be understood by eye deviation 
+(nystagmus). In benign paroxysmal positional vertigo, eye deviation of causative 
+semicircular canal stimulation is directly observed. In other peripheral 
+vestibular disorders, eye deviation results from the sum of unilateral all 
+semicircular canal disorders. The central vestibular pathway is controlled by 
+the cerebellum. Thus, in vertigo/dizziness of central origin, not only eye 
+deviation due to impairment of the central vestibular pathway but also deviation 
+due to disinhibition of the pathway from the cerebellum is observed. The 
+cerebellar control on the central vestibular pathway also plays an important 
+role in vestibular compensation. When treating vertigo/dizziness, it is 
+necessary to understand the pathophysiology of the vertigo/dizziness, to set the 
+treatment target based on the pathophysiology, and to intervene for the target.
+
+DOI: 10.5692/clinicalneurol.cn-001570
+PMID: 33867417 [Indexed for MEDLINE]
+
+
+2. Handb Clin Neurol. 2023;198:229-240. doi: 10.1016/B978-0-12-823356-6.00004-4.
+
+Benign paroxysmal vertigo of childhood.
+
+Gurberg J(1), Tomczak KK(2), Brodsky JR(3).
+
+Author information:
+(1)Department of Otolaryngology, Montreal Children's Hospital, Montreal, QC, 
+Canada; Faculty of Medicine and Health Sciences, McGill University, Montreal, 
+QC, Canada.
+(2)Department of Neurology, Boston Children's Hospital, Boston, MA, United 
+States; Department of Neurology, Harvard Medical School, Boston, MA, United 
+States.
+(3)Department of Otolaryngology, Harvard Medical School, Boston, MA, United 
+States; Department of Otolaryngology and Communication Enhancement, Boston 
+Children's Hospital, Boston, MA, United States. Electronic address: 
+jacob.brodsky@childrens.harvard.edu.
+
+Benign paroxysmal vertigo of childhood (or recurrent vertigo of childhood) is 
+the most common cause of vertigo in young children. It is considered a pediatric 
+migraine variant or precursor disorder, and children with the condition have an 
+increased likelihood of developing migraine later in life than the general 
+population. Episodes are typically associated with room-spinning vertigo in 
+conjunction with other migrainous symptoms (e.g. pallor, nausea, etc.), but it 
+is rarely associated with headaches. Episodes typically only last for a few 
+minutes and occur with a frequency of days to weeks without interictal symptoms 
+or exam/test abnormalities. Treatment is rarely necessary, but migraine therapy 
+may be beneficial in cases where episodes are particularly severe, frequent, 
+and/or prolonged. An appreciation of the typical presentation and 
+characteristics of this common condition is essential to any provider 
+responsible for the care of children with migraine disorders and/or dizziness. 
+This chapter will review the current literature on this condition, including its 
+proposed pathophysiology, clinical presentation, and management. This chapter 
+also includes a brief introduction to pediatric vestibular disorders, including 
+relevant anatomy, physiology, embryology/development, history-taking, physical 
+examination, testing, and a review of other common causes of pediatric 
+dizziness/vertigo.
+
+Copyright © 2023 Elsevier B.V. All rights reserved, including those for text and 
+data mining, AI training, and similar technologies.
+
+DOI: 10.1016/B978-0-12-823356-6.00004-4
+PMID: 38043965 [Indexed for MEDLINE]
+
+
+3. Pain Physician. 2015 Jul-Aug;18(4):E583-95.
+
+Pathogenesis, Diagnosis, and Treatment of Cervical Vertigo.
+
+Li Y, Peng B(1).
+
+Author information:
+(1)Postgraduate Training Base of General Hospital of Armed Police Force of 
+Liaoning Medical University, Beijing; Department of Spinal Surgery, General 
+Hospital of Armed Police Force, Beijing 100039, China.
+
+Cervical vertigo is characterized by vertigo from the cervical spine. However, 
+whether cervical vertigo is an independent entity still remains controversial. 
+In this narrative review, we outline the basic science and clinical evidence for 
+cervical vertigo according to the current literature. So far, there are 4 
+different hypotheses explaining the vertigo of a cervical origin, including 
+proprioceptive cervical vertigo, Barré-Lieou syndrome, rotational vertebral 
+artery vertigo, and migraine-associated cervicogenic vertigo. Proprioceptive 
+cervical vertigo and rotational vertebral artery vertigo have survived with 
+time. Barré-Lieou syndrome once was discredited, but it has been resurrected 
+recently by increased scientific evidence. Diagnosis depends mostly on patients' 
+subjective feelings, lacking positive signs, specific laboratory examinations 
+and clinical trials, and often relies on limited clinical experiences of 
+clinicians. Neurological, vestibular, and psychosomatic disorders must first be 
+excluded before the dizziness and unsteadiness in cervical pain syndromes can be 
+attributed to a cervical origin. Treatment for cervical vertigo is challenging. 
+Manual therapy is recommended for treatment of proprioceptive cervical vertigo. 
+Anterior cervical surgery and percutaneous laser disc decompression are 
+effective for the cervical spondylosis patients accompanied with Barré-Liéou 
+syndrome. As to rotational vertebral artery vertigo, a rare entity, when the 
+exact area of the arterial compression is identified through appropriate tests 
+such as magnetic resonance angiography (MRA), computed tomography angiography 
+(CTA) or digital subtraction angiography (DSA) decompressive surgery should be 
+the chosen treatment.
+
+PMID: 26218949 [Indexed for MEDLINE]
+
+
+4. Lancet. 1998 Dec 5;352(9143):1841-6. doi: 10.1016/S0140-6736(98)05430-0.
+
+Vertigo.
+
+Baloh RW(1).
+
+Author information:
+(1)Department of Neurology, UCLA School of Medicine, Los Angeles, CA 90095-1769, 
+USA. rwbaloh@ucla.edu
+
+Comment in
+    Lancet. 1999 Feb 13;353(9152):591. doi: 10.1016/S0140-6736(05)75649-X.
+
+Vertigo is a subtype of dizziness, which results from an imbalance within the 
+vestibular system. This seminar focuses on three common presentations of 
+vertigo: prolonged spontaneous vertigo, recurrent attacks of vertigo, and 
+positional vertigo. The patient's history is usually the key to differentiation 
+of peripheral and central causes of vertigo. The most common cause of vertigo, 
+benign paroxysmal positional vertigo, can be cured with a simple positional 
+manoeuvre. Other common causes of vertigo include vestibular neuritis, Ménière's 
+syndrome, migraine, and vertebrobasilar insufficiency. Treatment should be 
+directed at the underlying cause whenever possible, but antivertiginous and 
+antiemetic drugs can suppress symptoms when a specific cause cannot be found. 
+These drugs are generally not indicated for long-term daily use, however, since 
+they may interfere with the normal compensation process.
+
+DOI: 10.1016/S0140-6736(98)05430-0
+PMID: 9851400 [Indexed for MEDLINE]
+
+
+5. Otolaryngol Clin North Am. 2021 Oct;54(5):913-924. doi: 
+10.1016/j.otc.2021.05.012. Epub 2021 Jul 20.
+
+Positional Vertigo.
+
+Yellin I(1), Svrakic M(2).
+
+Author information:
+(1)Department of Otolaryngology, Zucker School of Medicine at Hofstra/Northwell, 
+430 Lakeville Road, New Hyde Park, NY 10040, USA. Electronic address: 
+iyellin@northwell.edu.
+(2)Department of Otolaryngology, Zucker School of Medicine at Hofstra/Northwell, 
+430 Lakeville Road, New Hyde Park, NY 10040, USA.
+
+Positional vertigo is a complex symptom that may arise from several disorders. 
+In this chapter, we define positional vertigo and provide a comprehensive review 
+of the disorders in the differential diagnosis, including benign paroxysmal 
+positional vertigo, central paroxysmal positional vertigo, cervical vertigo and 
+vertebrobasilar insufficiency, and persistent postural perceptual dizziness.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2021.05.012
+PMID: 34294440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure None.

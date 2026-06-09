@@ -1,0 +1,243 @@
+=== PubMed: Parkinson ===
+1. Am J Med. 2019 Jul;132(7):802-807. doi: 10.1016/j.amjmed.2019.03.001. Epub
+2019  Mar 16.
+
+Parkinson's Disease and Parkinsonism.
+
+Hayes MT(1).
+
+Author information:
+(1)Department of Neurology, Brigham and Women's Hospital, Harvard Medical 
+School, Boston, Mass. Electronic address: mthayes@bwh.harvard.edu.
+
+Parkinson's disease is a progressive neurodegenerative disease characterized by 
+tremor and bradykinesia and is a common neurologic ailment. Male sex and 
+advancing age are independent risk factors and, as the population ages, is 
+taking an increasing toll on productivity and medical resources. There are a 
+number of other extrapyramidal conditions that can make the diagnosis 
+challenging. Unlike other neurodegenerative diseases, idiopathic Parkinson's 
+disease has effective treatments that mitigate symptoms. Medications can improve 
+day-to-day function and, in cases where medication does not give a sustained 
+benefit or has significant side effects, treatments like deep brain stimulation 
+result in improved quality of life.
+
+Copyright © 2019. Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjmed.2019.03.001
+PMID: 30890425 [Indexed for MEDLINE]
+
+
+2. Genes (Basel). 2022 Mar 7;13(3):471. doi: 10.3390/genes13030471.
+
+Monogenic Parkinson's Disease: Genotype, Phenotype, Pathophysiology, and Genetic 
+Testing.
+
+Jia F(1)(2), Fellner A(3)(4)(5), Kumar KR(1)(2)(3)(6).
+
+Author information:
+(1)Department of Neurology, Concord Repatriation General Hospital, Concord, NSW 
+2139, Australia.
+(2)Sydney Medical School, University of Sydney, Camperdown, NSW 2050, Australia.
+(3)Garvan Institute of Medical Research, Darlinghurst, NSW 2010, Australia.
+(4)Raphael Recanati Genetics Institute, Rabin Medical Center, Beilinson 
+Hospital, Petah Tikva 4941492, Israel.
+(5)Department of Neurology, Rabin Medical Center, Beilinson Hospital, Petah 
+Tikva 4941492, Israel.
+(6)Molecular Medicine Laboratory, Concord Repatriation General Hospital, 
+Concord, NSW 2139, Australia.
+
+Parkinson's disease may be caused by a single pathogenic variant (monogenic) in 
+5-10% of cases, but investigation of these disorders provides valuable 
+pathophysiological insights. In this review, we discuss each genetic form with a 
+focus on genotype, phenotype, pathophysiology, and the geographic and ethnic 
+distribution. Well-established Parkinson's disease genes include autosomal 
+dominant forms (SNCA, LRRK2, and VPS35) and autosomal recessive forms (PRKN, 
+PINK1 and DJ1). Furthermore, mutations in the GBA gene are a key risk factor for 
+Parkinson's disease, and there have been major developments for X-linked 
+dystonia parkinsonism. Moreover, atypical or complex parkinsonism may be due to 
+mutations in genes such as ATP13A2, DCTN1, DNAJC6, FBXO7, PLA2G6, and SYNJ1. 
+Furthermore, numerous genes have recently been implicated in Parkinson's 
+disease, such as CHCHD2, LRP10, TMEM230, UQCRC1, and VPS13C. Additionally, we 
+discuss the role of heterozygous mutations in autosomal recessive genes, the 
+effect of having mutations in two Parkinson's disease genes, the outcome of deep 
+brain stimulation, and the role of genetic testing. We highlight that monogenic 
+Parkinson's disease is influenced by ethnicity and geographical differences, 
+reinforcing the need for global efforts to pool large numbers of patients and 
+identify novel candidate genes.
+
+DOI: 10.3390/genes13030471
+PMCID: PMC8950888
+PMID: 35328025 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Rofo. 2021 Dec;193(12):1403-1410. doi: 10.1055/a-1460-8795. Epub 2021 May 25.
+
+MRI Signs of Parkinson's Disease and Atypical Parkinsonism.
+
+[Article in English, German; Abstract available in German from the publisher]
+
+Aludin S(1), Schmill LA(1).
+
+Author information:
+(1)Clinic for Radiology and Neuroradiology, University Hospital 
+Schleswig-Holstein - Campus Kiel, Germany.
+
+BACKGROUND:  Diagnosis of Parkinson's disease and atypical parkinsonism is based 
+on clinical evaluation of the patient's symptoms and on magnetic resonance 
+imaging (MRI) of the brain, which can be supplemented by nuclear medicine 
+techniques. MRI plays a leading role in the differentiation between Parkinson's 
+disease and atypical parkinsonism. While atypical parkinsonism is characterized 
+by relatively specific MRI signs, imaging of Parkinson's disease previously 
+lacked such signs. However, high-field MRI and new optimized MRI sequences now 
+make it possible to define specific MRI signs of Parkinson's disease and have 
+significant potential regarding differentiated imaging, early diagnosis, and 
+imaging of disease progression.
+METHODS:  PubMed was selectively searched for literature regarding the 
+definition and discussion of specific MRI signs of Parkinson's disease, as well 
+as the most common types of atypical parkinsonism with a leading motor 
+component. No time frame was set, but the search was particularly focused on 
+current literature.
+RESULTS:  This review article discusses the different MRI signs of Parkinson's 
+disease, multiple system atrophy, and progressive supranuclear palsy. The 
+pathogenesis of the MRI signs is described, and imaging examples are given. The 
+technical aspects of image acquisition are briefly defined, and the different 
+signs are discussed and compared with regard to their diagnostic significance 
+according to current literature.
+CONCLUSION:  The MRI signs of Parkinson's disease, which can be defined with 
+high-field MRI and new optimized MRI sequences, enable differentiated structural 
+image interpretation and consecutive diagnostic workup. Despite the fact that 
+the signs are in need of further validation by bigger studies, they have the 
+potential to achieve significant diagnostic relevance regarding the imaging of 
+Parkinson's disease and atypical parkinsonism.
+KEY POINTS:   · High-field MRI and specialized sequences make it possible to 
+define specific MRI signs for neurodegenerative disorders. · Cerebral 
+alterations can be detected in prodromal stages of Parkinson's disease. · The 
+combination of specific MRI signs makes it possible to differentiate between 
+Parkinson's disease and atypical parkinsonism.
+CITATION FORMAT: · Aludin S, Schmill LA. MRI Signs of Parkinson's Disease and 
+Atypical Parkinsonism. Fortschr Röntgenstr 2021; 193: 1403 - 1410.
+
+Publisher: HINTERGRUND:  Die Diagnostik des idiopathischen Parkinson-Syndroms 
+und der atypischen Parkinson-Syndrome basiert auf der klinischen Einschätzung 
+der Patientensymptomatik und der gezielten Bildgebung mittels 
+Magnetresonanztomografie, welche noch durch nuklearmedizinische Verfahren 
+ergänzt werden kann. Die Bildgebung dient hierbei der Aufgabe der 
+Differenzierung der verschiedenen Erkrankungen. Während atypische 
+Parkinson-Syndrome recht spezifische MR-Zeichen aufweisen, ist das idiopathische 
+Parkinson-Syndrom bildmorphologisch bisher eher als unspezifisch zu werten. Hohe 
+Feldstärken und optimierte MR-Sequenzen ermöglichen jedoch neuerdings die 
+Definition von spezifischen MR-Zeichen, welche Potenzial in der 
+differenzierteren Bildgebung, der Frühdiagnostik und der Verlaufsdiagnostik des 
+idiopathischen Parkinson-Syndroms hegen.
+METHODE:  Es erfolgte eine gezielte PubMed-Recherche mit Fokus auf Arbeiten zur 
+Definition und Erörterung spezifischer MR-Zeichen des idiopathischen 
+Parkinson-Syndroms sowie der häufigsten atypischen Parkinson-Syndrome mit 
+führender motorischer Komponente. Es erfolgte keine Zeitraumbegrenzung bei 
+besonderem Augenmerk auf aktuelle Literatur.
+ERGEBNISSE:  Der vorliegende Übersichtsartikel erörtert die verschiedenen neuen 
+MR-Zeichen des idiopathischen Parkinson-Syndroms sowie die bekannten Zeichen der 
+Multisystematrophie und der progressiven supranukleären Blickparese. Die den 
+Zeichen zugrunde liegende Pathologie wird jeweils definiert sowie 
+bildmorphologische Beispiele gegeben. Es werden die technischen Aspekte der 
+Untersuchungen kurz erörtert und die Zeichen anhand aktueller Literatur 
+hinsichtlich der diagnostischen Wertigkeit zueinander verglichen.
+SCHLUSSFOLGERUNG:  Die bei hohen Feldstärken und optimierten Sequenzen 
+definierbaren MR-Zeichen des idiopathischen Parkinson-Syndroms ermöglichen eine 
+differenziertere strukturelle Befundung und konsekutive Diagnostik. Die Zeichen 
+müssen in größeren Studien weiter validiert werden, können jedoch künftig eine 
+entscheidende diagnostische Relevanz in der Bildgebung der Erkrankungen aus dem 
+Parkinson-Formenkreis bieten.
+KERNAUSSAGEN:   · Hohe Feldstärken und spezielle Sequenzen ermöglichen die 
+Definition spezifischer MRT-Zeichen neurodegenerativer Erkrankungen.. · 
+Zerebrale Veränderungen lassen sich bereits in Prodromalphasen des 
+idiopathischen Parkinson-Syndroms detektieren.. · Kombinationen spezifischer 
+MRT-Zeichen ermöglichen eine Differenzierung eines idiopathischen 
+Parkinson-Syndroms von atypischen Parkinson-Syndromen.. · Schlüsselwörter: 
+idiopathisches Parkinson-Syndrom, atypische Parkinson-Syndrome, 
+Magnetresonanztomografie.
+ZITIERWEISE: · Aludin S, Schmill LA. MRI Signs of Parkinson’s Disease and 
+Atypical Parkinsonism. Fortschr Röntgenstr 2021; 193: 1403 – 1410.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-1460-8795
+PMID: 34034347 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+4. J Neural Transm (Vienna). 2022 Sep;129(9):1235-1245. doi: 
+10.1007/s00702-022-02509-1. Epub 2022 May 23.
+
+Life style and Parkinson's disease.
+
+Reichmann H(1), Csoti I(2), Koschel J(3), Lorenzl S(4), Schrader C(5), Winkler 
+J(6), Wüllner U(7).
+
+Author information:
+(1)Department of Neurology, University Hospital Dresden, Fetscherstrasse 74, 
+01307, Dresden, Germany. Heinz.Reichmann@ukdd.de.
+(2)Fachklinik für Parkinson, Gertrudis Klinik Biskirchen, 
+Karl-Ferdinand-Broll-Straße 2-4, 35638, Leun-Biskirchen, Germany.
+(3)Parkinson-Klinik, Ortenau GmbH &amp; Co. KG, Kreuzbergstraße 12-16, 77709, 
+Wolfach, Germany.
+(4)Neurologie und Palliative Care, Krankenhaus Agatharied, Norbert-Kerkel-Platz, 
+83734, Hausham, Germany.
+(5)Neurologische Klinik mit Klinischer Neurophysiologie OE 7210, 
+Carl-Neuberg-Str. 1, 30625, Hannover, Germany.
+(6)Zentrum für Bewegungserkrankungen, Molekulare Neurologie, 
+Universitätsklinikum Erlangen, Schwabachanlage 6, 91054, Erlangen, Germany.
+(7)Department of Neurology, University Clinic Bonn and German Center for 
+Neurodegenerative Diseases (DZNE), 53127, Bonn, Germany.
+
+The question whether life style may impair the advent or course of the disease 
+in patients with Parkinsonism is of great importance for patients and physicians 
+alike. We present here comprehensive information on the influence of the 
+environment, diet (especially caffeine, nicotine, alcohol, chocolate and dairy 
+products), physical activity and sleep on risk and course of Parkinson's 
+disease.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00702-022-02509-1
+PMCID: PMC9463300
+PMID: 35606622 [Indexed for MEDLINE]
+
+
+5. Neuron. 2015 Jan 21;85(2):257-73. doi: 10.1016/j.neuron.2014.12.007.
+
+The roles of PINK1, parkin, and mitochondrial fidelity in Parkinson's disease.
+
+Pickrell AM(1), Youle RJ(2).
+
+Author information:
+(1)Biochemistry Section, Surgical Neurology Branch, National Institute of 
+Neurological Disorders and Stroke (NINDS), NIH, Bethesda, MD 20892, USA.
+(2)Biochemistry Section, Surgical Neurology Branch, National Institute of 
+Neurological Disorders and Stroke (NINDS), NIH, Bethesda, MD 20892, USA. 
+Electronic address: youler@ninds.nih.gov.
+
+Understanding the function of genes mutated in hereditary forms of Parkinson's 
+disease yields insight into disease etiology and reveals new pathways in cell 
+biology. Although mutations or variants in many genes increase the 
+susceptibility to Parkinson's disease, only a handful of monogenic causes of 
+parkinsonism have been identified. Biochemical and genetic studies reveal that 
+the products of two genes that are mutated in autosomal recessive parkinsonism, 
+PINK1 and Parkin, normally work together in the same pathway to govern 
+mitochondrial quality control, bolstering previous evidence that mitochondrial 
+damage is involved in Parkinson's disease. PINK1 accumulates on the outer 
+membrane of damaged mitochondria, activates Parkin's E3 ubiquitin ligase 
+activity, and recruits Parkin to the dysfunctional mitochondrion. Then, Parkin 
+ubiquitinates outer mitochondrial membrane proteins to trigger selective 
+autophagy. This review covers the normal functions that PINK1 and Parkin play 
+within cells, their molecular mechanisms of action, and the pathophysiological 
+consequences of their loss.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2014.12.007
+PMCID: PMC4764997
+PMID: 25611507 [Indexed for MEDLINE]

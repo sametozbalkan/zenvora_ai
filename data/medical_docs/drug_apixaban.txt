@@ -1,0 +1,33 @@
+İLAÇ: Apixaban (Eliquis)
+SINIF: Oral antikoagülan, faktör Xa inhibitörü
+
+ENDİKASYONLAR:
+- Atriyal fibrilasyonda inme profilaksisi
+- DVT ve pulmoner emboli tedavisi ve profilaksisi
+- Ortopedik cerrahi sonrası tromboz profilaksisi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Warfarin, enoksaparin, heparin: Çakışan etki, ciddi kanama riski
+- Aspirin, klopidogrel: Kanama riskini artırır
+- NSAİD'ler (ibuprofen, naproksen): Kanama riski artar
+- Güçlü CYP3A4 inhibitörleri (klaritromisin, ketokonazol, ritonavir): Apixaban düzeyi artar, kanama riski
+- Güçlü CYP3A4 indükleyicileri (rifampisin, fenitoin, karbamazepin, St. John's wort): Apixaban etkinliği azalır, tromboz riski
+- SSRİ/SNRİ: Kanama riskini artırır
+- P-glikoprotein inhibitörleri (verapamil, amiodaron): Apixaban konsantrasyonu artar
+
+UYARILAR:
+- Antidotu sugammadeks değil, andeksanet alfa kullanılır
+- Böbrek ve karaciğer fonksiyonları izlenmeli
+- Elektif cerrahi öncesi 24-48 saat önce kesilmeli
+- Aniden bırakılmamalı (tromboz riski)
+- 80 yaş üstü, <60 kg, kreatinin >1.5 mg/dL: Doz azaltılır
+
+KONTRENDİKASYONLAR:
+- Aktif patolojik kanama
+- Ciddi karaciğer yetmezliği
+- Mekanik kalp kapağı
+
+YAN ETKİLER:
+- Kanama (en önemli)
+- Anemi, hematom
+- Bulantı, mide rahatsızlığı

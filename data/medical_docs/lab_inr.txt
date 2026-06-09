@@ -1,0 +1,205 @@
+=== PubMed: INR prothrombin time high low causes treatment ===
+1. J Infect Chemother. 2026 Mar;32(3):102926. doi: 10.1016/j.jiac.2026.102926.
+Epub  2026 Feb 9.
+
+Use of recombinant human thrombomodulin in a pediatric case of 
+COVID-19-associated coagulopathy: A case report.
+
+Ochi F(1), Nagai K(2), Ukita S(2), Yoshida A(2), Kawabe M(2), Moritani T(2), 
+Nakano N(2), Yamamoto E(2), Tauchi H(3).
+
+Author information:
+(1)Department of Pediatrics, Ehime Prefectural Central Hospital, Matsuyama, 
+Japan. Electronic address: fmochi2000@yahoo.co.jp.
+(2)Department of Pediatrics, Ehime Prefectural Central Hospital, Matsuyama, 
+Japan.
+(3)Department of Infection Control and Prevention, Ehime University Graduate 
+School of Medicine, Toon, Japan.
+
+Coronavirus disease 2019 (COVID-19)-associated coagulopathy (CAC) is a known 
+extrapulmonary complication of severe acute respiratory syndrome coronavirus 2 
+infection, primarily studied in adults. As a result, pediatric data are limited, 
+and management strategies remain under investigation. Recombinant human soluble 
+thrombomodulin (rh-TM), an anticoagulant with anti-inflammatory and 
+antifibrinolytic properties, has shown promise in sepsis-induced coagulopathy; 
+however, it has not been widely studied in children with CAC. A previously 
+healthy 5-year-old girl presented with severe CAC secondary to COVID-19. She 
+initially presented with persistent fever, gastrointestinal and respiratory 
+symptoms, and gingival bleeding. Laboratory evaluation revealed significant 
+coagulopathy characterized by high D-dimer (≥110.3 μg/mL), fibrinogen/fibrin 
+degradation products (328.6 μg/mL), thrombin-antithrombin complex (≥120 ng/mL), 
+and plasmin-α2 plasmin inhibitor complex (7.7 μg/mL), along with 
+thrombocytopenia and prolonged prothrombin time and international normalized 
+ratio and activated partial thromboplastin time. Imaging showed ground-glass 
+opacities on chest computed tomography (CT) and increased 18F-fluorodeoxyglucose 
+uptake in positron emission tomography-CT. A multidisciplinary treatment regimen 
+was initiated, including intravenous immunoglobulin, remdesivir, rh-TM, 
+corticosteroids, low-dose aspirin, and budesonide inhalation. Levels of 
+coagulation markers gradually normalized, and the patient's clinical symptoms 
+resolved without further complications. She was discharged on day 29 of illness 
+and remained relapse-free after 1 year of follow-up. This case highlights the 
+potential utility of rh-TM as part of a tailored multimodal treatment strategy 
+for pediatric CAC. Early recognition and individualized, stage-specific therapy 
+may contribute to favorable outcomes. However, further studies are warranted to 
+evaluate the safety and efficacy of rh-TM in children with CAC.
+
+Copyright © 2026 Japanese Society of Chemotherapy, Japanese Association for 
+Infectious Diseases, and Japanese Society for Infection Prevention and Control. 
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jiac.2026.102926
+PMID: 41672372 [Indexed for MEDLINE]
+
+
+2. Cureus. 2025 Dec 13;17(12):e99159. doi: 10.7759/cureus.99159. eCollection 2025
+ Dec.
+
+A Case Report of Severe Bromadiolone Poisoning: Blood Toxicology Levels and 
+Correlation to Clinical Toxicity.
+
+Kong MCP(1), Tan EMJ(2), Ponampalam R(3), Yao YJ(4).
+
+Author information:
+(1)Emergency Medicine, Sengkang General Hospital, Singapore, SGP.
+(2)Emergency Department, Singapore General Hospital, Singapore, SGP.
+(3)Accident and Emergency/Clinical Toxicology Department, Singapore General 
+Hospital, Singapore, SGP.
+(4)Toxicology, Health Science Authority, Singapore, SGP.
+
+Bromadiolone is a long-acting anticoagulant rodenticide ("superwarfarin") that 
+can cause severe, prolonged coagulopathy. Its occurrence in Singapore is rare, 
+with limited reported cases. We report a toxic cluster involving three household 
+members with confirmed bromadiolone poisoning. The index patient, a 49-year-old 
+woman, presented with abdominal pain, hematuria, and hemoperitoneum secondary to 
+a ruptured corpus luteal cyst. Laboratory tests revealed profound coagulopathy 
+(prothrombin time (PT) >180 s, international normalized ratio (INR) 
+unmeasurable) with warfarin-like factor deficiencies. Serum bromadiolone level 
+was 150 ng/mL; the other two household members had levels of 250 ng/mL and 450 
+ng/mL, respectively. The patient underwent surgical intervention, received 
+intravenous vitamin K every six hours, blood product transfusions, and 
+supportive therapy. She recovered fully after 10 days and was discharged on 
+tapering oral vitamin K. This cluster highlights the diagnostic challenge of 
+superwarfarin poisoning in the absence of a clear exposure history. Literature 
+suggests toxicity can occur at serum bromadiolone levels as low as 117 ng/mL. 
+Blood testing is preferred over urine due to bromadiolone's high lipophilicity 
+and long half-life. Early recognition, targeted toxicology testing, and prompt 
+initiation of vitamin K therapy are essential. In regions with low incidence, 
+superwarfarin poisoning should be suspected in patients with unexplained 
+bleeding and markedly prolonged coagulation profiles. Cluster detection warrants 
+urgent public health investigation to identify and control potential sources.
+
+Copyright © 2025, Kong et al.
+
+DOI: 10.7759/cureus.99159
+PMCID: PMC12795786
+PMID: 41536410
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+3. Clin Nephrol Case Stud. 2025 Dec 19;13:89-95. doi: 10.5414/CNCS111741. 
+eCollection 2025.
+
+Acute renal cortical necrosis following postpartum hemorrhage - successful 
+discontinuation of peritoneal dialysis: A case report.
+
+Fukushima C(1), Koga K(1), Hasebe M(1), Omiya C(1), Nishioka K(1), Yahata K(1).
+
+Author information:
+(1)Department of Nephrology, Osaka Red Cross Hospital, Osaka, Japan.
+
+Renal cortical necrosis (RCN) is a rare but severe cause of acute kidney injury 
+primarily observed in obstetric complications. We herein present a case of RCN 
+in a 32-year-old Mongolian primigravida transferred to our hospital with 
+uncontrolled massive postpartum hemorrhage. Contrast-enhanced computed 
+tomography revealed ongoing uterine hemorrhage, prompting endovascular 
+intervention for control. It also showed the loss of cortical perfusion in the 
+kidneys, while preserving medullary blood flow, which is consistent with RCN. 
+The patient remained anuric from transfer and required continuous 
+hemodiafiltration followed by intermittent hemodialysis. Renal biopsy on day 23 
+revealed coagulative necrosis in glomeruli and tubules in the outer cortex, 
+consistent with RCN, while glomeruli in the deeper cortex were spared. Glomeruli 
+in the outer cortex displayed glomerular paralysis. The patient transitioned to 
+peritoneal dialysis (PD) to facilitate infant care at home. Over 6 months, renal 
+function improved, allowing dialysis discontinuation. Four years post-discharge, 
+she remains free of renal replacement therapy, with serum creatinine of 
+2.67 mg/dL. The present case highlights the potential for gradual renal function 
+improvement in RCN through the recovery of residual nephrons. PD may be a 
+promising modality for patients with RCN.
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/CNCS111741
+PMCID: PMC12723601
+PMID: 41445718
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare. Table 1.Table 1. Laboratory findings on admission. Laboratory 
+testResults (normal range)Peripheral bloodWhite blood cell count (/μL)23,130 
+(3,300 – 8,600)Red blood cell count (×104/μL)165 (386 – 492)Schistocytes (%)1 (< 
+1)Hemoglobin (g/dL)4.5 (11.6 – 14.8)Platelet count (×104/μL)10.1 (15.8 – 
+34.8)Blood chemistryTotal protein (g/dL)3.0 (6.6 – 8.1)Albumin (g/dL)1.5 (4.1 
+–5.1)Aspartate aminotransferase (U/L)29 (13 – 30)Alanine aminotransferase (U/L)8 
+(7 – 23)Lactate dehydrogenase (U/L)494 (124 –222)Total bilirubin (mg/dL)0.8 (0.4 
+– 1.5)Uric acid (mg/dL)5.5 (2.6 – 5.5)Blood urea nitrogen (mg/dL)10.9 (8 – 
+20)Creatinine (mg/dL)1.64 (0.46 – 0.79)Sodium (mEq/L)126 (138 – 145)Potassium 
+(mEq/L)5.2 (3.6 – 4.8)Chloride (mEq/L)101 (101 – 
+108)CoagulationPT/INR1.50Activated partial thromboplastin time (s)33.0 (23.4 – 
+38.0)Fibrinogen (mg/dL)108 (200 – 400)Fibrin degradation products (μg/mL)104 (0 
+– 5)SerologyC-reactive protein (mg/dL)0.18 (0 – 0.14)Immunoglobulin G (mg/dL)503 
+(861 – 1747)Immunoglobulin A (mg/dL)156 (93 – 393)Immunoglobulin M (mg/dL)49 (50 
+– 269)Complement component 3 (mg/dL)70 (83 – 160)Complement component 4 
+(mg/dL)18.1 (13 – 35)50% hemolytic complement activity (U/mL)59.7 (29 – 
+47)Anti-nuclear antibody< 40 (< 40)Anti-cardiolipin antibody≤ 8 (≤ 8)Haptoglobin 
+(type 2-1) (mg/dL)36 (66 – 218)ADAMTS13 activity (%)77 (> 0.78)ADAMTS13 
+inhibitor (BU/mL)< 0.5 (< 0.5)Direct CoombsNegativeUrinalysisOccult 
+blood3+Protein (g/gCr)20.73N-acetyl-D-glucosaminidase (U/gCr)2.1 (0.9 – 
+2.4)β-2-microglobulin (μg/gCr)1,685 (4 – 180)SedimentRed blood cells 
+(/high-power field)≥ 100 (isomorphic)PT/INR = prothrombin time/international 
+normalized ratio; ADAMS13 = a disintegrin-like and metalloprotease with 
+thrombospondin type 1 motif 13. Figure 1.Abdominal contrast-enhanced computed 
+tomography findings. The renal cortex displays a non-enhancing pattern, while 
+the medulla demonstrates enhancement, which is indicative of the reverse rim 
+sign consistent with renal cortical necrosis.Figure 2.Clinical course during 
+hospitalization. sCr = serum creatinine; CHDF = continuous hemodiafiltration; PD 
+= peritoneal dialysis.Figure 3.Renal biopsy findings. A: Low-power magnification 
+image (Masson trichrome staining; original magnification × 40). M = medulla; D = 
+deeper cortex; O = outer cortex, B: High-power magnification image of the outer 
+cortex showing glomeruli with glomerular paralysis and coagulative necrosis 
+(Masson trichrome staining; original magnification × 200), C: High-power 
+magnification image of the outer cortex with tubules showing coagulative 
+necrosis with the loss of normal cytologic features (Masson trichrome staining; 
+original magnification × 200), D: High-power magnification image of the deeper 
+cortex (Masson trichrome staining; original magnification × 200). The glomeruli 
+and tubules were spared from necrosis; however, ischemic changes were 
+observed.Figure 4.Post-discharge clinical course. sCr = serum creatinine; PD = 
+peritoneal dialysis; DPA = darbepoetin α. Table 2.Clinical characteristics of 
+reported cases of obstetric-associated RCN with recovery from dialysis. Case 
+No.AuthorsYearAgePregnancy disordersTypes of dialysisTime on dialysissCr or eGFR 
+at the last report1Riff DP [16]196726PE, placental abruptionPD49 dsCr 132Walls J 
+[17]196822PE, placental abruptionHD43 dRe-initiated dialysis*3Deutsch V 
+[18]197140PE, placental abruptionPD38 dNA4Özener İç [19]199330Suspected PE, 
+placental abruptionPD44 d**NA**5Frimat M [20]201632PPH, PEHD210 deGFR 24632PPH, 
+PEHD62 deGFR 35739PPHHD66 deGFR 46834PPHHD120 deGFR 18934PPHHD60 deGFR 
+461040PPHHD46 deGFR 4911Béji S [21]201748PE, placental abruptionHD3 
+yRe-initiated dialysis12Present case32PPH, PE, HELLP syndromePD229 d#sCr 
+2.67eGFR expressed in mL/min/1.73m2; sCr expressed in mg/dL. sCr = serum 
+creatinine; eGFR = estimated glomerular filtration rate; PE = pre-eclampsia; PPH 
+= postpartum hemorrhage; HELLP = hemolysis, elevated liver enzymes, and low 
+platelets; HD = hemodialysis; PD = peritoneal dialysis; d = days; y = years; NA 
+= not available. *Recovered by day 43; dialysis was re-initiated 15 months 
+later. **Case 4 received PD, successfully recovered from dialysis by day 44, and 
+was discharged with a serum creatinine level of 3.2 mg/dL. The patient remained 
+independent of dialysis with chronic kidney disease and was lost to follow-up 
+~ 1 year after discharge. #The duration of dialysis in the present case included 
+a short period of continuous hemodiafiltration followed by intermittent 
+hemodialysis.

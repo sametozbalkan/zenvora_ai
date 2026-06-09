@@ -1,0 +1,180 @@
+=== PubMed: benign prostatic hyperplasia ===
+1. Med Clin (Barc). 2024 Oct 25;163(8):407-414. doi:
+10.1016/j.medcli.2024.04.014.  Epub 2024 Jul 15.
+
+Benign prostatic hyperplasia.
+
+[Article in English, Spanish]
+
+Infante Hernández S(1), Gómez Rivas J(2), Moreno Sierra J(2).
+
+Author information:
+(1)Servicio de Urología, Hospital Clínico San Carlos, Madrid, España. Electronic 
+address: sarelis91@gmail.com.
+(2)Servicio de Urología, Hospital Clínico San Carlos, Madrid, España; 
+Universidad Complutense de Madrid, Facultad de Medicina, Departamento de 
+Cirugía, Sección de Urología, Madrid, España.
+
+Benign prostatic hyperplasia (BPH) is a histopathologic definition associated 
+with enlargement of the prostate gland that causes obstruction of the lower 
+urinary tract and manifests clinically with characteristic symptoms that are 
+what bring patients for consultation. Urinary tract symptoms are common, 
+especially in an increasingly aging population. Diagnosis and the decision on 
+when and how to treat depend on the patient's quality of life and objective 
+clinical parameters. An individualized, risk-based approach is necessary to 
+guide conservative, pharmacologic, or surgical treatment.
+
+Copyright © 2024 Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.medcli.2024.04.014
+PMID: 39013719 [Indexed for MEDLINE]
+
+
+2. Int J Urol. 2024 Sep;31(9):968-974. doi: 10.1111/iju.15518. Epub 2024 Jun 27.
+
+Chronic inflammation in benign prostatic hyperplasia: Pathophysiology and 
+treatment options.
+
+Inamura S(1), Terada N(1).
+
+Author information:
+(1)Department of Urology, Faculty of Medical Sciences, University of Fukui, 
+Eiheiji, Japan.
+
+Benign prostatic hyperplasia, a prevalent condition in aging men, is 
+characterized by the proliferation of prostatic epithelial and stromal cells, 
+which leads to bladder outlet obstruction and the exacerbation of lower urinary 
+tract symptoms. There is increasing evidence that chronic prostatic inflammation 
+contributes to the pathogenesis and progression of benign prostatic hyperplasia. 
+This review explores the complex relationship between chronic inflammation and 
+benign prostatic hyperplasia, focusing on the underlying mechanisms, clinical 
+implications, and current therapeutic approaches. The pathophysiology of benign 
+prostatic hyperplasia is multifaceted, involving factors such as hormonal 
+changes, hypoxia, urine reflux into prostatic ducts and stroma, autoimmune 
+responses, and infection-induced inflammation. Inflammatory cytokines, 
+particularly interleukin-17 and interleukin-8, may play key roles in tissue 
+remodeling and smooth muscle contraction within the prostate, thereby 
+influencing benign prostatic hyperplasia progression. Current therapies for 
+benign prostatic hyperplasia include α1-blockers, phosphodiesterase 5 
+inhibitors, 5α-reductase inhibitors, and plant-based treatments (e.g., pollen 
+extract). These therapies aim to alleviate symptoms by reducing prostatic 
+inflammation, improving blood flow, and inhibiting hormonal pathways involved in 
+prostatic enlargement. However, patients with chronic prostatic inflammation 
+often experience more severe lower urinary tract symptoms and may be resistant 
+to conventional treatments. This resistance has prompted the exploration of 
+alternative therapies targeting inflammation. Chronic prostatic inflammation 
+plays a central role in the pathogenesis and severity of benign prostatic 
+hyperplasia. An understanding of its mechanisms will enable the development of 
+more effective treatments to improve the quality of life among patients with 
+benign prostatic hyperplasia.
+
+© 2024 The Author(s). International Journal of Urology published by John Wiley & 
+Sons Australia, Ltd on behalf of The Japanese Urological Association.
+
+DOI: 10.1111/iju.15518
+PMCID: PMC11524144
+PMID: 38934050 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have no COI regarding this article.
+
+
+3. Prim Care. 2019 Jun;46(2):223-232. doi: 10.1016/j.pop.2019.02.003. Epub 2019
+Apr  1.
+
+Benign Prostatic Hyperplasia.
+
+Langan RC(1).
+
+Author information:
+(1)St. Luke's Family Medicine Residency, Sacred Heart Campus, 450 Chew Street, 
+Suite 101, Allentown, PA 18102, USA; Department of Family and Community 
+Medicine, Temple University School of Medicine, Philadelphia, PA, USA. 
+Electronic address: Robert.Langan@sluhn.org.
+
+Benign prostatic hyperplasia (BPH) is a common condition in aging men that is 
+frequently associated with troublesome lower urinary tract symptoms (LUTS). The 
+American Urologic Association Symptom Index is a validated, self-administered 
+tool that is used to diagnose LUTS, guide initial treatment, and assess 
+treatment response. Watchful waiting is an option for men with mild symptoms. 
+Pharmacologic treatment includes alpha-adrenergic blockers and 5-alpha reductase 
+inhibitors. There is no evidence to support the use of herbal supplements in the 
+treatment of LUTS. Surgical therapy is effective and indicated for men with 
+complications from BPH or who fail medical therapy.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2019.02.003
+PMID: 31030823 [Indexed for MEDLINE]
+
+
+4. Gerontology. 2019;65(5):458-464. doi: 10.1159/000496289. Epub 2019 Apr 3.
+
+Pathophysiology of Benign Prostatic Hyperplasia and Benign Prostatic 
+Enlargement: A Mini-Review.
+
+Madersbacher S(1)(2), Sampson N(3), Culig Z(3).
+
+Author information:
+(1)Department of Urology, Kaiser Franz Josef Hospital, Vienna, Austria, 
+stephan.madersbacher@wienkav.at.
+(2)Sigmund Freud Private University, Vienna, Austria, 
+stephan.madersbacher@wienkav.at.
+(3)Department of Urology, Medical University of Innsbruck, Innsbruck, Austria.
+
+Benign prostatic hyperplasia (BPH), benign prostatic enlargement (BPE) and lower 
+urinary tract symptoms (LUTS) belong to the most frequent diseases in ageing 
+men. Beyond the 6th decade of life, more than 30% of men suffer from moderate to 
+severe LUTS requiring intervention. The pathophysiology of BPH/BPE is still 
+incompletely understood. The dominant role of the androgen system and the 
+androgen receptor is well defined. Androgen receptors are expressed in BPH 
+tissue in which they are activated by the potent androgen dihydrotestosterone. 
+Synthesis of dihydrotestosterone is under control of the 5α-reductase enzyme, 
+activity of which is antagonized by finasteride and dutasteride. More recently, 
+the impact of prostatic inflammation and metabolic parameters particularly for 
+the development of BPE and LUTS has increasingly been recognized. A better 
+understanding of the pathophysiology is a prerequisite for the development of 
+novel, more effective medical treatment options.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000496289
+PMID: 30943489 [Indexed for MEDLINE]
+
+
+5. BJU Int. 2021 Apr;127(4):389-399. doi: 10.1111/bju.15229. Epub 2020 Sep 24.
+
+Benign prostatic hyperplasia - what do we know?
+
+Devlin CM(1)(2), Simms MS(2), Maitland NJ(1).
+
+Author information:
+(1)Cancer Research Unit, Department of Biology, University of York, York, UK.
+(2)Urology Department, Castle Hill Hospital, Cottingham, UK.
+
+OBJECTIVES: To present historical and contemporary hypotheses on the 
+pathogenesis of benign prostatic hyperplasia (BPH), and the potential 
+implications for current medical therapies.
+METHODS: The literature on BPH was reviewed. BPH is a prevalent disease with 
+significant health and economic impacts on patients and health organisations 
+across the world, whilst the cause/initiation of the disease process has still 
+not been fully determined.
+RESULTS: In BPH, pathways involving androgens, oestrogens, insulin, 
+inflammation, proliferative reawakening, stem cells and telomerase have been 
+hypothesised in the pathogenesis of the disease. A number of pathways first 
+described >40 years ago have been first rebuked and then have come back into 
+favour. A system of an inflammatory process within the prostate, which leads to 
+growth factor production, stem cell activation, and cellular proliferation 
+encompassing a number of pathways, is currently in vogue. This review also 
+highlights the physiology of the prostate cell subpopulations and how this may 
+account for the delay/failure in treatment response for certain medical 
+therapies.
+CONCLUSION: BPH is an important disease, and as the pathogenesis is not fully 
+understood it impacts the effectiveness of medical therapies. This impacts 
+patients, with further research potentially highlighting novel therapeutic 
+avenues.
+
+© 2020 The Authors BJU International published by John Wiley & Sons Ltd on 
+behalf of BJU International.
+
+DOI: 10.1111/bju.15229
+PMID: 32893964 [Indexed for MEDLINE]

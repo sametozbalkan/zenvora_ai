@@ -1,0 +1,170 @@
+=== PubMed: hemoglobin blood test low high causes treatment ===
+1. Front Cell Infect Microbiol. 2026 Apr 16;16:1795720. doi: 
+10.3389/fcimb.2026.1795720. eCollection 2026.
+
+Early risk stratification for carbapenem resistance among Pseudomonas aeruginosa 
+infected patients using a clinico-laboratory machine-learning model based on 
+routine complete blood count parameters.
+
+Yu J(#)(1), Gao W(#)(2), Chen Y(#)(1).
+
+Author information:
+(1)Department of Clinical Laboratory, Zigong First People's Hospital, 
+Zigong, China.
+(2)Department of Clinical Laboratory, Ya'an People's Hospital, Ya'an, China.
+(#)Contributed equally
+
+INTRODUCTION: To address the delayed identification of carbapenem-resistant 
+Pseudomonas aeruginosa (CRPA), we developed an interpretable machine-learning 
+(ML) model for early risk stratification. Utilizing routine complete blood count 
+(CBC) and demographic data, this tool targets the critical 48-72 hour interval 
+before final antimicrobial susceptibility results.
+METHODS: Data from 1,666 patients with P. aeruginosa infection (223 CRPA) at a 
+primary center were retrospectively analyzed, alongside an independent external 
+validation cohort (n=471). Following the least absolute shrinkage and selection 
+operator (LASSO) regression on 32 variables, eight ML algorithms were trained. 
+Model interpretability and clinical utility were evaluated using Shapley 
+Additive Explanations (SHAP) and decision curve analysis (DCA). Eight ML 
+algorithms were trained using 5-fold cross-validation and Bayesian 
+hyperparameter optimization. To ensure reproducibility and handle class 
+imbalance, fixed random seeds were set, and a sensitivity analysis using the 
+Synthetic Minority Over-sampling Technique (SMOTE) was conducted. Model 
+calibration was assessed using the Brier score.
+RESULTS: LASSO identified seven predictors: sex, age, mean corpuscular volume 
+(MCV), hemoglobin (HGB), platelet-to-lymphocyte ratio (PLR), systemic 
+inflammatory response index (SIRI), and intensive care unit (ICU) admission 
+status. Among the evaluated algorithms, the random forest (RF) model achieved 
+the best discrimination. The training area under the receiver operating 
+characteristic curve (AUC) was 0.993; it achieved an average 5-fold 
+cross-validation AUC of 0.929 ± 0.005. In the internal test set, it achieved an 
+AUC of 0.837 (95% CI: 0.779-0.893), specificity of 0.972, and sensitivity of 
+0.507, with excellent calibration (Brier score = 0.084). The model retained 
+strong performance externally (AUC: 0.898, specificity: 0.985, sensitivity: 
+0.600, Brier score: 0.073). SHAP analysis indicated that HGB was the most 
+influential feature, inversely associated with CRPA risk. Decision curve 
+analysis supported the clinical utility across threshold probabilities ranging 
+from 15% to 65%.
+DISCUSSION: This clinlabomics-based RF model provides a rapid, low-cost adjunct 
+for early CRPA stratification. Given its exceptionally high specificity (>0.97) 
+and modest sensitivity, it functions exclusively as a reliable clinical 
+"rule-in" tool. Positive predictions can confidently guide early targeted 
+therapy and strict infection control. However, negative predictions cannot 
+safely rule out CRPA, emphasizing its role alongside standard empirical 
+practices rather than as a standalone screening instrument.
+
+Copyright © 2026 Yu, Gao and Chen.
+
+DOI: 10.3389/fcimb.2026.1795720
+PMCID: PMC13128656
+PMID: 42079745 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Clin Lab. 2026 Apr 1;72(4). doi: 10.7754/Clin.Lab.2025.250616.
+
+Correlation of Serum CAR with Postoperative Quality of Life and Hip Recovery in 
+Elderly Patients with Intertrochanteric Fracture.
+
+Ling Y, Zhang M.
+
+BACKGROUND: Intertrochanteric fracture (ITF) is a common but devastating 
+condition with high mortality in the elderly population. Early identification of 
+high-risk patients to prevent poor prognosis is essential as treatment of 
+postoperative adverse outcomes is complex. C-reactive protein (CRP)/albumin 
+(ALB) ratio (CAR) is a predictor of prognosis in many diseases, but its 
+correlation with postoperative prognosis in patients with ITF remains unclear.
+METHODS: One hundred and six elderly patients who underwent ITF surgery between 
+May 2021 and May 2023 were retrospectively analyzed. Patients were evaluated 
+based on postoperative Harris Score and SF-36 Score for good and poor recovery 
+groups. CAR, ALB, and hemoglobin with statistically significant differences in 
+univariate analysis were included in multifactorial logistic regression analysis 
+to screen for independent influences. Predictive efficacy was analyzed using the 
+ROC curve to obtain the area under the curve (AUC). Sample regression models 
+were constructed to test whether there was a nonlinear relationship between ALB 
+and CAR and the prognostic outcomes of patients with ITF. The correlation of ALB 
+and CAR with Harris Score and SF-36 Score was analyzed by Pearson's correlation 
+analysis.
+RESULTS: Elevated CAR (OR = 2.18, p = 0.00) was an independent risk factor for 
+poor recovery in patients with ITF, while ALB (OR = 0.90, p = 0.03) was an 
+independent protective factor against poor recovery. All CAR showed good 
+predictive efficacy when the cutoff value took CAR > 1.79. In contrast, the 
+predictive efficacy of ALB was low. Restricted cubic spline model and Pearson's 
+correlation analysis showed a linear relationship between CAR, poor recovery in 
+ITF patients, and a negative correlation with Harris Score and SF-36 Score.
+CONCLUSIONS: Serum CAR is significantly associated with poor postoperative 
+prognosis in elderly patients with ITF and may be an independent risk factor for 
+postoperative quality of life and hip recovery.
+
+DOI: 10.7754/Clin.Lab.2025.250616
+PMID: 41979637 [Indexed for MEDLINE]
+
+
+3. Eur J Pediatr. 2026 Mar 18;185(4):189. doi: 10.1007/s00431-026-06858-x.
+
+Investigating vitamin B12 levels in children with obesity: the role of 
+metformin.
+
+Iwańska A(1)(2), Goncerz D(1)(2), Ahmed M(3), Aoun R(3), Kozioł-Kozakowska 
+A(2)(4), Szczudlik E(1)(2), Stępniewska A(1)(2), Wójcik M(5)(6), Starzyk JB(1).
+
+Author information:
+(1)Jagiellonian University Medical College, Pediatric Institute, Department of 
+Pediatric and Adolescents Endocrinology, Kraków, Poland, ul. Wielicka 265, 
+30-663, Kraków, Poland.
+(2)Interclinical Center for the Treatment of Childhood Obesity, University 
+Children's Hospital in Kraków, Poland, ul. Wielicka 265, 30-663, Kraków, Poland.
+(3)Jagiellonian University Medical College, Krakow, Poland, ul. św. Anny 12, 
+31-008, Kraków, Poland.
+(4)Laboratory of Pediatric Dietetics, Department of Pediatrics, Gastroenterology 
+and Nutrition, Jagiellonian University Medical College, Krakow, Poland, ul. 
+Wielicka 265, 30-663, Kraków, Poland.
+(5)Jagiellonian University Medical College, Pediatric Institute, Department of 
+Pediatric and Adolescents Endocrinology, Kraków, Poland, ul. Wielicka 265, 
+30-663, Kraków, Poland. malgorzata.wojcik@uj.edu.pl.
+(6)Interclinical Center for the Treatment of Childhood Obesity, University 
+Children's Hospital in Kraków, Poland, ul. Wielicka 265, 30-663, Kraków, Poland. 
+malgorzata.wojcik@uj.edu.pl.
+
+AIM: To assess vitamin B12 levels in children with obesity and analyze the 
+association with obesity severity, complications and treatment methods.
+METHODS: A retrospective analysis of data of 500 patients with obesity (51.6% 
+boys) was performed, mean age was 13.1 years (range 1.7-17.9), mean BMI Z-score 
+was 2.17 (SD 0.42). Anthropometric data, body composition, blood pressure, lipid 
+profile, glycated hemoglobin and liver enzymes were evaluated. Statistical 
+analysis included Spearman correlation and Mann-Whitney U test (α = 0.05).
+RESULTS: Dyslipidemia was found in 45.8%, hypertension in 14.8%, elevated liver 
+enzymes in 19.8%. 12% received metformin. Median B12 was 407 pg/ml (range: 
+161-1168). No correlation was found between B12 and BMI Z-score, body fat 
+percentage, high-density lipoprotein, triglycerides, gamma-glutamyl transferase 
+or glycated hemoglobin. Negative correlation was found with creatinine 
+(p < 0.001) and homeostatic model assessment for insulin resistance (p < 0.001); 
+positive correlation was found with total cholesterol (p = 0.012), low-density 
+lipoprotein (p = 0.029), alanine aminotransferase (p = 0.002) and aspartate 
+aminotransferase (p < 0.001). Metformin users showed significantly lower B12 
+(398 vs 410 pg/ml, p = 0.043).
+CONCLUSION: Children with obesity do not exhibit vitamin B12 deficiency. Obesity 
+severity is not associated with B12 changes. Insulin resistance (especially 
+metformin-treated) may be associated with reduced B12 levels. Pediatric patients 
+with uncomplicated obesity do not require regular vitamin B12 monitoring, 
+whereas it appears necessary in patients on metformin therapy. What is Known - 
+What is New: • The limited literature on vitamin B12 levels in children with 
+obesity reports a negative correlation with obesity severity which is 
+inconsistent with observations from our center performing metabolic assessments 
+on over 500 children with obesity annually. • Our study demonstrates that 
+children with obesity do not exhibit vitamin B12 deficiency and obesity severity 
+is not associated with B12 changes. However, metformin treatment may be 
+associated with reduced B12 levels. • Pediatric patients with uncomplicated 
+obesity do not require regular vitamin B12 monitoring, whereas it appears 
+reasonable in patients on metformin therapy.
+
+© 2026. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00431-026-06858-x
+PMID: 41848903 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.

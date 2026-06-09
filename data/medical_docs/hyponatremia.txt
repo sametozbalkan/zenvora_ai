@@ -1,0 +1,233 @@
+=== PubMed: hyponatremia ===
+1. Nephrol Dial Transplant. 2024 Sep 27;39(10):1583-1592. doi:
+10.1093/ndt/gfae162.
+
+Hyponatraemia-treatment standard 2024.
+
+Spasovski G(1).
+
+Author information:
+(1)Department of Nephrology, University of Skopje, Sts. Cyril and Methodius, 
+Skopje, N. Macedonia.
+
+Erratum in
+    Nephrol Dial Transplant. 2025 May 30;40(6):1259. doi: 10.1093/ndt/gfae213.
+
+Hyponatraemia is the most common electrolyte disorder in hospital patients 
+associated with increased morbidity, mortality, hospital stay and financial 
+burden. The speed of a correction with 3% sodium chloride as a 100- to 150-ml 
+intravenous bolus or continuous infusion depends on the severity and persistence 
+of the symptoms and needs frequent biochemical monitoring. The rapid 
+intermittent administration of hypertonic saline is preferred for treatment of 
+symptomatic hyponatraemia. In asymptomatic mild hyponatraemia, an adequate 
+solute intake with an initial fluid restriction (FR) of 500 ml/day adjusted 
+according to the serum sodium (sNa) levels is preferred. Almost half of the 
+syndrome of inappropriate antidiuretic hormone (SIADH) patients do not respond 
+to FR as first-line therapy. At present, urea and tolvaptan are considered the 
+most effective second-line therapies in SIADH. However, the evidence for 
+guidance on the choice of second-line therapy of hypotonic hyponatraemia is 
+lacking. Oral urea is considered to be a very effective and safe treatment. Mild 
+and asymptomatic hyponatraemia is treated with adequate solute intake (salt and 
+protein) and initial FR with adjustments based on sNa levels. Specific treatment 
+with vaptans may be considered in either euvolaemic or hypervolaemic patients 
+with high ADH activity. In order to ensure optimal patient outcome, close 
+monitoring and readiness for administration of either hypotonic fluids or 
+desmopressin may be crucial in the decision-making process for specific 
+treatment and eventual overcorrection consequences. According to the guidelines, 
+gradual correction and clinical evaluation is preferable over rapid 
+normalization of sNa towards the laboratory reference ranges.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the ERA.
+
+DOI: 10.1093/ndt/gfae162
+PMID: 39009016 [Indexed for MEDLINE]
+
+
+2. Ann Endocrinol (Paris). 2011 Dec;72(6):500-12. doi:
+10.1016/j.ando.2011.10.001.  Epub 2011 Nov 25.
+
+Hyponatremia and antidiuresis syndrome.
+
+Vantyghem MC(1), Balavoine AS, Wémeau JL, Douillard C.
+
+Author information:
+(1)Service d'endocrinologie et maladies métaboliques, hôpital Huriez, centre 
+hospitalier régional universitaire de Lille, 1, rue Polonovski, 59000 Lille, 
+France. mc-vantyghem@chru-lille.fr
+
+Antidiuretic hormone (ADH), or arginine vasopressin (AVP), is primarily 
+regulated through plasma osmolarity, as well as non-osmotic stimuli including 
+blood volume and stress. Links between water-electrolyte and carbohydrate 
+metabolism have also been recently demonstrated. AVP acts via the intermediary 
+of three types of receptors: V1a, or V1, which exerts vasoconstrictive effects; 
+pituitary gland V1b, or V3, which participates in the secretion of ACTH; and 
+renal V2, which reduces the excretion of pure water by combining with water 
+channels (aquaporin 2). Antidiuresis syndrome is a form of euvolaemic, 
+hypoosmolar hyponatraemia, which is characterised by a negative free water 
+clearance with inappropriate urine osmolality and intracellular hyper-hydration 
+in the absence of renal, adrenal and thyroid insufficiency. Ninety percent of 
+cases of antidiuresis syndrome occur in association with hypersecretion of 
+vasopressin, while vasopressin is undetectable in 10% of cases. Thus the term 
+"antidiuresis syndrome" is more appropriate than the classic name "syndrome of 
+inappropriate ADH secretion" (SIADH). The clinical symptoms, morbidity and 
+mortality of hyponatraemia are related to its severity, as well as to the 
+rapidity of its onset and duration. Even in cases of moderate hyponatraemia that 
+are considered asymptomatic, there is a very high risk of falls due to gait and 
+attention disorders, as well as rhabdomyolysis, which increases the fracture 
+risk. The aetiological diagnosis of hyponatraemia is based on the analysis of 
+calculated or measured plasma osmolality (POsm), as well as blood volume (skin 
+tenting of dehydration, oedema). Hyperglycaemia and hypertriglyceridaemia lead 
+to hyper- and normoosmolar hyponatraemia, respectively. Salt loss of 
+gastrointestinal, renal, cutaneous and sometimes cerebral origin is 
+hypovolaemic, hypoosmolar hyponatraemia (skin tenting), whereas oedema is 
+present with hypervolaemic, hypoosmolar hyponatraemia of heart failure, 
+nephrotic syndrome and cirrhosis. Some endocrinopathies (glucocorticoid 
+deficiency and hypothyroidism) are associated with euvolaemic, hypoosmolar 
+hyponatraemia, which must be distinguished from SIADH. Independent of adrenal 
+insufficiency, isolated hypoaldosteronism can also be accompanied by 
+hypersecretion of vasopressin secondary to hypovolaemia, which responds to 
+mineralocorticoid administration. The causes of SIADH are classic: neoplastic 
+(notably small-cell lung cancer), iatrogenic (particularly psychoactive drugs, 
+chemotherapy), lung and cerebral. Some causes have been recently described: 
+familial hyponatraemia via X-linked recessive disease caused by an activating 
+mutation of the vasopressin 2 receptor; and corticotropin insufficiency related 
+to drug interference between some inhaled glucocorticoids and cytochrome p450 
+inhibitors, such as the antiretroviral drugs and itraconazole, etc. SIADH in 
+marathon runners exposes them to a risk of hypotonic encephalopathy with fatal 
+cerebral oedema. SIADH treatment is based on water restriction and 
+demeclocycline. V2 receptor antagonists are still not marketed in France. These 
+aquaretics seem effective clinically and biologically, without demonstrated 
+improvement to date of mortality in eu- and hypervolaemic hyponatraemia. 
+Obviously treatment of a corticotropic deficit, even subtle, should not be 
+overlooked, as well as the introduction of fludrocortisone in isolated 
+hypoaldosteronism and discontinuation of iatrogenic drugs.
+
+Copyright © 2011 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ando.2011.10.001
+PMID: 22119069 [Indexed for MEDLINE]
+
+
+3. Endocrinol Nutr. 2010 May;57 Suppl 2:2-9. doi: 10.1016/S1575-0922(10)70016-4.
+
+[Hyponatremia: classification and differential diagnosis].
+
+[Article in Spanish]
+
+Marco Martínez J(1).
+
+Author information:
+(1)Unidad de Interconsultas Médicas, Servicio de Medicina Interna, Hospital 
+Clínico Universitario San Carlos, Madrid, Spain. javier.marco@elmundo.es
+
+Hyponatremia is the most common electrolyte disturbance. This disorder is 
+usually produced by water retention due to the patient's inability to balance 
+water excretion with ingestion of liquids. The present article provides basic 
+information on the physiopathology and epidemiology of hyponatremia in certain 
+contexts such as the ambulatory and hospitalized settings, the geriatric 
+population, exercise-induced hyponatremia, drug-induced hyponatremia and finally 
+hyponatremia observed in some common diseases such as heart failure, liver 
+cirrhosis, pneumonia and HIV infection. The differential diagnosis of 
+hyponatremia should include plasma osmolality, which can be increased, normal or 
+decreased. Most true hyponatremias are grouped in the latter category. If the 
+extracellular volume is decreased, urinary sodium concentrations can be either 
+low or normal with dehydration in the former and water retention in the latter. 
+In hyponatremia with normal extracellular volume, there is free water retention 
+due to a series of stimuli. This entity is seen mainly in hospitalized patients 
+with hypothyroidism or syndrome of inappropriate secretion of antidiuretic 
+hormone. Hyponatremia is underdiagnosed and, more seriously, undertreated, 
+despite numerous studies demonstrating its devastating effects on hospital 
+admissions. The most useful laboratory tests for its diagnosis are urinary 
+sodium concentration, plasma osmolality and urinary osmolality.
+
+Copyright © 2010 Sociedad Española de Endocrinología y Nutrición. Published by 
+Elsevier Espana. All rights reserved.
+
+DOI: 10.1016/S1575-0922(10)70016-4
+PMID: 21130956 [Indexed for MEDLINE]
+
+
+4. Eur J Endocrinol. 2014 Feb 25;170(3):G1-47. doi: 10.1530/EJE-13-1020. Print
+2014  Mar.
+
+Clinical practice guideline on diagnosis and treatment of hyponatraemia.
+
+Spasovski G(1), Vanholder R, Allolio B, Annane D, Ball S, Bichet D, Decaux G, 
+Fenske W, Hoorn EJ, Ichai C, Joannidis M, Soupart A, Zietse R, Haller M, van der 
+Veer S, Van Biesen W, Nagler E; Hyponatraemia Guideline Development Group.
+
+Collaborators: Spasovski G, Vanholder R, Allolio B, Annane D, Ball S, Bichet D, 
+Decaux G, Fenske W, Hoorn E, Ichai C, Joannidis M, Soupart A, Zietse B, Nagler 
+E, Haller M, van der Veer S, Van Biesen W.
+
+Author information:
+(1)State University Hospital Skopje, Skopje, Macedonia.
+
+Erratum in
+    Eur J Endocrinol. 2014 Jul;171(1):X1.
+
+Comment in
+    Eur J Endocrinol. 2014 Jul;171(1):L1-3. doi: 10.1530/EJE-14-0392.
+    Eur J Endocrinol. 2014 Jul;171(1):L5-6. doi: 10.1530/EJE-14-0393.
+    Am J Kidney Dis. 2014 Nov;64(5):681-4. doi: 10.1053/j.ajkd.2014.06.001.
+
+Hyponatraemia, defined as a serum sodium concentration <135 mmol/l, is the most 
+common disorder of body fluid and electrolyte balance encountered in clinical 
+practice. It can lead to a wide spectrum of clinical symptoms, from subtle to 
+severe or even life threatening, and is associated with increased mortality, 
+morbidity and length of hospital stay in patients presenting with a range of 
+conditions. Despite this, the management of patients remains problematic. The 
+prevalence of hyponatraemia in widely different conditions and the fact that 
+hyponatraemia is managed by clinicians with a broad variety of backgrounds have 
+fostered diverse institution- and speciality-based approaches to diagnosis and 
+treatment. To obtain a common and holistic view, the European Society of 
+Intensive Care Medicine (ESICM), the European Society of Endocrinology (ESE) and 
+the European Renal Association - European Dialysis and Transplant Association 
+(ERA-EDTA), represented by European Renal Best Practice (ERBP), have developed 
+the Clinical Practice Guideline on the diagnostic approach and treatment of 
+hyponatraemia as a joint venture of three societies representing specialists 
+with a natural interest in hyponatraemia. In addition to a rigorous approach to 
+methodology and evaluation, we were keen to ensure that the document focused on 
+patient-important outcomes and included utility for clinicians involved in 
+everyday practice.
+
+DOI: 10.1530/EJE-13-1020
+PMID: 24569125 [Indexed for MEDLINE]
+
+
+5. Endocrinol Nutr. 2010 May;57 Suppl 2:15-21. doi:
+10.1016/S1575-0922(10)70018-8.
+
+[Hyponatremia in liver cirrhosis: pathogenesis and treatment].
+
+[Article in Spanish]
+
+Guevara M(1), Ginès P.
+
+Author information:
+(1)Servei d'Hepatologia, Hospital Clínic de Barcelona, Universitat de Barcelona, 
+Institut d'Investigacions Biomèdiques August-Pi-Sunyer, Centro de Investigación 
+Biomédica en Red de Enfermedades Hepáticas y Digestivas, Barcelona, Spain.
+
+Hyponatremia is the most common electrolyte disorder in patients with cirrhosis. 
+This disorder can be a result of substantial loss of extracellular fluid 
+"hypotonic or hypovolemic hyponatremia" or develop in the context of an increase 
+in extracellular fluid volume and in the absence of major sodium losses; this 
+situation occurs in patients with advanced cirrhosis and is known as "dilutional 
+or hypervolemic hyponatremia". In dilutional or hypervolemic hyponatremia, serum 
+sodium concentration is reduced, plasma volume is increased (although the 
+effective plasma volume is decreased due to marked arterial vasodilation in the 
+splanchnic circulation) and extracellular fluid volume is increased, with 
+ascites and edema in the absence of signs of dehydration. This is a result of 
+the marked deterioration in renal excretion of solute-free water, leading to 
+disproportionate water retention in relation to sodium retention. Hypotonic 
+hyponatremia represents 10% of all hyponatremias in patients with cirrhosis. 
+Since hypervolemic hyponatremia is by far the most frequent form of this 
+disorder, the present chapter will concentrate specifically on hypervolemic 
+hyponatremia in cirrhosis.
+
+Copyright © 2010 Sociedad Española de Endocrinología y Nutrición. Published by 
+Elsevier Espana. All rights reserved.
+
+DOI: 10.1016/S1575-0922(10)70018-8
+PMID: 21130958 [Indexed for MEDLINE]

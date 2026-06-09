@@ -1,0 +1,34 @@
+İLAÇ: Esomeprazol (Nexium)
+SINIF: Proton pompa inhibitörü (PPİ)
+
+ENDİKASYONLAR:
+- Gastroözofageal reflü hastalığı (GÖRH)
+- Peptik ülser tedavisi ve profilaksisi
+- H. pylori eradikasyonu (kombinasyon)
+- NSAID ile ilişkili ülser profilaksisi
+- Zollinger-Ellison sendromu
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Klopidogrel: Esomeprazol klopidogrelin aktif metabolitini azaltır (CYP2C19 inhibisyonu); kardiyovasküler koruma azalabilir — omeprazol ve esomeprazol yerine pantoprazol tercih edilmeli
+- Metotreksat: PPİ metotreksat atılımını azaltabilir, toksisite riski
+- Warfarin: INR artabilir; izlem gerekir
+- Atazanavir, nelfinavir (HIV ilaçları): Emilimi ciddi azalır — birlikte kullanılmaz
+- Demir takviyeleri: Emilim azalabilir (asit gerektirir)
+- Ketokonazol, itrakonazol: Emilim azalır
+- Digoksin: Digoksin düzeyi hafif artar
+- Takrolimus: Düzeyi artabilir
+
+UYARILAR:
+- Uzun süreli kullanımda: Magnezyum eksikliği, B12 vitamini eksikliği, kemik kırığı riski
+- C. difficile enfeksiyonu riski (uzun süreli)
+- Mide kanseri belirtilerini maskeleyebilir — endikasyon olmadan uzun süreli kullanmaktan kaçın
+- Böbrek hastalığı: Akut interstisyel nefrit riski
+
+KONTRENDİKASYONLAR:
+- Atazanavir, nelfinavir ile birlikte kullanım
+
+YAN ETKİLER:
+- Baş ağrısı, baş dönmesi
+- Bulantı, karın ağrısı, ishal
+- Uzun süreli: Hipomagnezemí, B12 eksikliği
+- Nadiren: Akut interstisyel nefrit

@@ -1,0 +1,221 @@
+=== PubMed: apandisit ===
+1. Ulus Travma Acil Cerrahi Derg. 2021 Jan;27(1):85-88. doi: 
+10.14744/tjtes.2020.22792.
+
+Acute appendicitis in pregnancy.
+
+[Article in English]
+
+Yavuz Y(1), Sentürk M(2), Gümüş T(1), Patmano M(1).
+
+Author information:
+(1)Department of General Surgery, Şanlıurfa Training and Research Hospital, 
+Şanlıurfa-Turkey.
+(2)Department of General Surgery, Necmettin Erbakan University Meram Faculty of 
+Medicine, Konya-Turkey.
+
+BACKGROUND: Acute appendicitis is the most common cause of non-obstetric acute 
+abdomen in pregnant women. We examined the patients who were admitted to our 
+emergency department with abdominal pain and diagnosed with acute appendicitis 
+in the light of the literature.
+METHODS: Seventeen pregnant patients with acute appendicitis who were admitted 
+to the emergency department of Sanliurfa Training and Research Hospital between 
+the years of 2016-2019 were retrospectively analyzed using an electronic 
+recording system. Our patients were evaluated concerning age, gestational week, 
+clinical status, the operation performed, ultrasonography results, pathology 
+results, presence of additional diseases, laboratory results and hospital stay 
+length.
+RESULTS: The mean age of our patients was 25.5 (18-41) years. Three patients 
+were in the first trimester (17.6%), 11 patients were in the second trimester 
+(64.8%), and three patients were in the third trimester (17.6%) at the time of 
+admission. All of our patients had abdominal pain. Acute appendicitis was 
+detected in 11 patients, while it was not detected in six patients on the USG 
+examination. Two patients having term delivery underwent caesarean section with 
+concurrent appendectomy. The mean hospital stay length was 2.9 (2-5) days. 
+Histopathologically, 13 (86.7%) of our operated patients were diagnosed with 
+appendicitis. No additional problems were observed in the mothers and infants in 
+the postoperative period.
+CONCLUSION: Acute appendicitis should be considered as a non-obstetric pathology 
+in pregnant patients admitted to the emergency department with abdominal pain. 
+We think that it is important for both maternal and infant health to examine 
+this condition, which shows differences concerning clinical course and physical 
+examination, with a meticulous and multidisciplinary approach.
+
+DOI: 10.14744/tjtes.2020.22792
+PMID: 33394465 [Indexed for MEDLINE]
+
+
+2. Ulus Travma Acil Cerrahi Derg. 2022 Mar;28(3):390-394. doi: 
+10.14744/tjtes.2021.56244.
+
+Complicated or non-complicated appendicitis? That is the question.
+
+Dinç T(1), Sapmaz A(1), Erkuş Y(1), Yavuz Z(2).
+
+Author information:
+(1)Department of General Surgery, Ankara City Hospital, Ankara-Turkey.
+(2)Department of Biostatistics, Ankara University Faculty of Medicine, 
+Ankara-Turkey.
+
+BACKGROUND: Acute appendicitis (AA) is a common disease that includes all age 
+groups and both genders in societies and is one of the most common causes of 
+acute abdomen. It is important to distinguish between complicated and 
+non-complicated appendicitis before surgery. This study aims to determine 
+laboratory parameters that can be used to determine whether the disease is 
+complicated or non-complicated in patients admitted to the emergency department 
+with AA.
+METHODS: Female and male patients admitted to the Emergency General Surgery 
+Department between May 2019 and November 2020 and diagnosed with appendicitis 
+were included in the study. Demographic data (age, gender, and protocol 
+numbers), complete blood counts (Delta neutrophil index [DNI], hemoglobin, 
+monocyte, neutrophil, eosinophil, basophil, platelet, platelet distribution 
+width, mean platelet volume, reticulocyte distribution width), biochemical 
+parameters (amylase, direct bilirubin, indirect bilirubin, albumin, calcium, and 
+lactate dehydrogenase), and examination information were obtained from the 
+hospital automation system and recorded via SPSS software. Parameters of 
+patients were divided into two groups as complicated and non-complicated 
+appendicitis groups were compared.
+RESULTS: White blood cell (WBC), monocyte, neutrophil, DNI, total bilirubin, and 
+direct bilirubin values were found to be statisti-cally significantly higher in 
+the complicated appendicitis group compared to the non-complicated appendicitis 
+group (p-values; <0.001, 0.003, <0.001, <0.001 and 0.008, respectively).
+CONCLUSION: DNI, bilirubin values, WBC, monocyte, neutrophil, and eosinophil can 
+be used as laboratory parameters to distin-guish between complicated and 
+non-complicated AA.
+
+DOI: 10.14744/tjtes.2021.56244
+PMCID: PMC10493539
+PMID: 35485562 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+3. Turk Tip Dernegi Derg. 1973;39(11):407-11.
+
+[Acute appendicitis].
+
+[Article in Turkish]
+
+Cev M, Değerli U, Sökücü N.
+
+PMID: 4806689 [Indexed for MEDLINE]
+
+
+4. Turkiye Parazitol Derg. 2023 Jun 29;47(2):93-99. doi: 
+10.4274/tpd.galenos.2023.02418.
+
+Clinicopathological Assesment in Patients with Enterobius vermicularis 
+Infection.
+
+[Article in English]
+
+Özen FZ(1), Celep G(2).
+
+Author information:
+(1)Amasya Üniversitesi Tıp Fakültesi, Patoloji Anabilim Dalı, Amasya, Türkiye
+(2)Amasya Üniversitesi Tıp Fakültesi, Çocuk Sağlığı ve Hastalıkları Anabilim 
+Dalı, Amasya, Türkiye
+
+OBJECTIVE: Enterobius vermicularis is a common gastrointestinal parasite. Acute 
+appendicitis is one of the most common clinical conditions requiring surgical 
+intervention. The coexistence of enterobiasis and acute appendicitis has 
+attracted the attention of researchers for a long time. In this article, it is 
+aimed to present the characteristics of enterobiasis cases detected in 
+appendectomy specimens in a tertiary healthcare institution. In addition, it is 
+aimed to reveal the differences by comparing the cases diagnosed with acute 
+appendicitis without enterobiasis.
+METHODS: All cases operated for acute appendicitis between January 1, 2008 and 
+December 31, 2021 were retrospectively evaluated through the hospital registry 
+system. The cases with histopathologically determined E. vermicularis were 
+reviewed and a study group was formed. The control group consisted of patients 
+diagnosed with acute appendicitis for reasons other than enterobiasis, matched 
+with the study group in terms of age and gender. Complete blood count, 
+C-reactive protein (CRP) ultrasonography evaluations were compared between the 
+two groups.
+RESULTS: During the study period, 3.650 appendectomy materials were examined; E. 
+vermicularis was detected in 1.32% (n=48) cases, and acute appendicitis was 
+present in 33.33% (n=16) of the cases. Lymphoid hyperplasia was the most common 
+histopathological change in the study group (n=25; 52.08%). When compared to the 
+control group, leukocyte, neutrophil, CRP, ultrasonographic appendix diameter 
+values were found to be significantly higher in the control group, and the 
+percentage of eosinophils in the study group (p<0.0001; p<0.0001; p<0.0001; 
+p<0.0001; p=0.001; respectively).
+CONCLUSION: Enterobiasis is a common parasite especially in children. Rarely, it 
+can be seen in patients with acute appendicitis. Histopathological evaluation is 
+necessary to ensure a safe surgical procedure and to complete the treatment with 
+anthelmintic drugs. Enterobiasis should be kept in mind in cases when the acute 
+phase response is lower than expected.
+
+Publisher: AMAÇ: Enterobius vermicularis sık görülen bir gastrointestinal sistem 
+parazitidir. Akut apandisit en sık cerrahi girişim gerektiren klinik durumlardan 
+bir tanesidir. Enterobiasis ve akut apandisit birlikteliği uzun zamandır 
+araştırmacıların dikkatini çeken bir konudur. Bu yazıda üçüncü basamak bir 
+sağlık kuruluşunda apendektomi örneklerinde saptanan enterobiasis olgularının 
+özelliklerini tanımlamak amaçlanmıştır. Aynı zamanda enterobiasis olmadan akut 
+apandisit tanısı alan olgularla kıyaslanarak farklılıkların ortaya konması 
+hedeflenmiştir.
+YÖNTEMLER: Çalışma için 1 Ocak 2008-31 Aralık 2021 tarihleri arasında akut 
+apandisit nedeniyle ameliyat edilen tüm olgular hastane kayıt sistemi üzerinden 
+geriye dönük olarak incelenmiştir. Histopataolojik olarak E. vermicularis 
+saptanan olgular yeniden gözden geçirilerek çalışma grubu oluşturulmuştur. 
+Kontrol grubu yaş ve cinsiyet olarak çalışma grubuyla eşleştirilmiş enterobiasis 
+dışı nedenlerle akut apandisit tanısı alan hastalardan oluşturulmuştur. Tam kan 
+sayımı, C-reaktif protein (CRP) ultrasonografi değerlendirmeleri iki grup 
+arasında karşılaştırılmıştır.
+BULGULAR: Çalışma dönemi boyunca 3,650 apendektomi materyali incelenmiştir; 
+%1,32 (n=48) olguda E. vermicularis saptanmıştır, olguların %33,33’ünde (n=16) 
+akut apandisit mevcuttur. Lenfoid hiperplazi çalışma grubunda en sık görülen 
+histopatolojik değişikliktir (n=25; %52,08). Kontrol grubu ile kıyaslandığında 
+lökosit, nötrofil, CRP, ultrasonografik apendiks çapı değerleri kontrol 
+grubunda; eozinofil yüzdesi çalışma grubunda anlamlı olarak yüksek bulunmuştur 
+(sırasıyla; p<0,0001; p<0,0001; p<0,0001; p<0,0001; p=0,001).
+SONUÇ: Enterobiasis özellikle çocuklarda sık görülen bir parazittir, akut 
+apandisitli olgularda nadir olmakla birlikte görülebilir. Güvenli cerrahi 
+işlemin sağlanması ve antihelmintik ilaçlarla tedavinin tamamlanması için 
+histopatolojik değerlendirme gereklidir. Akut faz yanıtının beklenenden düşük 
+olduğu olgularda enterobiasis akılda tutulmalıdır.
+
+DOI: 10.4274/tpd.galenos.2023.02418
+PMID: 37249112 [Indexed for MEDLINE]
+
+
+5. Ulus Travma Acil Cerrahi Derg. 2022 Mar;28(3):285-289. doi: 
+10.14744/tjtes.2020.38632.
+
+Impact of coronavirus disease on acute appendicitis cases.
+
+Alakuş Ü(1), Türker B(2), Sarıgöz T(3), Meral UM(4).
+
+Author information:
+(1)Department of General Surgery, Health Sciences University Gülhane Training 
+and Research Hospital, Ankara-Turkey.
+(2)Department of General Surgery, Batman State Hospital, Batman-Turkey.
+(3)Department of General Surgery, Kayseri City Hospital, Department of General 
+Surgery, Kayseri-Turkey.
+(4)Department of General Surgery, İzmir Katip Çelebi University Atatürk Training 
+and Research Hospital, İzmir-Turkey.
+
+BACKGROUND: Disease profiles have changed in the COVID-19 pandemic. In this 
+study, we aimed to compare acute appendicitis cases before and during the 
+COVID-19 pandemic.
+METHODS: A total of 130 patients were diagnosed with AA and operated between the 
+days of first COVID-19 case on March 11, 2020, and May 11, 2020, and the same 
+period of the previous year. Data of the patients were extracted from electronic 
+archive of the hospital. Those patients were stratified into two groups; 
+pandemic group and pre-pandemic group. The pandemic group comprised 46 patients 
+and the pre-pandemic group, 84 patients. The two groups were compared in terms 
+of age, gender, duration of symptoms, length of hospital stay, white blood cell 
+count, C-reactive protein levels, and post-operative complications.
+RESULTS: The median days passed from onset of abdominal pain to submission were 
+6.5 days in the pandemic period. However, it was 3 days in the pre-pandemic 
+group (p<0.001). Other parameters were not statistically different between the 
+groups (p>0.05).
+CONCLUSION: During the COVID-19 pandemic period, delay in hospital submissions 
+has attracted attention. However, delayed treatment did not reflect to the 
+clinic as more severe disease.
+
+DOI: 10.14744/tjtes.2020.38632
+PMCID: PMC10493522
+PMID: 35485557 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.

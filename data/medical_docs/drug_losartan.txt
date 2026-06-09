@@ -1,0 +1,35 @@
+İLAÇ: Losartan (Cozaar, Lorista)
+SINIF: Anjiyotensin II reseptör antagonisti (ARB), antihipertansif
+
+ENDİKASYONLAR:
+- Hipertansiyon
+- Diyabetik nefropati (tip 2 diyabet + hipertansiyon)
+- Kalp yetmezliği (ACE inhibitörü tolere edilemiyorsa)
+- İnme profilaksisi
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Potasyum tutucu diüretikler (spironolakton), potasyum takviyeleri: Hiperkalemi riski
+- ACE inhibitörleri (enalapril, ramipril): Çift blokaj — hipotansiyon, hiperkalemi, böbrek yetmezliği
+- Aliskiren (diyabetiklerde): Birlikte kullanılmaz
+- NSAİD'ler: Antihipertansif etki azalır, böbrek fonksiyonu bozulur
+- Lityum: Lityum toksisitesi riski
+- Flukonazol (CYP2C9 inhibitörü): Losartan aktif metabolitini azaltır, etkinlik düşer
+- Rifampisin: Losartan etkinliğini azaltır
+
+UYARILAR:
+- Böbrek fonksiyonu ve potasyum izlenmeli
+- Hamilelikte KESİNLİKLE KULLANILMAZ
+- ACE inhibitörüne göre avantajı: Öksürük yapmaz
+- Anjiyoödem riski ACE inhibitörüne göre düşük ama var
+- Bilateral renal arter stenozu dikkat
+
+KONTRENDİKASYONLAR:
+- Hamilelik
+- Bilateral renal arter stenozu
+
+YAN ETKİLER:
+- Baş dönmesi (sık)
+- Hiperkalemi
+- Böbrek fonksiyon değişikliği
+- Hipotansiyon
+- Nadir: Anjiyoödem

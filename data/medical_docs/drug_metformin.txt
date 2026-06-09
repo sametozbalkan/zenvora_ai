@@ -1,0 +1,147 @@
+=== PubMed: metformin drug interactions lactic acidosis renal contrast ===
+1. Ned Tijdschr Geneeskd. 2000 Sep 30;144(40):1903-5.
+
+[Prevention of lactic acidosis due to metformin intoxication in contrast media 
+nephropathy].
+
+[Article in Dutch]
+
+Landewé-Cleuren S(1), van Zwam WH, de Bruin TW, de Haan M.
+
+Author information:
+(1)Academisch Ziekenhuis, AZ Maastricht.
+
+Comment in
+    Ned Tijdschr Geneeskd. 2000 Sep 30;144(40):1900-2.
+
+Use of the oral antidiabetic drug metformin may cause lactic acidosis, a rare 
+but life-threatening complication, especially in patients with renal function 
+loss. Since intravenously administered iodide-containing contrast media may 
+cause renal function disturbances precautions should be taken in 
+metformin-treated patients for whom a radiological study with intravenous 
+contrast media is considered. In diabetic patients who use metformin a serum 
+creatinine concentration should be measured prior to the radiological study. If 
+the serum creatinine is within normal limits (< 130 mumol/l), metformin can be 
+continued and the examination performed. If the serum creatinine concentration 
+is increased (> or = 130 mumol/l), metformin should be discontinued and replaced 
+by another antidiabetic drug if necessary. The radiological procedure with 
+intravenous contrast media should be postponed for 48 hours. If such a procedure 
+cannot be postponed, additional measures to prevent lactic acidosis (hydration, 
+monitoring of the renal function) should be taken.
+
+PMID: 11045136 [Indexed for MEDLINE]
+
+
+2. Radiology. 2010 Jan;254(1):261-9. doi: 10.1148/radiol.09090690.
+
+Systematic review of current guidelines, and their evidence base, on risk of 
+lactic acidosis after administration of contrast medium for patients receiving 
+metformin.
+
+Goergen SK(1), Rumbold G, Compton G, Harris C.
+
+Author information:
+(1)Department of Diagnostic Imaging, Southern Health, 246 Clayton Rd, Clayton, 
+VIC 3168, Australia. Stacy.Goergen@southernhealth.org.au
+
+Comment in
+    Radiology. 2010 Jan;254(1):20-1. doi: 10.1148/radiol.09091700.
+    Radiology. 2010 Aug;256(2):672-3; author reply 673. doi: 
+10.1148/radiol.100566.
+
+PURPOSE: To systematically review evidence about the relationship between 
+metformin administration and the use of iodinated contrast medium and risk of 
+lactic acidosis (LA) and to assess the quality of five current guidelines for 
+use of contrast medium in patients who are taking metformin.
+MATERIALS AND METHODS: A search strategy was developed by using search 
+termsrelated to metformin, contrast media, and LA. Searches were conducted in 
+MEDLINE (Ovid), all Evidence-based Medicine Reviews (Ovid), EMBASE, and Cochrane 
+library databases and were augmented with searches for evidence-based guidelines 
+on radiology and evidence-based medicine Web sites by using the Google Internet 
+search engine. Guidelines were appraised by two independent reviewers by using 
+the Appraisal of Guidelines Research and Evaluation Collaboration Instrument. 
+Other studies were appraised by using structured appraisal checklists.
+RESULTS: Five guidelines were identified and five empirical studies met 
+inclusion criteria. All guidelines had poor scores on some Appraisal of 
+Guidelines for Research and Evaluation (AGREE) Collaboration criteria; poorer 
+scores tended to occur in relation to objective assessment of rigor of guideline 
+development, editorial independence, and applicability of the guideline to 
+clinical practice. Lack of agreement was observed among guidelines about the 
+need to stop taking metformin after contrast medium is administered, risk of LA 
+in patients with normal renal function before contrast medium injection, 
+recommended method of measuring renal function, and values used to define 
+abnormal function. The evidence that was used as a basis for determining the 
+guidelines for metformin administration, use of contrast medium, and risk of LA 
+consisted of a limited number of observational studies, including case reports, 
+summaries of case reports, and case series (National Health and Medical Research 
+Council of Australia level IV-V evidence). More important, it was not apparent 
+that a systematic search strategy had been used to identify the studies 
+referenced by the guidelines nor that the referenced studies had been appraised. 
+Individual guideline recommendations were not clearly connected to cited 
+references.
+CONCLUSION: Substantial inconsistencies exist between the recommendations of the 
+five international guidelines about contrast medium administration in patients 
+who are taking metformin. These are, in part, caused by the low level of 
+evidence underpinning guideline recommendations.
+
+DOI: 10.1148/radiol.09090690
+PMID: 20032157 [Indexed for MEDLINE]
+
+
+3. Clin Radiol. 1999 Jan;54(1):29-33. doi: 10.1016/s0009-9260(99)91236-9.
+
+Metformin and contrast media--a dangerous combination?
+
+McCartney MM(1), Gilbert FJ, Murchison LE, Pearson D, McHardy K, Murray AD.
+
+Author information:
+(1)Department of Radiology, University of Aberdeen, Scotland, UK.
+
+Metformin is a biguanide used to treat type II diabetes mellitus. Since the 
+recent introduction of this drug into the United States there has been 
+considerable interest in metformin associated lactic acidosis (MALA) following 
+intravenous contrast media. The Royal College of Radiologists published advice 
+in November, 1996 (Advice to Members and Fellows with regard to 
+metformin-induced lactic acidosis and X-ray contrast medium agents, RCR 
+Publication) supporting the manufacturers' advice that metformin should not be 
+used in the 48 h before or after intravenous (i.v.) contrast medium. We 
+performed a systematic review of the literature and this has shown that almost 
+all reported cases of MALA following i.v. contrast medium occurred where there 
+was either pre-existing poor renal function or another contraindication to 
+metformin usage. There has been only one reported case of lactic acidosis 
+following the use of intravenous contrast medium in a patient with normal renal 
+function. We suggest that the Royal College of Radiologists' advice should be 
+modified and that it is safe to give i.v. contrast medium to patients on 
+metformin with normal renal function.
+
+DOI: 10.1016/s0009-9260(99)91236-9
+PMID: 9915507 [Indexed for MEDLINE]
+
+
+4. Can Assoc Radiol J. 1998 Jun;49(3):161-6.
+
+Metformin and contrast media: where is the conflict?
+
+Rasuli P(1), Hammond DI.
+
+Author information:
+(1)Department of Radiology, University of Ottawa, Ont.
+
+Intravascular administration of iodinated contrast media to patients who are 
+receiving metformin, an oral antidiabetic agent, can result in lactic acidosis. 
+However, this rare complication occurs only if the contrast medium causes renal 
+failure, and the patient continues to take metformin in the presence of renal 
+failure. Because metformin is excreted primarily by the kidneys, continued 
+intake of metformin after the onset of renal failure results in a toxic 
+accumulation of this drug and subsequent lactic acidosis. To avoid this 
+complication, metformin must be withheld after the administration of the 
+contrast agent for 48 hours, during which the contrast-induced renal failure 
+becomes clinically apparent. If renal function is normal at 48 hours, the 
+metformin can be restarted. There is no scientific justification for withholding 
+metformin for 48 hours before administration of the contrast medium, as 
+currently recommended in the package insert. The authors review the pharmacology 
+of metformin and present a departmental policy for managing patients with 
+diabetes who receive metformin and who require intravascular administration of 
+iodinated contrast media.
+
+PMID: 9640281 [Indexed for MEDLINE]

@@ -1,0 +1,265 @@
+=== PubMed: alprazolam drug interactions benzodiazepine cns depression ===
+1. J Psychopharmacol. 2024 Dec;38(12):1122-1136. doi: 10.1177/02698811241282777. 
+Epub 2024 Oct 11.
+
+Cognitive effects, pharmacokinetics, and safety of zuranolone administered alone 
+or with alprazolam or ethanol in healthy adults in a phase 1 trial.
+
+Dunbar J(1), Walling DP(2), Hassman HA(3), Jain R(4), Czysz A(1), Nandy I(1), 
+Ona V(1), Moseley MK(5), Levin S(5), Maruff P(6).
+
+Author information:
+(1)Sage Therapeutics, Inc., Cambridge, MA, USA.
+(2)CenExel CNS, Los Alamitos, CA, USA.
+(3)CenExel Hassman Research Institute, Marlton, NJ, USA.
+(4)Texas Tech University School of Medicine, Austin, TX, USA.
+(5)Biogen, Inc., Cambridge, MA, USA.
+(6)Cogstate, New Haven, CT, USA.
+
+BACKGROUND: Zuranolone is an oral, once-daily, 14-day treatment course approved 
+for adults with postpartum depression in the United States.
+AIMS: To assess cognitive effects, pharmacokinetics, and safety of zuranolone, 
+alone or with alprazolam/ethanol.
+METHODS: This was a phase 1, two-part, two-period, randomized, double-blind, 
+placebo-controlled crossover trial. Participants received zuranolone 50 mg or 
+placebo once daily for 9 days, and additionally received alprazolam (1 mg, Part 
+A), ethanol (males: 0.7 g/kg; females: 0.6 g/kg, Part B), or corresponding 
+placebo on days 1, 5, and 9. Within each part, participants received all 
+treatment combinations. Cognition was assessed using a computerized test 
+battery; pharmacokinetics and safety were also evaluated.
+RESULTS: All participants (Part A, N = 24; Part B, N = 25) received ⩾1 dose of 
+zuranolone/placebo. Compared to placebo, zuranolone produced small-to-moderate 
+cognitive decline (Cohen's |d| = 0.126-0.76); effects were larger with 
+alprazolam (Cohen's |d| = 0.523-0.93) and ethanol (Cohen's |d| = 0.345-0.88). 
+Zuranolone coadministration with alprazolam (Cohen's |d| = 0.6-1.227) or ethanol 
+(Cohen's |d| = 0.054-0.5) generally worsened cognitive decline when compared 
+with zuranolone alone. Maximal pharmacodynamic effects occurred at approximately 
+5 h and were resolved by 12 h postbaseline. No pharmacokinetic interactions were 
+observed. Incidence of adverse events was similar between groups; most events 
+were mild or moderate in severity.
+CONCLUSION: A general small-to-moderate magnitude decline in cognition occurred 
+with zuranolone alone. Coadministration with alprazolam/ethanol increased the 
+magnitude, but not the duration, of effects compared with single-agent 
+administration. Zuranolone prescribers and patients should be aware of the 
+potential for increased central nervous system-depressant effects if 
+coadministered with GABAergic active compounds such as alprazolam and ethanol.
+
+DOI: 10.1177/02698811241282777
+PMCID: PMC11531078
+PMID: 39394685 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe 
+author(s) declared the following potential conflicts of interest with respect to 
+the research, authorship, and/or publication of this article: David P Walling 
+has received grants or contracts from Acadia, Alkermes, Allergan, Avanir, 
+Biogen, Boehringer Ingelheim, Cerevel, Indivior, IntraCellular, Janssen, J&J 
+PRD, Karuna, Lundbeck, Lupin, Lyndra, Merck, Neurocrine, Novartis, Noven, 
+Otsuka, Pfizer, Roche, Sage, Sunovion, Takeda; and consulting fees from Biogen, 
+Boehringer Ingelheim, Janssen, Lyndra, Merck, and Otsuka.Howard A Hassman is a 
+current employee of CenExel Hassman Research Institute, an independent research 
+site that conducts investigator-initiated and industry-sponsored pharmaceutical 
+trials. He has no conflicts of interest or bias in the conclusions of the 
+current investigation or promotion of the current study results.Paul Maruff is 
+an employee of Cogstate Ltd. and may hold stock and/or stock options.Rakesh Jain 
+reports research funding from AbbVie, Lilly, Lundbeck, Otsuka, Pfizer, Shire, 
+and Takeda; participation on advisory boards for Adamas, Alkermes, Corium, 
+Eisai, Janssen, Lilly, Lundbeck, Merck, Neos Therapeutics, Neurocrine 
+Biosciences, Otsuka, Pamlab, Pfizer, Sage, Shire, Sunovion, Supernus, Takeda, 
+Teva, and Usona; honoraria for speakers’ bureaus from AbbVie, Alkermes, 
+Almatica, Axsome, Corium, Eisai, Intra-Cellular Therapies, Ironshore 
+Pharmaceuticals, Janssen, Lilly, Lundbeck, Merck, Neos Therapeutics, Otsuka, 
+Pamlab, Pfizer, Shire, Sumitomo, Sunovion, Takeda, Tris Pharmaceuticals, and 
+Viatris; and consulting fees from AbbVie, Acadia, Adamas, Alfasigma, Alkermes, 
+Almatica, Axsome, Biogen, Boehringer Ingleheim, Cingulate Therapeutics, Corium, 
+Eisai, Evidera, Impel, Janssen, Lilly, Lundbeck, Merck, Neos Therapeutics, 
+Neurocrine Biosciences, Osmotica, Otsuka, Pamlab, Pfizer, Sage, Shire, Sumitomo, 
+Sunovion, Supernus, Takeda, Teva, Transcend Therapeutics, and Viatris.Andy Czysz 
+was an employee of Sage Therapeutics, Inc., at the time that the study was 
+completed, and may hold stock and/or stock options.Indrani Nandy, Victor Ona, 
+and Joi Dunbar are employees of Sage Therapeutics, Inc., and may hold stock 
+and/or stock options.Margaret K Moseley and Seth Levin are employees of Biogen 
+Inc. and may hold stock.
+
+
+2. Future Med Chem. 2025 Mar;17(6):681-692. doi: 10.1080/17568919.2025.2476388. 
+Epub 2025 Mar 17.
+
+Expecting medication misuse: a proactive approach to drug discovery to prevent 
+fatal overdose.
+
+Carry E(1), Vasilatis A(1), Johnson AL(2), Ryan JW(2).
+
+Author information:
+(1)Department of Drug Discovery, Zena Therapeutics Inc., North Brunswick, NJ, 
+USA.
+(2)Department of Biomedical Research Summer Internship Program, National 
+Institute of Drug Abuse, North Brunswick, NJ, USA.
+
+Misuse of central nervous system (CNS) depressants (alprazolam, fentanyl, etc.) 
+is a major cause of fatal overdose, with a high prevalence of deaths involving 
+polydrug interactions from the victim's own prescriptions. Thus, there is an 
+urgent need to improve the safety of CNS depressants to prevent fatalities. 
+Pharmacological pursuits aiming to prevent harm through the design of 
+non-addictive alternatives have either failed before clinical trials or produced 
+mediocre treatment alternatives. Therefore, we propose a new perspective for 
+medicinal chemists: rather than aiming to prevent misuse, we must design new 
+central nervous system (CNS) depressants under the expectation of misuse. By 
+shifting the design focus to partial modulators rather than full agonists, we 
+can develop novel chemical entities (NCEs) that intrinsically minimize physical 
+harm caused by misuse without sacrificing therapeutic efficacy. In this 
+perspective, we provide an overview of the two most widely misused classes of 
+medications (opioid and GABAA receptor modulators) in relation to 
+pharmacodynamic properties and clinical outcomes. We then suggest a drug 
+discovery pathway focused on physiological parameters. It is our opinion that 
+this approach would dramatically decrease the lethality of overdose and improve 
+outcomes of treatments for pain, anxiety, and withdrawal from alcohol, 
+benzodiazepines, and opioids.
+
+DOI: 10.1080/17568919.2025.2476388
+PMCID: PMC11938974
+PMID: 40091621 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant affiliations or 
+financial involvement with any organization or entity with a financial interest 
+in or financial conflict with the subject matter or materials discussed in the 
+manuscript. This includes employment, consultancies, honoraria, stock ownership 
+or options, expert testimony, grants or patents received or pending, or 
+royalties.
+
+
+3. J Psychiatr Res. 2022 Jul;151:299-303. doi: 10.1016/j.jpsychires.2022.04.033. 
+Epub 2022 May 1.
+
+Population-based signals of benzodiazepine drug interactions associated with 
+unintentional traumatic injury.
+
+Pham Nguyen TP(1), Soprano SE(2), Hennessy S(3), Brensinger CM(2), Bilker WB(4), 
+Miano TA(2), Acton EK(5), Horn JR(6), Chung SP(7), Dublin S(8), Oslin DW(9), 
+Wiebe DJ(10), Leonard CE(11).
+
+Author information:
+(1)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Translational Center of Excellence for Neuroepidemiology and Neurology 
+Outcomes Research, Department of Neurology, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA, USA.
+(2)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+(3)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Department of 
+Systems Pharmacology and Translational Therapeutics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, USA; Leonard Davis 
+Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(4)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Department of 
+Psychiatry, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, PA, USA.
+(5)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Translational Center of Excellence for Neuroepidemiology and Neurology 
+Outcomes Research, Department of Neurology, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA, USA; Department of Biostatistics, 
+Epidemiology, and Informatics, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA.
+(6)Department of Pharmacy, School of Pharmacy, University of Washington, 
+Seattle, WA, USA.
+(7)AthenaHealth, Inc., Watertown, MA, USA.
+(8)Kaiser Permanente Washington Health Research Institute, Kaiser Permanente 
+Washington, Seattle, WA, USA; Department of Epidemiology, School of Public 
+Health, University of Washington, Seattle, WA, USA.
+(9)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Department of Psychiatry, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA; Mental Illness Research, Education, and 
+Clinical Center, Corporal Michael J. Crescenz Veterans Administration Medical 
+Center, Philadelphia, PA, USA.
+(10)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Leonard Davis 
+Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, 
+USA; Penn Injury Science Center, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(11)Center for Pharmacoepidemiology Research and Training, Center for Clinical 
+Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, PA, 
+USA; Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Leonard Davis 
+Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, 
+USA. Electronic address: celeonar@pennmedicine.upenn.edu.
+
+Benzodiazepine receptor agonists and related medications, such as Z-drugs and 
+dual orexin receptor antagonists (BZDs), have been associated with unintentional 
+traumatic injury due to their central nervous system (CNS)-depressant effects. 
+Drug-drug interactions (DDIs) may contribute to the known relationship between 
+BZD use and unintentional traumatic injury, yet evidence is still lacking. We 
+conducted high-throughput pharmacoepidemiologic screening using the 
+self-controlled case series design in a large US commercial health insurance 
+database to identify potentially clinically relevant DDI signals among new users 
+of BZDs. We used conditional Poisson regression to estimate rate ratios (RRs) 
+between each co-exposure (vs. not) and unintentional traumatic injury (primary 
+outcome), typical hip fracture (secondary outcome), and motor vehicle crash 
+(secondary outcome). We identified 48 potential DDI signals (1.1%, involving 39 
+unique co-dispensed drugs), i.e., with statistically significant elevated 
+adjusted RRs for injury. Signals were strongest for DDI pairs involving 
+zolpidem, lorazepam, temazepam, alprazolam, eszopiclone, triazolam, and 
+clonazepam. We also identified four potential DDI signals for typical hip 
+fracture, but none for motor vehicle crash. Many signals have biologically 
+plausible explanations through additive or synergistic pharmacodynamic effects 
+of co-dispensed antidepressants, opioids, or muscle relaxants on CNS depression, 
+impaired psychomotor and cognitive function, and/or somnolence. While other 
+signals that lack an obvious mechanism may represent true associations that 
+place patients at risk of injury, it is also prudent to consider the roles of 
+chance, reverse causation, and/or confounding by indication, which merit further 
+exploration. Given the high-throughput nature of our investigation, findings 
+should be interpreted as hypothesis generating.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2022.04.033
+PMCID: PMC9513701
+PMID: 35526445 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential Conflicts of Interest Dr. Pham Nguyen 
+receives support from Acadia Pharmaceuticals Inc., unrelated to this project. 
+Dr. Leonard is an Executive Committee Member of and Dr. Hennessy founded and 
+directs the University of Pennsylvania’s Center for Pharmacoepidemiology 
+Research and Training. The Center receives funds from Pfizer and Sanofi to 
+support pharmacoepidemiology education. Dr. Leonard recently received honoraria 
+from the American College of Clinical Pharmacy Foundation, the University of 
+Massachusetts, and the University of Florida. Dr. Leonard receives support for 
+conference travel from John Wiley & Sons. Dr. Leonard is a Special Government 
+Employee of the United States (US) Food and Drug Administration and consults for 
+their Reagan-Udall Foundation. Dr. Leonard’s spouse is an employee of Merck; 
+neither Dr. Leonard nor his spouse own stock in the company. Dr. Horn is 
+coauthor and publisher of The Top 100 Drug Interactions: A Guide to Patient 
+Management and a consultant to Urovant Sciences and Seegnal US. Dr. Bilker 
+serves on multiple data safety monitoring boards for Genentech. Dr. Dublin has 
+research funding from GlaxoSmithKline. Dr. Hennessy has consulted for multiple 
+pharmaceutical companies. All other authors declared no competing interests for 
+this work. All authors read, revised, and approved the manuscript. We have not 
+submitted or published this work elsewhere in any form. The authors confirm 
+contributions to the submitted work as follows: study conception and design: 
+CEL, SH, SES, TPPN, WBB, TAM, EKA, SPC, SD, DWO, DJW; data analysis: CMB; 
+interpretation of results: CEL, TPPN; drafting of the manuscript: TPPN, SES. 
+Disclosures Dr. Pham Nguyen receives support from Acadia Pharmaceuticals Inc., 
+unrelated to this project. Dr. Leonard is an Executive Committee Member of and 
+Dr. Hennessy founded and directs the University of Pennsylvania’s Center for 
+Pharmacoepidemiology Research and Training. The Center receives funds from 
+Pfizer and Sanofi to support pharmacoepidemiology education. Dr. Leonard 
+recently received honoraria from the American College of Clinical Pharmacy 
+Foundation, the University of Massachusetts, and the University of Florida. Dr. 
+Leonard receives support for conference travel from John Wiley & Sons. Dr. 
+Leonard is a Special Government Employee of the United States (US) Food and Drug 
+Administration and consults for their Reagan-Udall Foundation. Dr. Leonard’s 
+spouse is an employee of Merck; neither Dr. Leonard nor his spouse own stock in 
+the company. Dr. Horn is coauthor and publisher of The Top 100 Drug 
+Interactions: A Guide to Patient Management and a consultant to Urovant Sciences 
+and Seegnal US. Dr. Bilker serves on multiple data safety monitoring boards for 
+Genentech. Dr. Dublin has research funding from GlaxoSmithKline. Dr. Hennessy 
+has consulted for multiple pharmaceutical companies. All other authors declared 
+no competing interests for this work.

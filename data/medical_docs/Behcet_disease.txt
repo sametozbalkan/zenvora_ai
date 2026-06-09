@@ -1,0 +1,151 @@
+=== PubMed: Behcet disease ===
+1. Expert Rev Clin Immunol. 2024 Dec;20(12):1437-1448. doi: 
+10.1080/1744666X.2024.2388693. Epub 2024 Aug 11.
+
+Behçet disease: epidemiology, classification criteria and treatment modalities.
+
+Fazaa A(1), Makhlouf Y(1), Ben Massoud F(1), Miladi S(1), Boussaa H(1), 
+Ouenniche K(1), Souebni L(1), Kassab S(1), Chekili S(1), Ben Abdelghani K(1), 
+Laatar A(1).
+
+Author information:
+(1)Department Rheumatolgy, Mongi Slim hospital, La marsa, Tunisia.
+
+INTRODUCTION: Behçet disease (BD) is an inflammatory multisystem disorder of 
+unknown etiology, believed to be triggered by infection and environmental 
+factors in genetically predisposed individuals. The significance of 
+understanding BD lies in its impact on global health due to its diverse clinical 
+manifestations and geographical distribution.
+AREAS COVERED: This review discusses the epidemiology of BD, emphasizing its 
+prevalence estimated at 10.3 (95% CI, 6.1, 17.7) per 100,000 population, with 
+higher rates observed in regions historically linked to the Silk Route. The 
+criteria for diagnosis are explored, focusing on clinical manifestations that 
+guide healthcare professionals in identifying and managing BD. Additionally, the 
+review encompasses treatment strategies, highlighting TNF-alpha inhibitors as 
+pivotal biologics and newer agents like IL-1 inhibitors and Ustekinumab that 
+broaden the therapeutic options for BD.
+EXPERT OPINION: Our work provides insights into the evolving landscape of 
+treatments for BD, emphasizing the expanding role of newer agents alongside 
+established therapies like TNF-alpha inhibitors.
+
+DOI: 10.1080/1744666X.2024.2388693
+PMID: 39101633 [Indexed for MEDLINE]
+
+
+2. Curr Rheumatol Rev. 2020;16(1):12-20. doi: 10.2174/1573397115666190415142426.
+
+Immunopathogenesis of Behçet Disease.
+
+Nieto IG(1), Alabau JLC(1).
+
+Author information:
+(1)Department of Immunology. Hospital Universitario Ramon y Cajal, Ctra. 
+Colmenar Viejo, Km 9,100. C.P. 28034. Madrid, Spain.
+
+BACKGROUND: Behçet's Disease (BD, OMIM 109650) is a chronic relapsing 
+inflammatory disease of unknown etiology with unpredictable exacerbations and 
+remissions. First described in 1937 by the Turkish dermatologist HulusiBehçet, 
+as a trisympton complex (oral and genital ulcers and uveitis), it is now 
+recognized as a multisystemic disease. The syndrome can manifest in diverse ways 
+and can involve nearly every organ system. Several studies have implicated T 
+cells and monocytes in the pathogenesis of BD especially when these cells are 
+stimulated by heat shock proteins and streptococcal antigen. This article 
+presents a review of the relevant published literature about the 
+immunopathogenesis of BD.
+RESULT: The authors used MeSH terms "Behçet's disease" with "pathophysiology," 
+"pathogenesis," "genetic", "epigenetic", "immunogenetic" or "immune response" to 
+search the PubMed database. All the relevant studies identified were included.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1573397115666190415142426
+PMID: 30987569 [Indexed for MEDLINE]
+
+
+3. Semin Cutan Med Surg. 2001 Mar;20(1):53-7. doi: 10.1053/sder.2001.23097.
+
+Behçet disease.
+
+Lee LA(1).
+
+Author information:
+(1)Department of Dermatology, University of Colorado School of Medicine, Denver, 
+USA. lela.lee@uchsc.edu
+
+Behçet's disease is a multisystem inflammatory disorder of unknown origin, 
+characterized by recurrent oral and genital ulcerations, ocular and cutaneous 
+lesions, arthritis, central nervous system, and vascular disease. There is no 
+pathognomonic laboratory test, but there are clinical criteria to assist in 
+establishing the diagnosis. Behçet's is most common along the Silk Road. It is 
+particularly common among persons who have the HLA-B51 major histocompatibility 
+type. Cutaneous lesions include pustules, erythema nodosum-like lesions, 
+Sweet's-like lesions, pyoderma gangrenosum-ike lesions, and pathergy. The major 
+cutaneous findings may be classified as neutrophilic vascular reactions. There 
+is considerable morbidity resulting from Behçet's disease, most notably a high 
+risk of blindness from ocular involvement. Mortality may occur as a result of 
+neurologic or vascular disease or gastrointestinal perforation.
+
+DOI: 10.1053/sder.2001.23097
+PMID: 11308137 [Indexed for MEDLINE]
+
+
+4. Clin Dermatol. 2017 Sep-Oct;35(5):421-434. doi: 
+10.1016/j.clindermatol.2017.06.004. Epub 2017 Jun 27.
+
+Behçet disease: New aspects.
+
+Bulur I(1), Onder M(2).
+
+Author information:
+(1)Eskişehir Osmangazi University, Faculty of Medicine, Department of 
+Dermatology, Eskisehir, Turkey. Electronic address: isilbulur@yahoo.com.
+(2)Gazi University Faculty of Medicine, Department of Dermatology Emeritus Prof, 
+Ankara, Turkey; Dermatology and Laser Center, Reduitstrasse 13, Landau, Germany. 
+Electronic address: meltemonder@yahoo.com.
+
+Behçet disease is currently considered an "autoinflammatory disease" triggered 
+by infection and environmental factors in genetically predisposed individuals. 
+Although the disease is characterized by recurrent oral and genital aphthous 
+ulcers and ocular involvement, it can affect multiple organ systems. Complex 
+aphthosis is characterized by recurrent oral and/or genital aphthous ulcers. It 
+is important to evaluate the patient with complex aphthosis for Behçet disease 
+and related systemic disorders. We discuss the etiopathogenesis, clinical 
+features, diagnostic criteria, and treatment approaches for complex aphthosis 
+and Behçet disease in light of the current literature.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clindermatol.2017.06.004
+PMID: 28916023 [Indexed for MEDLINE]
+
+
+5. Postgrad Med. 2023 Jan;135(sup1):33-43. doi: 10.1080/00325481.2022.2159205.
+Epub  2022 Dec 29.
+
+Behcet disease: an undifferentiating and complex vasculitis.
+
+Pak D(1), Park HJ(2).
+
+Author information:
+(1)Internal Medicine, St Mary Medical Center, Langhorne, Pennsylvania, USA.
+(2)Internal Medicine, Lankenau Medical Center, Wynnewood, Pennsylvania, USA.
+
+Behçet Disease is a relapsing and remitting variable vessel vasculitis 
+characterized by recurrent mucocutaneous ulcers that can involve almost every 
+organ system in the body. Indeed, the presence of recurrent oral or genital 
+ulcers with other auto-inflammatory symptoms should raise suspicion for this 
+elusive disease. It is unique among the vasculitides in that it can affect 
+vessels of small, medium, and large size and tends to involve venous rather than 
+arterial circulation, and its effects on the pulmonary venous circulation are 
+particularly notable for their role in disease mortality. Classically seen in 
+Mediterranean, Middle-Eastern, and eastern Asian countries, and relatively rare 
+in the United States, prevalence has been increasing, prompting an increased 
+need for internists to be aware of Behcet's clinical presentation and treatment. 
+As early recognition and diagnosis of the disease is key to successful treatment 
+and better prognosis, this review provides a brief summary of the current 
+etiological theories, important clinical manifestations, and treatments 
+including newer biologic alternatives.
+
+DOI: 10.1080/00325481.2022.2159205
+PMID: 36533384 [Indexed for MEDLINE]

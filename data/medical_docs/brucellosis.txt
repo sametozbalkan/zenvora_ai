@@ -1,0 +1,138 @@
+=== PubMed: brucellosis ===
+1. Lancet Infect Dis. 2007 Dec;7(12):775-86. doi: 10.1016/S1473-3099(07)70286-4.
+
+Human brucellosis.
+
+Franco MP(1), Mulder M, Gilman RH, Smits HL.
+
+Author information:
+(1)Department of Neurology, University of Minnesota, Minneapolis, MN, USA.
+
+Human brucellosis still presents scientists and clinicians with several 
+challenges, such as the understanding of pathogenic mechanisms of Brucella spp, 
+the identification of markers for disease severity, progression, and treatment 
+response, and the development of improved treatment regimens. Molecular studies 
+have shed new light on the pathogenesis of Brucella spp, and new technologies 
+have permitted the development of diagnostic tools that will be useful in 
+developing countries, where brucellosis is still a very common but often 
+neglected disease. However, further studies are needed to establish optimum 
+treatment regimens and local and international control programmes. This Review 
+summarises current knowledge of the pathogenic mechanisms, new diagnostic 
+advances, therapeutic options, and the situation of developing countries in 
+regard to human brucellosis.
+
+DOI: 10.1016/S1473-3099(07)70286-4
+PMID: 18045560 [Indexed for MEDLINE]
+
+
+2. N Engl J Med. 2005 Jun 2;352(22):2325-36. doi: 10.1056/NEJMra050570.
+
+Brucellosis.
+
+Pappas G(1), Akritidis N, Bosilkovski M, Tsianos E.
+
+Author information:
+(1)Brucellosis Unit, University Hospital of Ioannina, Ioannina, Greece. 
+gpele@otenet.gr
+
+Comment in
+    N Engl J Med. 2005 Sep 8;353(10):1071-2; author reply 1071-2. doi: 
+10.1056/NEJMc051799.
+    N Engl J Med. 2005 Sep 8;353(10):1071-2; author reply 1071-2.
+
+DOI: 10.1056/NEJMra050570
+PMID: 15930423 [Indexed for MEDLINE]
+
+
+3. Front Cell Infect Microbiol. 2025 Jul 8;15:1621230. doi: 
+10.3389/fcimb.2025.1621230. eCollection 2025.
+
+Brucellosis: Bacteriology, pathogenesis, epidemiology and role of the 
+metallophores in virulence: a review.
+
+Ghssein G(1), Ezzeddine Z(1), Tokajian S(2), Khoury CA(2), Kobeissy H(2), 
+Ibrahim JN(2), Iskandar C(3), Hassan HF(4).
+
+Author information:
+(1)Department of Laboratory Sciences, Faculty of Public Health, Islamic 
+University of Lebanon, Beirut, Lebanon.
+(2)Department of Biological Sciences, School of Arts and Sciences, Lebanese 
+American University, Beirut, Lebanon.
+(3)Department of Nutrition and Food Sciences, Faculty of Agricultural and Food 
+Sciences, American University of Beirut, Beirut, Lebanon.
+(4)Department of Nutrition and Food Science, School of Arts and Sciences, 
+Lebanese American University, Beirut, Lebanon.
+
+Brucellosis is a recognized zoonotic disease caused by various Brucella species 
+with significant economic and animal welfare ramifications worldwide. The spread 
+of brucellosis from domestic livestock and wild animals, as well as its 
+emergence in new regions, present novel epidemiological challenges. The 
+consumption of unpasteurized milk and dairy products from unsanitary farms in 
+endemic areas poses a serious risk to public health from brucellosis. 
+Determining the accurate prevalence of brucellosis, particularly in regions with 
+persistently high prevalence, basically requires careful and frequent 
+surveillance. Furthermore, transmission and detection of the illness in 
+non-endemic areas have become more complex due to global human and animal 
+migration as well as the trade in animal products. This review presents an 
+updated understanding of brucellosis, covering its classification and taxonomy, 
+pathogenesis, diagnosis and treatment approaches, epidemiology, available 
+control and prevention measures, antimicrobial resistance and the role of metal 
+uptake in bacterial virulence. It highlights the consequences of brucellosis for 
+global health and underscores the need for continuous research, knowledge 
+sharing, and interdisciplinary cooperation for effective disease control and 
+prevention.
+
+Copyright © 2025 Ghssein, Ezzeddine, Tokajian, Khoury, Kobeissy, Ibrahim, 
+Iskandar and Hassan.
+
+DOI: 10.3389/fcimb.2025.1621230
+PMCID: PMC12279742
+PMID: 40697821 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+4. J Am Vet Med Assoc. 2008 Sep 15;233(6):900-8. doi: 10.2460/javma.233.6.900.
+
+Brucellosis.
+
+Glynn MK(1), Lynn TV.
+
+Author information:
+(1)Bacterial Zoonoses Branch, Division of Foodborne, Bacterial and Mycotic 
+Diseases, National Center for Zoonotic, Vector-borne, and Enteric Diseases, 
+Centers for Disease Control and Prevention, Atlanta, GA 30333, USA.
+
+DOI: 10.2460/javma.233.6.900
+PMID: 18795849 [Indexed for MEDLINE]
+
+
+5. Acta Med Port. 1999 Dec;12(12):323-30.
+
+[Brucellosis].
+
+[Article in Portuguese]
+
+Aleixo MJ(1), Ferreira ML, Antunes F.
+
+Author information:
+(1)Serviço de Doenças Infecciosas, Hospital de Santa Maria, Lisboa.
+
+Brucellosis is a zoonosis, reported for the first time in 1859 by Marston, in 
+Malta. It has also been referred to as Mediterranean Fever, Malta Fever and 
+Bang's disease. Its causative agent was isolated by David Bruce in 1886; this 
+was Brucella melitensis: five different strains were later described: B. 
+abortus, B. suis, B. ovis, B. neotomae and B. canis. Recently, in 1994, the 
+isolation of Brucella was reported in marine mammals, eventually pathogenic to 
+man and unofficially designated "B. maris". Human brucellosis is still a public 
+health problem in countries where the infection has not been eradicated from the 
+animal hosts. When manifested, human disease may assume different courses, 
+widely known, but whose physiopathology is still not totally clear. Much is 
+already known about the agent's molecular biology and in vitro behaviour, but, 
+doubts persist about its in vivo activity, including in human infection. We 
+review some aspects of brucellosis, focusing on the pathogenesis, and referring 
+to new and potential diagnostic methods, therapy and prevention.
+
+PMID: 10892434 [Indexed for MEDLINE]

@@ -1,0 +1,145 @@
+=== PubMed: bisoprolol drug interactions beta blocker calcium ===
+1. Med Lett Drugs Ther. 2019 Sep 9;61(1580):137-144.
+
+Drugs for atrial fibrillation.
+
+[No authors listed]
+
+Comment in
+    JAMA. 2019 Nov 12;322(18):1819-1820. doi: 10.1001/jama.2019.15892.
+
+PMID: 31599871 [Indexed for MEDLINE]
+
+
+2. Clin Ther. 2009 Mar;31(3):447-62. doi: 10.1016/j.clinthera.2009.03.007.
+
+Nebivolol: a third-generation beta-blocker for hypertension.
+
+Cheng JW(1).
+
+Author information:
+(1)Massachusetts College of Pharmacy and Health Sciences, Boston, Massachusetts 
+02115, USA. judy.cheng@mcphs.edu
+
+BACKGROUND: Nebivolol is a third-generation beta(1)-selective beta-blocker that 
+is approved for the treatment of hypertension.
+OBJECTIVE: This article reviews the clinical pharmacology of nebivolol and its 
+efficacy and safety profile in clinical studies of hypertension (the US Food and 
+Drug Administration-approved indication) and heart failure (off-label use).
+METHODS: Pertinent articles were identified through searches of MEDLINE and 
+Current Contents from 1966 through December 15, 2008, using the terms nebivolol, 
+drug interaction, pharmacokinetics, and pharmacology. The reference lists of the 
+identified publications were reviewed for additional references. Abstracts 
+presented at meetings of the American Heart Association and the American Society 
+of Hypertension from 2006 through 2008 were also reviewed. All human clinical 
+trials were included, regardless of design.
+RESULTS: Twelve published clinical trials were identified that evaluated the use 
+of nebivolol in the management of hypertension; 1 was placebo controlled, 1 was 
+placebo and active controlled, and 10 involved direct comparisons with other 
+antihypertensive agents. Nebivolol was reported to be as effective in lowering 
+blood pressure (BP) as other beta-blockers (atenolol and bisoprolol), 
+angiotensin-converting enzyme inhibitors (lisinopril and enalapril), the 
+angiotensin-receptor blocker telmisartan, and calcium channel blockers 
+(nifedipine and amlodipine). No published studies were identified that evaluated 
+the effect of nebivolol on long-term cardiovascular outcomes. In data from a 
+study in heart failure, nebivolol was associated with a 14% reduction in 
+all-cause mortality and cardiovascular hospitalization at 12 months (P < 0.05). 
+In comparative clinical studies, nebivolol appeared to be well tolerated 
+relative to the other antihypertensive agents studied. The most commonly 
+reported adverse events with nebivolol were fatigue (4%-79%), headache (2%-24%), 
+paresthesia (7%-13%), bradycardia (6%-11%), rhinitis (1%-7%), and dizziness 
+(2%-5%). Because of differences in its pharmacologic properties, nebivolol may 
+have potential advantages in patients who are unable to tolerate traditional 
+beta-blockers (eg, patients with asthma or chronic obstructive pulmonary 
+disease, or men who experience erectile dysfunction while taking 
+antihypertensive therapy).
+CONCLUSIONS: Nebivolol is a cardioselective beta-blocker that has been reported 
+to be efficacious and well tolerated for achieving BP control in patients with 
+hypertension. Preliminary evidence suggests a potential for reduced mortality in 
+patients with heart failure.
+
+DOI: 10.1016/j.clinthera.2009.03.007
+PMID: 19393838 [Indexed for MEDLINE]
+
+
+3. Chem Pharm Bull (Tokyo). 2024;72(3):286-293. doi: 10.1248/cpb.c23-00687.
+
+Effect of Concomitant Drugs on Sodium Zirconium Cyclosilicate Hydrate in 
+Artificial Intestinal Juice.
+
+Mizuno Y(1), Ogata F(1), Uematsu Y(1)(2), Kawasaki N(1)(3).
+
+Author information:
+(1)Faculty of Pharmacy, Kindai University.
+(2)Department of Pharmacy, Kindai University Hospital.
+(3)Antiaging Center, Kindai University.
+
+To explore drug interactions involving sodium zirconium cyclosilicate hydrate 
+(SZC) and concomitant drugs like calcium antagonists (amlodipine and nifedipine) 
+and β-blockers (carvedilol and bisoprolol), we investigate how these concomitant 
+drugs influenced the administration of SZC in an artificial intestinal juice. 
+Initially, we assessed the potassium ion adsorption capacity, ranking it as 
+follows: calcium polystyrene sulfonate (CPS, 54.9 mg/g) < sodium polystyrene 
+sulfonate (SPS, 62.1 mg/g) < SZC (90.8 mg/g). However, the adsorption 
+equilibrium was achieved in the order of CPS ≒ SPS (within 1 min) < SZC (within 
+1 h). Subsequently, we determined the residual percentages of amlodipine, 
+nifedipine, carvedilol, and bisoprolol, finding them to be 79.0-91.9% for SZC, 
+0.38-38.4% for SPS, and 0.57-29.0% for CPS. These results suggest the efficacy 
+of SZC in managing hyperkalemia alongside concomitant drugs in an artificial 
+intestinal juice, with particular emphasis on amlodipine (calcium antagonist) 
+and carvedilol (β-blocker). Additionally, we identified the presence of carbon, 
+nitrogen, and oxygen components from both drugs on the SZC surface following 
+interaction. We also evaluated how amlodipine, nifedipine, carvedilol, and 
+bisoprolol affected the administration of SZC in the presence of potassium ions. 
+Our results indicate that potassium ions and concomitant drugs did not interfere 
+with each other in the artificial intestinal juice. These results offer valuable 
+insights into the administration of SZC in conjunction with concomitant drugs. 
+Lastly, the presented data shows qualitative results in this study.
+
+DOI: 10.1248/cpb.c23-00687
+PMID: 38447973 [Indexed for MEDLINE]
+
+
+4. Planta Med. 2023 Oct;89(13):1229-1235. doi: 10.1055/a-2111-7319. Epub 2023 Jun
+ 16.
+
+An Update on Impacts of Epigallocatechin Gallate Co-administration in Modulating 
+Pharmacokinetics of Statins, Calcium Channel Blockers, and Beta-blockers.
+
+Siew-Keah L(1), Jie TH(1), Ang-Lim C(2), Bin LK(3), Yik-Ling C(4).
+
+Author information:
+(1)M. Kandiah Faculty of Medicine and Health Sciences, Universiti Tunku Abdul 
+Rahman, Kajang, Malaysia.
+(2)Faculty of Medicine, Universiti Teknologi MARA, Sungai Buloh, Malaysia.
+(3)Faculty of Pharmacy, University of Cyberjaya, Cyberjaya, Malaysia.
+(4)Faculty of Pharmaceutical Sciences, UCSI University, Kuala Lumpur, Malaysia.
+
+Brewed green tea, green tea extract, and its primary active compound, 
+epigallocatechin gallate, may interact with drugs and alter the drug's 
+therapeutic effectiveness, ultimately leading to therapeutic failure or drug 
+overdose. Several isolated reports have claimed that epigallocatechin gallate is 
+the main active ingredient that causes these effects. While a few studies aimed 
+to uncover evidence of epigallocatechin gallate-drug interactions, no study has 
+thoroughly and collectively reviewed them. Epigallocatechin gallate is a 
+potential cardioprotective agent used by many patients with cardiovascular 
+diseases as a complementary medicine alongside conventional modern medications, 
+either with or without the knowledge of their physicians. Therefore, this review 
+focuses on the impact of concurrent epigallocatechin gallate supplementation on 
+pharmacokinetics and pharmacodynamics of several commonly used cardiovascular 
+drugs (statins, beta-blockers, and calcium channel blockers). The PubMed index 
+was searched for key words related to this review, without year limit, and the 
+results were analyzed for interactions of cardiovascular drugs with 
+epigallocatechin gallate. This review concludes that epigallocatechin gallate 
+increases systemic circulation of several statins (simvastatin, fluvastatin, 
+rosuvastatin) and calcium channel blockers (verapamil), but decreases the 
+bioavailability of beta-blockers (nadolol, atenolol, bisoprolol). Further 
+studies on its clinical significance in affecting drug efficacy are required.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2111-7319
+PMID: 37328148 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

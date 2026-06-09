@@ -1,0 +1,184 @@
+=== PubMed: CRP inflammation high causes treatment ===
+1. Front Pediatr. 2026 Apr 15;14:1794686. doi: 10.3389/fped.2026.1794686. 
+eCollection 2026.
+
+Infliximab for intravenous immunoglobulin-resistant Kawasaki disease complicated 
+with cholestatic hepatitis: a case report and discussion on coronary artery 
+aneurysm prevention.
+
+Yongxing Z(1), Zheng Z(1), Qi Z(2), Fangyan Y(1).
+
+Author information:
+(1)Shaoxing Maternal and Child Health Hospital, Shaoxing, Zhejiang, China.
+(2)Children's Hospital of Zhejiang University School of Medicine, Hangzhou, 
+Zhejiang, China.
+
+BACKGROUND: Kawasaki disease (KD) is the leading cause of acquired heart disease 
+in children under 5 years of age worldwide. Approximately 15%-20% of KD patients 
+are resistant to intravenous immunoglobulin (IVIG), and these patients have a 
+significantly higher risk of developing coronary artery aneurysms (CAAs), a 
+severe complication leading to long-term cardiovascular morbidity. Cholestatic 
+hepatitis is a rare manifestation of KD, which further increases the difficulty 
+of clinical treatment. This study reports a case of IVIG-resistant KD 
+complicated with cholestatic hepatitis treated with infliximab, and explores the 
+clinical challenges in preventing CAA progression.
+CASE REPORT: A 2-year-old Han Chinese male presented with persistent fever as 
+the initial symptom, followed by typical clinical manifestations of KD and 
+cholestatic hepatitis. Initial treatment with high-dose IVIG (2 g/kg) combined 
+with clopidogrel (1 mg/kg/day) was ineffective. A second dose of IVIG (1 g/kg) 
+combined with high-dose methylprednisolone pulse therapy also failed to control 
+the disease. On the ninth day of illness, salvage therapy with the tumor 
+necrosis factor-alpha (TNF-α) inhibitor infliximab (5 mg/kg) was administered, 
+and the child's fever subsided rapidly within 24 h. Subsequent laboratory 
+examinations showed that inflammatory indicators [C-reactive protein (CRP), 
+erythrocyte sedimentation rate (ESR)] and liver function indicators [alanine 
+aminotransferase (ALT), aspartate aminotransferase (AST), bilirubin, total bile 
+acids (TBA)] improved significantly. However, despite effective inflammation 
+control, echocardiographic follow-up revealed progressive development of CAAs, 
+eventually forming giant CAAs.
+CONCLUSION: Infliximab can effectively suppress systemic inflammation and 
+improve liver function in patients with IVIG-resistant KD complicated with 
+cholestatic hepatitis. However, the development of giant CAAs in this case 
+underscores the dissociation between systemic inflammation control and coronary 
+protection, highlighting the critical importance of optimizing the timing of 
+infliximab administration. Further randomized controlled trials are needed to 
+clarify the optimal timing, dose, and patient selection criteria for infliximab 
+in the treatment of IVIG-resistant KD.
+
+© 2026 Yongxing, Zheng, Qi and Fangyan.
+
+DOI: 10.3389/fped.2026.1794686
+PMCID: PMC13125047
+PMID: 42063444
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Immun Inflamm Dis. 2026 Apr;14(4):e70427. doi: 10.1002/iid3.70427.
+
+Inflammatory Biomarkers as Mediators of the Effect Between High-Dose 
+Corticosteroid Therapy and Mortality in COVID-19-Related ARDS: A Causal 
+Mediation Analysis.
+
+Daenen K(1)(2), Boyd A(3)(4)(5), Dalm VASH(6)(7), Huijben JA(1), Stoof SCM(1), 
+Bos LDJ(8)(9), Gommers D(1), Schinkel J(10), van Gorp ECM(2)(11), Endeman 
+H(1)(12).
+
+Author information:
+(1)Department of Intensive Care, Erasmus University Medical Center, Rotterdam, 
+the Netherlands.
+(2)Department of Viroscience, Erasmus University Medical Center, Rotterdam, the 
+Netherlands.
+(3)Stichting HIV Monitoring, Amsterdam, the Netherlands.
+(4)Infectious Diseases, Amsterdam University Medical Centers, Amsterdam Medical 
+Center, University of Amsterdam, Amsterdam, the Netherlands.
+(5)Amsterdam Institute for Infection and Immunity, Infectious Diseases, 
+Amsterdam, the Netherlands.
+(6)Department of Immunology, Erasmus University Medical Center Rotterdam, 
+Rotterdam, the Netherlands.
+(7)Department of Internal Medicine, Division of Allergy & Clinical Immunology, 
+Erasmus University Medical Center Rotterdam, Rotterdam, the Netherlands.
+(8)Department of Intensive Care, Amsterdam University Medical Centers, Academic 
+Medical Centre, University of Amsterdam, Amsterdam, the Netherlands.
+(9)Laboratory of Experimental Intensive Care and Anesthesiology, Amsterdam 
+University Medical Centers, Academic Medical Centre, University of Amsterdam, 
+Amsterdam, the Netherlands.
+(10)Department of Medical Microbiology & Infection Prevention, Amsterdam 
+University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands.
+(11)Department of Internal Medicine, Erasmus University Medical Center, 
+Rotterdam, the Netherlands.
+(12)Department of Intensive Care, OLVG, Amsterdam, the Netherlands.
+
+BACKGROUND: Treatment guidelines for acute respiratory distress syndrome (ARDS) 
+recommend the use of high-dose corticosteroids based on their anti-inflammatory 
+effects, yet the efficacy of this therapeutic strategy in patients with COVID-19 
+related ARDS is inconclusive. To more thoroughly understand the mechanism of 
+action for high-dose corticosteroids in patients with COVID-19-related ARDS, we 
+hypothesized that the reduction of inflammatory markers induced by high-dose 
+corticosteroids would reduce mortality (i.e., inflammation as a mediator).
+DESIGN AND METHODS: In this retrospective cohort study, we included patients 
+with COVID-19-related ARDS admitted to the intensive care unit (ICU) of an 
+academic hospital in Rotterdam, the Netherlands between March 2020 and June 
+2022. High-dose corticosteroids were defined as > 6 mg of dexamethasone/day or 
+equivalent. Biomarkers included C-reactive protein (CRP), d-dimer, ferritin, 
+leukocyte count, interleukin-6 (IL-6), lactate dehydrogenase, and 
+neutrophil-to-lymphocyte ratio (NLR). Using a causal mediation framework, we 
+estimated the average mediation effect (AME) and % mediation for each biomarker, 
+allowing to quantify the degree to which continuous levels of inflammatory 
+markers mediate the association between receiving high-dose corticosteroids and 
+mortality. The models used in this framework accounted for time-varying 
+treatment/mediation with inverse probability of treatment weights, determined 
+from the covariates PaO2/FiO2 ratio, sex at birth, age, NLR, and ICU length of 
+stay.
+RESULTS: Of the 327 patients included, 122 (37.3%) received high-dose 
+corticosteroids. The risk of death was higher in patients who did vs. did not 
+receive high-dose corticosteroids [incidence rate = 0.54, 95% confidence 
+interval (CI) = 0.42-0.71 and 0.21, 95% CI = 0.15-0.29/person-month, 
+respectively; p < 0.001]. This effect remained in most analyses accounting for 
+time-varying treatment/mediation. The association between high-dose 
+corticosteroids and mortality was reduced (i.e., mediated) with lower levels of 
+CRP (AME = -0.006, 95% CI = -0.011, -0.002; %-mediation = -82.0%), d-dimer 
+(AME = -0.002, 95% CI = -0.005, -0.001; %-mediation = -33.1%), and IL-6 
+(AME = -0.002, 95% CI = -0.004, -0.001; %-mediation = -25.5%). There was no 
+evidence of mediation for other biomarkers.
+CONCLUSION: CRP, d-dimer, and IL-6 mediated the association between high-dose 
+corticosteroids and mortality. When inflammation was reduced, the deleterious 
+effect of high-dose corticosteroids was eliminated.
+
+© 2026 The Author(s). Immunity, Inflammation and Disease published by John Wiley 
+& Sons Ltd.
+
+DOI: 10.1002/iid3.70427
+PMCID: PMC13111805
+PMID: 42036975 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Int J Biol Macromol. 2026 May;362:152210. doi: 10.1016/j.ijbiomac.2026.152210.
+ Epub 2026 Apr 23.
+
+Gastrointestinal digestion unlocks the anti-inflammatory and gut-protective 
+potential of Chlamydomonas reinhardtii protein in colitis: Insights into 
+microbial modulation.
+
+Xing X(1), Ying K(1), Tian Q(1), Wang Z(1), Zhang Q(1), Liu C(2), Zheng L(3).
+
+Author information:
+(1)Engineering Research Center of Bio-Process, Ministry of Education, School of 
+Food and Biological Engineering, Hefei University of Technology, Hefei, 230009, 
+China.
+(2)Engineering Research Center of Bio-Process, Ministry of Education, School of 
+Food and Biological Engineering, Hefei University of Technology, Hefei, 230009, 
+China. Electronic address: changhong22@hfut.edu.cn.
+(3)Engineering Research Center of Bio-Process, Ministry of Education, School of 
+Food and Biological Engineering, Hefei University of Technology, Hefei, 230009, 
+China. Electronic address: lzheng@hfut.edu.cn.
+
+Chlamydomonas reinhardtii (C. reinhardtii) is an emergent edible microalga with 
+high nutritional value. This study investigated how gastrointestinal digestion 
+influences the anti-inflammatory and intestinal-protective properties of its 
+protein (CRP) against colitis. In vitro digestion of CRP yielded a hydrolysate 
+(CRPH) with enhanced antioxidant capacities and potent anti-inflammatory effects 
+in LPS-stimulated RAW 264.7 macrophages, reducing pro-inflammatory cytokines and 
+NO levels. In vivo, oral CRP supplementation in dextran sulfate sodium 
+(DSS)-induced colitis mice significantly alleviated disease severity, restored 
+intestinal barrier integrity by up-regulating tight junction proteins, and 
+bolstered colonic antioxidant defenses. Furthermore, CRP modulated the gut 
+microbiota, enriching homeostasis-associated taxa while suppressing 
+inflammation-related genera. These descriptive findings highlight digested C. 
+reinhardtii protein as a promising functional food ingredient for managing 
+colitis, providing a solid basis for future structural and mechanistic 
+investigations.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2026.152210
+PMID: 42034139 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

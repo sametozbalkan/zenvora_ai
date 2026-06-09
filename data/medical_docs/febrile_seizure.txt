@@ -1,0 +1,240 @@
+=== PubMed: febrile seizure ===
+1. Eur J Pediatr. 2021 Apr;180(4):987-997. doi: 10.1007/s00431-020-03845-8. Epub 
+2020 Oct 30.
+
+Use of antipyretics for preventing febrile seizure recurrence in children: a 
+systematic review and meta-analysis.
+
+Hashimoto R(1)(2), Suto M(3), Tsuji M(3), Sasaki H(4), Takehara K(3), Ishiguro 
+A(5), Kubota M(6).
+
+Author information:
+(1)Center for Postgraduate Education and Training, National Center for Child 
+Health and Development, 2-10-1 Okura, Setagaya-ku, Tokyo, 157-8535, Japan. 
+hashimoto-r@ncchd.go.jp.
+(2)Department of Health Policy, National Center for Child Health and 
+Development, Tokyo, Japan. hashimoto-r@ncchd.go.jp.
+(3)Department of Health Policy, National Center for Child Health and 
+Development, Tokyo, Japan.
+(4)Medical Support Center for Japan Environment and Children's Study, National 
+Center for Child Health and Development, Tokyo, Japan.
+(5)Center for Postgraduate Education and Training, National Center for Child 
+Health and Development, 2-10-1 Okura, Setagaya-ku, Tokyo, 157-8535, Japan.
+(6)Division of Neurology, National Center for Child Health and Development, 
+Tokyo, Japan.
+
+The efficacy of antipyretics for preventing febrile seizure recurrence has been 
+reported by a recent study, and the results might overturn previous evidence. We 
+systematically reviewed the efficacy of antipyretics in the prevention of 
+febrile seizure recurrence in children focused on the timing of its 
+administration. We searched the Medline, Embase, and Cochrane Central Register 
+of Controlled Trials databases for randomized and quasi-randomized trials and 
+prospective non-randomized studies of aged up to 60 months, diagnosed with 
+febrile seizure, who were treated with antipyretics. Data were extracted from 
+eight studies. Only one study reported that antipyretics prevented the 
+recurrence of febrile seizures within the same fever episode (9.1% in the 
+acetaminophen group vs. 23.5% in the control group, p < 0.01). Four studies 
+found no evidence for the efficacy of antipyretics in preventing febrile seizure 
+recurrence in distant fever episodes (odds ratio, 0.92; 95% confidence interval, 
+0.57-1.48, for two randomized controlled studies).Conclusion: This review 
+provides very limited support for the use of antipyretics in preventing febrile 
+seizure recurrence within the same fever episode and no evidence for its use in 
+distant fever episodes. New studies are required to evaluate this topic further 
+and determine whether the effectiveness of antipyretics is based on intervention 
+timing. What is Known: • Reviews of prophylactic drug management among febrile 
+seizure children found that antipyretics had no significant benefits. • Recent 
+data suggest that antipyretics are effective in preventing febrile seizures. 
+What is New: • Weak evidence suggests a possible role in preventing febrile 
+seizure recurrence within the same fever episode. • There is clearly no role for 
+antipyretic prophylaxis in preventing febrile seizures during distant fever 
+episodes.
+
+DOI: 10.1007/s00431-020-03845-8
+PMID: 33125519 [Indexed for MEDLINE]
+
+
+2. Pediatrics. 2011 Feb;127(2):389-94. doi: 10.1542/peds.2010-3318.
+
+Neurodiagnostic evaluation of the child with a simple febrile seizure.
+
+Subcommittee on Febrile Seizures; American Academy of Pediatrics.
+
+Collaborators: Duffner PK, Berman PH, Baumann RJ, Fisher PG, Green JL, Schneider 
+S, Davidson C.
+
+OBJECTIVE: To formulate evidence-based recommendations for health care 
+professionals about the diagnosis and evaluation of a simple febrile seizure in 
+infants and young children 6 through 60 months of age and to revise the practice 
+guideline published by the American Academy of Pediatrics (AAP) in 1996.
+METHODS: This review included search and analysis of the medical literature 
+published since the last version of the guideline. Physicians with expertise and 
+experience in the fields of neurology and epilepsy, pediatrics, epidemiology, 
+and research methodologies constituted a subcommittee of the AAP Steering 
+Committee on Quality Improvement and Management. The steering committee and 
+other groups within the AAP and organizations outside the AAP reviewed the 
+guideline. The subcommittee member who reviewed the literature for the 1996 AAP 
+practice guidelines searched for articles published since the last guideline 
+through 2009, supplemented by articles submitted by other committee members. 
+Results from the literature search were provided to the subcommittee members for 
+review. Interventions of direct interest included lumbar puncture, 
+electroencephalography, blood studies, and neuroimaging. Multiple issues were 
+raised and discussed iteratively until consensus was reached about 
+recommendations. The strength of evidence supporting each recommendation and the 
+strength of the recommendation were assessed by the committee member most 
+experienced in informatics and epidemiology and graded according to AAP policy.
+CONCLUSIONS: Clinicians evaluating infants or young children after a simple 
+febrile seizure should direct their attention toward identifying the cause of 
+the child's fever. Meningitis should be considered in the differential diagnosis 
+for any febrile child, and lumbar puncture should be performed if there are 
+clinical signs or symptoms of concern. For any infant between 6 and 12 months of 
+age who presents with a seizure and fever, a lumbar puncture is an option when 
+the child is considered deficient in Haemophilus influenzae type b (Hib) or 
+Streptococcus pneumoniae immunizations (ie, has not received scheduled 
+immunizations as recommended), or when immunization status cannot be determined, 
+because of an increased risk of bacterial meningitis. A lumbar puncture is an 
+option for children who are pretreated with antibiotics. In general, a simple 
+febrile seizure does not usually require further evaluation, specifically 
+electroencephalography, blood studies, or neuroimaging.
+
+DOI: 10.1542/peds.2010-3318
+PMID: 21285335 [Indexed for MEDLINE]
+
+
+3. Am Fam Physician. 2019 Apr 1;99(7):445-450.
+
+Febrile Seizures: Risks, Evaluation, and Prognosis.
+
+Smith DK(1), Sadler KP(2), Benedum M(3).
+
+Author information:
+(1)Naval Hospital Yokosuka, Branch Health Clinic Diego Garcia, Diego Garcia, 
+British Indian Ocean Territory.
+(2)Naval Hospital Jacksonville, Jacksonville, FL, USA.
+(3)University of South Carolina Greenville School of Medicine, Greenville, SC, 
+USA.
+
+A febrile seizure is a seizure occurring in a child six months to five years of 
+age that is accompanied by a fever (100.4°F or greater) without central nervous 
+system infection. Febrile seizures are classified as simple or complex. A 
+complex seizure lasts 15 minutes or more, is associated with focal neurologic 
+findings, or recurs within 24 hours. The cause of febrile seizures is likely 
+multifactorial. Viral illnesses, certain vaccinations, and genetic 
+predisposition are common risk factors that may affect a vulnerable, developing 
+nervous system under the stress of a fever. Children who have a simple febrile 
+seizure and are well-appearing do not require routine diagnostic testing 
+(laboratory tests, neuroimaging, or electroencephalography), except as indicated 
+to discern the cause of the fever. For children with complex seizures, the 
+neurologic examination should guide further evaluation. For seizures lasting 
+more than five minutes, a benzodiazepine should be administered. Febrile 
+seizures are not associated with increased long-term mortality or negative 
+effects on future academic progress, intellect, or behavior. Children with 
+febrile seizures are more likely to have recurrent febrile seizures. However, 
+given the benign nature of febrile seizures, the routine use of antiepileptics 
+is not indicated because of adverse effects of these medications. The use of 
+antipyretics does not decrease the risk of febrile seizures, although rectal 
+acetaminophen reduced the risk of short-term recurrence following a febrile 
+seizure. Parents should be educated on the excellent prognosis of children with 
+febrile seizures and provided with practical guidance on home management of 
+seizures.
+
+PMID: 30932454 [Indexed for MEDLINE]
+
+
+4. Ital J Pediatr. 2024 May 12;50(1):95. doi: 10.1186/s13052-024-01666-1.
+
+Best practices for the management of febrile seizures in children.
+
+Ferretti A(1), Riva A(2)(3), Fabrizio A(4), Bruni O(5), Capovilla G(6)(7), 
+Foiadelli T(8), Orsini A(9), Raucci U(10), Romeo A(11), Striano P(2)(3), Parisi 
+P(4).
+
+Author information:
+(1)Pediatrics Unit, Neurosciences, Mental Health and Sensory Organ (NESMOS) 
+Department, Faculty of Medicine and Psychology, S. Andrea Hospital, Sapienza 
+University, via di Grottarossa 1035/1039, Rome, 00189, Italy. 
+alessandro.ferretti@uniroma1.it.
+(2)IRCCS Giannina Gaslini, Genoa, Italy.
+(3)Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health, University of Genoa, Genoa, Italy.
+(4)Pediatrics Unit, Neurosciences, Mental Health and Sensory Organ (NESMOS) 
+Department, Faculty of Medicine and Psychology, S. Andrea Hospital, Sapienza 
+University, via di Grottarossa 1035/1039, Rome, 00189, Italy.
+(5)Department of Social and Developmental Psychology, S. Andrea Hospital, 
+Sapienza University, Rome, Italy.
+(6)Child Neuropsychiatry Department, Epilepsy Center, Mantova, Italy.
+(7)C. Poma HospitalFondazione Poliambulanza, Brescia, Italy.
+(8)Pediatric Clinic, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy.
+(9)Pediatric Neurology, Pediatric University Department, Azienda Ospedaliera 
+Universitaria Pisana, University of Pisa, Pisa, Italy.
+(10)General and Emergency Department, Bambino Gesù Children's Hospital, IRCCS, 
+Rome, Italy.
+(11)Fatebenefratelli Hospital, ASST Fatebenefratelli-Sacco, Milan, Italy.
+
+Febrile seizures (FS) are commonly perceived by healthcare professionals as a 
+self-limited condition with a generally 'benign' nature. Nonetheless, they 
+frequently lead to pediatric consultations, and their management can vary 
+depending on the clinical context. For parents and caregivers, witnessing a 
+seizure can be a distressing experience, significantly impacting their quality 
+of life. In this review, we offer an in-depth exploration of FS management, 
+therapeutic interventions, and prognostic factors, with the aim of providing 
+support for physicians and enhancing communication with families. We conducted a 
+comprehensive literature search using the PubMed and Web of Science databases, 
+spanning the past 50 years. The search terms utilized included "febrile 
+seizure," "complex febrile seizure," "simple febrile seizure," in conjunction 
+with "children" or "infant." Only studies published in English or those 
+presenting evidence-based data were included in our assessment. Additionally, we 
+conducted a cross-reference search to identify any additional relevant data 
+sources. Our thorough literature search resulted in a compilation of references, 
+with carefully selected papers thoughtfully integrated into this review.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13052-024-01666-1
+PMCID: PMC11089695
+PMID: 38735928 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+5. Dev Med Child Neurol. 2020 Nov;62(11):1245-1249. doi: 10.1111/dmcn.14642. Epub
+ 2020 Aug 3.
+
+Current understanding of febrile seizures and their long-term outcomes.
+
+Mewasingh LD(1), Chin RFM(2)(3), Scott RC(4)(5).
+
+Author information:
+(1)Department of Paediatric Neurology, Imperial College Healthcare NHS Trust, 
+London, UK.
+(2)Muir Maxwell Epilepsy Centre, Centre for Clinical Brain Sciences and MRC 
+Centre for Reproductive Health, The University of Edinburgh, Edinburgh, UK.
+(3)The Royal Hospital for Sick Children, Edinburgh, UK.
+(4)Department of Neurological Sciences, University of Vermont, Burlington, VT, 
+USA.
+(5)Department of Neurology, Great Ormond Street Hospital NHS Trust, London, UK.
+
+In this paper we reframe febrile seizures, which are viewed as a symptom of an 
+underlying brain disorder. The general observation is that a small cohort of 
+children will develop febrile seizures (2-5% in the West), while the greater 
+majority will not. This suggests that the brain that generates a seizure, in an 
+often-mild febrile context, differs in some ways from the brain that does not. 
+While the underlying brain disorder appears to have no significant adverse 
+implication in the majority of children with febrile seizures, serious long-term 
+outcomes (cognitive and neuropsychiatric) have been recently reported, including 
+sudden death. These adverse events likely reflect the underlying intrinsic brain 
+pathology, as yet undefined, of which febrile seizures are purely a 
+manifestation and not the primary cause. A complex interaction between 
+brain-genetics-epigenetics-early environment is likely at play. In view of this 
+emerging data, it is time to review whether febrile seizures are a single 
+entity, with a new and multidimensional approach needed to help with predicting 
+outcome. WHAT THIS PAPER ADDS: A febrile seizure is due to a brain's aberrant 
+response to high temperature. Problems in a small group of children are now 
+being identified later in life. There is no clear correlation between duration 
+or other characteristics of febrile seizures and subsequent mesial temporal 
+sclerosis.
+
+© 2020 Mac Keith Press.
+
+DOI: 10.1111/dmcn.14642
+PMID: 32748466 [Indexed for MEDLINE]

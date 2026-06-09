@@ -1,0 +1,117 @@
+=== PubMed: katarakt ===
+1. Ugeskr Laeger. 2021 Apr 26;183(17):V71048.
+
+[Spontan remission af traumatisk katarakt].
+
+[Article in Danish]
+
+Hansen BL(1), Johannesson S.
+
+Author information:
+(1)Bettina.Lindskov.Andersen@rsyd.dk.
+
+PMID: 33913427 [Indexed for MEDLINE]
+
+
+2. Klin Monbl Augenheilkd. 2022 Apr;239(4):615-633. doi: 10.1055/a-1758-3451.
+Epub  2022 Mar 4.
+
+[Age-related Cataract].
+
+[Article in German]
+
+Neuhann I, Neuhann L, Neuhann T.
+
+The purpose of this article is a condensed overview of contemporaneous "state of 
+art and knowledge" of age-related cataract. As an introduction, some aspects of 
+terminology, epidemiology, lens anatomy and pathophysiology of age-related 
+cataract, selected for clinical interest and relevance, are outlined. Clinical 
+aspects include signs and symptoms: Objective criteria for cortical, nuclear and 
+posterior subcapsular cataract are described, followed by typical symptoms such 
+as decreased visual acuity, contrast sensitivity and foggy vision, altered 
+colour perception, decreased mesopic and scotopic vision, glare, myopization and 
+monocular diplopia. Diagnostic evaluation consists of a general ophthalmic 
+examination, including history, refraction and vision testing, tonometry and 
+morphologic examination of anterior and posterior segment, and is supplemented 
+by special tests and examinations, such as interference vision (retinometer), 
+keratometry including corneal topo-/tomography, biometry (ultrasound and 
+optical), specular microscopy of the corneal endothelium and OCT of the central 
+retina. Treatment is exclusively surgical: Evaluating the indication for surgery 
+individually, weighing chances and risks, determining individual decisions such 
+as anesthesia, surgical technical options, target refraction and intraocular 
+lens options is discussed in detail. Finally, some perioperative considerations 
+for medical treatment and infection prophylaxis are outlined. The last section 
+deals with short- and long-term complications and their management - including 
+early pressure rises, corneal edema, inflammatory response and endophthalmitis, 
+and, in the longer term, secondary cataract, refractive problems, cystoid 
+macular edema and retinal detachment.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-1758-3451
+PMID: 35253130 [Indexed for MEDLINE]
+
+Conflict of interest statement: Erklärung zu finanziellen Interessen 
+Forschungsförderung erhalten: nein; Honorar/geldwerten Vorteil für 
+Referententätigkeit erhalten: nein; Bezahlter Berater/interner 
+Schulungsreferent/Gehaltsempfänger: nein; Patent/Geschäftsanteile/Aktien 
+(Autor/Partner, Ehepartner, Kinder) an im Bereich der Medizin aktiven Firma: 
+nein; Patent/Geschäftsanteile/Aktien (Autor/Partner, Ehepartner, Kinder) an zu 
+Sponsoren dieser Fortbildung bzw. durch die Fortbildung in ihren 
+Geschäftsinteressen berührten Firma: nein. Erklärung zu nichtfinanziellen 
+Interessen Die Autorinnen/Autoren geben an, dass kein Interessenkonflikt 
+besteht.
+
+
+3. Ophthalmologie. 2023 Mar;120(3):237. doi: 10.1007/s00347-022-01787-0. Epub
+2022  Dec 22.
+
+[Hyperferritinemia cataract syndrome].
+
+[Article in German]
+
+Kessler LJ(1), Auffarth GU(2), Khoramnia R(2).
+
+Author information:
+(1)Augenklinik, Universitätsaugenklinik Heidelberg, Im Neuenheimer Feld 400, 
+69120, Heidelberg, Deutschland. lucyjoanne.kessler@med.uni-heidelberg.de.
+(2)Augenklinik, Universitätsaugenklinik Heidelberg, Im Neuenheimer Feld 400, 
+69120, Heidelberg, Deutschland.
+
+DOI: 10.1007/s00347-022-01787-0
+PMID: 36547669 [Indexed for MEDLINE]
+
+
+4. Klin Monbl Augenheilkd. 2025 Aug;242(8):793-794. doi: 10.1055/a-2579-7687.
+Epub  2025 Aug 21.
+
+Katarakt und refraktive Chirurgie: Erweiterung des Spektrums.
+
+[Article in German]
+
+Khoramnia R, Kohnen T.
+
+DOI: 10.1055/a-2579-7687
+PMID: 40840454
+
+Conflict of interest statement: Die Autorinnen/Autoren geben an, dass kein 
+Interessenkonflikt besteht.
+
+
+5. Ophthalmologie. 2024 Jun;121(6):440. doi: 10.1007/s00347-024-02001-z. Epub
+2024  Feb 23.
+
+[Congenital lamellar cataract].
+
+[Article in German]
+
+Kessler LJ(1), Naujokaitis T(1), Auffarth GU(1), Khoramnia R(2).
+
+Author information:
+(1)Augenklinik, Universitätsklinikum Heidelberg, Im Neuenheimer Feld 400, 69120, 
+Heidelberg, Deutschland.
+(2)Augenklinik, Universitätsklinikum Heidelberg, Im Neuenheimer Feld 400, 69120, 
+Heidelberg, Deutschland. ramin.khoramnia@med.uni-heidelberg.de.
+
+DOI: 10.1007/s00347-024-02001-z
+PMID: 38396077 [Indexed for MEDLINE]

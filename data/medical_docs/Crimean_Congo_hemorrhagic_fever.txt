@@ -1,0 +1,226 @@
+=== PubMed: Crimean Congo hemorrhagic fever ===
+1. Med Mal Infect. 2019 Nov;49(8):574-585. doi: 10.1016/j.medmal.2019.09.005.
+Epub  2019 Oct 10.
+
+Crimean-Congo hemorrhagic fever: An update.
+
+Fillâtre P(1), Revest M(2), Tattevin P(2).
+
+Author information:
+(1)Service de réanimation polyvalente, centre hospitalier St-Brieuc, 10, rue 
+Marcel-Proust, 22000 St-Brieuc, France. Electronic address: 
+pierre.fillatre@ch-stbrieuc.fr.
+(2)Service des maladies infectieuses et de réanimation médicale, CHU de Rennes, 
+Rennes, France.
+
+Erratum in
+    Med Mal Infect. 2020 Feb;50(1):95-96. doi: 10.1016/j.medmal.2019.11.004.
+
+Crimean-Congo hemorrhagic fever (CCHF) is a severe form of hemorrhagic fever 
+caused by a virus of the genus Nairovirus. The amplifying hosts are various 
+mammal species that remain asymptomatic. Humans are infected by tick bites or 
+contact with animal blood. CCHF has a broad geographic distribution and is 
+endemic in Africa, Asia (in particular the Middle East) and South East Europe. 
+This area has expanded in recent years with two indigenous cases reported in 
+Spain in 2016 and 2018. The incubation period is short with the onset of 
+symptoms in generally less than a week. The initial symptoms are common to other 
+infectious syndromes with fever, headache, myalgia and gastrointestinal 
+symptoms. The hemorrhagic syndrome occurs during a second phase with sometimes 
+major bleeding in and from the mucous membranes and the skin. Strict barrier 
+precautionary measures are required to prevent secondary and nosocomial spread. 
+CCHF may be documented by PCR detection of the virus genome during the first 
+days after the onset of illness, and then by serological testing for IgM 
+antibodies as from the 2nd week after infection. Patient management is mainly 
+based on supportive care. Despite a few encouraging retrospective reports, there 
+is no confirmed evidence that supports the use of ribavirin for curative 
+treatment. Nevertheless, the World Health Organization continues to recommend 
+the use of ribavirin to treat CCHF, considering the limited medical risk related 
+to short-term treatment. The prescription of ribavirin should however be 
+encouraged post-exposure for medical professionals, to prevent secondary 
+infection.
+
+Copyright © 2019 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.medmal.2019.09.005
+PMID: 31607406 [Indexed for MEDLINE]
+
+
+2. Emerg Infect Dis. 2023 Feb;29(2):252-259. doi: 10.3201/eid2902.220677.
+
+Crimean-Congo Hemorrhagic Fever, Spain, 2013-2021.
+
+Lorenzo Juanes HM, Carbonell C, Sendra BF, López-Bernus A, Bahamonde A, Orfao A, 
+Lista CV, Ledesma MS, Negredo AI, Rodríguez-Alonso B, Bua BR, Sánchez-Seco MP, 
+Muñoz Bellido JL, Muro A, Belhassen-García M.
+
+Crimean-Congo hemorrhagic fever (CCHF) is a viral infectious disease for which 
+distribution of the main vector, Hyalomma spp. ticks, is expanding. We analyzed 
+all 10 cases of CCHF diagnosed in Spain during 2013-2021; case-patient median 
+age was 56.5 years, and 7 were men. We identified CCHF virus genotypes III and 
+V. Six case-patients acquired the infection in urban areas. Sixty percent of 
+patients were infected in summer and 40% in spring. Two patients met criteria 
+for hemophagocytic syndrome. Seven patients survived. The epidemiologic pattern 
+of CCHF in Spain is based on occasional cases with an elevated mortality rate. 
+Genotype III and, to a less extent also genotype V, CCHF circulates in humans in 
+a common geographic area in Spain. Those data suggest that the expansion 
+pathways are complex and may change over time. Physicians should remain alert to 
+the possibility of new CCHF cases.
+
+DOI: 10.3201/eid2902.220677
+PMCID: PMC9881766
+PMID: 36692301 [Indexed for MEDLINE]
+
+
+3. Antiviral Res. 2013 Oct;100(1):159-89. doi: 10.1016/j.antiviral.2013.07.006. 
+Epub 2013 Jul 29.
+
+Crimean-Congo hemorrhagic fever: history, epidemiology, pathogenesis, clinical 
+syndrome and genetic diversity.
+
+Bente DA(1), Forrester NL, Watts DM, McAuley AJ, Whitehouse CA, Bray M.
+
+Author information:
+(1)Department of Microbiology and Immunology, University of Texas Medical 
+Branch, Galveston, TX 77555, United States. Electronic address: 
+dabente@utmb.edu.
+
+Crimean-Congo hemorrhagic fever (CCHF) is the most important tick-borne viral 
+disease of humans, causing sporadic cases or outbreaks of severe illness across 
+a huge geographic area, from western China to the Middle East and southeastern 
+Europe and throughout most of Africa. CCHFV is maintained in vertical and 
+horizontal transmission cycles involving ixodid ticks and a variety of wild and 
+domestic vertebrates, which do not show signs of illness. The virus circulates 
+in a number of tick genera, but Hyalomma ticks are the principal source of human 
+infection, probably because both immature and adult forms actively seek hosts 
+for the blood meals required at each stage of maturation. CCHF occurs most 
+frequently among agricultural workers following the bite of an infected tick, 
+and to a lesser extent among slaughterhouse workers exposed to the blood and 
+tissues of infected livestock and medical personnel through contact with the 
+body fluids of infected patients. CCHFV is the most genetically diverse of the 
+arboviruses, with nucleotide sequence differences among isolates ranging from 
+20% for the viral S segment to 31% for the M segment. Viruses with diverse 
+sequences can be found within the same geographic area, while closely related 
+viruses have been isolated in far distant regions, suggesting that widespread 
+dispersion of CCHFV has occurred at times in the past, possibly by ticks carried 
+on migratory birds or through the international livestock trade. Reassortment 
+among genome segments during co-infection of ticks or vertebrates appears to 
+have played an important role in generating diversity, and represents a 
+potential future source of novel viruses. In this article, we first review 
+current knowledge of CCHFV, summarizing its molecular biology, maintenance and 
+transmission, epidemiology and geographic range. We also include an extensive 
+discussion of CCHFV genetic diversity, including maps of the range of the virus 
+with superimposed phylogenetic trees. We then review the features of CCHF, 
+including the clinical syndrome, diagnosis, treatment, pathogenesis, vaccine 
+development and laboratory animal models of CCHF. The paper ends with a 
+discussion of the possible future geographic range of the virus. For the benefit 
+of researchers, we include a Supplementary Table listing all published reports 
+of CCHF cases and outbreaks in the English-language literature, plus some 
+principal articles in other languages, with total case numbers, case fatality 
+rates and all CCHFV strains on GenBank.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2013.07.006
+PMID: 23906741 [Indexed for MEDLINE]
+
+
+4. Lab Med. 2015 Summer;46(3):180-9. doi: 10.1309/LMN1P2FRZ7BKZSCO.
+
+Crimean-Congo Hemorrhagic Fever.
+
+Shayan S(1), Bokaean M(2), Shahrivar MR(3), Chinikar S(3).
+
+Author information:
+(1)Department of Microbiology, School of Medicine, Zahedan University of Medical 
+Sciences, Zahedan, Iran sarashayaan@gmail.com.
+(2)Department of Microbiology, School of Medicine, Zahedan University of Medical 
+Sciences, Zahedan, Iran.
+(3)Arboviruses and Viral Hemorrhagic Fevers Laboratory (National Reference 
+Laboratory), Pasteur Institute of Iran, Tehran.
+
+Crimean-Congo hemorrhagic fever virus (CCHFV) is a member of the Bunyaviridae 
+family and Nairovirus genus. The viral genome consists of 3 RNA segments of 12 
+kb (L), 6.8 kb (M), and 3 kb (S). Crimean-Congo hemorrhagic fever (CCHF) is the 
+most widespread tickborne viral infection worldwide: it has been reported in 
+many regions of Africa, the Middle East, and Asia. The geographical distribution 
+of CCHFV corresponds most closely with the distribution of members of the tick 
+genera, and Hyalomma ticks are the principal source of human infection. In 
+contrast to human infection, CCHFV infection is asymptomatic in all species. 
+Treatment options for CCHF are limited; immunotherapy and ribavirin are 
+effective in the treatment of CCHF; the efficacy of ribavirin in the treatment 
+of CCHF has not yet been proven. This article reviews the history, epidemiology, 
+clinical symptoms, pathogenesis, diagnosis, and treatment of CCHFV, as well as 
+the development of a vaccine against it.
+
+DOI: 10.1309/LMN1P2FRZ7BKZSCO
+PMID: 26199256 [Indexed for MEDLINE]
+
+
+5. Antiviral Res. 2022 Mar;199:105244. doi: 10.1016/j.antiviral.2022.105244. Epub
+ 2022 Jan 11.
+
+Immunobiology of Crimean-Congo hemorrhagic fever.
+
+Rodriguez SE(1), Hawman DW(2), Sorvillo TE(3), O'Neal TJ(4), Bird BH(5), 
+Rodriguez LL(6), Bergeron É(7), Nichol ST(4), Montgomery JM(4), Spiropoulou 
+CF(4), Spengler JR(8).
+
+Author information:
+(1)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia; Department of 
+Microbiology & Immunology, University of Texas Medical Branch, Galveston, TX, 
+USA; Galveston National Laboratory, University of Texas Medical Branch, 
+Galveston, TX, USA.
+(2)Laboratory of Virology, Rocky Mountain Laboratories, Division of Intramural 
+Research, National Institute of Allergy and Infectious Diseases, National 
+Institutes of Health, Hamilton, MT, USA.
+(3)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia; Department of 
+Microbiology & Immunology, University of Texas Medical Branch, Galveston, TX, 
+USA; Galveston National Laboratory, University of Texas Medical Branch, 
+Galveston, TX, USA; One Health Institute, School of Veterinary Medicine, 
+University of California Davis, Davis, CA, USA.
+(4)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia.
+(5)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia; One Health 
+Institute, School of Veterinary Medicine, University of California Davis, Davis, 
+CA, USA.
+(6)Foreign Animal Disease Research Unit, Plum Island Animal Disease Center, 
+Agricultural Research Service, United States Department of Agriculture, Orient 
+Point, New York, USA.
+(7)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia; Department of 
+Pharmaceutical and Biomedical Sciences, University of Georgia, Athens, Georgia.
+(8)Viral Special Pathogens Branch, Division of High-Consequence Pathogens and 
+Pathology, National Center for Emerging and Zoonotic Infectious Diseases, 
+Centers for Disease Control and Prevention, Atlanta, Georgia. Electronic 
+address: JSpengler@cdc.gov.
+
+Human infection with Crimean-Congo hemorrhagic fever virus (CCHFV), a tick-borne 
+pathogen in the family Nairoviridae, can result in a spectrum of outcomes, 
+ranging from asymptomatic infection through mild clinical signs to severe or 
+fatal disease. Studies of CCHFV immunobiology have investigated the relationship 
+between innate and adaptive immune responses with disease severity, attempting 
+to elucidate factors associated with differential outcomes. In this article, we 
+begin by highlighting unanswered questions, then review current efforts to 
+answer them. We discuss in detail current clinical studies and research in 
+laboratory animals on CCHF, including immune targets of infection and adaptive 
+and innate immune responses. We summarize data about the role of the immune 
+response in natural infections of animals and humans and experimental studies in 
+vitro and in vivo and from evaluating immune-based therapies and vaccines, and 
+present recommendations for future research.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.antiviral.2022.105244
+PMCID: PMC9245446
+PMID: 35026307 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest. All authors: no 
+reported conflicts.

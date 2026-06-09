@@ -1,0 +1,168 @@
+=== PubMed: psoriasis ===
+1. Eur J Dermatol. 2016 Dec 1;26(6):537-548. doi: 10.1684/ejd.2016.2932.
+
+Childhood psoriasis.
+
+Mahé E(1).
+
+Author information:
+(1)Department of Dermatology, Hôpital Victor Dupouy, 69 rue du 
+Lieutenant-Colonel Prud'hon, 95100 Argenteuil, France.
+
+Psoriasis is a common chronic inflammatory skin disease. Recently, few data have 
+been published on epidemiology, comorbidity, or therapy in children with 
+psoriasis. Psoriasis affects up to 2% of children in Europe, even during the 
+first months of life. The link between psoriasis and metabolic comorbidities has 
+been highlighted, notably in relation to excessive weight and obesity. The 
+clinical picture of psoriasis in childhood resembles adult disease, however, 
+some clinical features are noteworthy: neonatal diaper rash is relatively 
+specific, face involvement and guttate psoriasis are more common, plaques are 
+often smaller, and scales are finer and softer than in adults. Napkin, guttate 
+and palmoplantar psoriasis appear to have specific features in childhood and 
+prevalence depends on the age of the child. Although benign, the effect of 
+psoriasis on social interaction can be major, especially in children. Topical 
+therapies are the first line of treatment for skin-limited disease. For chronic 
+cases and more severe cases, phototherapy or traditional biologic systemic 
+treatments must be discussed. The great challenge will be to propose 
+international guidelines to manage these children.
+
+DOI: 10.1684/ejd.2016.2932
+PMID: 27900946 [Indexed for MEDLINE]
+
+
+2. Clin Rev Allergy Immunol. 2021 Dec;61(3):377-402. doi: 
+10.1007/s12016-021-08896-9. Epub 2021 Sep 3.
+
+Challenge of Nail Psoriasis: An Update Review.
+
+Ji C(#)(1), Wang H(#)(1), Bao C(1), Zhang L(1), Ruan S(1), Zhang J(1), Gong 
+T(2), Cheng B(3).
+
+Author information:
+(1)Department of Dermatology, the First Affiliated Hospital of Fujian Medical 
+University, 20 Chazhong Road, Fuzhou, 350000, Fujian, China.
+(2)Central Laboratory, the First Affiliated Hospital of Fujian Medical 
+University, 20 Chazhong Road, Fuzhou, 350000, Fujian, China. 
+tinggongyou@126.com.
+(3)Department of Dermatology, the First Affiliated Hospital of Fujian Medical 
+University, 20 Chazhong Road, Fuzhou, 350000, Fujian, China. 
+chengbo630415@126.com.
+(#)Contributed equally
+
+Nail psoriasis is a refractory disease that affects 50-79% skin psoriasis 
+patients and up to 80% of patients with psoriatic arthritis (PsA). The 
+pathogenesis of nail psoriasis is still not fully illuminated, although some 
+peculiar inflammatory cytokines and chemokines seems to be the same as described 
+in psoriatic skin lesions. Psoriatic nail involving matrix can cause pitting, 
+leukonychia, red spots in lunula, and nail plate crumbling, while nail bed 
+involvement can result in onycholysis, oil-drop discoloration, nail bed 
+hyperkeratosis, and splinter hemorrhages. The common assessment methods of 
+evaluating nail psoriasis includes Nail Psoriasis Severity Index (NAPSI), Nail 
+Assessment in Psoriasis and Psoriatic Arthritis (NAPPA), Nail Psoriasis Quality 
+of life 10 (NPQ10), and so on. Treatment of nail psoriasis should be 
+individualized according to the number of involving nail, the affected site of 
+nail and presence of skin and/or joint involvement. Generally, topical therapies 
+are used for mild nail psoriasis, while biologic agents such as etanercept are 
+considered for severe nail disease and refractory nail psoriasis. Even though 
+the current literature has shown some support for the pathogenesis, clinical 
+presentation, or therapies of nail psoriasis, systemic review of this 
+multifaceted disease is still rare to date. We elaborate recent developments in 
+nail psoriasis epidemiology, pathogenesis, anatomy, clinical manifestation, 
+diagnosis, differential diagnosis, and therapies to raise better awareness of 
+the complexity of nail psoriasis and the need for early diagnosis or 
+intervention.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12016-021-08896-9
+PMID: 34478047 [Indexed for MEDLINE]
+
+
+3. Pediatr Dermatol. 2025 Jul-Aug;42(4):858-859. doi: 10.1111/pde.16031.
+
+What is Psoriasis?
+
+[No authors listed]
+
+Psoriasis is a skin condition that causes red, scaly patches on the skin. These 
+patches can show up anywhere on the body. They are common on the arms, legs, and 
+scalp. Psoriasis can affect just a small part of the skin or cover a large area. 
+It can happen to anyone - kids or adults. You cannot catch it from someone else.
+
+© 2025 Wiley Periodicals LLC.
+
+DOI: 10.1111/pde.16031
+PMID: 40698994 [Indexed for MEDLINE]
+
+
+4. Prim Care. 2025 Sep;52(3):567-591. doi: 10.1016/j.pop.2025.05.007. Epub 2025
+Jun  23.
+
+Psoriasis and Papulosquamous Disorders.
+
+Helm MF(1), Clebak KT(2), Critchfield L(2), Helm LA(2).
+
+Author information:
+(1)Department of Dermatology, Penn State Hershey Medical Center, 500 University 
+Drive HU14, Hershey, PA 17033, USA. Electronic address: 
+mhelm2@pennstatehealth.psu.edu.
+(2)Department of Family and Community Medicine, Penn State Hershey Medical 
+Center, 121 N Nyes Road, Suite A, Harrisburg, PA 17112, USA.
+
+Psoriasis is a chronic, inflammatory skin disease with a significant impact on 
+quality of life. Psoriasis affects about 3% of the US population. Psoriasis is 
+caused by an interaction between genetic and environmental triggers. Lifestyle 
+modification and topical therapies such as emollients, topical corticosteroids, 
+vitamin D analogues, and calcineurin inhibitors are used for limited disease. 
+More severe psoriasis may require systemic therapy with available oral or 
+biologic therapy.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2025.05.007
+PMID: 40835291 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose. 
+The authors have no conflicts of interests to declare.
+
+
+5. Biosci Rep. 2019 Nov 29;39(11):BSR20190867. doi: 10.1042/BSR20190867.
+
+Homocysteine and psoriasis.
+
+Lin X(1), Meng X(2), Song Z(1).
+
+Author information:
+(1)Department of Dermatology, the First Affiliated Hospital of Dalian Medical 
+University. 222 Zhongshan Lu, Dalian 116011, China.
+(2)Department of Pathology and laboratory medicine, Axia Women's Health. 
+450.Cresson BLVD. Oaks, PA 19456, U.S.A.
+
+Psoriasis is caused by a complex interplay among the immune system, genetic 
+background, autoantigens, and environmental factors. Recent studies have 
+demonstrated that patients with psoriasis have a significantly higher serum 
+homocysteine (Hcy) level and a higher prevalence of hyperhomocysteinaemia 
+(HHcy). Insufficiency of folic acid and vitamin B12 can be a cause of HHcy in 
+psoriasis. Hcy may promote the immuno-inflammatory process in the pathogenesis 
+of psoriasis by activating Th1 and Th17 cells and neutrophils, while suppressing 
+regulatory T cells. Moreover, Hcy can drive the immuno-inflammatory process by 
+enhancing the production of the pro-inflammatory cytokines in related to 
+psoriasis. Hcy can induce nuclear factor kappa B activation, which is critical 
+in the immunopathogenesis of psoriasis. There may be a link between the 
+oxidative stress state in psoriasis and the effect of HHcy. Hydrogen sulfide 
+(H2S) may play a protective role in the pathogenesis of psoriasis and the 
+deficiency of H2S in psoriasis may be caused by HHcy. As the role of Hcy in the 
+pathogenesis of psoriasis is most likely established, Hcy can be a potential 
+therapeutic target for the treatment of psoriasis. Systemic folinate calcium, a 
+folic acid derivative, and topical vitamin B12 have found to be effective in 
+treating psoriasis.
+
+© 2019 The Author(s).
+
+DOI: 10.1042/BSR20190867
+PMCID: PMC6879356
+PMID: 31670376 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no competing 
+interests associated with the manuscript.

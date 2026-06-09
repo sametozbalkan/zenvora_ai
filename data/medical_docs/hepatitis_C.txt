@@ -1,0 +1,90 @@
+=== PubMed: hepatitis C ===
+1. Infect Dis Clin North Am. 2000 Sep;14(3):633-67. doi: 
+10.1016/s0891-5520(05)70125-2.
+
+Hepatitis C.
+
+Cheney CP(1), Chopra S, Graham C.
+
+Author information:
+(1)Harvard Medical School, Division of Gastroenterology, Boston, Massachusetts, 
+USA.
+
+In the latter half of the 20th century, HCV emerged as the most common cause of 
+chronic liver disease, and will likely remain so. Since its initial discovery in 
+1989, rapid progress has been made in our understanding of the virology, 
+epidemiology, natural history, diagnosis, and treatment of HCV. Over the next 
+few decades, as further advancements are made, superior treatment options will 
+become available.
+
+DOI: 10.1016/s0891-5520(05)70125-2
+PMID: 10987114 [Indexed for MEDLINE]
+
+
+2. Viruses. 2017 Aug 12;9(8):224. doi: 10.3390/v9080224.
+
+Hepatitis C Virus-Induced Autophagy and Host Innate Immune Response.
+
+Chan ST(1), Ou JJ(2).
+
+Author information:
+(1)Department of Molecular Microbiology and Immunology, University of Southern 
+California, Keck School of Medicine, 2011 Zonal Avenue, Los Angeles, CA 90033, 
+USA. stephanietcchan@gmail.com.
+(2)Department of Molecular Microbiology and Immunology, University of Southern 
+California, Keck School of Medicine, 2011 Zonal Avenue, Los Angeles, CA 90033, 
+USA. jamesou@hsc.usc.edu.
+
+Autophagy is a catabolic process that is important for maintaining cellular 
+homeostasis. This pathway in hepatocytes is stimulated and controlled by the 
+hepatitis C virus (HCV)-upon infection-to promote its own replication. HCV 
+induces autophagy indirectly and directly through different mechanisms and 
+temporally controls the autophagic flux. This enables the virus to maximize its 
+replication and attenuate the innate immune responses that it activates. In this 
+review, we discuss the relationship between HCV and autophagy, and the crosstalk 
+between HCV-induced autophagy and host innate immune responses.
+
+DOI: 10.3390/v9080224
+PMCID: PMC5580481
+PMID: 28805674 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Semin Liver Dis. 2014 Feb;34(1):7-8. doi: 10.1055/s-0034-1371178. Epub 2014
+Apr  29.
+
+New hepatitis C therapies.
+
+Pawlotsky JM(1).
+
+Author information:
+(1)National Reference Center for Viral Hepatitis B, C, and D, Department of 
+Virology, Hôpital Henri Mondor, Université Paris-Est & INSERM U955, Créteil, 
+France.
+
+DOI: 10.1055/s-0034-1371178
+PMID: 24782253 [Indexed for MEDLINE]
+
+
+4. MMW Fortschr Med. 2015 Nov 12;157 Spec No 2:86-9; quiz 90. doi: 
+10.1007/s15006-015-3298-5.
+
+[Hepatitis C].
+
+[Article in German]
+
+Weiß J, Geier A.
+
+DOI: 10.1007/s15006-015-3298-5
+PMID: 26953483 [Indexed for MEDLINE]
+
+
+5. IARC Monogr Eval Carcinog Risks Hum. 1994;59:165-221.
+
+Hepatitis C virus.
+
+[No authors listed]
+
+PMCID: PMC7682312
+PMID: 7933462 [Indexed for MEDLINE]

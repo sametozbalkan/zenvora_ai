@@ -1,0 +1,161 @@
+=== PubMed: aritmi ===
+1. J Cataract Refract Surg. 2022 Feb 1;48(2):185-189. doi: 
+10.1097/j.jcrs.0000000000000731.
+
+Agreement between swept-source optical biometry and Scheimpflug-based topography 
+measurements of posterior corneal curvature.
+
+Kose B(1).
+
+Author information:
+(1)From the Department of Ophthalmology, Osmangazi Aritmi Hospital, Bursa, 
+Turkey.
+
+PURPOSE: To evaluate agreement of posterior corneal curvature parameters between 
+a swept-source optical coherence tomography-based biometer (IOLMaster 700) and 
+Scheimpflug topography (Pentacam HR) in healthy, myopic eyes.
+SETTING: Department of Ophthalmology, Osmangazi Aritmi Hospital, Bursa, Turkey.
+DESIGN: Retrospective study.
+METHODS: In this study, 59 eyes of 59 patients who applied as candidates for 
+refractive surgery were included. Measurements of the posterior corneal 
+curvature were performed using IOLMaster 700 and Pentacam HR. J0 and J45 vector 
+components were calculated using astigmatic values. Posterior corneal 
+keratometry (K) measurements at flat (K flat) and steep (K steep) axes and J0 
+and J45 values were compared between the 2 devices. The agreement between the 
+devices was analyzed using the Bland-Altman method. Intraclass correlation 
+coefficients and within-subject SD were calculated to assess the repeatability.
+RESULTS: 59 eyes of 59 patients were included in this study. The IOLMaster 700 
+provided significantly flatter K flat and K steep values (P < .001, for both). 
+Significant differences were found in J0 and J45 values (P = 0.13 and P < .001, 
+respectively). The mean differences between K flat, K steep, and J0 and J45 
+values were 0.49 diopter (D), 0.53 D, 0.04 D, and -0.05 D, respectively.
+CONCLUSIONS: The IOLMaster 700 and the Pentacam HR could not be used 
+interchangeably to measure K flat, K steep, and J0 and J45 values of the 
+posterior corneal curvature in healthy, myopic eyes. Both devices showed high 
+repeatability for posterior corneal curvature measurement.
+
+Copyright © 2021 Published by Wolters Kluwer on behalf of ASCRS and ESCRS.
+
+DOI: 10.1097/j.jcrs.0000000000000731
+PMID: 34174042 [Indexed for MEDLINE]
+
+
+2. J Cataract Refract Surg. 2022 Jul 1;48(7):765-770. doi: 
+10.1097/j.jcrs.0000000000000854.
+
+Comparison of refractive and visual outcomes between image-guided 
+system-assisted small-incision lenticule extraction and wavefront-optimized 
+FS-LASIK in treatment of high astigmatism.
+
+Kose B(1).
+
+Author information:
+(1)From the Department of Ophthalmology, Aritmi Osmangazi Hospital, Bursa, 
+Turkey .
+
+PURPOSE: To compare the refractive and visual results of image-guided 
+system-assisted small-incision lenticule extraction (IGA-SMILE) and 
+wavefront-optimized femtosecond laser in situ keratomileusis (FS-LASIK) in the 
+treatment of high astigmatism.
+SETTINGS: Osmangazi Aritmi Hospital, Bursa, Turkey.
+DESIGN: Retrospective.
+METHODS: This retrospective case-matched study included 64 eyes that had 
+undergone IGA-SMILE and 64 eyes that had undergone wavefront-optimized FS-LASIK. 
+The mean preoperative myopia and astigmatism were -4.05 ± 1.98 diopter (D) and 
+3.11 ± 1.06 D in the IGA-SMILE group and -4.21 ± 2.23 D and -3.15 ± 0.62 D in 
+the FS-LASIK group, respectively. One year later, visual and refractive results 
+were compared in the groups. Vector analysis based on Alpins method was 
+performed to evaluate astigmatic treatment.
+RESULTS: 128 eyes of 128 patients were included in this study. At 1 year, the 
+residual astigmatism was -0.21 ± 0.25 D in the IGA-SMILE group and -0.21 ± 0.24 
+D in the FS-LASIK group ( P = .305). In the IGA-SMILE group, 57 eyes (89.1%) 
+achieved uncorrected distance visual acuity of 20/20 or better, as did 56 eyes 
+(85.9%) in the FS-LASIK group. Vector analysis results demonstrated that the 
+difference vectors were 0.22 ± 0.24 D and 0.21 ± 0.22 D ( P = .230), the 
+correction indexes were 0.95 ± 0.08 and 0.95 ± 0.08 ( P = .239), and the indices 
+of success were 0.08 ± 0.09 and 0.08 ± 0.09 ( P = .248) in the IGA-SMILE and the 
+FS-LASIK groups, respectively.
+CONCLUSIONS: The combination of an image-guided system with SMILE resulted in 
+high efficacy and safety indices that were comparable with FS-LASIK surgery.
+
+Copyright © 2021 Published by Wolters Kluwer on behalf of ASCRS and ESCRS.
+
+DOI: 10.1097/j.jcrs.0000000000000854
+PMID: 34694256 [Indexed for MEDLINE]
+
+
+3. Kardiologiia. 1964 Mar-Apr;4:3-8.
+
+[TREATMENT OF ARRHYTHMIAS].
+
+[Article in Russian]
+
+CHERNOGOROV Ia.
+
+PMID: 14184135 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2022 Dec;50(8):623. doi: 10.5543/tkda.2022.2263622.
+
+Answer Regarding P Wave Index and Atrial Fibrillation Recurrence.
+
+Doğduş M(1), Turan OE(2), Başkurt AA(3), Yılancıoğlu RY(4), Özgül U(5), İnevi 
+UD(6), Özcan EE(2).
+
+Author information:
+(1)Department of Cardiology, Uşak University Training and Research Hospital, 
+Uşak, Turkey.
+(2)Heart Rhythm Management Center, Dokuz Eylül University Faculty of Medicine, 
+İzmir, Turkey.
+(3)Department of Cardiology, Dokuz Eylül University Faculty of Medicine, İzmir, 
+Turkey.
+(4)Department of Cardiology, Bornova Türkan Özilhan State Hospital, İzmir, 
+Turkey.
+(5)Department of Cardiology, Aydın Atatürk State Hospital, Aydın, Turkey.
+(6)Ege Aritmi Medical Products Engineering, İzmir, Turkey.
+
+DOI: 10.5543/tkda.2022.2263622
+PMID: 36476962 [Indexed for MEDLINE]
+
+
+5. Turk Kardiyol Dern Ars. 2023 Jan;51(1):40-49. doi: 10.5543/tkda.2022.69570.
+
+Conduction Disturbances and Arrhythmia Risk After Septal Reduction Therapy with 
+Alternative Agents: A Pilot Study with EVOH-DMSO and Systematic Review.
+
+[Article in English]
+
+Asil S(1), Aytemir K(2).
+
+Author information:
+(1)Gülhane Training and Research Hospital, Department of Cardiology, Ankara, 
+Türkiye.
+(2)Hacettepe University Hospital; Department of Cardiology, Ankara, Türkiye.
+
+OBJECTIVE: Surgical septal myectomy and alcohol septal ablation are recommended 
+treatment modalities for alleviating Left ventricular outflow tract (LVOT) 
+gradient in obstructive HCM. Alcohol septal ablation offers advantages over 
+surgery in many ways. However, it is associated with some life-threatening 
+complications. For this purpose, our center used alternative agents for septal 
+artery embolization. This study compared and evaluated conduction system defects 
+and arrhythmia risk after EVOH-DMSO septal ablation with other alternative 
+agents and alcohol septal ablation.
+METHODS: Twenty-five patients who received septal reduction therapy with 
+EVOH-DMSO were analyzed retrospectively, and all non-alcoholic agent's septal 
+ablation studies were systematically reviewed and compared.
+RESULTS: Twenty-five patients (52% female; mean age: 55.8 ± 17.1) with 
+symptomatic obstructive HCM were enrolled. The Peak LVOT gradient was 
+significantly reduced after the procedure (68 vs. 20 mmHg; P <0.001). During the 
+12-month follow-up, no mortality occurred. The complete atrioventricular block 
+was noted in 2 (8%) patients. The incidence of right bundle branch block (RBBB) 
+increased after the procedure (pre-procedural 2 patients (8%), post-procedural 9 
+patients (36%) P = 0.002). On ECG and Holter monitorization, no sustained 
+ventricular tachyarrhythmia occurred during follow-up, and no change was found 
+in the frequency of atrial fibrillation. We systematically compared EVOH-DMSO to 
+other non-alcohol agents, and we found that EVOH-DMSO can cause conduction 
+system problems more commonly than other non-alcohol agents.
+CONCLUSION: EVOH-DMSO could cause conduction system problems more common than 
+other non-alcohol agents but less than alcohol septal ablation.
+
+DOI: 10.5543/tkda.2022.69570
+PMID: 36689282 [Indexed for MEDLINE]

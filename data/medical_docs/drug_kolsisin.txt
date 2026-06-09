@@ -1,0 +1,193 @@
+=== PubMed: colchicine drug interactions statins macrolides toxicity ===
+1. J Clin Rheumatol. 2011 Jan;17(1):28-30. doi: 10.1097/RHU.0b013e3182056042.
+
+Colchicine-induced rhabdomyolysis in a heart/lung transplant patient with 
+concurrent use of cyclosporin, pravastatin, and azithromycin.
+
+Bouquié R(1), Deslandes G, Renaud C, Dailly E, Haloun A, Jolliet P.
+
+Author information:
+(1)Clinical Pharmacology Department and EA 4275 Biostatistique, Recherche 
+Clinique et Mesures Subjectives en Santé, Hospital of the University of Nantes, 
+Nantes, France. regis.bouquie@chu-nantes.fr
+
+We report a case of colchicine-induced rhabdomyolysis in a 
+heart/lung-transplanted man treated with cyclosporin. A treatment was to resolve 
+an acute gouty arthritis and was started with 3 mg of colchicine the first day, 
+then 2 mg the second and the third day, and finally 1 mg/d during 6 days. Eight 
+days later, the patient developed multiple organ failure and rhabdomyolysis. The 
+concentration of colchicine analyzed was greater than the standard 153 hours 
+after his last intake. Pharmacokinetic interactions are responsible of this 
+toxicity. Cyclosporin, pravastatin, and azithromycin are known to inhibit 
+P-glycoprotein, which will enhance the intracellular colchicine level by acting 
+in its bioavailability and moderating hepatic and renal excretion. Moreover, 
+long-term treatment by cyclosporin generates chronic renal failure that will, in 
+the same time, decrease colchicine elimination. Even short-term administration 
+of therapeutic colchicine dose may cause colchicine-related toxicity, especially 
+in the setting of a renal failure and/or polymedicinal treatment.
+
+DOI: 10.1097/RHU.0b013e3182056042
+PMID: 21169852 [Indexed for MEDLINE]
+
+
+2. Neth J Med. 2008 May;66(5):204-6.
+
+Colchicine-induced neuromyopathy in a patient with chronic renal failure: the 
+role of clarithromycin.
+
+van der Velden W(1), Huussen J, Ter Laak H, de Sévaux R.
+
+Author information:
+(1)Department of Haematology, Radboud University Nijmegen Medical Centre, 
+Nijmegen, the Netherlands.
+
+Neuromyopathy is a rare side effect of chronic colchicine therapy, most often 
+occurring in patients with chronic renal failure. Drugs interacting with 
+colchicine metabolism through CYP(3)A(4) and P-glycoprotein can accelerate 
+accumulation and toxicity. We describe a case of an interaction between 
+clarithromycin and colchicine resulting in acute neuromyopathy, and we conclude 
+that combined use of macrolides and colchicine should be avoided.
+
+PMID: 18490798 [Indexed for MEDLINE]
+
+
+3. Clin Toxicol (Phila). 2010 Jun;48(5):407-14. doi:
+10.3109/15563650.2010.495348.
+
+Colchicine poisoning: the dark side of an ancient drug.
+
+Finkelstein Y(1), Aks SE, Hutson JR, Juurlink DN, Nguyen P, Dubnov-Raz G, Pollak 
+U, Koren G, Bentur Y.
+
+Author information:
+(1)Division of Clinical Pharmacology and Toxicology, The Hospital for Sick 
+Children, University of Toronto, Toronto, ON, Canada. 
+yaron.finkelstein@sickkids.ca
+
+INTRODUCTION: Colchicine is used mainly for the treatment and prevention of gout 
+and for familial Mediterranean fever (FMF). It has a narrow therapeutic index, 
+with no clear-cut distinction between nontoxic, toxic, and lethal doses, causing 
+substantial confusion among clinicians. Although colchicine poisoning is 
+sometimes intentional, unintentional toxicity is common and often associated 
+with a poor outcome.
+METHODS: We performed a systematic review by searching OVID MEDLINE between 1966 
+and January 2010. The search strategy included "colchicine" and "poisoning" or 
+"overdose" or "toxicity" or "intoxication."
+TOXICOKINETICS: Colchicine is readily absorbed after oral administration, but 
+undergoes extensive first-pass metabolism. It is widely distributed and binds to 
+intracellular elements. Colchicine is primarily metabolized by the liver, 
+undergoes significant enterohepatic re-circulation, and is also excreted by the 
+kidneys. THERAPEUTIC AND TOXIC DOSES: The usual adult oral doses for FMF is 
+1.2-2.4 mg/day; in acute gout 1.2 mg/day and for gout prophylaxis 0.5-0.6 mg/day 
+three to four times a week. High fatality rate was reported after acute 
+ingestions exceeding 0.5 mg/kg. The lowest reported lethal doses of oral 
+colchicine are 7-26 mg.
+DRUG INTERACTIONS: CYP 3A4 and P-glycoprotein inhibitors, such as 
+clarithromycin, erythromycin, ketoconazole, ciclosporin, and natural grapefruit 
+juice can increase colchicine concentrations. Co-administration with statins may 
+increase the risk of myopathy.
+MECHANISMS OF TOXICITY: Colchicine's toxicity is an extension of its mechanism 
+of action - binding to tubulin and disrupting the microtubular network. As a 
+result, affected cells experience impaired protein assembly, decreased 
+endocytosis and exocytosis, altered cell morphology, decreased cellular 
+motility, arrest of mitosis, and interrupted cardiac myocyte conduction and 
+contractility. The culmination of these mechanisms leads to multi-organ 
+dysfunction and failure. REPRODUCTIVE TOXICOLOGY AND LACTATION: Colchicine was 
+not shown to adversely affect reproductive potential in males or females. It 
+crosses the placenta but there is no evidence of fetal toxicity. Colchicine is 
+excreted into breast milk and considered compatible with lactation.
+CLINICAL FEATURES: Colchicine poisoning presents in three sequential and usually 
+overlapping phases: 1) 10-24 h after ingestion - gastrointestinal phase 
+mimicking gastroenteritis may be absent after intravenous administration; 2) 24 
+h to 7 days after ingestion - multi-organ dysfunction. Death results from 
+rapidly progressive multi-organ failure and sepsis. Delayed presentation, 
+pre-existing renal or liver impairment are associated with poor prognosis. 3) 
+Recovery typically occurs within a few weeks of ingestion, and is generally a 
+complete recovery barring complications of the acute illness.
+DIAGNOSIS: History of ingestion of tablets, parenteral administration, or 
+consumption of colchicine-containing plants suggest the diagnosis. Colchicine 
+poisoning should be suspected in patients with access to the drug and the 
+typical toxidrome (gastroenteritis, hypotension, lactic acidosis, and prerenal 
+azotemia).
+MANAGEMENT: Timely gastrointestinal decontamination should be considered with 
+activated charcoal, and very large, recent (<60 min) ingestions may warrant 
+gastric lavage. Supportive treatments including administration of granulocyte 
+colony-stimulating factor are the mainstay of treatment. Although a specific 
+experimental treatment (Fab fragment antibodies) for colchicine poisoning has 
+been used, it is not commercially available.
+CONCLUSION: Although colchicine poisoning is relatively uncommon, it is 
+imperative to recognize its features as it is associated with a high mortality 
+rate when missed.
+
+DOI: 10.3109/15563650.2010.495348
+PMID: 20586571 [Indexed for MEDLINE]
+
+
+4. Drug Saf. 2013 Sep;36(9):779-87. doi: 10.1007/s40264-013-0055-5.
+
+Characterization of Statin-Associated Myopathy Case Reports in Thailand Using 
+the Health Product Vigilance Center Database.
+
+Boonmuang P(1), Nathisuwan S(2), Chaiyakunapruk N(3)(4)(5), Suwankesawong W(6), 
+Pokhagul P(6), Teerawattanapong N(7), Supsongserm P(8).
+
+Author information:
+(1)Faculty of Pharmacy, Prince of Songkla University, Songkla, Thailand.
+(2)Faculty of Pharmacy, Mahidol University, 447 Sri-ayutthaya Road, Rajthewi, 
+Bangkok, 10400, Thailand. surakit.nat@mahidol.ac.th.
+(3)Discipline of Pharmacy, Monash University Sunway Campus, Selangor, Malaysia; 
+School of Population Health, University of Queensland, Brisbane, QLD, Australia; 
+School of Pharmacy, University of Wisconsin-Madison, Madison, WI, USA; Center of 
+Pharmaceutical Outcomes Research, Faculty of Pharmaceutical Sciences, Naresuan 
+University, Phitsanulok, Thailand.
+(4)School of Population Health, University of Queensland, St. Lucia, QLD, 
+Australia.
+(5)School of Pharmacy, University of Wisconsin-Madison, Madison, WI, USA.
+(6)Health Product Vigilance Center, Food and Drug Administration, Ministry of 
+Public Health, Nonthaburi, Thailand.
+(7)Center of Pharmaceutical Outcomes Research, Faculty of Pharmaceutical 
+Sciences, Naresuan University, Phitsanulok, Thailand.
+(8)Faculty of Pharmacy, Mahidol University, 447 Sri-ayutthaya Road, Rajthewi, 
+Bangkok, 10400, Thailand.
+
+Erratum in
+    Drug Saf. 2013 Jul;36(7):583-4.
+
+BACKGROUND: HMG-CoA reductase inhibitors [statins], a widely prescribed 
+cholesterol-lowering therapy, are associated with muscle-related adverse events. 
+While characteristics of such events are well documented in Western countries, 
+little data exists for the Thai population.
+OBJECTIVE: The aim of this study was to determine the characteristics of 
+patients, type and dosing of statin, and to identify patterns of drug use that 
+may be associated with such adverse events using the national pharmacovigilance 
+database known as Thai Vigibase.
+METHOD: Muscle-related adverse events involving statins in the Thai Vigibase 
+from 1996 to December 2009 were identified. For each report, the following 
+information was extracted: patient demographics, co-morbidities, detailed 
+information of adverse event, detailed information of suspected drug, treatment 
+and outcome, as well as causality assessment and quality of reports. Descriptive 
+statistics were performed for all study variables.
+RESULTS: A total of 198 cases of statin-associated muscle-related adverse events 
+were identified. Mean age was 61.4 ± 12.4 years of age and 59.6% were female. 
+Simvastatin, atorvastatin, rosuvastatin and cerivastatin were implicated as the 
+suspected drug in 163 (82.3%), 24 (12.1%), 10 (5.1%) and 1 (0.5%) cases, 
+respectively. Rhabdomyolysis accounted for 55.6% of all muscle-related adverse 
+events. Drug interactions known to enhance such toxicity of statins were 
+identified in 40.9% of the total set of reports. Similar to studies from Western 
+countries, fibrates, HIV protease inhibitors, non-dihydropyridine calcium 
+channel blockers, azole antifungals and macrolides were commonly found in such 
+cases. Interestingly, colchicine has been identified as the second most common 
+drug interaction in our database. Case fatality rates were 0.9, 1.6 and 16.7%, 
+when there were 0, 1 and ≥2 interacting drugs, respectively.
+CONCLUSIONS: Characteristics of muscle-related adverse events with statins in 
+the Thai population showed some similarities and differences compared with 
+Western countries. Such similarities included advanced age, female sex, certain 
+co-morbidities and drug interactions. While the majority of interacting drugs 
+are well known, a big proportion of cases of statin-colchicine interaction 
+attributed to long-term use of colchicine in Thailand was noted and should be 
+further investigated. Based on these results, an attempt to avoid dangerous and 
+well-known drug interactions among statin users should be implemented 
+nationwide.
+
+DOI: 10.1007/s40264-013-0055-5
+PMID: 23615756 [Indexed for MEDLINE]

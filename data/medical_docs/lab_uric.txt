@@ -1,0 +1,176 @@
+=== PubMed: uric acid gout high low causes treatment ===
+1. J Med Chem. 2026 May 6. doi: 10.1021/acs.jmedchem.5c02955. Online ahead of 
+print.
+
+Discovery of a Novel Thienopyrimidine Derivative as a Potent Dual URAT1/GLUT9 
+Inhibitor with Enhanced Urate-Lowering Efficacy, Superior Pharmacokinetics, and 
+Favorable Safety Profile for Gout and Hyperuricemia.
+
+Yang Q(1), Qi D(1), Ye W(2), Shi X(1), Yang M(1), Wu T(2), Wu Z(2), Xu Y(2), 
+Wang Y(3), Xu S(1), Wang Z(1), Gao S(1), Yi F(3), Pang J(2), Liu X(1), Zhan 
+P(1)(4)(5).
+
+Author information:
+(1)Department of Medicinal Chemistry, State Key Laboratory of Discovery and 
+Utilization of Functional Components in Traditional Chinese Medicine, Shandong 
+Key Laboratory of Druggability Optimization and Evaluation for Lead Compounds, 
+Shandong Basic Science Special Academic Zone (Pharmacy), School of 
+Pharmaceutical Sciences, Shandong University, 44 West Culture Road, Jinan250012, 
+Shandong, PR China.
+(2)School of Pharmaceutical Sciences, Southern Medical University, 1838 North 
+Guangzhou Ave, Guangzhou510515, PR China.
+(3)The Key Laboratory of Infection and Immunity of Shandong Province, Department 
+of Pharmacology, School of Basic Medical Sciences, Shandong University, Jinan 
+250012, China.
+(4)State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Xue 
+Yuan Rd. 38, Beijing100191, China.
+(5)State Key Laboratory of Druggability Evaluation and Systematic Translational 
+Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin300301, China.
+
+Gout and hyperuricemia, caused by high serum uric acid, require safer and more 
+effective treatments due to the toxicity and limited efficacy of current drugs. 
+Dual inhibition of URAT1 and GLUT9 may reduce renal toxicity compared to 
+single-target approaches. Starting from lead compound F-5, we used scaffold 
+hopping and structure-guided design to develop 46 novel polycyclic pyrimidine 
+derivatives. Among these, compound 17 showed potent and balanced inhibition of 
+URAT1 (IC50 = 4.01 μM) and GLUT9 (IC50 = 1.60 μM), greatly improving upon F-5. 
+Additionally, 17 reduced serum uric acid levels by 82.4% in hyperuricemic mice, 
+while it exhibited favorable pharmacokinetic profiles in rats (F = 33.71 vs 
+20.13% for F-5). Significantly, 17 was efficacious at a low dose (0.5 mg/kg) and 
+showed no acute toxicity at 1000 mg/kg. These results support 17 as a promising 
+dual URAT1/GLUT9 inhibitor with improved efficacy, pharmacokinetics, and safety 
+for treating gout and hyperuricemia.
+
+DOI: 10.1021/acs.jmedchem.5c02955
+PMID: 42090242
+
+
+2. Commun Med (Lond). 2026 Apr 1. doi: 10.1038/s43856-026-01545-2. Online ahead
+of  print.
+
+Hyperuricemia risk in bempedoic acid-treated hyperlipidemic patients.
+
+Su PH(1)(2), Tsai DH(3)(4), Hsieh MH(3)(4), Vairaperumal T(5), Lai EC(3)(4), Liu 
+PY(6)(7).
+
+Author information:
+(1)From the Division of Cardiology, Department of Internal Medicine, National 
+Cheng Kung University Hospital, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(2)Division of Cardiology, Department of Internal Medicine, Madou Sin-Lau 
+Hospital, Tainan, Taiwan.
+(3)School of Pharmacy, Institute of Clinical Pharmacy and Pharmaceutical 
+Sciences, College of Medicine, National Cheng Kung University, Tainan, Taiwan.
+(4)Population Health Data Center, National Cheng Kung University, Tainan, 
+Taiwan.
+(5)Institute of Clinical Medicine, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan.
+(6)From the Division of Cardiology, Department of Internal Medicine, National 
+Cheng Kung University Hospital, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan. larry@mail.ncku.edu.tw.
+(7)Institute of Clinical Medicine, College of Medicine, National Cheng Kung 
+University, Tainan, Taiwan. larry@mail.ncku.edu.tw.
+
+BACKGROUND: Bempedoic acid is an oral cholesterol-lowering medication used to 
+reduce low-density lipoprotein cholesterol (LDL-C), particularly in patients who 
+require additional lipid lowering. Clinical trials have shown that bempedoic 
+acid increases serum uric acid levels, but the implications of this effect in 
+real-world clinical practice, including the need for anti-gout treatment, are 
+not well defined.
+METHODS: We conducted a retrospective cohort study using a large, 
+multi-institutional U.S. electronic health record database. Adult patients with 
+hyperlipidemia who have newly initiated bempedoic acid were compared with those 
+initiating ezetimibe. Propensity score matching was used to balance baseline 
+characteristics, yielding 7676 patients in each group. The primary outcome was 
+incident hyperuricemia, defined as serum uric acid >7.0 mg/dL. A secondary 
+outcome was initiation of anti-gout therapy.
+RESULTS: During 12 months of follow-up, hyperuricemia occurs more frequently in 
+patients treated with bempedoic acid than in those receiving ezetimibe (hazard 
+ratio [HR] 1.94; 95% confidence interval [CI] 1.58-2.37; p = 0.008). In 
+contrast, initiation of anti-gout therapy does not differ between groups (HR 
+1.06; 95% CI 0.86-1.29; p = 0.59). Longitudinal changes in lipid parameters, 
+inflammatory markers, and glycemic measures are generally similar between 
+groups.
+CONCLUSIONS: In real-world clinical practice, bempedoic acid use is associated 
+with a higher incidence of laboratory-defined hyperuricemia compared with 
+ezetimibe, but this increase does not translate into greater use of anti-gout 
+medications. These findings support the continued use of bempedoic acid for 
+additional LDL-C lowering, with awareness of its effect on serum uric acid.
+
+Plain Language Summary: High cholesterol is a major cause of heart disease, and 
+for some people current medicines aren’t sufficient to lower their cholesterol. 
+Bempedoic acid is a newer drug that can help reduce certain kinds of 
+cholesterol, but it may raise levels of a compound called uric acid, which can 
+lead to a condition known as gout. We studied over 15,000 patients in U.S. 
+healthcare systems to see whether this medicine increases the risk of 
+hyperuricemia or gout compared with ezetimibe. We found that bempedoic acid 
+caused higher uric acid levels, but most patients did not need gout treatment. 
+This means that while uric acid may increase, serious symptoms are uncommon. 
+These findings provide real-world information on how bempedoic acid affects uric 
+acid levels and the need for gout treatment in clinical practice.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s43856-026-01545-2
+PMID: 41922723
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests. Consent for publication: All the authors listed consent to 
+the submission.
+
+
+3. Ann Med. 2025 Dec;57(1):2597063. doi: 10.1080/07853890.2025.2597063. Epub 2025
+ Dec 11.
+
+Efficacy and safety of urate-lowering therapies in asymptomatic hyperuricaemia: 
+a systematic review and network meta-analysis of key clinical outcomes.
+
+Yi Y(1), Yang J(2)(3), Chen Y(2)(3), Liu H(1), Deng Y(3)(4).
+
+Author information:
+(1)The First Clinical Medical College of Traditional Chinese Medicine, Hunan 
+University of Chinese Medicine, Changsha, China.
+(2)College of Integrated Traditional Chinese and Western Medicine, Hunan 
+University of Chinese Medicine, Changsha, China.
+(3)Hunan Province Key Laboratory of Cerebrovascular Disease Prevention and 
+Treatment of Integrated Traditional Chinese and Western Medicine, Hunan 
+University of Chinese Medicine, Changsha, China.
+(4)School of Traditional Chinese Medicine, Hunan University of Chinese Medicine, 
+Changsha, China.
+
+OBJECTIVE: Asymptomatic hyperuricaemia (AH) is an independent risk factor for 
+chronic kidney disease, cardiovascular events, and metabolic disorders. However, 
+controversies persist regarding the clinical use of urate-lowering therapies 
+(ULTs). This study employs a network meta-analysis (NMA) to systematically 
+evaluate the efficacy and safety of ULTs in AH across seven key endpoints: serum 
+uric acid (SUA), estimated glomerular filtration rate (eGFR), high-sensitivity 
+C-reactive protein (hs-CRP), systolic blood pressure (SBP), major adverse 
+cardiovascular events (MACE), composite renal events (CREs) and drug-induced 
+liver injury (DILI). The findings aim to inform clinical decision-making.
+METHOD: Four databases were systematically searched from their inception to 
+March 2025 for all relevant literature, screening and evaluating randomized 
+controlled trials (RCTs) assessing ULTs in AH. A frequentist NMA was conducted 
+using R software. The Risk of Bias 2.0 tool was employed for bias assessment, 
+and therapies were ranked via P-scores. In addition, transitivity assessment, 
+network meta-regression, and sensitivity analysis were also performed.
+RESULTS: A total of 51 studies involving 8 ULTs and 10,281 subjects were 
+included in this NMA. Random-effects modelling showed that, compared to 
+controls, Verinurad_Febuxostat (P-score = 0.82; pooled mean difference [95% CI]: 
+-3.20 [-4.76 to -1.64]) was the most effective in reducing SUA, Febuxostat 
+(P-score = 0.78; 1.91 [0.47 to 3.35]) was the most effective in improving eGFR, 
+Topiroxostat (P-score = 0.96; -6.10 [-11.75 to -0.45]) was most effective in 
+improving SBP, and Febuxostat (P-score = 0.78; 0.77 [0.61 to 0.98]) reduced the 
+risk of CREs most effectively. A None of the interventions showed significant 
+differences in hs-CRP, MACE, or DILI. The Confidence in Network Meta-Analysis 
+(CINeMA) assessment indicated that the overall quality of evidence was low to 
+moderate.
+CONCLUSION: Available evidence suggests that febuxostat not only plays a 
+significant role in lowering SUA levels but also significantly delays the 
+decline in eGFR and reduces the risk of CREs.
+
+DOI: 10.1080/07853890.2025.2597063
+PMCID: PMC12699751
+PMID: 41381368 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the authors.

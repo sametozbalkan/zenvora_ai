@@ -1,0 +1,113 @@
+=== PubMed: multipl skleroz ===
+1. Noro Psikiyatr Ars. 2019 Mar;56(1):23-26. doi: 10.5152/npa.2017.19269. Epub
+2018  Jul 4.
+
+Progressive Onset Multiple Sclerosis: Demographic, Clinical and Laboratory 
+Characteristics of Patients With and Without Relapses in the Course.
+
+Kaymakamzade B(1), Kiliç AK(2), Kurne AT(2), Karabudak R(2).
+
+Author information:
+(1)Department of Neurology, Near East University Faculty of Medicine, Nicosia, 
+Cyprus.
+(2)Department of Neurology, Hacettepe University Faculty of Medicine, Ankara, 
+Turkey.
+
+AMAÇ: Primer progresif multipl skleroz (PPMS) ve progresif relapsing multipl 
+skleroz (PRMS) başlangıçtan beri olan progresyon ile karakterize MS tipleridir. 
+Nadir görülmelerinden dolayı, literatürde diğer MS formlarına göre daha az bilgi 
+bulunmaktadır. Bu çalışmanın amacı progresif başlangıçlı MS (PBMS) hastalarında 
+klinik ve laboratuvar özelliklerini ortaya koymaktır.
+YÖNTEM: PBMS hastaları 2010-2014 yılları arasında değerlendirilip demografik, 
+klinik özellikleri ve beyin omurilik sıvısı (BOS) bulguları belirlendi.
+BULGULAR: Otuz iki PBMS hastası ile ilgili veriler değerlendirildi. Hastalık 
+seyri 24 hastada relaps olmadan (PPMS), sekiz hastada ise relapslı progresifti 
+(PRMS). Kadın/erkek oranı tüm grupta 1'di. Ortalama başlangıç yaşı tüm grup için 
+40 (23-55) yaştı. Gruplar arasında hastalık başlangıç yaşı ortancası anlamlı 
+farklı bulunmadı (p=0,053). En sık prezantasyon belirtisi motor bozukluklardı. 
+Relapslar tüm hastalarda hastalığın ilk 10 yılında görüldü. BOS analizinde 
+oligoklonal bant pozitifliği ve artmış IgG indeksi açısından gruplar arasında 
+fark saptanmadı (p=0,938, p=0,058). Hastalık süresi her iki grupta da benzer 
+olduğu halde, PPMS grubunda değerlendirme sırasında ortanca EDSS skoru daha 
+yüksek bulundu (p=0,020).
+SONUÇ: Çalışmamız Türk PBMS hastalarının klinik seyir ve laboratuvar bulgularına 
+odaklanmış ilk çalışmadır. İki grubun klinik ve laboratuvar bulgularının 
+karşılaştırılması benzer sonuçlar göstermiştir. Gruplar arasında hastalık 
+başlangıç yaşı ve artmış IgG indeksi açısından farklılık olup olmadığını 
+netleştirmek için gelecekte daha geniş örneklemli çalışmalar yapılması 
+gerekmektedir.
+
+DOI: 10.5152/npa.2017.19269
+PMCID: PMC6427076
+PMID: 30911233
+
+Conflict of interest statement: Conflict of Interest: No conflict of interest 
+was declared by the authors.
+
+
+2. Tuberk Toraks. 2023 Mar;71(1):107-111. doi: 10.5578/tt.20239913.
+
+Organizing pneumonia following ocrelizumab use in a patient with multiple 
+sclerosis: A case report.
+
+Aysan N(1), Köybaşı G(1), Satıcı C(1), Demirkol MA(2), Arpınar Yiğitbaş B(3), 
+Arpaçağ Koşar AF(1).
+
+Author information:
+(1)Clinic of Chest Diseases, İstanbul Yedikule Chest Diseases and Thoracic 
+Surgery Training and Research Hospital, İstanbul, Türkiye.
+(2)Clinic of Chest Diseases, Başakşehir Çam and Sakura City Hospital, İstanbul, 
+Türkiye.
+(3)Department of Chest Diseases, İstanbul Medeniyet University Faculty of 
+Medicine, İstanbul, Türkiye.
+
+Ocrelizumab is an anti-CD20 monoclonal antibody used in the treatment of primary 
+progressive and relapsing multiple sclerosis (MS). Although cases of organizing 
+pneumonia have been reported in association with other antiCD20 agents such as 
+rituximab, there is insufficient data in the literature on 
+Ocrelizumab-associated lung involvement. Herein, we present a case of organizing 
+pneumonia in a 37-year-old female patient with multiple sclerosis following 
+Ocrelizumab use.
+
+Multipl Skleroz tanılı bir hastada ocrelizumab kullanımını takip eden organize 
+pnömoni : Vaka sunumu Ocrelizumab, primer progresif ve tekrarlayan multipl 
+skleroz (MS) tedavisinde kullanılan bir anti-CD20 monoklonal antikorudur. 
+Rituximab gibi diğer anti-CD20 ajanları ile ilişkili organize pnömoni vakaları 
+olduğu bilinse de Ocrelizumab ilişkili akciğer tutulumu ile ilgili literatürde 
+yeterince veri bulunmamaktadır. Bu olgu sunumumuzda, MS tanısı nedeniyle 
+Ocrelizumab kullanan 37 yaşındaki kadın hastada, Ocrelizumab kullanımı sonrası 
+gelişen organize pnömoni olgusunu sunmaktayız.
+
+DOI: 10.5578/tt.20239913
+PMCID: PMC10795250
+PMID: 36912415 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.
+
+
+3. Agri. 2014;26(3):149-50. doi: 10.5505/agri.2014.99815.
+
+[Take a hint: Multiple Sclerosis and headache].
+
+[Article in Turkish]
+
+Kozak HH(1), Uca AU(1).
+
+Author information:
+(1)Department of Neurology, Necmettin Erbakan University Meram Faculty of 
+Medicine, Konya, Turkey.
+
+DOI: 10.5505/agri.2014.99815
+PMID: 25205416 [Indexed for MEDLINE]
+
+
+4. Turk Tip Cemiy Mecm. 1951 Jul;17(7):363-8.
+
+[Brucellosis and multiple sclerosis].
+
+[Article in Undetermined Language]
+
+EGELI ES, TUNA A.
+
+PMID: 14876785 [Indexed for MEDLINE]

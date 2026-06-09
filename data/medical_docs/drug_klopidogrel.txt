@@ -1,0 +1,301 @@
+=== PubMed: clopidogrel drug interactions antiplatelet aspirin ppi ===
+1. J Intern Med. 2010 Dec;268(6):516-29. doi: 10.1111/j.1365-2796.2010.02299.x. 
+Epub 2010 Nov 14.
+
+Antiplatelet drug interactions.
+
+Mackenzie IS(1), Coughtrie MW, MacDonald TM, Wei L.
+
+Author information:
+(1)Medicines Monitoring Unit (MEMO), Division of Medical Sciences, University of 
+Dundee, Ninewells Hospital & Medical School, Dundee, UK.
+
+Both laboratory studies in healthy volunteers and clinical studies have 
+suggested adverse interactions between antiplatelet drugs and other commonly 
+used medications. Interactions described include those between aspirin and 
+ibuprofen, aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs), and 
+the thienopyridine, clopidogrel, and drugs inhibiting CYP2C19, notably the 
+proton pump inhibitors (PPI) omeprazole and esomeprazole. Other interactions 
+between thienopyridines and CYP3A4/5 have also been reported for statins and 
+calcium channel blockers. The ibuprofen/aspirin interaction is thought to be 
+caused by ibuprofen blocking the access of aspirin to platelet cyclo-oxygenase. 
+The thienopyridine interactions are caused by inhibition of microsomal enzymes 
+that metabolize these pro-drugs to their active metabolites. We review the 
+evidence for these interactions, assess their clinical importance and suggest 
+strategies of how to deal with them in clinical practice. We conclude that 
+ibuprofen is likely to interact with aspirin and reduce its anti-platelet action 
+particularly in those patients who take ibuprofen chronically. This interaction 
+is of greater relevance to those patients at high cardiovascular risk. A 
+sensible strategy is to advise users of aspirin to avoid chronic ibuprofen or to 
+ingest aspirin at least 2 h prior to ibuprofen. Clearly the use of NSAIDs that 
+do not interact in this way is preferred. For the clopidogrel CYP2C19 and 
+CYP3A4/5 interactions, there is good evidence that these interactions occur. 
+However, there is less good evidence to support the clinical importance of these 
+interactions. Again, a reasonable strategy is to avoid the chronic use of drugs 
+that inhibit CYP2C19, notably PPIs, in subjects taking clopidogrel and use high 
+dose H2 antagonists instead. Finally, anti-platelet agents probably interact 
+with other drugs that affect platelet function such as selective serotonin 
+reuptake inhibitors, and clinicians should probably judge patients taking such 
+combination therapies as at high risk for bleeding.
+
+© 2010 The Association for the Publication of the Journal of Internal Medicine.
+
+DOI: 10.1111/j.1365-2796.2010.02299.x
+PMID: 21073556 [Indexed for MEDLINE]
+
+
+2. N Engl J Med. 2010 Nov 11;363(20):1909-17. doi: 10.1056/NEJMoa1007964. Epub
+2010  Oct 6.
+
+Clopidogrel with or without omeprazole in coronary artery disease.
+
+Bhatt DL(1), Cryer BL, Contant CF, Cohen M, Lanas A, Schnitzer TJ, Shook TL, 
+Lapuerta P, Goldsmith MA, Laine L, Scirica BM, Murphy SA, Cannon CP; COGENT 
+Investigators.
+
+Collaborators: Bhatt DL, Cryer BL, Cohen M, Lanas A, Schnitzer TJ, Giugliano R, 
+deFeyter PJ, Fennerty MB, Triadafilopoulis G, Makuch RW, Skene A, Laine L, 
+Jamidar P, Upchurch B, Scirica BM, Joyner C, Karsch K, Amerena J, Hammett C, 
+Jeffery I, Kanna R, Kiat H, Ganeva N, Georgiev B, Ginkova J, Goudev A, 
+Hergeldjieva V, Krastev A, Mihov A, Mincheva V, Penchev K, Petrov I, Ramshev K, 
+Tisheva S, Tokmakova M, Bertrand O, Cha J, Dion D, Ducas J, Gin K, Klinke P, 
+Kouz S, Lefkowitz C, Maranda C, O'Keefe D, Pandey S, Rupka D, Sluzar V, Tremblay 
+B, Araneda G, Díaz R, Lanas F, León L, Potthoff S, Raffo C, Vejar M, 
+Villavicencio M, Yañez M, Kucera D, Čihalík Č, Dunaj M, Hraboš V, Monhart Z, 
+Štípal R, Vojácek J, Vojtíšek P, Galinier M, Al-Zoebi A, Axthelm C, Bauknecht C, 
+Behrens S, Berger HJ, Boscher D, Claus G, Dänschel W, Darius H, Dempfle CE, 
+Dorsel T, Gawaz MP, Genth-Zotz S, Grönefeld G, Guelker H, Hahnefeld C, Heuer H, 
+Horacek T, Klingenheben T, Kohler B, Kolditz J, Krämer A, Krause K, Lange R, 
+Lawall H, Oeff M, Omran H, Proskynitopoulos N, Richard F, Schreckenberg A, 
+Schröder T, Schuler G, Schulze HO, Schwencke C, Stangl V, Stumpf J, Taggeselle 
+J, Uebel P, vom Dahl J, von Hodenberg E, Weil J, Weissbrodt M, Kerekes C, Kollár 
+Á, Kovács Z, Lupkovics G, Regos L, Vértes A, Herczeg B, Tomcsányi J, Belli G, 
+Brunelli C, De Luca G, Musumeci G, Gamba MA, Ruíz RA, Pons JL, Esperón GL, 
+Martínez UR, Villeda Espinosa E, Biedrzycka M, Boruczkowska-Kaszkowiak A, 
+Bronisz M, Bujak K, Derlaga B, Drzewiecki A, Gieroba A, Hiczkiewicz J, Hoffmann 
+A, Jankowski M, Jaworska K, Jazwinska-Tarnawska E, Kaczmarek B, Kania G, 
+Karczmarc A, Karpiński J, Karpiński M, Kawka-Urbanek T, Kołodziej P, Korzeniak 
+R, Kosior J, Krynicki R, Kubica J, Kucharski L, Kurek P, Kustrzycka-Kratochwil 
+D, Kuzniar J, Miękus P, Mirek-Bryniarska E, Monies F, Mrówczyńska A, Ogórek M, 
+Ogórek M, Okopień B, Oręziak A, Pasierski T, Piepiorka M, Pluta W, Podogrodzka 
+B, Polonski L, Rogacka D, Rozycka-Grudniewicz M, Ruszkowski P, Ściborski R, 
+Stańczak-Krop A, Szełemej R, Szwed H, Tarchalski J, Targoński R, Ujda M, 
+Wilczewski P, Wojciechowski D, Zarębiński M, Tatu-Chitoiu GP, Iosipescu L, 
+Melicovici N, Militaru C, Mot S, Popescu E, Sipciu D, Tatu-Chitoiu GP, Tudoran 
+M, Ungureanu G, Duris T, Mičko K, Pella D, Džupina A, Kolíková V, Nedelová I, 
+Oriesek R, Škubová K, Stevlik J, Straňanková D, Koval O, Parkhomenko O, 
+Shershnyova O, Sirenko Y, Skrutov A, Vakaliuk I, Vykhovanyuk I, Abbott JD, Agah 
+R, Ahmed A, Albirini A, Alfieri A, Alkotob ML, Anagnostis G, Anderson MW, Arora 
+V, Banerjee S, Barag S, Bedel G, Belber A, Benton R, Berlin H, Bolster DE, 
+Brachfeld C, Brett CM, Brown C, Brown C, Canaday D, Canosa RP, Capó JP Jr, 
+Carlson R, Carr K, Cartaya M, Chandna H, Chandra R, Chang MA, Charney R, Chiong 
+R, Cohen J, Collins J, Connelly T, Corbelli JC, Cospolich B, Dadourian B, Dahiya 
+R, Daigneault A, Dalton RP, Darrah S, Desai V, Detwiler J, Dhar S, Diaz PJ, 
+Donovan D, El Hafi S, Elkin G, Ellis G Jr, Fabre C, Fahrenbach M, Figueredo V, 
+First B, Fischell T, Flores EA, Foster RE, Frais M, French WJ, Frey A, Gaither 
+N, Garcia LM, Garibian G, Gelernt M, Gilchrist I, Gillespie E, Gogia H, Goodman 
+H, Gottlieb D, Goyal L, Graves MW, Grena P, Guerra O, Gupta A, Haideri H, 
+Hamroff GS, Hassel D, Hassinger N, Haught HW, Herrod JN, Herzog E, Hirsch C, 
+Holmberg MJ, Horton KB, Jan MA, Jinich D, Johnson C, Johnson D, Jones A, Kabour 
+A, Kenton DM, Kindman A, Klugherz B, Kodali VP, Koren MJ, Kosinski E, Kramer J, 
+Krishnaswami A, Kutner M, Lau T, Lee CW, Lins J, Little T, Lloret R, Lo E, Lui 
+HK, Maggiacomo F, Malik A, Mason P, Mattichak S, Mattson E, Mayer N, McGuire D, 
+McKenzie ME, McLean RA, Mercando A, Miller G, Moloney P, Nadar V, Nallasivan M, 
+Noble G, Oderinde JB, Pamfilis S, Parris C, Patel D, Pellizzon G, Perlman R, 
+Pessanha B, Peter A, Peter A, Phillips RT 3rd, Polk DM, Popov D, Promisloff S, 
+Raad G, Rabinowitz AC, Raveendran G, Rouch C, Ryder R, Salha H, Sandberg JH, 
+Sandhu JS, Sanz M, Savani D, Schlau A, Schwartz S, Seaworth JF, Shah P, Shah A, 
+Shah R, Shammas NW, Shanes J, Sharma P, Sharpe CR, Shavelle D, Siegel RM, 
+Simmons J, Simon HJ, Sotolongo RP, Speer JF, Srivastava S, Stahl L, Staniloae C, 
+Stegeman DM, Stegemoller R, Stein B, Stoltz S, Stuver T, Sultan PK, Suresh DP, 
+Sutherland JE, Taghizadeh B, Tauth J, Thew S, Thomas GS, Tinker W, Tretter J, 
+Turk S, Turns J, Tuten CJ, Ugol L, Van De Graaff E, Vazquez-Tanus J, Verzosa S, 
+Vogel C, Vora KN, Voyce SJ, Wainwright W, Waldo D, Wassmer P, Weiss RJ, Weiss 
+RJ, Wertheimer J, Williams D, Williams G, Wood DM, Yiachos G, Zacharias C, 
+Zakrzewski M.
+
+Author information:
+(1)Veterans AffairsBoston Healthcare System, Brigham and Women's Hospital, 
+Boston, MA 02132, USA. dlbhattmd@post.harvard.edu
+
+Comment in
+    N Engl J Med. 2010 Nov 11;363(20):1977. doi: 10.1056/NEJMc1012022.
+    N Engl J Med. 2011 Feb 17;364(7):681-2; author reply 682-3. doi: 
+10.1056/NEJMc1013859.
+    N Engl J Med. 2011 Feb 17;364(7):681; author reply 682-3. doi: 
+10.1056/NEJMc1013859.
+    Intern Emerg Med. 2011 Apr;6(2):159-60. doi: 10.1007/s11739-011-0542-6.
+    Ann Intern Med. 2011 Mar 15;154(6):JC3-7. doi: 
+10.7326/0003-4819-154-6-201103150-02007.
+    Evid Based Med. 2011 Oct;16(5):144-5. doi: 10.1136/ebm1304.
+
+BACKGROUND: Gastrointestinal complications are an important problem of 
+antithrombotic therapy. Proton-pump inhibitors (PPIs) are believed to decrease 
+the risk of such complications, though no randomized trial has proved this in 
+patients receiving dual antiplatelet therapy. Recently, concerns have been 
+raised about the potential for PPIs to blunt the efficacy of clopidogrel.
+METHODS: We randomly assigned patients with an indication for dual antiplatelet 
+therapy to receive clopidogrel in combination with either omeprazole or placebo, 
+in addition to aspirin. The primary gastrointestinal end point was a composite 
+of overt or occult bleeding, symptomatic gastroduodenal ulcers or erosions, 
+obstruction, or perforation. The primary cardiovascular end point was a 
+composite of death from cardiovascular causes, nonfatal myocardial infarction, 
+revascularization, or stroke. The trial was terminated prematurely when the 
+sponsor lost financing.
+RESULTS: We planned to enroll about 5000 patients; a total of 3873 were randomly 
+assigned and 3761 were included in analyses. In all, 51 patients had a 
+gastrointestinal event; the event rate was 1.1% with omeprazole and 2.9% with 
+placebo at 180 days (hazard ratio with omeprazole, 0.34, 95% confidence interval 
+[CI], 0.18 to 0.63; P<0.001). The rate of overt upper gastrointestinal bleeding 
+was also reduced with omeprazole as compared with placebo (hazard ratio, 0.13; 
+95% CI, 0.03 to 0.56; P = 0.001). A total of 109 patients had a cardiovascular 
+event, with event rates of 4.9% with omeprazole and 5.7% with placebo (hazard 
+ratio with omeprazole, 0.99; 95% CI, 0.68 to 1.44; P = 0.96); high-risk 
+subgroups did not show significant heterogeneity. The two groups did not differ 
+significantly in the rate of serious adverse events, though the risk of diarrhea 
+was increased with omeprazole.
+CONCLUSIONS: Among patients receiving aspirin and clopidogrel, prophylactic use 
+of a PPI reduced the rate of upper gastrointestinal bleeding. There was no 
+apparent cardiovascular interaction between clopidogrel and omeprazole, but our 
+results do not rule out a clinically meaningful difference in cardiovascular 
+events due to use of a PPI. (Funded by Cogentus Pharmaceuticals; 
+ClinicalTrials.gov number, NCT00557921.).
+
+DOI: 10.1056/NEJMoa1007964
+PMID: 20925534 [Indexed for MEDLINE]
+
+
+3. Eur J Intern Med. 2021 Mar;85:1-13. doi: 10.1016/j.ejim.2020.11.014. Epub 2020
+ Dec 2.
+
+Gastroprotection in patients on antiplatelet and/or anticoagulant therapy: a 
+position paper of National Association of Hospital Cardiologists (ANMCO) and the 
+Italian Association of Hospital Gastroenterologists and Endoscopists (AIGO).
+
+Abrignani MG(1), Gatta L(2), Gabrielli D(3), Milazzo G(4), De Francesco V(5), De 
+Luca L(6), Francese M(7), Imazio M(8), Riccio E(9), Rossini R(10), Scotto di 
+Uccio F(11), Soncini M(12), Zullo A(13), Colivicchi F(14), Di Lenarda A(15), 
+Gulizia MM(16), Monica F(17).
+
+Author information:
+(1)Cardiology Unit, S. Antonio Abate Hospital, ASP Trapani, Erice, Italy. 
+Electronic address: maur.abri@alice.it.
+(2)Gastroenterogy Unit, Versilia Hospital, Lido di Camaiore, Italy.
+(3)Cardiology Division, Hospital ''Murri", Fermo, Italy.
+(4)Department of Medicine, Ospedale Vittorio Emanuele III, Salemi, Italy.
+(5)Gastroenterology Unit, 'Riuniti' Hospital, Foggia, Italy.
+(6)Dept. Of Cardiosciences, Azienda Ospedaliera San Camillo-Forlanini, Roma, 
+Italy.
+(7)Division of Cardiology, Garibaldi-Nesima Hospital, Catania, Italy.
+(8)Cardiology, AOU Città della Salute e della Scienza, Turin, Italy.
+(9)Department of Transplantation, UOSC of Gastroenterology and Endoscopy, AORN 
+'A. Cardarelli', Napoli, Italy.
+(10)Cardiology Unit, Ospedale Santa Croce e Carle, Cuneo, Italy.
+(11)Cardiology Division, Santa Maria Loreto Mare Hospital, Naples, Italy.
+(12)Department of Medicine, ASST Lecco, Italy.
+(13)Gastroenterology and Digestive Endoscopy, Nuovo Regina Margherita Hospital, 
+Rome, Italy.
+(14)Cardiology Division, San Filippo Neri Hospital, ASL ROMA 1, Rome, Italy.
+(15)Cardiovascular Center, University Hospital and Health Services of Trieste, 
+Italy.
+(16)Division of Cardiology, Garibaldi-Nesima Hospital, Catania, Italy; 
+President, Heart Care Foundation, Italy.
+(17)Gastroenterology and Digestive Endoscopy, Academic Hospital Cattinara, 
+Trieste, Italy.
+
+Comment in
+    Eur J Intern Med. 2021 Mar;85:23-24. doi: 10.1016/j.ejim.2021.01.014.
+
+Aspirin and P2Y12 receptor antagonists are widely used across the spectrum of 
+cardiovascular and cerebrovascular diseases. Gastrointestinal complications, 
+including ulcer and bleeding, are relatively common during antiplatelet 
+treatment and, therefore, concomitant proton pump inhibitor (PPI) treatment is 
+often prescribed. However, potential increased risk of cardiovascular events has 
+been suggested for PPIs, and, in recent years, it has been discussed whether 
+these drugs may reduce the cardiovascular protection by aspirin and, even more 
+so, clopidogrel. Indeed, pharmacodynamic and pharmacokinetic studies suggested 
+an interaction through hepatic CYP2C19 between PPIs and clopidogrel, which could 
+translate into clinical inefficacy, leading to higher rates of cardiovascular 
+events. The FDA and the EMA sent a warning in 2010 discouraging the concomitant 
+use of clopidogrel with omeprazole or esomeprazole. In addition, whether the use 
+of PPIs may affect the clinical efficacy of the new P2Y12 receptor antagonists, 
+ticagrelor and prasugrel, remains less known. According to current guidelines, 
+PPIs in combination with antiplatelet treatment are recommended in patients with 
+risk factors for gastrointestinal bleeding, including advanced age, concurrent 
+use of anticoagulants, steroids or non-steroidal anti-inflammatory drugs, and 
+Helicobacter pylori infection. Like vitamin K antagonists (VKAs), DOACs can 
+determine gastrointestinal bleeding. Results from both randomized clinical 
+trials and observational studies suggest that high-dose dabigatran (150 mg bid), 
+rivaroxaban and high-dose edoxaban (60 mg daily) are associated with a higher 
+risk of GI bleeding as compared with apixaban and warfarin. In patients taking 
+oral anticoagulant with GI risk factor, PPI could be recommended, even if 
+usefulness of PPIs in these patients deserves further data. Helicobacter pylori 
+should always be searched, and treated, in patients with history of peptic ulcer 
+disease (with or without complication). Given the large number of patients 
+treated with antithrombotic drugs and PPIs, even a minor reduction of platelet 
+inhibition or anticoagulant effect potentially carries a considerable clinical 
+impact. The present joint statement by ANMCO and AIGO summarizes the current 
+knowledge regarding the widespread use of platelet inhibitors, anticoagulants, 
+and PPIs in combination. Moreover, it outlines evidence supporting or opposing 
+drug interactions between these drugs and discusses consequent clinical 
+implications.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ejim.2020.11.014
+PMID: 33279389 [Indexed for MEDLINE]
+
+
+4. Basic Clin Pharmacol Toxicol. 2025 Aug;137(2):e70087. doi: 10.1111/bcpt.70087.
+
+Efficacy and Safety of Clopidogrel With and Without a Proton Pump Inhibitor: A 
+Systematic Review and Meta-Analysis.
+
+Axelsson MAB(1), Parodi López N(2)(3), Wikström Jonsson E(4)(5), Wallerstedt 
+SM(2)(6).
+
+Author information:
+(1)Laboratory of Clinical Chemistry, Sahlgrenska University Hospital, 
+Gothenburg, Region Västra Götaland, Sweden.
+(2)Department of Pharmacology, Sahlgrenska Academy, University of Gothenburg, 
+Gothenburg, Sweden.
+(3)Department of Clinical Pharmacology, Sahlgrenska University Hospital, 
+Gothenburg, Sweden.
+(4)Department of Laboratory Medicine/Clinical Pharmacology, Karolinska 
+Institute, Stockholm, Sweden.
+(5)Department of Clinical Pharmacology, Medical Diagnostics, Karolinska 
+University Hospital, Stockholm, Sweden.
+(6)Center for Health Technology Assessment, Sahlgrenska University Hospital, 
+Gothenburg, Region Västra Götaland, Sweden.
+
+Classifications of drug interaction alerts regarding clopidogrel and a proton 
+pump inhibitor (PPI) differ between knowledge resources. In this systematic 
+review, Medline, Embase, and the Cochrane Library were searched for randomized 
+controlled trials (RCTs) applying PICO criteria: P = patients on clopidogrel; 
+I = intervention: PPI (subgroup: [es]omeprazole); C = comparison: no PPI (C1) or 
+a PPI other than (es)omeprazole (C2); O = outcomes, main: a composite of 
+cardiovascular events (efficacy); also: overt gastrointestinal bleeding 
+(safety). Fourteen RCTs fulfilled the PICO criteria, five without high risk of 
+bias and with at least one clinical event per study arm. Regarding efficacy with 
+or without a PPI, the pooled risk ratio (RR) and risk difference (RD) were 1.08 
+(95% confidence interval (CI) 0.78; 1.50) and 0.2 percentage points (95% CI 
+-0.9; 1.2), respectively (four RCTs; 4341 patients [96% also used aspirin, 98% 
+receiving I used (es)omeprazole]; moderate certainty evidence). Regarding 
+safety, the RR and RD were 0.13 (95% CI 0.03; 0.59) and -0.7 percentage points 
+(95% CI -1.1; -0.3), respectively (one RCT; 3761 patients; moderate certainty 
+evidence). The available evidence did not allow conclusions regarding omeprazole 
+versus pantoprazole. In conclusion, concurrent use of a PPI probably does not 
+largely affect clopidogrel efficacy, but probably reduces the risk of overt 
+gastrointestinal bleeding.
+
+© 2025 The Author(s). Basic & Clinical Pharmacology & Toxicology published by 
+John Wiley & Sons Ltd on behalf of Nordic Association for the Publication of 
+BCPT (former Nordic Pharmacological Society).
+
+DOI: 10.1111/bcpt.70087
+PMCID: PMC12277936
+PMID: 40685887 [Indexed for MEDLINE]
+
+Conflict of interest statement: E.W.J. writes texts and is involved in decisions 
+on classifications in Janusmed interactions. The authors declare no other 
+conflicts of interest.

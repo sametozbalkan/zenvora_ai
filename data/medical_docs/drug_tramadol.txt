@@ -1,0 +1,182 @@
+=== PubMed: tramadol drug interactions serotonin syndrome opioid ===
+1. Pain Physician. 2015 Jul-Aug;18(4):395-400.
+
+Tramadol, Pharmacology, Side Effects, and Serotonin Syndrome: A Review.
+
+Beakley BD, Kaye AM(1), Kaye AD.
+
+Author information:
+(1)Department of Anesthesiology, Tulane School of Medicine, New Orleans, LA; 
+Thomas J. Long School of Pharmacy and Health Sciences University of the Pacific, 
+Stockton, CA; Department of Anesthesiology, Louisiana State School of Medicine, 
+New Orleans, LA.
+
+BACKGROUND: Serotonin syndrome is a mild to potentially life-threatening 
+syndrome associated with excessive serotonergic activity within the central 
+nervous system. Serotonin syndrome is associated with medication use, drug 
+interactions, and overdose. While serotonin syndrome is often associated with 
+the use of selective serotonin inhibitors (SSRI), an increasing number of 
+reports are being presented involving the use of tramadol.
+METHODS: This review article contains an overview of serotonin syndrome while 
+specifically looking at tramadol's pharmacology and risk factors for serotonin 
+syndrome. With tramadol's increasing popularity, the goal of this article is to 
+make physicians more alert and aware of this potential side effect associated 
+with tramadol.
+CONCLUSIONS: In conclusion, with the increasing incidence of serotonin syndrome, 
+prescribing physicians should be aware of and educate their patients on the 
+potential side effects of tramadol. It is important that the prescribing 
+physician reviews patient medications for concurrent serotonergic drugs and 
+monitors for potential abuse.
+
+PMID: 26218943 [Indexed for MEDLINE]
+
+
+2. Med Princ Pract. 2025;34(5):456-463. doi: 10.1159/000546109. Epub 2025 Apr 25.
+
+Selective Serotonin Reuptake Inhibitors and Risk of Serotonin Syndrome as 
+Consequence of Drug-Drug Interactions: Analysis of the FDA Adverse Event 
+Reporting System.
+
+Elli C(1), Novella A(1), Elli C(1), Pasina L(1).
+
+Author information:
+(1)Laboratory of Clinical Pharmacology and Appropriateness of Drug Prescription, 
+Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan, Italy.
+
+<p>Background: Medications exhibiting serotonergic properties, such as selective 
+serotonin reuptake inhibitors (SSRIs) antidepressants, opioids, and other 
+antidepressants can induce serotonin syndrome, a rare but potentially 
+life-threatening adverse event.
+AIM: This study aims to investigate the risks of serotonin syndrome among 
+different SSRIs and assess the influence of drug-drug interactions with other 
+medications.
+METHODS: We analyzed the suspected adverse events in the US Food and Drug 
+Administration Adverse Event Reporting System (FAERS) database.
+RESULTS: We identified 13,312 reports of serotonin syndrome, 52% of which 
+involved SSRIs (n = 6,921), with reporting odds ratios (RORs) of 24.19. Among 
+the safety reports involving SSRIs, 4,851 cases reported at least one severe 
+outcome. All active substances of the SSRI group were associated with serotonin 
+syndrome, sertraline, and fluoxetine had the most reports, while fluvoxamine had 
+the highest ROR and risk compared to all other SSRIs (ROR: 2.66, 95% confidence 
+interval: 2.33-3.05). The combinations of SSRIs with other drugs with the most 
+reported cases were SSRIs-antidepressants (n = 2,395) and SSRIs-opioids (n = 
+2,252). The combinations of SSRIs with serotonin-norepinephrine reuptake 
+inhibitors (ROR 25.42) and "other antidepressants" (ROR 22.74) were associated 
+with a signal for serotonin syndrome. The combination SSRIs-opioids was 
+associated with a safety signal, particularly those with higher risk for 
+serotonin syndrome, like tramadol and fentanyl (ROR 41.95).
+CONCLUSION: Close monitoring for symptoms of serotonin syndrome should be 
+considered in patients with depression with a combination of antidepressants, 
+and in those on SSRIs who also require linezolid, monoamine oxidase inhibitors 
+or high-risk opioids, like tramadol, or fentanyl. </p>.
+
+© 2025 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000546109
+PMCID: PMC12140641
+PMID: 40288362 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest 
+directly relevant to the content of this manuscript.
+
+
+3. Drugs. 2021 Jul;81(11):1257-1272. doi: 10.1007/s40265-021-01515-z. Epub 2021
+Jul  1.
+
+Tapentadol Versus Tramadol: A Narrative and Comparative Review of Their 
+Pharmacological, Efficacy and Safety Profiles in Adult Patients.
+
+Roulet L(1), Rollason V(2), Desmeules J(2), Piguet V(2)(3).
+
+Author information:
+(1)Division of Clinical Pharmacy, Hospital Pharmacy of Nord Vaudois and Broye 
+Region, Rue d'Entremonts 11, 1400, Yverdon-les-Bains, Switzerland. 
+lucien.roulet@gmail.com.
+(2)Division of Clinical Pharmacology and Toxicology, Department of 
+Anesthesiology, Pharmacology, Emergency Medicine and Intensive Care, Geneva 
+University Hospitals and Geneva University, Geneva, Switzerland.
+(3)Pain Clinic, Centre Jean-Violette, Geneva, Switzerland.
+
+We conducted a narrative review of the literature to compare the 
+pharmacological, efficacy and safety profiles of tapentadol and tramadol, and to 
+assess the clinical interest of tapentadol in adult patients. Tapentadol and 
+tramadol share a mixed mechanism of action, including both mu-agonist and 
+monoaminergic properties. Tapentadol is approximately two to three times more 
+potent than tramadol and two to three times less potent than morphine. It has no 
+identified analgesically active metabolite and is not significantly metabolised 
+by cytochrome P450 enzymes, thus overcoming some limitations of tramadol, 
+including the potential for pharmacokinetic drug-drug interactions and 
+interindividual variability due to genetic polymorphisms of cytochrome P450 
+enzymes. The toxicity profiles of tramadol and tapentadol are similar; however 
+tapentadol is likely to result in less exposure to serotoninergic adverse 
+effects (nausea, vomiting, hypoglycaemia) but cause more opioid adverse effects 
+(constipation, respiratory depression, abuse) than tramadol. The safety of 
+tapentadol in real-world conditions remains poorly documented, particularly in 
+at-risk patient subgroups and also in the ability to assess the risk associated 
+with its residual serotonergic activity (serotonin syndrome, seizures). Because 
+of an earlier market introduction, more real-world safety data are available for 
+tramadol, including data from at-risk patient subgroups. The level of evidence 
+on the efficacy of both tramadol and tapentadol for the treatment of chronic 
+pain is globally low. The trials published to date show overall that tapentadol 
+does not provide a clinically significant analgesic improvement compared to 
+existing treatments, for which the safety profile is much better known. In 
+conclusion, tapentadol is not a first-line opioid but represents an additional 
+analgesic in the therapeutic choices, which some patients may benefit from after 
+careful examination of their clinical situation, co-morbidities and 
+co-medications.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s40265-021-01515-z
+PMCID: PMC8318929
+PMID: 34196947 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+4. J Pharm Pract. 2014 Feb;27(1):71-8. doi: 10.1177/0897190013504957. Epub 2013
+Oct  23.
+
+Serotonin syndrome: is it a reason to avoid the use of tramadol with 
+antidepressants?
+
+Park SH(1), Wackernah RC, Stimmel GL.
+
+Author information:
+(1)University of Southern California School of Pharmacy, Department of Clinical 
+Pharmacy and Pharmaceutical Economics & Policy, Los Angeles, CA, USA.
+
+BACKGROUND: There is a warning associated with all serotonergic antidepressants 
+and its concomitant use with tramadol due to the concern for a drug-drug 
+interaction resulting in serotonin syndrome (SS). The prescribing of 
+antidepressants with tramadol may be unnecessarily restricted due to fear of 
+causing this syndrome.
+OBJECTIVES: There are 3 objectives of this review. To (1) review case reports of 
+SS associated with the combination of tramadol and antidepressant drugs in 
+recommended doses, (2) describe the mechanisms of the drug interaction, and (3) 
+identify the potential risk factors for SS.
+METHODS: Case reports of SS associated with tramadol and antidepressants were 
+identified via Cochrane Library, PubMed, and Ovid (through October 2012) using 
+search terms SS, tramadol, antidepressants, fluoxetine, sertraline, paroxetine, 
+fluvoxamine, citalopram, escitalopram, venlafaxine, desvenlafaxine, duloxetine, 
+mirtazapine, milnacipran, trazodone, vilazodone, and bupropion. Cases involving 
+monoamine oxidase inhibitors (MAOIs) and tricyclic antidepressants were 
+excluded.
+RESULTS: Nine articles were identified describing 10 cases of suspected SS 
+associated with therapeutic doses of tramadol combined with an antidepressant. 
+Mechanisms of the drug-drug interactions involve pharmacodynamic, 
+pharmacokinetic, and possible pharmacogenetic factors.
+CONCLUSIONS: Review of the available case reports of tramadol combined with 
+antidepressant drugs in therapeutic doses indicates caution in regard to the 
+potential for SS but does not constitute a contraindication to their use. 
+Tramadol is only contraindicated in combination with MAOIs but not other 
+antidepressants in common use today. These case reports do suggest several 
+factors associated with a greater risk of SS, including increased age, higher 
+dosages, and use of concomitant potent cytochrome P450 2D6 inhibitors. Tramadol 
+can be safely combined with antidepressants; however, monitoring and counseling 
+patients are prudent when starting a new serotonergic agent or when doses are 
+increased.
+
+DOI: 10.1177/0897190013504957
+PMID: 24153222 [Indexed for MEDLINE]

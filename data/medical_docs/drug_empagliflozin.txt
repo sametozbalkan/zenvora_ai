@@ -1,0 +1,35 @@
+İLAÇ: Empagliflozin (Jardiance)
+SINIF: SGLT2 inhibitörü, antidiyabetik
+
+ENDİKASYONLAR:
+- Tip 2 diyabet (glisemik kontrol)
+- Kalp yetmezliği (HFrEF ve HFpEF)
+- Kronik böbrek hastalığında progresyonu yavaşlatma
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- İnsülin, sülfonilüreler (gliklazid, glibenklamid): Hipoglisemi riski artar; insülin dozu azaltılabilir
+- Diüretikler (furosemid, hidroklorotiyazid): Dehidratasyon ve hipotansiyon riski
+- ACE inhibitörleri/ARB: Hipotansiyon riski artabilir
+- NSAİD'ler: Böbrek fonksiyonu bozulabilir
+- Lityum: Lityum atılımı artabilir
+
+UYARILAR:
+- Diyabetik ketoasidoz (DKA) riski: Öglisemik DKA — kan şekeri normal olsa bile oluşabilir; cerrahi/açlık öncesi kesilmeli (en az 3-4 gün önce)
+- Genitoüriner enfeksiyonlar (genital mantar, İYE) risk artışı — hijyen önemli
+- Fourniers gangreni (nadir ama ciddi) — genital bölgede ağrı, şişlik → acil
+- Dehidratasyon: Yeterli sıvı alımı sağlanmalı
+- Böbrek fonksiyonu izlenmeli (GFR <45'te etkinlik azalır)
+- Ayak ampütasyon riski (kangrene dikkat — düzenli ayak bakımı)
+- Ortostatik hipotansiyon: Yaşlı ve diüretik kullananlar dikkatli
+
+KONTRENDİKASYONLAR:
+- Tip 1 diyabet (DKA riski)
+- GFR <20 ml/dk (glisemik endikasyon için)
+- Diyaliz hastaları
+
+YAN ETKİLER:
+- Genital mantar enfeksiyonu
+- İdrar yolu enfeksiyonu
+- Poliüri, polidipsi
+- Hipotansiyon
+- LDL artışı (hafif)

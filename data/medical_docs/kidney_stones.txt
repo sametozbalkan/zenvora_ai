@@ -1,0 +1,134 @@
+=== PubMed: kidney stones ===
+1. Am Fam Physician. 2019 Apr 15;99(8):490-496.
+
+Kidney Stones: Treatment and Prevention.
+
+Fontenelle LF(1), Sarti TD(2).
+
+Author information:
+(1)Universidade Vila Velha Medical School, Vila Velha, Espirito Santo, Brazil.
+(2)Health Sciences Center of Universidade Federal do Espirito Santo, Vitoria, 
+Espirito Santo, Brazil.
+
+Kidney stones are a common disorder, with an annual incidence of eight cases per 
+1,000 adults. During an episode of renal colic, the first priority is to rule 
+out conditions requiring immediate referral to an emergency department, then to 
+alleviate pain, preferably with a nonsteroidal anti-inflammatory drug. The 
+diagnostic workup consists of urinalysis, urine culture, and imaging to confirm 
+the diagnosis and assess for conditions requiring active stone removal, such as 
+urinary infection or a stone larger than 10 mm. Conservative management consists 
+of pain control, medical expulsive therapy with an alpha blocker, and follow-up 
+imaging within 14 days to monitor stone position and assess for hydronephrosis. 
+Asymptomatic kidney stones should be followed with serial imaging, and should be 
+removed in case of growth, symptoms, urinary obstruction, recurrent infections, 
+or lack of access to health care. All patients with kidney stones should be 
+screened for risk of stone recurrence with medical history, basic laboratory 
+evaluation, and imaging. Lifestyle modifications such as increased fluid intake 
+should be recommended for all patients, and thiazide diuretics, allopurinol, or 
+citrates should be prescribed for patients with recurrent calcium stones. 
+Patients at high risk of stone recurrence should be referred for additional 
+metabolic assessment, which can serve as a basis for tailored preventive 
+measures.
+
+PMID: 30990297 [Indexed for MEDLINE]
+
+
+2. Curr Opin Nephrol Hypertens. 2020 Mar;29(2):232-236. doi: 
+10.1097/MNH.0000000000000581.
+
+Occupational kidney stones.
+
+Malieckal DA(1), Goldfarb DS.
+
+Author information:
+(1)Division of Nephrology and Hypertension, Zucker School of Medicine at 
+Hofstra/Northwell, Hempstead Nephrology Section, New York Harbor VA Healthcare 
+System Nephrology Division, NYU Langone Health, New York, New York, USA.
+
+PURPOSE OF REVIEW: Kidney stones are a common and preventable disorder. Certain 
+occupations may increase risk for stone disease which will be discussed in this 
+review. Few observational studies have examined this association.
+RECENT FINDINGS: Some occupations prevent individuals from drinking enough 
+fluids to maintain a dilute urine or to void when they need to. People may have 
+poor access to fluids or to bathroom facilities. These issues pose a risk for 
+stone disease and are exacerbated by those who work in warmer climates. 
+Individuals who do more activity while working, especially outdoors, perspire 
+more, leading to more concentrated urine. In more sedentary jobs, individuals 
+are at a higher risk of metabolic syndrome and therefore have a higher risk for 
+stones. Astronauts, who work in environments without gravity, mobilize calcium 
+from bone, leading to a higher risk of stone disease.
+SUMMARY: Proper fluid intake, more access to restrooms and increased use of 
+potassium citrate may be the best options for those who encounter greater risk 
+for stones because of their occupation.
+
+DOI: 10.1097/MNH.0000000000000581
+PMID: 31895162 [Indexed for MEDLINE]
+
+
+3. Curr Opin Nephrol Hypertens. 2023 Jul 1;32(4):359-365. doi: 
+10.1097/MNH.0000000000000892. Epub 2023 Apr 19.
+
+Kidney stones, hypercalciuria, and recent insights into proximal tubule calcium 
+reabsorption.
+
+Alexander RT(1)(2)(3).
+
+Author information:
+(1)Department of Pediatrics.
+(2)Department of Physiology, University of Alberta.
+(3)The Women's & Children's Health Research Institute, Edmonton, Alberta, 
+Canada.
+
+PURPOSE OF REVIEW: Most kidney stones are composed of calcium, and the greatest 
+risk factor for kidney stone formation is hypercalciuria. Patients who form 
+kidney stones often have reduced calcium reabsorption from the proximal tubule, 
+and increasing this reabsorption is a goal of some dietary and pharmacological 
+treatment strategies to prevent kidney stone recurrence. However, until 
+recently, little was known about the molecular mechanism that mediates calcium 
+reabsorption from the proximal tubule. This review summarizes newly uncovered 
+key insights and discusses how they may inform the treatment of kidney stone 
+formers.
+RECENT FINDINGS: Studies examining claudin-2 and claudin-12 single and double 
+knockout mice, combined with cell culture models, support complementary 
+independent roles for these tight junction proteins in contributing paracellular 
+calcium permeability to the proximal tubule. Moreover, a family with a coding 
+variation in claudin-2 causing hypercalciuria and kidney stones have been 
+reported, and reanalysis of Genome Wide Association Study (GWAS) data 
+demonstrates an association between noncoding variations in CLDN2 and kidney 
+stone formation.
+SUMMARY: The current work begins to delineate the molecular mechanisms whereby 
+calcium is reabsorbed from the proximal tubule and suggests a role for altered 
+claudin-2 mediated calcium reabsorption in the pathogenesis of hypercalciuria 
+and kidney stone formation.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MNH.0000000000000892
+PMID: 37074688 [Indexed for MEDLINE]
+
+
+4. JAMA. 2022 Sep 6;328(9):898. doi: 10.1001/jama.2022.12609.
+
+Kidney Stones.
+
+Walter K(1).
+
+Author information:
+(1)Senior Editor, JAMA.
+
+DOI: 10.1001/jama.2022.12609
+PMID: 36066517 [Indexed for MEDLINE]
+
+
+5. Lancet. 1998 Jun 13;351(9118):1797-801. doi: 10.1016/S0140-6736(98)01295-1.
+
+Kidney stones.
+
+Pak CY(1).
+
+Author information:
+(1)University of Texas Southwestern Medical Center, Center for Mineral 
+Metabolism and Clinical Research, Dallas 75235-8885, USA.
+
+DOI: 10.1016/S0140-6736(98)01295-1
+PMID: 9635968 [Indexed for MEDLINE]

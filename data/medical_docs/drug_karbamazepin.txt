@@ -1,0 +1,223 @@
+=== PubMed: carbamazepine drug interactions enzyme inducer oral contraceptive ===
+1. Epileptic Disord. 2014 Dec;16(4):409-31. doi: 10.1684/epd.2014.0714.
+
+Interactions between antiepileptic drugs, and between antiepileptic drugs and 
+other drugs.
+
+Zaccara G(1), Perucca E(2).
+
+Author information:
+(1)Unit of Neurology, Department of Medicine, Florence Health Authority, 
+Florence, Italy.
+(2)Department of Internal Medicine and Therapeutics, University of Pavia, and C. 
+Mondino National Neurological Institute, Pavia, Italy.
+
+Interactions between antiepileptic drugs, or between antiepileptic drugs and 
+other drugs, can be pharmacokinetic or pharmacodynamic in nature. 
+Pharmacokinetic interactions involve changes in absorption, distribution or 
+elimination, whereas pharmacodynamic interactions involve synergism and 
+antagonism at the site of action. Most clinically important interactions of 
+antiepileptic drugs result from induction or inhibition of drug metabolism. 
+Carbamazepine, phenytoin, phenobarbital and primidone are strong inducers of 
+cytochrome P450 and glucuronizing enzymes (as well as P-glycoprotein) and can 
+reduce the efficacy of co-administered medications such as oral anticoagulants, 
+calcium antagonists, steroids, antimicrobial and antineoplastic drugs through 
+this mechanism. Oxcarbazepine, eslicarbazepine acetate, felbamate, rufinamide, 
+topiramate (at doses ≥ 200 mg/day) and perampanel (at doses ≥ 8 mg/day) have 
+weaker inducing properties, and a lower propensity to cause interactions 
+mediated by enzyme induction. Unlike enzyme induction, enzyme inhibition results 
+in decreased metabolic clearance of the affected drug, the serum concentration 
+of which may increase leading to toxic effects. Examples of important 
+interactions mediated by enzyme inhibition include the increase in the serum 
+concentration of phenobarbital and lamotrigine caused by valproic acid. There 
+are also interactions whereby other drugs induce or inhibit the metabolism of 
+antiepileptic drugs, examples being the increase in serum carbamazepine 
+concentration by erythromycin, and the decrease in serum lamotrigine 
+concentration by oestrogen-containing contraceptives. Pharmacodynamic 
+interactions between antiepileptic drugs may also be clinically important. These 
+interactions can have potentially beneficial effects, such as the therapeutic 
+synergism of valproic acid combined with lamotrigine, or adverse effects, such 
+as the reciprocal potentiation of neurotoxicity observed in patients treated 
+with a combination of sodium channel blocking antiepileptic drugs.
+
+DOI: 10.1684/epd.2014.0714
+PMID: 25515681 [Indexed for MEDLINE]
+
+
+2. Expert Opin Drug Metab Toxicol. 2022 Jun;18(6):395-411. doi: 
+10.1080/17425255.2022.2106214. Epub 2022 Aug 5.
+
+Drug-drug interactions between psychotropic medications and oral contraceptives.
+
+Schoretsanitis G(1)(2)(3), Deligiannidis KM(2)(3)(4), Paulzen M(5)(6), Spina 
+E(7), de Leon J(8)(9).
+
+Author information:
+(1)Department of Psychiatry, Psychotherapy and Psychosomatics, Hospital of 
+Psychiatry, University of Zurich, Zurich, Switzerland.
+(2)The Zucker Hillside Hospital, Psychiatry Research, Northwell Health, Glen 
+Oaks, New York. USA.
+(3)Department of Psychiatry at the Donald and Barbara Zucker School of Medicine 
+at Northwell/Hofstra, Hempstead, NY, USA.
+(4)The Departments of Obstetrics & Gynecology and Molecular Medicine at the 
+Zucker School of Medicine at Hofstra/Northwell, Hempstead, New York, USA.
+(5)Alexianer Hospital Aachen, Aachen, Germany.
+(6)Department of Psychiatry, Psychotherapy and Psychosomatics, RWTH Aachen 
+University, and JARA- Translational Brain Medicine, Aachen, Germany.
+(7)Department of Clinical and Experimental Medicine, University of Messina, 
+Messina, Italy.
+(8)Mental Health Research Center at Eastern State Hospital, Lexington, KY, USA.
+(9)Biomedical Research Centre in Mental Health Net (CIBERSAM), Santiago Apostol 
+Hospital, University of the Basque Country, Vitoria, Spain.
+
+INTRODUCTION: This is a comprehensive overview of pharmacokinetic drug-drug 
+interactions (DDIs) involving oral contraceptives (OCs) and psychotropic 
+medications.
+AREAS COVERED: Medline and Embase from inception to April 2021 were searched for 
+DDIs between OCs and psychotropic medications. They included case reports/series 
+and cross-sectional, cross-over, placebo-controlled studies of patient cohorts 
+and healthy females. We classified DDIs as: combined hormonal contraceptives 
+(CHCs) acting as victim drugs (i.e. affected by psychotropic co-medications), 
+CHCs as perpetrators, (i.e. affecting the activity of psychotropic 
+co-medications), progestin-derivatives as victim drugs and progestin-derivatives 
+affecting psychotropic co-medications. Alteration ratios reflecting changes in 
+pharmacokinetic parameters before and after the DDI were estimated to 
+approximate the extent of the DDI.
+EXPERT OPINION: Women taking antiepileptic agents with strong to moderate 
+enzyme-inducing properties (carbamazepine, phenobarbital, phenytoin) or those 
+with moderate to mild enzyme-inducing properties (cenobamate, clobazam, 
+eslicarbazepine, felbamate, oxcarbazepine, rufinamide, topiramate) should avoid 
+OCs. Daily doses of cytochrome P450 1A2 substrates including clozapine may need 
+to be reduced by 50% in women taking concomitant CHCs. Compared to CHCs, the 
+propensity of progestin-only pills for DDIs has been investigated less. We 
+provide a summary table for clinicians containing recommendations based on 
+literature and package inserts; whenever evidence was available, we provided 
+dose-correction factors.
+
+DOI: 10.1080/17425255.2022.2106214
+PMID: 35876180 [Indexed for MEDLINE]
+
+
+3. Clin Pharmacokinet. 1990 Jun;18(6):472-84. doi: 
+10.2165/00003088-199018060-00004.
+
+Pharmacokinetic drug interactions with oral contraceptives.
+
+Back DJ(1), Orme ML.
+
+Author information:
+(1)Department of Pharmacology and Therapeutics, University of Liverpool, 
+England.
+
+Oral contraceptive steroids are used by an estimated 60 to 70 million women 
+world-wide. Over the past 20 years there have been both case reports and 
+clinical studies on the topic of drug interactions with these agents. Some of 
+the interactions are of definite therapeutic relevance, whereas others can be 
+discounted as being of no clinical significance. Pharmacological interactions 
+between oral contraceptive steroids and other compounds may be of 2 kinds: (a) 
+drugs may impair the efficacy of oral contraceptive steroids, leading to 
+breakthrough bleeding and pregnancy (in a few cases, the activity of the 
+contraceptive is enhanced); (b) oral contraceptive steroids may interfere with 
+the metabolism of other drugs. A number of anticonvulsants (phenobarbital, 
+phenytoin, carbamazepine) are enzyme-inducing agents and thereby increase the 
+clearance of the oral contraceptive steroids. Valproic acid has no 
+enzyme-inducing properties, and thus women on this anticonvulsant can rely on 
+their low dose oral contraceptive steroids for contraceptive protection. 
+Researchers are now beginning to unravel the molecular basis of this 
+interaction, with evidence of specific forms of cytochrome P450 (P450IIC and 
+IIIA gene families) being induced by phenobarbital. Rifampicin, the 
+antituberculous drug, also induces a cytochrome P450 which is a product of the 
+P450IIIA gene subfamily. This isozyme is one of the major forms involved in 
+2-hydroxylation of ethinylestradiol. Broad spectrum antibiotics have been 
+implicated in causing pill failure; case reports document the interaction, and 
+general practitioners are convinced that it is real. The problem remains that 
+there is still no firm clinical pharmacokinetic evidence which indicates that 
+blood concentrations of oral contraceptive steroids are altered by antibiotics. 
+However, perhaps this should not be a surprise, given that the incidence of the 
+interaction may be very low. It is suggested that an individual at risk will 
+have a low bioavailability of ethinylestradiol, a large enterohepatic 
+recirculation and gut flora particularly susceptible to the antibiotic being 
+used. Two drugs, ascorbic acid (vitamin C) and paracetamol (acetaminophen), give 
+rise to increased blood concentrations of ethinylestradiol due to competition 
+for sulphation. The interactions could have some significance to women on oral 
+contraceptive steroids who regularly take high doses of either drug. Although on 
+theoretical grounds adsorbents (e.g. magnesium trisilicate, aLuminium hydroxide, 
+activated charcoal and kaolin) could be expected to interfere with oral 
+contraceptive efficacy, there is no firm evidence that this is the case. 
+Similarly, there is no evidence that smoking alters the pharmacokinetics of oral 
+contraceptive steroids. These agents are now well documented as being able to 
+alter the pharmacokinetics of other concomitantly administered drugs.(ABSTRACT 
+TRUNCATED AT 400 WORDS)
+
+PIP: The pharmacokinetics and clinical significance of the major drug 
+interactions seen with oral contraceptives are reviewed, both drugs interfering 
+with pill efficacy, and situations where pills interfere with action of other 
+drugs. Drugs affecting contraceptive efficacy include anticonvulsants, 
+antibiotics, rifampicin, griseofulvin, ascorbic acid, and acetaminophen. 
+Phenytoin is the most common anticonvulsant reported to cause contraceptive 
+failure. It as been established by measurements of steady-state ethinyl 
+estradiol levels, sex hormone binding globulin levels, and pharmacokinetic drug 
+concentration curves that both ethinyl estradiol and levonorgestrel levels are 
+decreased during phenytoin and carbamazepine intake. Induction of certain 
+cytochrome P450 isozymes is probably responsible. Neither the causation or even 
+the existence of drug interaction with antibiotics is definitely known, although 
+case reports of pregnancies abound. Rifampicin is an exception, where enzyme 
+induction clearly occurs. Ascorbic acid and acetaminophen are atypical for 
+increasing the therapeutic effect of ethinyl estradiol. The effect of 
+benzodiazepines depends on the type of drug metabolism: drugs oxidized and 
+nitroreduced, e.g. chlordiazepoxide, alprazolam, diazepam, and nitrazepam, 
+exhibit reduced clearance during pill intake. Clearance of cyclosporin, 
+prednisolone, alcohol, caffeine and theophylline are also slowed by orals. Pills 
+accelerate clearance of salicylic acid and morphine.
+
+DOI: 10.2165/00003088-199018060-00004
+PMID: 2191822 [Indexed for MEDLINE]
+
+
+4. Clin Pharmacokinet. 1996 Sep;31(3):198-214. doi: 
+10.2165/00003088-199631030-00004.
+
+Clinically significant pharmacokinetic drug interactions with carbamazepine. An 
+update.
+
+Spina E(1), Pisani F, Perucca E.
+
+Author information:
+(1)Institute of Pharmacology, University of Messina, Italy.
+
+Carbamazepine is one of the most commonly prescribed antiepileptic drugs and is 
+also used in the treatment of trigeminal neuralgia and psychiatric disorders, 
+particularly bipolar depression. Because of its widespread and long term use, 
+carbamazepine is frequently prescribed in combination with other drugs, leading 
+to the possibility of drug interactions. The most important interactions 
+affecting carbamazepine pharmacokinetics are those resulting in induction or 
+inhibition of its metabolism. Phenytoin, phenobarbital (phenobarbitone) and 
+primidone accelerate the elimination of carbamazepine, probably by stimulating 
+cytochrome P450 (CYP) 3A4, and reduce plasma carbamazepine concentrations to a 
+clinically important extent. Inhibition of carbamazepine metabolism and 
+elevation of plasma carbamazepine to potentially toxic concentrations can be 
+caused by stiripentol, remacemide, acetazolamide, macrolide antibiotics, 
+isoniazid, metronidazole, certain antidepressants, verapamil, diltiazem, 
+cimetidine, danazol and (dextropropoxyphene) propoxyphene. In other cases, toxic 
+symptoms may result from elevated plasma concentrations of the active metabolite 
+carbamazepine-10,11-epoxide, due to the inhibition of epoxide hydrolase by 
+valproic acid (sodium valproate), valpromide, valnoctamide and progabide. 
+Carbamazepine is a potent inducer of CYP3A4 and other oxidative enzyme system in 
+the liver, and it may also increase glucuronyltransferase activity. This results 
+in the acceleration of the metabolism of concurrently prescribed 
+anticonvulsants, particularly valproic acid, clonazepam, ethosuximide, 
+lamotrigine, topiramate, tiagabine and remacemide. The metabolism of many other 
+drugs such as tricyclic antidepressants, antipsychotics, steroid oral 
+contraceptives, glucocorticoids, oral anticoagulants, cyclosporin, theophylline, 
+chemotherapeutic agents and cardiovascular drugs can also be induced, leading to 
+a number of clinically relevant drug interactions. Interactions with 
+carbamazepine can usually be predicted on the basis of the pharmacological 
+properties of the combined drug, particularly with respect to its therapeutic 
+index, site of metabolism and ability to affect specific drug metabolising 
+isoenzymes. Avoidance of unnecessary polypharmacy, selection of alternative 
+agents with lower interaction potential, and careful dosage adjustments based on 
+serum drug concentration monitoring and clinical observation represent the 
+mainstays for the minimisation of risks associated with these interactions.
+
+DOI: 10.2165/00003088-199631030-00004
+PMID: 8877250 [Indexed for MEDLINE]

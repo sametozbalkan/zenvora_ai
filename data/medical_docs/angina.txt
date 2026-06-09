@@ -1,0 +1,82 @@
+=== PubMed: angina ===
+1. Practitioner. 1987 May 22;231(1430):741-2, 745-7.
+
+Angina pectoris.
+
+Gribbin B.
+
+PMID: 3321016 [Indexed for MEDLINE]
+
+
+2. Am J Cardiol. 1985 Sep 18;56(9):30E-33E. doi: 10.1016/0002-9149(85)91173-7.
+
+Mixed angina pectoris.
+
+Maseri A, Chierchia S, Kaski JC.
+
+Patients who present with episodes of angina caused both by an increase in 
+oxygen demand and by transient impairment of supply have a mixed form of angina. 
+Distinctive clinical features allow the classification of patients in everyday 
+practice. At one end of the spectrum are patients who have angina only and 
+always when they exercise beyond an essentially fixed level; their angina is 
+fairly predictable and has been termed secondary angina. At the other end of the 
+spectrum are patients who have a normal exercise tolerance but have angina at 
+rest or during activities usually well tolerated that must be caused by a 
+transient impairment of coronary blood flow; their angina is typically 
+unpredictable and has been termed primary angina. We adopted the term primary to 
+emphasize the possible existence of multiple causes of impairment of coronary 
+flow, which together are to be contrasted with the traditional prevailing 
+concept of angina being secondary to excessive increase in demand. In between 
+these ends of the spectrum are most of the patients with angina pectoris 
+encountered in clinical practice: they have a rather predictable ceiling of 
+exercise that they cannot exceed without developing angina, but they also have a 
+variable proportion of unpredictable anginal attacks that occur spontaneously or 
+at levels of activity that are usually well tolerated. We introduced the concept 
+of mixed forms of angina when we became aware that the same patient could 
+experience angina both as a result of an excessive increase in myocardial 
+demand, i.e., secondary angina, and as a result of the transient impairment of 
+coronary blood flow supply, i.e., primary angina.
+
+DOI: 10.1016/0002-9149(85)91173-7
+PMID: 3901725 [Indexed for MEDLINE]
+
+
+3. Mayo Clin Proc. 1990 Feb;65(2):233-42. doi: 10.1016/s0025-6196(12)65018-6.
+
+Stable angina pectoris: 1. Clinical patterns.
+
+Shub C.
+
+The symptoms of angina pectoris reflect transient inadequacy of myocardial 
+oxygen supply as a consequence of decreased myocardial blood flow, increased 
+myocardial oxygen demand, or both. The prognosis for patients with angina 
+depends on the extent and severity of coronary artery disease, on left 
+ventricular systolic function, and on the presence and severity of ischemia on 
+exercise testing. The characteristics of angina may be variable, but certain 
+clinical patterns are consistent and are helpful for diagnosis. Angina must be 
+distinguished from various noncardiovascular and cardiovascular conditions; in 
+most cases, the differences can be established by careful clinical assessment.
+
+DOI: 10.1016/s0025-6196(12)65018-6
+PMID: 2406522 [Indexed for MEDLINE]
+
+
+4. Pol Tyg Lek. 1980 Oct 20;35(42):1621-3.
+
+[Variant angina pectoris].
+
+[Article in Polish]
+
+Stasiński T.
+
+PMID: 7010326 [Indexed for MEDLINE]
+
+
+5. South Med J. 1972 Aug;65(8):921-9. doi: 10.1097/00007611-197208000-00005.
+
+Angina.
+
+[No authors listed]
+
+DOI: 10.1097/00007611-197208000-00005
+PMID: 5044422 [Indexed for MEDLINE]

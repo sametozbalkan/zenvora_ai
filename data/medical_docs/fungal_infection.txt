@@ -1,0 +1,177 @@
+=== PubMed: fungal infection ===
+1. Virulence. 2019 Dec;10(1):835-838. doi: 10.1080/21505594.2019.1682248.
+
+Fungal infection strategies.
+
+Jacobsen ID(1)(2).
+
+Author information:
+(1)Research Group Microbial Immunology, Leibniz Institute for Natural Product 
+Research and Infection Biology, Hans Knöll Institute, Jena, Germany.
+(2)Institute of Microbiology, Friedrich Schiller University, Jena, Germany.
+
+DOI: 10.1080/21505594.2019.1682248
+PMCID: PMC8647851
+PMID: 31724461 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author.
+
+
+2. Infect Dis Clin North Am. 2021 Dec;35(4):1027-1053. doi: 
+10.1016/j.idc.2021.08.002.
+
+Nosocomial Fungal Infections: Epidemiology, Infection Control, and Prevention.
+
+Suleyman G(1), Alangaden GJ(2).
+
+Author information:
+(1)Infection Prevention and Control, Henry Ford Hospital, Wayne State 
+University, 2799 West Grand Boulevard, CFP Suite 317, Detroit, MI 48202, USA.
+(2)Division of Infectious Diseases, Henry Ford Hospital, Wayne State University, 
+2799 West Grand Boulevard, CFP Suite 316, Detroit, MI 48202, USA. Electronic 
+address: GALANGA1@hfhs.org.
+
+Invasive fungal infections are an important cause of morbidity and mortality in 
+hospitalized patients and in the immunocompromised population. This article 
+reviews the current epidemiology of nosocomial fungal infections in adult 
+patients, with an emphasis on invasive candidiasis (IC) and invasive 
+aspergillosis (IA). Included are descriptions of nosocomial infections caused by 
+Candida auris, an emerging pathogen, and IC- and IA-associated with coronavirus 
+disease 2019. The characteristics and availability of newer nonculture-based 
+tests for identification of nosocomial fungal pathogens are discussed. Recently 
+published recommendations and guidelines for the control and prevention of these 
+nosocomial fungal infections are summarized.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.idc.2021.08.002
+PMID: 34752219 [Indexed for MEDLINE]
+
+
+3. World J Gastroenterol. 2020 Dec 21;26(47):7485-7496. doi: 
+10.3748/wjg.v26.i47.7485.
+
+Invasive fungal infection before and after liver transplantation.
+
+Ferrarese A(1), Cattelan A(2), Cillo U(3), Gringeri E(3), Russo FP(4), Germani 
+G(4), Gambato M(4), Burra P(4), Senzolo M(4).
+
+Author information:
+(1)Multivisceral Transplant Unit, Padua University Hospital, Padua 35128, Italy. 
+alberto.ferrarese17@gmail.com.
+(2)Tropical and Infectious Disease Unit, Padua University Hospital, Padua 35128, 
+Italy.
+(3)Padua University Hospital, Hepatobiliary Surgery and Liver Transplant Center, 
+Padua 35128, Italy.
+(4)Multivisceral Transplant Unit, Padua University Hospital, Padua 35128, Italy.
+
+Invasive infections are a major complication before liver transplantation (LT) 
+and in the early phase after surgery. There has been an increasing prevalence of 
+invasive fungal disease (IFD), especially among the sickest patients with 
+decompensated cirrhosis and acute-on-chronic liver failure, who suffer from a 
+profound state of immune dysfunction and receive intensive care management. In 
+such patients, who are listed for LT, development of an IFD often worsens 
+hepatic and extra-hepatic organ dysfunction, requiring a careful evaluation 
+before surgery. In the post-transplant setting, the burden of IFD has been 
+reduced after the clinical advent of antifungal prophylaxis, even if several 
+major issues still remain, such as duration, target population and drug type(s). 
+Nevertheless, the development of IFD in the early phase after surgery 
+significantly impairs graft and patient survival. This review outlines 
+presentation, prophylactic and therapeutic strategies, and outcomes of IFD in LT 
+candidates and recipients, providing specific considerations for clinical 
+practice.
+
+©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.3748/wjg.v26.i47.7485
+PMCID: PMC7754548
+PMID: 33384549 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The Authors have 
+nothing to disclose regarding this manuscript.
+
+
+4. Appl Biochem Biotechnol. 2022 Sep;194(9):4244-4257. doi: 
+10.1007/s12010-022-03979-5. Epub 2022 Jun 1.
+
+Human Fungal Infection, Immune Response, and Clinical Challenge-a Perspective 
+During COVID-19 Pandemic.
+
+Naveen KV(1), Saravanakumar K(1), Sathiyaseelan A(1), MubarakAli D(2), Wang 
+MH(3).
+
+Author information:
+(1)Department of Bio-Health Convergence, Kangwon National University, Chuncheon, 
+200-701, Republic of Korea.
+(2)School of Life Sciences, B.S. Abdur Rahman Crescent Institute of Science and 
+Technology, Chennai, Tamil Nadu, 600048, India.
+(3)Department of Bio-Health Convergence, Kangwon National University, Chuncheon, 
+200-701, Republic of Korea. mhwang@kangwon.ac.kr.
+
+Fungi are a small but important part of the human microbiota and several fungi 
+are familiar to the immune system, yet certain can cause infections in 
+immunocompromised hosts and referred as opportunistic pathogens. The fungal 
+coinfections in COVID-19 hosts with predisposing conditions and 
+immunosuppressive medications are posing higher severity and death. The 
+immunological counteraction (innate/adaptive immunity) is triggered when the 
+PRRs on the host cells recognize the fungal PAMPs. However, in simultaneous 
+infections (COVID-19 and fungal coinfection), the synergism of TLR and NLR may 
+hyperactivate the immune cells which dramatically increase the cytokine level 
+and generate cytokine storm. Fungal colonization in the human gut assists the 
+development of microbiome assembly, ecology, and shaping immune response. 
+However, SARS-CoV-2 infection represented unstable mycobiomes and long-term 
+dysbiosis in a large proportion in COVID-19 patients. Normally, amphotericin B 
+is considered as first-line treatment for invasive fungal infection. So, 
+amphotericin B therapy is recommended in COVID-19 hosts with serious fungal 
+infections. Still, the long-term corticosteroid supplementation prescribed in 
+case of severe pneumonia and lower oxygen levels may result in systemic fungal 
+infection in COVID-19 patients, eventually limiting the lifesaving benefits of 
+available medications. Also, due to the evolution of fungal resistance to 
+available antibiotics, the current treatments are becoming ineffective. 
+Therefore, this review summarizes the concerns, needed to deal with the 
+impending crises.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12010-022-03979-5
+PMCID: PMC9156836
+PMID: 35648275 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. Exp Biol Med (Maywood). 2020 Jul;245(13):1104-1114. doi: 
+10.1177/1535370220939862. Epub 2020 Jul 8.
+
+Fungal infection risks associated with the use of cytokine antagonists and 
+immune checkpoint inhibitors.
+
+Li X(1), Lau SK(1)(2)(3), Woo PC(1)(2)(3).
+
+Author information:
+(1)Department of Microbiology, The University of Hong Kong, Hong Kong.
+(2)State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+Kong, Hong Kong.
+(3)Collaborative Innovation Centre for Diagnosis and Treatment of Infectious 
+Diseases, The University of Hong Kong, Hong Kong.
+
+The risk of opportunistic infections due to fungi is relatively less well 
+addressed in patients receiving biologic agents, compared with other 
+opportunistic bacterial and viral infections. There is a lack of consensus 
+guideline on the screening, prophylaxis, and management of fungal infection in 
+patients anticipated to receive or actively receiving biologic therapy. In 
+addition, invasive mycosis in immunocompromised patients is associated with high 
+mortality and morbidity. This review highlighted the risk of fungal infection in 
+patients receiving cytokine antagonists and immune checkpoint inhibitors, two 
+big categories of biologic agents that are widely used in the treatment of 
+various autoimmune and malignant conditions, often in combination with other 
+immunomodulatory or immunosuppressive agents but also as standalone therapy. The 
+adverse outcomes of opportunistic fungal infection in these patients can be 
+reduced by heightened awareness, active case finding, and prompt treatment.
+
+DOI: 10.1177/1535370220939862
+PMCID: PMC7400728
+PMID: 32640893 [Indexed for MEDLINE]

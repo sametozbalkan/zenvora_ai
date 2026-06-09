@@ -1,0 +1,214 @@
+=== PubMed: glaucoma ===
+1. Ophthalmologe. 2021 Jul;118(Suppl 2):145-152. doi: 10.1007/s00347-021-01378-5.
+ Epub 2021 Apr 21.
+
+Risk factors for open-angle glaucoma and recommendations for glaucoma screening.
+
+[Article in English]
+
+Schuster AK(1), Wagner FM(2), Pfeiffer N(2), Hoffmann EM(2).
+
+Author information:
+(1)Augenklinik und Poliklinik, Universitätsmedizin Mainz, Langenbeckstr. 1, 
+55131, Mainz, Germany. alexander.schuster@uni-mainz.de.
+(2)Augenklinik und Poliklinik, Universitätsmedizin Mainz, Langenbeckstr. 1, 
+55131, Mainz, Germany.
+
+Open-angle glaucomas are a group of chronic progressive optic nerve neuropathies 
+with a gonioscopic open anterior chamber angle. They are one of the main causes 
+of visual impairment and blindness in industrialized countries. The aim of this 
+article is to discuss and evaluate the epidemiology and risk factors for the 
+development of open-angle glaucoma and to present the screening procedure for 
+open-angle glaucoma according to the recently published S2e guidelines of the 
+Association of the Scientific Medical Societies in Germany (AWMF).
+
+Publisher: Offenwinkelglaukome sind eine Gruppe chronisch progredienter 
+Optikusneuropathien mit gonioskopisch offenem Kammerwinkel. Sie stellen eine der 
+Hauptursachen für Sehbehinderung und Blindheit in den Industrieländern dar. Im 
+Rahmen dieses Beitrags sollen Epidemiologie und Risikofaktoren für das Auftreten 
+des Offenwinkelglaukoms diskutiert und bewertet werden sowie das Vorgehen bei 
+der Früherkennung eines Offenwinkelglaukoms gemäß der kürzlich erschienen 
+S2e-Leitlinie der Arbeitsgemeinschaft der Wissenschaftlichen Fachgesellschaften 
+(AWMF) vorgestellt werden.
+
+© 2021. Springer Medizin Verlag GmbH, ein Teil von Springer Nature.
+
+DOI: 10.1007/s00347-021-01378-5
+PMID: 33881589 [Indexed for MEDLINE]
+
+
+2. Ophthalmol Glaucoma. 2025 Sep-Oct;8(5S):S58-S63. doi: 
+10.1016/j.ogla.2025.06.011. Epub 2025 Aug 6.
+
+Childhood Glaucoma.
+
+Brandt JD(1), Blieden LS(2), Grajewski AL(3).
+
+Author information:
+(1)Department of Ophthalmology & Vision Science, University of California, Davis 
+School of Medicine, Sacramento, CA. Electronic address: jdbrandt@ucdavis.edu.
+(2)Cullen Eye Institute, Texas Children's Hospital, Baylor College of Medicine, 
+Houston, TX.
+(3)Childhood Glaucoma Research Network (CGRN); the GL Foundation.
+
+The glaucomas arising in children comprise a diverse group of developmental and 
+secondary disorders. Until the mid-20th century, childhood glaucoma was a 
+uniformly blinding disease. The development of surgical approaches like 
+goniotomy ab interno (1940s) and trabeculotomy ab externo (1960s) provided the 
+first effective treatments for this group of uncommon disorders. Since then, 
+additional progress in the management of adult glaucoma has quickly found its 
+way to childhood glaucoma-including the use of antimetabolites, modern glaucoma 
+drainage devices, and techniques of circumferential ab interno and ab externo 
+trabeculotomy using sutures or an illuminated microcatheter. Each of these 
+techniques requires modifications to be safely used in infants and young 
+children. The nomenclature and classification of the pediatric glaucomas were 
+standardized in 2013 with the Childhood Glaucoma Research Network classification 
+system which was a foundational step in developing registries and coordinated 
+research in the field. Modern tools of molecular genetics have begun to 
+elucidate the underlying molecular pathophysiology and inheritance of some forms 
+of childhood glaucoma. Single-gene, Mendelian-inherited forms of childhood 
+glaucoma may be ideal targets for clustered regularly interspaced short 
+palindromic repeats (CRISPR) gene-editing technologies to correct the disorder 
+locally in the anterior chamber angle. All these advances greatly improved 
+visual outcomes in childhood glaucoma. However, with the greatly improved visual 
+prognosis in childhood glaucoma come unique considerations in how we care for 
+these patients over a very long lifespan. FINANCIAL DISCLOSURE(S): Proprietary 
+or commercial disclosure may be found in the Footnotes and Disclosures at the 
+end of this article.
+
+Copyright © 2025 American Academy of Ophthalmology. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ogla.2025.06.011
+PMID: 40767792 [Indexed for MEDLINE]
+
+
+3. Klin Monbl Augenheilkd. 2023 Oct;240(10):1221-1235. doi: 10.1055/a-2129-1126. 
+Epub 2023 Aug 16.
+
+[Primary Open Angle Glaucoma].
+
+[Article in German]
+
+Keye P, Lübke J.
+
+Primary open angle glaucoma is the most frequent type among the glaucomas. It is 
+characterized by a progressive loss of retinal ganglion cells and a 
+corresponding visual field loss. Risk factors include older age, ethnicity, 
+family history of glaucoma and, most important, an elevated intraocular pressure 
+(IOP). The IOP is the only modifiable risk factor for glaucoma progression. 
+Therapeutic approaches aim to lowering the IOP and incorporate topical pressure 
+lowering medication, laser treatment, and different surgical approaches. Surgery 
+aims to reducing the outflow resistance of the aqueous humor. This may be 
+achieved by surgically opening the trabecular meshwork or Schlemm's canal. 
+Penetrating glaucoma surgery comprises classic trabeculectomy and other draining 
+devices.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2129-1126
+PMID: 37586400 [Indexed for MEDLINE]
+
+Conflict of interest statement: Erklärung zu finanziellen Interessen 
+Forschungsförderung erhalten: ja, von einer anderen Institution (Pharma- oder 
+Medizintechnikfirma usw.); Honorar/geldwerten Vorteil für Referententätigkeit 
+erhalten: ja, von einer anderen Institution (Pharma- oder Medizintechnikfirma 
+usw.); Bezahlter Berater/interner Schulungsreferent/Gehaltsempfänger: ja, von 
+einer anderen Institution (Pharma- oder Medizintechnikfirma usw.); 
+Patent/Geschäftsanteile/Aktien (Autor/Partner, Ehepartner, Kinder) an im Bereich 
+der Medizin aktiven Firma: nein; Patent/Geschäftsanteile/Aktien (Autor/Partner, 
+Ehepartner, Kinder) an zu Sponsoren dieser Fortbildung bzw. durch die 
+Fortbildung in ihren Geschäftsinteressen berührten Firma: nein. Erklärung zu 
+nichtfinanziellen Interessen Die Autorinnen/Autoren geben an, dass kein 
+Interessenkonflikt besteht.
+
+
+4. Biomed Pharmacother. 2023 Dec;168:115633. doi: 10.1016/j.biopha.2023.115633. 
+Epub 2023 Oct 6.
+
+Role of epigenetic regulation in glaucoma.
+
+Feng L(1), Wang C(1), Zhang C(1), Zhang W(1), Song W(2).
+
+Author information:
+(1)National Clinical Research Center for Geriatric Diseases, Xiangya Hospital of 
+Central South University, Changsha, Hunan 410008, PR China; Eye Center of 
+Xiangya Hospital, Central South University, Changsha, Hunan 410008, PR China; 
+Hunan Key Laboratory of Ophthalmology, Changsha, Hunan 410008, PR China.
+(2)National Clinical Research Center for Geriatric Diseases, Xiangya Hospital of 
+Central South University, Changsha, Hunan 410008, PR China; Eye Center of 
+Xiangya Hospital, Central South University, Changsha, Hunan 410008, PR China; 
+Hunan Key Laboratory of Ophthalmology, Changsha, Hunan 410008, PR China. 
+Electronic address: wtsong1980@126.com.
+
+Glaucoma is the world's leading irreversible blinding eye disease. Lowering 
+intraocular pressure is currently the only effective clinical treatment. 
+However, there is a lack of long-acting IOP-lowering drugs, and some patients 
+still experience retinal ganglion cell loss even with good intraocular pressure 
+control. Currently, there is no effective method for neuroprotection and 
+regeneration in clinical practice for glaucoma. In recent years, epigenetics has 
+been widely researched and reported for its role in glaucoma's neuroprotection 
+and regeneration. This article reviews the changes in histone modifications, DNA 
+methylation, non-coding RNA, and m6A methylation in glaucoma, aiming to provide 
+new perspectives for glaucoma management, protection of retinal ganglion cells, 
+and axon regeneration by understanding epigenetic alterations.
+
+Copyright © 2023. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2023.115633
+PMID: 37806089 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Klin Monbl Augenheilkd. 2022 Sep;239(9):1111-1118. doi: 10.1055/a-1797-5188. 
+Epub 2022 Mar 14.
+
+Secondary Glaucoma in the Context of Retinal Disease.
+
+[Article in English, German; Abstract available in German from the publisher]
+
+Greslechner R(1), Helbig H(1).
+
+Author information:
+(1)Klinik und Poliklinik für Augenheilkunde, Universitätsklinikum Regensburg, 
+Deutschland.
+
+A variety of retinal diseases can lead to the development of glaucoma. The most 
+common type of these secondary glaucomas is neovascular glaucoma (NVG), which 
+constitutes the main subject of this review. NVG is a severe condition with a 
+poor prognosis. Treatment becomes increasingly challenging as the disease 
+progresses. Thus emphasis is put on early diagnosis and therapy adapted to the 
+disease stage. The review also covers other less frequent secondary glaucomas, 
+such as glaucomas due to intraocular tumours or associated with retinal 
+detachment (Schwartz-Matsuo syndrome) as well as late onset open-angle glaucomas 
+after uncomplicated vitrectomy.
+
+Publisher: Eine Vielzahl retinaler Erkrankungen kann zur Entwicklung eines 
+Glaukoms führen. Die häufigste Form dieser Sekundärglaukome sind die 
+Neovaskularisationsglaukome, die den Hauptteil dieser Übersicht bilden. Dabei 
+handelt sich um ein schwerwiegendes Krankheitsbild, das in mehreren Stadien 
+verläuft, wobei die Prognose mit zunehmendem Stadium ungünstiger und die 
+Therapie herausfordernder wird. Neben Pathogenese und Diagnostik wird daher ein 
+Schwerpunkt auf die Früherkennung und eine an das jeweilige Krankheitsstadium 
+angepasste Therapie gelegt. Auch seltenere Sekundärglaukome im Rahmen 
+intraokularer Tumoren sowie Glaukome assoziiert mit einer Netzhautablösung 
+(Schwartz-Matsuo-Syndrom) und Glaukome, die im Spätverlauf nach unkomplizierter 
+Vitrektomie auftreten, werden in dieser Übersicht diskutiert.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-1797-5188
+PMID: 35288886 [Indexed for MEDLINE]
+
+Conflict of interest statement: R. Greslechner erklärt, dass er während der 
+letzten 3 Jahre keine wirtschaftlichen oder persönlichen Verbindungen im oben 
+genannten Sinne hatte. H. Helbig erhielt innerhalb der letzten 3 Jahre Berater-, 
+Autoren- und Vortragshonorare von Alcon, Allergan, Apellis, Bayer, Novartis, 
+Thieme Verlag und Theapharm./R. Greslechner declares that he has no conflict of 
+interest. H. Helbig received fees as speaker/author/advisory board member from 
+Alcon, Allergan, Apellis, Bayer, Novartis, Thea Pharm and Georg Thieme Verlag KG 
+in the past 3 years.

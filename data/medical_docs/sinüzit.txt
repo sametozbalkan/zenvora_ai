@@ -1,0 +1,111 @@
+=== PubMed: sinüzit ===
+1. Tuberk Toraks. 2019 Dec;67(4):292-299. doi: 10.5578/tt.68953.
+
+Eosinophilic asthma with chronic rhinosinusitis/nasal polyps and biologic 
+agents.
+
+[Article in English]
+
+Yilmaz İ(1).
+
+Author information:
+(1)Division of Immunology and Allergic Diseases, Department of Chest Diseases, 
+Faculty of Medicine, Erciyes University, Kayseri, Turkey.
+
+The current understanding in severe asthma management is the targeted therapy 
+approach with the evaluation of phenotypes and biomarkers. Therefore, 
+personalized treatments are recently more prominent. Eosinophilic asthma with 
+chronic rhinosinusitis/nasal polyps (CRSwNP) is one of the severe asthma 
+phenotypes which needs a personalized treatment approach. Biological agents 
+which specifically target type 2 (T2) high inflammation have been used in this 
+severe asthma phenotype with a preferable safety profile. In the present review, 
+biological agents in eosinophilic asthma with CRSwNP will be discussed.
+
+DOI: 10.5578/tt.68953
+PMID: 32050871 [Indexed for MEDLINE]
+
+
+2. Kulak Burun Bogaz Ihtis Derg. 2003 Mar;10(3):122-30.
+
+[A review on experimental sinusitis models in rabbits].
+
+[Article in Turkish]
+
+Kara CO(1), Demirkan N.
+
+Author information:
+(1)Department of Otolaryngology, Medicine Faculty of Pamukkale University, 
+Denizli, Turkey. cokara@pamukkale.edu.tr
+
+Experimental animal models are instrumental to study the pathogenesis of 
+diseases and to examine the results of treatment. The great size and ease of 
+accessibility have made rabbit sinuses popular in the investigation of 
+experimental sinusitis. Microbiologic, histopathologic, and radiologic aspects 
+of this model have been well-described and the effects of medical and surgical 
+treatments on sinusitis have been examined. Ongoing research may provide further 
+data to find more simple and non-invasive methods to induce sinusitis in rabbits 
+that may more closely simulate sinusitis pathogenesis in humans. This article 
+reviews the most recent data on technical, surgical, microbiologic, 
+histopathologic, and radiologic aspects, and complications of sinusitis models 
+in rabbits.
+
+PMID: 12738922 [Indexed for MEDLINE]
+
+
+3. Mikrobiyol Bul. 1989 Apr;23(2):133-44.
+
+[The existence of sinusitis in rabbits and the use of bromhexine as a mucolytic 
+nose drop in the treatment of sinusitis].
+
+[Article in Turkish]
+
+Koyuncu M(1), Yilmaz M, Yalçin S, Metin N, Gündüz S, Karataş E.
+
+Author information:
+(1)Ogretim Uyesi, Firat Universitesi, Kulak Burun Boğaz Anabilim Dah, Elaziğ.
+
+To make an experimental sinusitis, 38 maxillary sinus ostia of 19 rabbits were 
+closed by silicon plastic and 24 hours later 10(8)-10(10) germs/ml. of 
+Streptococcus pneumoniae type C III were given to the antrums of sinuses. 5 days 
+later all the rabbits showed sinusitis clinically, radiologically, 
+bacteriologically and histopathologically. Viscous, purulent secretions 
+collected in the antrums of sinuses. We thought that the medical treatment of 
+sinuses which had drainage treatment necessitated to decrease the viscosity of 
+secretions. Because of this bromhexine as a mucolytic nose drop was investigated 
+for the first time for the treatment of sinusitis in two groups of rabbits. As a 
+result of the study bromhexine as a nose drop in the eradication of sinus 
+infections was seen a useful drug.
+
+PMID: 2626103 [Indexed for MEDLINE]
+
+
+4. Mikrobiyol Bul. 1990 Oct;24(4):379-82.
+
+[Acute maxillary sinusitis treated with cefaclor].
+
+[Article in Turkish]
+
+Büyükgebiz A(1), Kinik E.
+
+Author information:
+(1)Hacettepe Cocuk Sağliği Enstitüşü Calişmalarindan.
+
+26 girls (54.2%) and 22 boys (45.8%) total 48 patients with clinically and 
+radiologically proven acute maxillary sinusitis have been treated with cefaclor. 
+The dosage of the drug was 40 mg/kg/daily and the duration of the therapy was 10 
+days. Total cure have been achieved in 37 patients (77.1%) and no side effects 
+of the drug has been detected.
+
+PMID: 2287297 [Indexed for MEDLINE]
+
+
+5. Turk Tip Cemiy Mecm. 1953 Mar;19(3):174-7.
+
+[A case of septisemic maxillary sinusitis due to skull fracture; pneumocephalus 
+due to trauma].
+
+[Article in Undetermined Language]
+
+DINCER M.
+
+PMID: 13077811 [Indexed for MEDLINE]

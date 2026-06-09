@@ -1,0 +1,133 @@
+=== PubMed: chronic fatigue syndrome ===
+1. Mayo Clin Proc. 2023 Oct;98(10):1544-1551. doi: 10.1016/j.mayocp.2023.07.032.
+
+Diagnosis and Management of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.
+
+Grach SL(1), Seltzer J(2), Chon TY(3), Ganesh R(3).
+
+Author information:
+(1)Division of General Internal Medicine, Department of Medicine, Mayo Clinic, 
+Rochester, MN. Electronic address: grach.stephanie@mayo.edu.
+(2)Myalgic Encephalomyelitis Action Network, Santa Monica, CA; Stanford School 
+of Medicine, Stanford University, Palo Alto, CA.
+(3)Division of General Internal Medicine, Department of Medicine, Mayo Clinic, 
+Rochester, MN.
+
+Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a chronic 
+neurologic disease often preceded by infection. There has been increased 
+interest in ME/CFS recently because of its significant overlap with the 
+post-COVID syndrome (long COVID or post-acute sequelae of COVID), with several 
+studies estimating that half of patients with post-COVID syndrome fulfill ME/CFS 
+criteria. Our concise review describes a generalist approach to ME/CFS, 
+including diagnosis, evaluation, and management strategies.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mayocp.2023.07.032
+PMID: 37793728 [Indexed for MEDLINE]
+
+
+2. Am Fam Physician. 2012 Oct 15;86(8):741-6.
+
+Chronic fatigue syndrome: diagnosis and treatment.
+
+Yancey JR(1), Thomas SM.
+
+Author information:
+(1)Fort Belvoir Community Hospital, Fort Belvoir, VA 22060, USA. 
+joe.yancey@us.army.mil
+
+Comment in
+    Am Fam Physician. 2013 Apr 1;87(7):Online.
+
+Chronic fatigue syndrome is characterized by debilitating fatigue that is not 
+relieved with rest and is associated with physical symptoms. The Centers for 
+Disease Control and Prevention criteria for chronic fatigue syndrome include 
+severe fatigue lasting longer than six months, as well as presence of at least 
+four of the following physical symptoms: postexertional malaise; unrefreshing 
+sleep; impaired memory or concentration; muscle pain; polyarthralgia; sore 
+throat; tender lymph nodes; or new headaches. It is a clinical diagnosis that 
+can be made only when other disease processes are excluded. The etiology of 
+chronic fatigue syndrome is unclear, is likely complex, and may involve 
+dysfunction of the immune or adrenal systems, an association with certain 
+genetic markers, or a history of childhood trauma. Persons with chronic fatigue 
+syndrome should be evaluated for concurrent depression, pain, and sleep 
+disturbances. Treatment options include cognitive behavior therapy and graded 
+exercise therapy, both of which have been shown to moderately improve fatigue 
+levels, work and social adjustment, anxiety, and postexertional malaise. No 
+pharmacologic or alternative medicine therapies have been proven effective.
+
+PMID: 23062157 [Indexed for MEDLINE]
+
+
+3. Zh Nevrol Psikhiatr Im S S Korsakova. 2024;124(9):28-33. doi: 
+10.17116/jnevro202412409128.
+
+[Chronic fatigue syndrome in children].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Chutko LS(1), Surushkina SY(1), Yakovenko EA(1), Cherednichenko DV(1).
+
+Author information:
+(1)N. Bechtereva Institute of the Human Brain, St. Petersburg, Russia.
+
+The article provides an overview of scientific publications devoted to the study 
+of chronic fatigue syndrome (CFS). The results of works devoted to the study of 
+the epidemiology of this pathology in childhood and adults are considered. The 
+authors presented different views on the etiology and basic mechanisms of the 
+pathogenesis of CFS, current diagnostic criteria for this disease and features 
+of clinical manifestations in childhood. Special attention is paid to the 
+description of the main neurocognitive deficits observed in CFS in children. 
+Also reviewed are studies aimed at finding effective approaches to the treatment 
+of CFS in children.
+
+Publisher: Представлен обзор публикаций, посвященных изучению синдрома 
+хронической усталости (СХУ). Рассмотрены результаты работ, посвященных изучению 
+эпидемиологии этой патологии в детском возрасте и у взрослых. Показаны 
+особенности клинических проявлений СХУ в детском возрасте, его семейные аспекты. 
+Отдельное внимание уделено описанию основных когнитивных нарушений, характерных 
+для СХУ у детей. Рассмотрены результаты исследований, посвященных поиску 
+эффективных подходов к терапии СХУ у детей.
+
+DOI: 10.17116/jnevro202412409128
+PMID: 39435774 [Indexed for MEDLINE]
+
+
+4. Psychiatr Clin North Am. 1996 Sep;19(3):549-73. doi: 
+10.1016/s0193-953x(05)70305-1.
+
+Chronic fatigue syndrome.
+
+Sharpe M(1).
+
+Author information:
+(1)Department of Psychiatry, University of Oxford, United Kingdom.
+
+Chronic fatigue syndrome (CFS) is a medically unexplained illness characterized 
+by chronic, disabling fatigue, impaired concentration, muscle pain, and other 
+somatic symptoms. The conceptual difficulties associated with all medically 
+unexplained illnesses contribute to the controversy surrounding CFS, which has 
+centered around whether it is best regarded as a medical or as a psychiatric 
+condition. Clinically, such an approach is not helpful, and current research 
+suggests that both pathophysiologic changes and psychosocial factors are 
+important. Pragmatic management based on a detailed assessment of the individual 
+is outlined.
+
+DOI: 10.1016/s0193-953x(05)70305-1
+PMID: 8856816 [Indexed for MEDLINE]
+
+
+5. Prof Nurse. 1997 May;12(8):578-81.
+
+Chronic fatigue syndrome.
+
+Fisher L(1).
+
+Author information:
+(1)Department of Psychological Medicine, King's College Hospital, London.
+
+Comment in
+    Prof Nurse. 1997 Aug;12(11):827.
+
+PMID: 9171712 [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+İLAÇ: Dapagliflozin (Forxiga)
+SINIF: SGLT2 inhibitörü, antidiyabetik
+
+ENDİKASYONLAR:
+- Tip 2 diyabet
+- Kalp yetmezliği
+- Kronik böbrek hastalığı
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- İnsülin, sülfonilüreler: Hipoglisemi riski — doz ayarı gerekebilir
+- Diüretikler: Dehidratasyon, hipotansiyon
+- NSAİD'ler: Böbrek fonksiyon bozukluğu riski
+- Lityum: Lityum düzeyi değişebilir
+
+UYARILAR:
+- DKA riski: Cerrahi, ağır hastalık, açlık durumunda en az 3-4 gün önce kesilmeli
+- Genital mantar enfeksiyonu riski (kadınlarda daha sık)
+- Mesane kanseri öyküsü olanlar dikkatli
+- GFR <45 altında glisemik etkinlik azalır
+- Dehidratasyon ve hacim azalmasına dikkat
+
+KONTRENDİKASYONLAR:
+- Tip 1 diyabet
+- GFR <25 ml/dk (diyabet endikasyonu için)
+
+YAN ETKİLER:
+- Genital mantar enfeksiyonu
+- İdrar yolu enfeksiyonu
+- Poliüri
+- Ortostatik hipotansiyon
+- Nadir: Fourniers gangreni

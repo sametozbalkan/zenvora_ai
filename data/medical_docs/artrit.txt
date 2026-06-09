@@ -1,0 +1,143 @@
+=== PubMed: artrit ===
+1. Lakartidningen. 2025 Sep 16;122:24116.
+
+ABC om Akut septisk artrit hos vuxna.
+
+[Article in Swedish]
+
+König I(1), Horvath A(2), Samuelsson K(3), Tillander J(4).
+
+Author information:
+(1)specialistläkare, ortopedkliniken, Sahlgrenska universitetssjukhuset, 
+Göteborg.
+(2)med dr, ST-läkare, ortopedkliniken, Sahlgrenska universitetssjukhuset, 
+Göteborg.
+(3)professor, överläkare, ortopedkliniken, Sahlgrenska universitetssjukhuset, 
+Göteborg.
+(4)med dr, överläkare, Sahlgrenska universitetssjukhuset, Göteborg.
+
+PMID: 40955479
+
+
+2. Rheumatology (Oxford). 2025 Apr 1;64(4):2227-2232. doi: 
+10.1093/rheumatology/keae382.
+
+Autoantibodies to joint-related peptides as predictive markers in early 
+rheumatoid arthritis.
+
+Leu Agelii M(1), Sareila O(1)(2), Lönnblom E(2), Cheng L(2), Forslind K(3)(4), 
+Hafström I(5), Andersson MLE(4)(3)(6), Kastbom A(7), Sjöwall C(7), Jacobsson 
+LTH(1), Kihlberg J(8), Holmdahl R(2), Gjertsson I(1)(9).
+
+Author information:
+(1)Rheumatology and Inflammation Research, Gothenburg University, Gothenburg, 
+Sweden.
+(2)Medical Inflammation Research, Division of Immunology, Department of Medical 
+Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden.
+(3)Department of Clinical Sciences Lund, Section of Rheumatology, Lund 
+University, Lund, Sweden.
+(4)Spenshult Research and Development Center, Halmstad, Sweden.
+(5)Department of Medicine Huddinge, Division of Gastroenterology and 
+Rheumatology, and Karolinska University Hospital, Karolinska Institutet, 
+Stockholm, Sweden.
+(6)Department of Environmental and Biosciences, School of Business, Innovation 
+and Sustainability, Halmstad University, Halmstad, Sweden.
+(7)Department of Rheumatology in Östergötland, Department of Biomedical and 
+Clinical Sciences, Linköping University, Linköping, Sweden.
+(8)Department of Chemistry-BMC, Uppsala University, Uppsala, Sweden.
+(9)Department of Rheumatology, Sahlgrenska University Hospital, Gothenburg, 
+Sweden.
+
+OBJECTIVE: For better management of RA, new biomarkers are needed to predict the 
+development of different disease courses. This study aims to identify 
+autoantibodies against epitopes on proteins in the joints and to predict disease 
+outcome in patients with new onset RA.
+METHODS: Sera from new-onset RA patients from the Swedish BARFOT (Better Anti 
+Rheumatic PharmacOTherapy) and TIRA-2 (Swedish acronym for 'tidiga insatser vid 
+reumatoid artrit') cohorts (n = 1986) were screened for autoantibodies to 
+selected peptides (JointIDs) in a bead-based multiplex flow immunoassay. Disease 
+outcomes included Boolean remission 1.0, swollen joint count and radiographic 
+destruction. Multivariate logistic regression and zero-inflated negative 
+binomial models that accounted for clinical factors were used to identify 
+JointIDs with the strongest potential to predict prognosis.
+RESULTS: Boolean remission was predicted with 42% sensitivity and 75% 
+specificity in male patients positive for antibodies to a non-modified collagen 
+type II (COL2) peptide at 12 months. When antibodies to a specific citrullinated 
+cartilage oligomeric protein (COMP) peptide were absent and the patient was in 
+Boolean remission at 6 months, the sensitivity was 13% and the specificity 99%. 
+Positivity for the non-modified COL2 peptide also reduced the frequency of 
+swollen joints by 41% and 33% at 6 and 12 months, respectively. Antibodies to 
+CCP predicted joint destruction with low specificity (58%). Positivity for a 
+COL2 and a glucose-6-phosphate dehydrogenase peptide in citrullinated forms 
+increased specificity (86%) at the expense of sensitivity (39%).
+CONCLUSION: Autoantibodies against joint-related proteins at RA diagnosis 
+predict remission with high specificity and, in combination with clinical 
+factors, may guide future treatment decisions.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the 
+British Society for Rheumatology.
+
+DOI: 10.1093/rheumatology/keae382
+PMCID: PMC11962870
+PMID: 39078716 [Indexed for MEDLINE]
+
+
+3. Clin Rheumatol. 2017 Sep;36(9):1969-1974. doi: 10.1007/s10067-017-3696-4. Epub
+ 2017 Jun 4.
+
+Nailfold videocapillaroscopy results in patients with rheumatoid arthritis.
+
+Sag S(1), Sag MS(2), Tekeoglu I(2), Kamanli A(2), Nas K(2), Aydın Y(2).
+
+Author information:
+(1)Division of Rheumatology, Department of Physical Medicine and Rehabilitation, 
+Sakarya University Medical Faculty, Sakarya, Turkey. drsinemyamac@yahoo.com.
+(2)Division of Rheumatology, Department of Physical Medicine and Rehabilitation, 
+Sakarya University Medical Faculty, Sakarya, Turkey.
+
+We aimed to analyse the nailfold capillaryscopy findings morphologically and 
+examine their relationship with disease activity and demographic characteristics 
+in patients with rheumatoid arthritis. In accordance with the 2010 ACR/EULAR 
+classification criteria, 201 patients diagnosed with Romatoiad artrit (RA) and 
+50 healthy controls were included. We analysed capillaroscopic abnormalities 
+such asmegacapillaries, haemorrhages, ramifications and avascular areas in 
+patients affected with rheumatoid arthritis. The findings in our study are as 
+follows: in 45.77% of the RA patients, there were nonspecific capillaryscopy 
+findings. When compared to control group, the incidence of tortuosity, dilated 
+capillary and bushy capillary was higher in RA patients (p values, respectively, 
+0.110, 0.330, 0.440 and 0.516). In RA patients with Raynaud's phenomenon, the 
+incidence of nonspecific capillaryscopy findings was higher. While there is a 
+weak relationship between tortuosity and the duration of disease, no significant 
+relation was detected between capillaryscopy findings and parameters such as RF, 
+anti-CCP positivity and disease activity score (DAS28). When compared to 
+controls, we have detected that RA patients have more nonspecific 
+capillaryscopic findings. We could not find a relationship between nonspecific 
+capillaryscopic findings and RA'a clinical findings and laboratory parameters. 
+There is a need for a long-term wider-scale follow-up study to investigate 
+whether there is a capillaryscopic pattern that can be correlated with RA's 
+clinical findings.
+
+DOI: 10.1007/s10067-017-3696-4
+PMID: 28578493 [Indexed for MEDLINE]
+
+
+4. Ter Arkh. 1993;65(12):82-7.
+
+[Lyme arthritis].
+
+[Article in Russian]
+
+Barskova VG, Anan'eva LP, Skripnikova IA, Nasonova VA.
+
+PMID: 8146783 [Indexed for MEDLINE]
+
+
+5. Revmatologiia (Mosk). 1991 Jul-Sep;(3):36-40.
+
+[Experimental rheumatoid arthritis].
+
+[Article in Russian]
+
+Siniachenko OV, Barinov EF, Ziablitsev SV, Kishenia MS, Iaglenko VV.
+
+PMID: 1812562 [Indexed for MEDLINE]

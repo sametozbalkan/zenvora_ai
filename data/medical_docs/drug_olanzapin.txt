@@ -1,0 +1,35 @@
+İLAÇ: Olanzapin (Zyprexa, Zalasta)
+SINIF: Atipik antipsikotik (2. kuşak)
+
+ENDİKASYONLAR:
+- Şizofreni
+- Bipolar mani
+- Tedaviye dirençli depresyon (adjuvan)
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- QT uzatan ilaçlar (amiodaron, siprofloksasin, haloperidol): Kardiyak aritmi riski
+- Alkol, opioidler, benzodiyazepinler: Ciddi SSS ve solunum depresyonu (IM olanzapin + benzodiyazepin özellikle tehlikeli)
+- Karbamezapin, fenitoin, rifampisin (CYP1A2/3A4 indükleyicileri): Olanzapin etkinliği azalır
+- Fluvoksamin, siprofloksasin (CYP1A2 inhibitörleri): Olanzapin düzeyi artar
+- Sigara içimi (CYP1A2 indüksiyonu): Olanzapin düzeyini azaltır; bırakınca doz ayarı gerekebilir
+- Antihipertansifler: Hipotansiyon riski
+- Lityum: İzlem gerekir
+
+UYARILAR:
+- Metabolik sendrom: Kilo artışı en belirgin atipik antipsikotik; glikoz ve lipid izlemi zorunlu
+- Diyabet riski yüksek — açlık glukozu izlenmeli
+- Yaşlı demans hastalarında mortalite artışı
+- Tardif diskinezi
+- Nöroleptik malign sendrom (ateş, rijidite, bilinç bozukluğu) — acil durum
+- Karaciğer enzim yüksekliği
+
+KONTRENDİKASYONLAR:
+- Dar açılı glokom
+
+YAN ETKİLER:
+- Kilo artışı (en belirgin)
+- Sedasyon
+- Hiperglisemi
+- Hiperlipidemi
+- Ağız kuruluğu, kabızlık
+- Ortostatik hipotansiyon

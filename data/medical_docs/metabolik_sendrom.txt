@@ -1,0 +1,139 @@
+=== PubMed: metabolik sendrom ===
+1. Turk Kardiyol Dern Ars. 2017 Apr;45(3):286-296. doi: 10.5543/tkda.2016.72461.
+
+[Microbiota and metabolic syndrome].
+
+[Article in Turkish]
+
+Altuntaş Y(1), Batman A.
+
+Author information:
+(1)Department of Endocrinology Metabolism, Sağlık Bilimleri University, Şişli 
+Hamidiye Etfal Training and Research Hospital, Istanbul, Turkey. 
+yukselaltuntas@yahoo.com.
+
+The role of gut bacteria in the pathogenesis and treatment of various diseases 
+has been a focus of attention in the last 10 years. Prevalence of diabetes, 
+obesity, and cardiovascular diseases continues to increase, in spite of 
+technological developments and treatment alternatives. Microbial dysbiosis, 
+described as the decrease of useful bacteria and the increase of harmful 
+bacteria, has been associated with diabetes, obesity, atherosclerosis, and 
+metabolic syndrome. In microbial dysbiosis, increase of harmful metabolites and 
+changes to composition of bile acids occur via carbohydrate and protein 
+fermentation. As a result, insulin resistance pathways are activated, which 
+initiate the processes of obesity, diabetes, and atherosclerosis. Healthy diet 
+recommendations, including prebiotic and probiotic foods and the use of 
+probiotic agents, look promising for future treatment of metabolic syndrome and 
+cardiovascular diseases.
+
+DOI: 10.5543/tkda.2016.72461
+PMID: 28429701 [Indexed for MEDLINE]
+
+
+2. Anadolu Kardiyol Derg. 2010 Apr;10(2):120. doi: 10.5152/akd.2010.034.
+
+[Metabolic syndrome: importance and prevention].
+
+[Article in Turkish]
+
+Bozbaş H.
+
+Comment on
+    Anadolu Kardiyol Derg. 2010 Apr;10(2):111-9. doi: 10.5152/akd.2010.033.
+
+DOI: 10.5152/akd.2010.034
+PMID: 20382608 [Indexed for MEDLINE]
+
+
+3. Anadolu Kardiyol Derg. 2004 Mar;4(1):17-8.
+
+[Metabolic syndrome and coronary heart disease].
+
+[Article in Turkish]
+
+Türkoğlu C.
+
+Comment on
+    Anadolu Kardiyol Derg. 2004 Mar;4(1):10-6.
+
+PMID: 15033611 [Indexed for MEDLINE]
+
+
+4. Turk Kardiyol Dern Ars. 2018 Oct;46(7):591-601. doi: 10.5543/tkda.2018.00878.
+
+[Data on prevalence of metabolic syndrome in Turkey: Systematic review, 
+meta-analysis and meta-regression of epidemiological studies on cardiovascular 
+risk factors].
+
+[Article in Turkish]
+
+Abacı A(1), Kılıçkap M, Göksülük H, Karaaslan D, Barçın C, Kayıkçıoğlu M, Özer 
+N, Yılmaz MB, Şahin M, Tokgözoğlu L.
+
+Author information:
+(1)Department of Cardiology, Gazi University Faculty of Medicine, Ankara, 
+Turkey. abaci@gazi.edu.tr.
+
+OBJECTIVE: The incidence of metabolic syndrome varies greatly in developed and 
+developing countries. In the last 10 to 15 years, important studies have been 
+performed examining the incidence of metabolic syndrome in Turkey. This article 
+is a meta-analysis of the studies that investigated the incidence of metabolic 
+syndrome this country.
+METHODS: Epidemiological studies from the last 15 years that provided 
+information about the incidence of metabolic syndrome in Turkey were screened in 
+the Ovid Medline, the Web of Science Core Collection, and the Turkish Academic 
+Network and Information Center (ULAKBIM) databases. In addition, web pages of 
+the Ministry of Health, the Turkish Statistical Institute, and the associations 
+of the related medical discipilnes were screened for appropriate studies. A bias 
+tool that is developed by our team was used to categorize the included studies 
+as having low- or high risk of bias. A random effects model was used in the 
+meta-analysis. Linear and nonlinear meta-regression analyses were performed to 
+evaluate heterogeneity and temporal variations in prevalence rates.
+RESULTS: Four studies (n=34893) were identified that provided information about 
+the status of metabolic syndrome in Turkey using the Adult Treatment Panel III 
+definition. There was excellent interobserver agreement regarding the selection 
+of studies and the scoring of the selected research with respect to bias. The 
+metaanalysis revealed a prevalence of 32.9% (95% confidence interval [CI]: 
+30.2-35) overall, 38.3% (95% CI: 35.8-40.8) in women, and 26.8% (95% CI: 
+23.4-30.3) in men. Two studies (n=8568) provided data according to the 
+International Diabetes Federation definition of metabolic syndrome. The random 
+effects model used in the metaanalysis of these studies demonstrated a 
+prevalence of metabolic syndrome of 43.3% (95% CI: 41.9-44.7) overall, 50.4% 
+(95% CI: 49.0-51.9) in women, and 35.4% (95% CI: 32.5-38.5) in men.
+CONCLUSION: In Turkey, the incidence of metabolic syndrome is 1 in every 4 men, 
+and 1 in every 3 women. The rate is particularly high among women. Studies 
+designed to prevent the development of metabolic syndrome are needed.
+
+DOI: 10.5543/tkda.2018.00878
+PMID: 30391988 [Indexed for MEDLINE]
+
+
+5. Anadolu Kardiyol Derg. 2008 Apr;8(2):149-53.
+
+[Global confusion on the diagnostic criteria for metabolic syndrome: what is the 
+point that guidelines can not agree?].
+
+[Article in Turkish]
+
+Dağdelen S(1), Yildirim T, Erbaş T.
+
+Author information:
+(1)Hacettepe Universitesi Tip Fakültesi, Iç Hastaliklari Anabilim Dali, Ankara, 
+Türkiye. dagdelen@hacettepe.edu.tr
+
+Several international and national associations have proposed their own 
+diagnostic criteria for metabolic syndrome. Regarding the heterogeneity of these 
+guidelines, some authors refused the usage of metabolic syndrome definition. 
+Here we aimed to analyze the differences between the diagnostic criteria 
+proposed for metabolic syndrome. We reviewed and compared these different 
+guidelines' criteria. We conclude that, despite the heterogeneity, there is a 
+conceptual agreement on the definition of metabolic syndrome. But cut-off values 
+and selection of diagnostic parameters are still conflicting. Diagnostic or 
+definitive components of the syndrome (i.e., obesity, insulin resistance) should 
+be considered separately from the associated-conditions (i.e., polycystic ovary, 
+obstructive sleep apnea, microalbuminuria, non-alcoholic steatohepatitis etc.) 
+of metabolic syndrome, during the course of diagnosis. Maintenance of the 
+metabolic syndrome as a diagnostic category would still seem to be useful for an 
+effective multiple cardiovascular risk prediction.
+
+PMID: 18400637 [Indexed for MEDLINE]

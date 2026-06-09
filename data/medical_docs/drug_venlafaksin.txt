@@ -1,0 +1,39 @@
+İLAÇ: Venlafaksin (Efexor, Venlawen)
+SINIF: Serotonin-norepinefrin geri alım inhibitörü (SNRİ)
+
+ENDİKASYONLAR:
+- Major depresif bozukluk
+- Generalize anksiyete bozukluğu
+- Sosyal anksiyete bozukluğu
+- Panik bozukluk
+- Nöropatik ağrı
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- MAO inhibitörleri: ÖLÜMCÜL serotonin sendromu — kesinlikle birlikte kullanılmaz; 14 gün aralık şart
+- Tramadol, fentanil, meperidin: Serotonin sendromu riski
+- Triptanlar: Serotonin sendromu riski
+- Lityum: Serotonin toksisitesi
+- Warfarin: Kanama riski artar; INR izlenmeli
+- NSAİD'ler, aspirin: GİS kanama riski
+- Antipsikotikler, amiodaron: QT uzaması riski
+- Metoprolol: CYP2D6 inhibisyonu ile bradikardi
+- Alkol: SSS depresyonu artar
+
+UYARILAR:
+- Kan basıncı yükseltebilir — özellikle yüksek dozda, hipertansif hastalarda dikkat
+- Aniden kesilmemeli: Baş dönmesi, elektrik çarpması hissi, bulantı (kesilme sendromu)
+- <25 yaş intihar riskini artırabilir
+- Hiponatremi riski
+- Göz içi basıncı artabilir (dar açılı glokom)
+- QT uzaması riski
+
+KONTRENDİKASYONLAR:
+- MAO inhibitörü kullanımı
+- Kontrol altına alınamamış hipertansiyon
+
+YAN ETKİLER:
+- Bulantı, ağız kuruluğu
+- Uykusuzluk, baş dönmesi
+- Hipertansiyon
+- Terleme artışı
+- Cinsel işlev bozukluğu

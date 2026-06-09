@@ -1,0 +1,32 @@
+İLAÇ: Montelukast (Singulair)
+SINIF: Lökotrien reseptör antagonisti
+
+ENDİKASYONLAR:
+- Astım (kronik tedavi, özellikle egzersizle tetiklenen)
+- Alerjik rinit (mevsimsel ve yıl boyu)
+- Aspirin/NSAİD ile tetiklenen astım
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Rifampisin, fenitoin, karbamazepin (CYP3A4 indükleyicileri): Montelukast düzeyi azalır, etkinlik düşebilir
+- Gemfibrozil (CYP2C8 inhibitörü): Montelukast düzeyi artar
+- Aspirin/NSAİD'ler: Duyarlı hastalarda bronkospazm riski (montelukast tam koruma sağlamayabilir)
+- Warfarin: INR izlenmeli (nadir etkileşim)
+- Fenobarbital: Montelukast düzeyi azalır
+
+UYARILAR:
+- Nöropsikiyatrik etkiler (ÖNEMLİ — FDA kara kutu uyarısı):
+  Ajitasyon, agresyon, anksiyete, depresyon, uykusuzluk, kabus, intihar düşüncesi
+  Özellikle çocuklarda ve ergenlerde izlenmeli
+  Bu belirtiler gelişirse kesilmeli
+- Akut bronkospazm atağında kullanılmaz (önleyici ilaçtır)
+- Karaciğer hastalığında dikkat
+- Churg-Strauss sendromu: Kortikosteroid azaltılırken gelişebilir
+
+KONTRENDİKASYONLAR:
+- Akut astım atağı
+
+YAN ETKİLER:
+- Baş ağrısı (en sık)
+- Karın ağrısı, bulantı
+- Karaciğer enzim yüksekliği (nadir)
+- Nöropsikiyatrik etkiler (ajitasyon, depresyon — izlenmeli)

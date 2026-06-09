@@ -1,0 +1,155 @@
+=== PubMed: sarcoidosis ===
+1. Clin Chest Med. 2024 Mar;45(1):59-70. doi: 10.1016/j.ccm.2023.08.003. Epub
+2023  Sep 1.
+
+Ocular Sarcoidosis.
+
+Rosenbaum JT(1), Pasadhika S(2).
+
+Author information:
+(1)Legacy Devers Eye Institute, 1040 NW 22nd Avenue, Portland, OR 97210, USA; 
+Corvus Pharmaceuticals, 863 Mitten Road Street 102, Burlingame, CA 94010, USA. 
+Electronic address: jtrosenb@lhs.org.
+(2)Legacy Devers Eye Institute, 1040 NW 22nd Avenue, Portland, OR 97210, USA.
+
+Sarcoidosis frequently affects the eye and can do so in many different ways. 
+Sarcoidosis causing uveitis can have distinctive features that facilitate 
+identifying sarcoidosis as the cause of the uveitis. Progress is being made in 
+elucidating ocular sarcoidosis, as for example, by transcriptomics, genetics, 
+therapy, and imaging.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccm.2023.08.003
+PMID: 38245371 [Indexed for MEDLINE]
+
+
+2. Med Clin North Am. 2019 May;103(3):527-534. doi: 10.1016/j.mcna.2018.12.011. 
+Epub 2019 Feb 21.
+
+Sarcoidosis.
+
+Llanos O(1), Hamzeh N(2).
+
+Author information:
+(1)Division of Pulmonary, Critical Care and Occupational Medicine, University of 
+Iowa College of Medicine, 200 Hawkins Drive, Iowa City, IA 52242, USA. 
+Electronic address: oscar-llanosulloa@uiowa.edu.
+(2)Division of Pulmonary, Critical Care and Occupational Medicine, University of 
+Iowa College of Medicine, 200 Hawkins Drive, Iowa City, IA 52242, USA.
+
+Sarcoidosis is a multisystemic granulomatous disease that affects individuals 
+worldwide. The lungs are most commonly involved but any organ can be involved. 
+It has variable manifestations and clinical course. Diagnosis of sarcoidosis is 
+based on clinicopathologic findings and the exclusion of other causes of 
+granulomatous disease. Its hallmark is the formation of granulomas in affected 
+organs. Immunosuppressive therapy is the cornerstone of the management of 
+sarcoidosis and is indicated when there is evidence of symptomatic or 
+progressive disease or when critical organs (ocular, cardiac, nervous system) 
+are involved.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2018.12.011
+PMID: 30955519 [Indexed for MEDLINE]
+
+
+3. Curr Opin Pulm Med. 2021 Sep 1;27(5):448-454. doi:
+10.1097/MCP.0000000000000809.
+
+Sarcoidosis and autoimmunity.
+
+Song M(1), Manansala M(1), Parmar PJ(2), Ascoli C(3)(4), Rubinstein I(3)(4)(5), 
+Sweiss NJ(2)(4).
+
+Author information:
+(1)Division of Academic Internal Medicine.
+(2)Division of Rheumatology.
+(3)Division of Pulmonary, Critical Care, Sleep and Allergy, Department of 
+Medicine, University of Illinois at Chicago.
+(4)Division of Medical.
+(5)Division of Research Services, Jesse Brown VA Medical Center, Chicago, 
+Illinois, USA.
+
+PURPOSE OF REVIEW: Sarcoidosis is a poorly understood multisystem granulomatous 
+disease that frequently involves the lungs but can affect any organ system. In 
+this review, we summarize recent developments in the understanding of the immune 
+dysregulation seen in sarcoidosis and propose a new expanded definition of human 
+autoimmunity in sarcoidosis, and the implications it would have on treating 
+sarcoidosis with targeted immunotherapy regimens in the future.
+RECENT FINDINGS: Sarcoidosis has been linked to infectious organisms like 
+Mycobacterium and Cutibacterium, and certain manifestations of sarcoidosis have 
+been linked to specific HLA alleles, but the overall pathogenesis remains 
+uncertain. Sarcoidosis patients have similar patterns of cellular immune 
+dysregulation seen in other autoimmune diseases like rheumatoid arthritis, and 
+recent large-scale population studies show that sarcoidosis frequently presents 
+with other autoimmune diseases.
+SUMMARY: Advancements in the understanding of sarcoidosis support its 
+consideration as an autoimmune disease. Sarcoidosis patients carry a higher risk 
+of comorbid autoimmune conditions which offers an excellent opportunity to 
+further understand autoimmunity and explore biologic therapies in sarcoidosis 
+treatment, and furthermore will better targeted immunotherapy regimens for 
+sarcoidosis patients in the future.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MCP.0000000000000809
+PMID: 34261087 [Indexed for MEDLINE]
+
+
+4. Immunol Allergy Clin North Am. 2012 Nov;32(4):487-511. doi: 
+10.1016/j.iac.2012.08.005.
+
+Sarcoidosis.
+
+Culver DA(1).
+
+Author information:
+(1)Respiratory Institute, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH 
+44195, USA. culverd@ccf.org
+
+Sarcoidosis is a multisystem granulomatous syndrome with a vast range of 
+clinical manifestations. Since the first description of sarcoidosis in 1869, it 
+has simultaneously intrigued and perplexed generations of physicians. Because 
+sarcoidosis can occur variably in any organ and does not always adhere to 
+classic descriptions, both diagnosis of sarcoidosis and attribution of symptoms 
+can be extremely challenging. The management of sarcoidosis requires 
+consideration of the expected course. Medication is considered when there is 
+risk of irreversible vital organ damage, substantial progression, or symptoms 
+that are affecting quality of life. Recently, a range of steroid-sparing 
+therapies have been adopted for sarcoidosis.
+
+Copyright © 2012. Published by Elsevier Inc.
+
+DOI: 10.1016/j.iac.2012.08.005
+PMID: 23102063 [Indexed for MEDLINE]
+
+
+5. J Am Acad Dermatol. 2001 May;44(5):725-43; quiz 744-6. doi: 
+10.1067/mjd.2001.114596.
+
+Sarcoidosis.
+
+English JC 3rd(1), Patel PJ, Greer KE.
+
+Author information:
+(1)Department of Dermatology, University of Virginia, Charlottesville, USA.
+
+Comment in
+    J Am Acad Dermatol. 2003 Jan;48(1):150-1. doi: 10.1067/mjd.2003.133.
+
+Sarcoidosis is a systemic noncaseating granulomatous disorder of unknown origin. 
+The cutaneous manifestations of sarcoidosis often enable the dermatologist to be 
+the first physician to make the diagnosis. This article reviews essential 
+sarcoidosis pathophysiology, clinical polymorphisms, systemic evaluation, and 
+treatment modalities for cutaneous sarcoidosis to further enhance the 
+dermatologist's understanding of this disease entity.
+LEARNING OBJECTIVE: At the conclusion of this learning activity, participants 
+should be familiar with the theories of the pathogenesis of sarcoidosis, its 
+cutaneous manifestations, its various syndromes and associations, and its 
+presentation in children. Participants should also be more knowledgeable about 
+diagnostic evaluation, measurement of disease progression, treatment modalities, 
+and the prognosis and mortality data of sarcoidosis.
+
+DOI: 10.1067/mjd.2001.114596
+PMID: 11312418 [Indexed for MEDLINE]

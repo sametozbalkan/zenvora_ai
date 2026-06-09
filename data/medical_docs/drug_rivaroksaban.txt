@@ -1,0 +1,32 @@
+İLAÇ: Rivaroksaban (Xarelto)
+SINIF: Oral antikoagülan, faktör Xa inhibitörü
+
+ENDİKASYONLAR:
+- Atriyal fibrilasyonda inme profilaksisi
+- DVT ve pulmoner emboli tedavisi
+- Koroner/periferik arter hastalığında kardiyovasküler olay önleme
+
+KRİTİK İLAÇ ETKİLEŞİMLERİ:
+- Warfarin, enoksaparin, apixaban: Çakışan antikoagülan etki, ciddi kanama
+- Aspirin, klopidogrel, NSAİD'ler: Kanama riskini artırır
+- Güçlü CYP3A4 + P-gp inhibitörleri (ketokonazol, itrakonazol, ritonavir, klaritromisin): Rivaroksaban düzeyi belirgin artar
+- Güçlü CYP3A4 + P-gp indükleyicileri (rifampisin, karbamazepin, fenitoin, St. John's wort): Etkinlik azalır
+- Amiodaron: Rivaroksaban düzeyi artar
+- Flukonazol: Orta düzey artış, izlem gerekir
+
+UYARILAR:
+- Yemekle birlikte alınmalı (15 mg ve 20 mg dozlar için biyoyararlanım artar)
+- Böbrek yetmezliğinde (GFR <15) kullanılmamalı
+- Aniden kesilmemeli
+- Cerrahi öncesi 24-48 saat önce kesilmeli
+
+KONTRENDİKASYONLAR:
+- Aktif kanama
+- Ciddi böbrek yetmezliği (GFR <15 ml/dk)
+- Karaciğer yetmezliği (Child-Pugh B/C)
+
+YAN ETKİLER:
+- Kanama komplikasyonları
+- Bulantı, karın ağrısı
+- Karaciğer enzim yüksekliği
+- Senkop

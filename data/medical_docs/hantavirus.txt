@@ -1,0 +1,140 @@
+HASTALIK: Hantavirüs Enfeksiyonu (Andes Virüsü dahil)
+SINIF: Viral zoonoz — RNA virüsü (Hantaviridae ailesi)
+GÜNCEL DURUM (Mayıs 2026): AKTİF SALGIN — WHO takibinde
+
+⚠ GÜNCEL GELİŞME (8 Mayıs 2026):
+Atlantik Okyanusu'ndaki MV Hondius kruvaziyer gemisinde Andes virüsüne bağlı 8 vaka
+(6 doğrulanmış, 2 şüpheli) tespit edilmiştir. 3 ölüm gerçekleşmiştir (vaka ölüm oranı %38).
+WHO bu olayın küresel risk düzeyini DÜŞÜK olarak değerlendirmektedir.
+CDC ve ECDC olayı aktif olarak takip etmektedir.
+
+TANIM:
+Hantavirüs, kemirgenler (fare, sıçan) tarafından taşınan ve insanlara bulaşan bir RNA virüsüdür.
+20'den fazla viral türü mevcuttur. İki farklı klinik tablo oluşturur:
+- HFRS (Böbrek Sendromu ile Hemorajik Ateş): Avrupa ve Asya'da yaygın
+- HPS/HCPS (Hantavirüs Pulmoner Sendromu): Amerika kıtasında yaygın, mortalitesi yüksek (%30-50)
+
+ANDES VİRÜSÜ NEDEN FARKLI:
+- Bilinen TEK insan-insan bulaşı olan hantavirüs türüdür
+- Güney Amerika'da endemik (Arjantin, Şili başta)
+- Ancak bu bulaş yolu nadir ve yakın/uzun süreli temas gerektirir
+- COVID-19 gibi kolayca yayılmaz
+- Avrupa ve Türkiye'deki kemirgenler bu virüsü taşımaz
+
+BULAŞMA YOLLARI:
+- Enfekte kemirgenlerin dışkı, idrar veya tükürüğünün kurutulmuş parçacıklarının solunması (en sık)
+- Enfekte kemirgen ısırması
+- Kontamine materyal ile göz, burun, ağız teması
+- Andes virüsü: Enfekte kişiyle yakın temas (nadir)
+
+KULUÇKA SÜRESİ:
+- 1 ila 8 hafta (Andes virüsü: 4-42 gün)
+- Ortalama 2 hafta
+- Kişiler semptom başlamadan önce de bulaştırıcı olabilir
+
+KLİNİK TABLO — HPS (Akciğer Tutulumu):
+
+Prodromal dönem (3-5 gün):
+- Yüksek ateş (38.5°C üzeri)
+- Şiddetli kas ağrısı (özellikle uyluklarda, kalçalarda, sırtta)
+- Yorgunluk, halsizlik
+- Baş ağrısı, baş dönmesi
+- Bulantı, kusma, ishal, karın ağrısı (vakaların yarısında)
+- Titreme, terleme
+
+Kardiyopulmoner dönem (ACİL — hızlı kötüleşir):
+- Ani nefes darlığı — en kritik belirti
+- Akciğerlerde sıvı birikimi (pulmoner ödem)
+- Oksijen düşüklüğü, siyanoz
+- Düşük tansiyon, taşikardi
+- Mortalite: %30-50
+
+KLİNİK TABLO — HFRS (Böbrek Tutulumu):
+
+Belirtiler:
+- Ani başlayan yüksek ateş
+- Şiddetli baş ağrısı, sırt ve karın ağrısı
+- Yüz, boyun, göğüste kızarıklık (flush)
+- Göz kızarıklığı
+- Cilt altı kanama: mor, mavi veya kahverengi lekeler/peteşi (trombositopeni nedeniyle)
+- İdrar azalması → böbrek yetmezliği
+- Mortalite: %1-15
+
+ACİL BAŞVURU GEREKTİREN DURUMLAR:
+- Güney Amerika seyahati veya kırsal alan teması sonrası ateş + kas ağrısı
+- Hızla kötüleşen nefes darlığı
+- Ciltte mor/mavi/kahverengi lekeler (peteşi, ekimoz)
+- İdrar çıkışında ciddi azalma
+- Kan basıncı düşüşü, şok belirtileri
+- Kanlı balgam (hemoptizi)
+
+TANI:
+- Klinik tablo + maruziyet öyküsü kritik
+- Seroloji: IgM ve IgG antikor testi (ELISA)
+- PCR: Viral RNA tespiti (RT-PCR)
+- Tam kan sayımı: Trombositopeni (önemli bulgu), lökositoz
+- Böbrek fonksiyon testleri: Kreatinin, üre yüksekliği
+- Akciğer grafisi/BT: HPS'de bilateral infiltrasyonlar
+- Ateş >38.5°C + akut solunum sıkıntısı + oksijen ihtiyacı → şüpheli vaka
+
+TEDAVİ:
+- Onaylı spesifik antiviral tedavi YOKTUR
+- Ribavirin: HFRS'de erken dönemde kullanılabilir; HPS'de etkinliği kanıtlanmamış
+- TEDAVİ DESTEKLEYICI:
+  * Yoğun bakım takibi — erken YBÜ kritik
+  * Oksijen desteği, gerekirse mekanik ventilasyon
+  * Sıvı dengesi yönetimi (dikkatli — akciğer ödemi riski)
+  * Diyaliz: Ağır böbrek yetmezliğinde
+  * Trombosit/kan transfüzyonu: Kanamalarda
+
+İLAÇ ETKİLEŞİMLERİ / DİKKAT:
+- NSAİD'ler (ibuprofen, naproksen, diklofenak): Böbrek yetmezliğini kötüleştirir — KULLANILMAZ
+- ACE inhibitörleri, ARB'ler: Böbrek yetmezliğinde dikkatli doz ayarı
+- Aminoglikozid antibiyotikler: Nefrotoksik — kaçınılmalı
+- Parasetamol: Ateş ve ağrı için tercih edilebilir (böbrek dostu)
+- Antikoagülanlar: Trombositopeni varsa kanama riski — dikkatli
+
+RİSK FAKTÖRLERİ:
+- Güney Amerika'ya (Arjantin, Şili, Brezilya) yolculuk
+- Kırsal alanda yaşama veya çalışma
+- Hayvancılık, tarım, ormancılık
+- Uzun süre boş kalmış yapılarda çalışma/temizlik
+- Kamp, yürüyüş, doğa sporları
+- Kemirgen istilası olan binalarda bulunma
+- Kruvaziyer gemi seyahati (Güney Amerika rotaları — aktif salgın bağlamı)
+
+KORUNMA:
+- Kemirgen temasından kaçınma
+- Boş binalarda çalışırken N95 maske ve eldiven
+- Kemirgen dışkısını süpürme değil, önce dezenfektanla ıslatıp ıslak bez ile toplama
+- Kamp alanında yiyecekleri kapalı kapta tutma
+- Yolculuk sonrası 8 hafta boyunca semptom izlemi (Güney Amerika seyahatinden sonra)
+- Aşı: Andes virüsü için onaylı aşı YOK; bazı HFRS aşıları Kore/Çin'de mevcut
+
+TÜRKİYE'DE DURUM:
+- Türkiye'de HFRS tipi vakalar görülmektedir (Karadeniz bölgesi, kırsal alanlar)
+- Puumala ve Dobrava serotipleri Türkiye'de tespit edilmiştir
+- Andes virüsü Türkiye'de endemik DEĞİLDİR
+- Seyahat kaynaklı vaka riski mevcuttur
+- Hastalık bildirimi zorunludur
+
+AYIRICI TANI:
+- Grip, COVID-19 (ateş + kas ağrısı ile karışabilir)
+- Leptospiroz
+- Kırım-Kongo Kanamalı Ateşi
+- Sepsis
+- Pnömoni (HPS ile karışabilir)
+- Meningokoksemi (cilt lekeleri ile karışabilir)
+
+PROGNOZ:
+- HFRS: Mortalite %1-15
+- HPS/Andes: Mortalite %30-50
+- 2025 Amerika verileri: 229 vaka, 59 ölüm (CFR %25.7)
+- Mayıs 2026 gemi salgını: 8 vaka, 3 ölüm (CFR %38)
+- Erken tanı ve yoğun bakım desteği hayatta kalımı belirgin iyileştirir
+
+KAYNAKLAR:
+- WHO DON600 (8 Mayıs 2026)
+- CDC Hantavirus/Andes Virus Outbreak (Mayıs 2026)
+- ECDC Hantavirus Q&A (Mayıs 2026)
+- PAHO Epidemiological Alert (Aralık 2025)

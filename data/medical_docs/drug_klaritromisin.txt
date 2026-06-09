@@ -1,0 +1,188 @@
+=== PubMed: clarithromycin drug interactions cyp3a4 statins ===
+1. Enferm Infecc Microbiol Clin. 2013 Jun;31 Suppl 2:12-9. doi: 
+10.1016/S0213-005X(13)70138-1.
+
+[Pharmacokinetic interactions].
+
+[Article in Spanish]
+
+Arazo Garcés P(1), de los Santos Gil I.
+
+Author information:
+(1)Servicio de Medicina Interna, Unidad de Enfermedades Infecciosas, Hospital 
+Universitario Miguel Servet, Zaragoza, España. Electronic address: 
+parazo@salud.aragon.es.
+
+Rilpivirine (RPV) is a nonnucleoside reverse transcriptase inhibitor (NNRTI) 
+that has been approved for use in treatment-naïve patients and which has potent 
+antiviral activity. Its adverse effects profile differs from that of 
+first-generation NNRTs. The pharmacological interactions produced by RPV are due 
+to its effects on the CYP450 system; RPV is a substrate and mild inducer of 
+CYP3A4. Moreover, in vitro, RPV inhibits glycoprotein-P. RPV has clinically 
+significant pharmacological interactions, especially with protease inhibitors 
+(except boosted darunavir and lopinavir) and the NNRTIs efavirenz and 
+nevirapine. Coadministration of RPV with drugs that increase gastric pH, such as 
+omeprazole, or those inducing CYP3A4, such as rifampicin, can significantly 
+reduce RPV concentrations and is contraindicated. The concomitant use of RPV 
+with a CYP3A4 inhibitor (such as clarithromycin) can increase RPV 
+concentrations. Administration of PRV with food is recommended to obtain better 
+absorption and adequate plasma values.
+
+Copyright © 2013 Elsevier España, S.L. All rights reserved.
+
+DOI: 10.1016/S0213-005X(13)70138-1
+PMID: 24252529 [Indexed for MEDLINE]
+
+
+2. Basic Clin Pharmacol Toxicol. 2020 Apr;126(4):307-317. doi:
+10.1111/bcpt.13343.  Epub 2019 Nov 8.
+
+Interaction potential between clarithromycin and individual statins-A systematic 
+review.
+
+Hougaard Christensen MM(1)(2), Bruun Haastrup M(1)(2), Øhlenschlaeger T(1), 
+Esbech P(1), Arnspang Pedersen S(1), Bach Dunvald AC(1), Bjerregaard Stage T(3), 
+Pilsgaard Henriksen D(1)(3), Thestrup Pedersen AJ(1).
+
+Author information:
+(1)Department of Clinical Biochemistry and Pharmacology, Odense University 
+Hospital, Odense, Denmark.
+(2)Department of Clinical Research, University of Southern Denmark, Odense, 
+Denmark.
+(3)Clinical Pharmacology and Pharmacy, Department of Public Health, University 
+of Southern Denmark, Odense, Denmark.
+
+The high prevalence of statin and clarithromycin utilization creates potential 
+for overlapping use. The objectives of this MiniReview were to investigate the 
+evidence base for drug-drug interactions between clarithromycin and currently 
+marketed statins and to present management strategies for these drug 
+combinations. We conducted a systematic literature review following PRISMA 
+guidelines with English language studies retrieved from PubMed and EMBASE (from 
+inception through March 2019). We included 29 articles (16 case reports, 5 
+observational, 5 clinical pharmacokinetic and 3 in vitro studies). Based on 
+mechanistic/clinical studies involving clarithromycin or the related macrolide 
+erythromycin (both strong inhibitors of CYP3A4 and of hepatic statin uptake 
+transporters OATP1B1 and OATP1B3), clarithromycin is expected to substantially 
+increase systemic exposure to simvastatin and lovastatin (>5-fold increase in 
+area under the plasma concentration-time curve (AUC)), moderately increase AUCs 
+of atorvastatin and pitavastatin (2- to 4-fold AUC increase) and slightly 
+increase pravastatin exposure (≈2-fold AUC increase) while having little effect 
+on fluvastatin or rosuvastatin. The 16 cases of statin-clarithromycin adverse 
+drug reactions (rhabdomyolysis (n = 14) or less severe clinical myopathy) 
+involved a CYP3A4-metabolized statin (simvastatin, lovastatin or atorvastatin). 
+In line, a cohort study found concurrent use of clarithromycin and 
+CYP3A4-metabolized statins to be associated with a doubled risk of 
+hospitalization with rhabdomyolysis or other statin-related adverse events as 
+compared with azithromycin-statin co-administration. If clarithromycin is 
+necessary, we recommend (a) avoiding co-administration with simvastatin, 
+lovastatin or atorvastatin; (b) withholding or dose-reducing pitavastatin; (c) 
+continuing pravastatin therapy with caution, limiting pravastatin dose to 40 mg 
+daily; and (d) continuing fluvastatin or rosuvastatin with caution.
+
+© 2019 Nordic Association for the Publication of BCPT (former Nordic 
+Pharmacological Society).
+
+DOI: 10.1111/bcpt.13343
+PMID: 31628882 [Indexed for MEDLINE]
+
+
+3. Lipids Health Dis. 2015 Oct 24;14:131. doi: 10.1186/s12944-015-0134-y.
+
+A population-based analysis of the risk of drug interaction between 
+clarithromycin and statins for hospitalisation or death.
+
+Mesgarpour B(1)(2), Gouya G(1), Herkner H(3), Reichardt B(4), Wolzt M(5).
+
+Author information:
+(1)Department of Clinical Pharmacology, Allgemeines Krankenhaus Wien, Medical 
+University of Vienna, Währinger Gürtel 18-20, 1090, Vienna, Austria.
+(2)Digestive Diseases Research Institute (DDRI), Tehran University of Medical 
+Sciences (TUMS), Tehran, Iran.
+(3)Department of Emergency Medicine, Medical University of Vienna, Vienna, 
+Austria.
+(4)Sickness Fund Burgenland, Eisenstadt, Austria.
+(5)Department of Clinical Pharmacology, Allgemeines Krankenhaus Wien, Medical 
+University of Vienna, Währinger Gürtel 18-20, 1090, Vienna, Austria. 
+michael.wolzt@meduniwien.ac.at.
+
+BACKGROUND: Clarithromycin, known as a potent inhibitor of the cytochrome P450 
+isoenzyme CYP3A, may increase the plasma concentration of statins metabolized by 
+this pathway; therefore, increase the risk of interaction with statins in 
+reference to pharmacokinetic studies. This study aimed to characterize whether 
+the concomitant use of a statin with clarithromycin is associated with serious 
+outcomes among adult persons.
+METHODS: Health claims data of adult persons in the Regional Sickness Fund of 
+Burgenland, Austria, who filled a prescription for clarithromycin between July 
+1, 2009 and June 30, 2012 were reviewed retrospectively. We assumed that the 
+risk of hospitalisation increases acutely with the indication for taking an 
+antibiotic, whereas statin use can be considered a chronic exposure with a low 
+constant effect on hospitalisation. When defining the population as persons 
+taking clarithromycin and the use of statins as the exposure we could achieve a 
+comparable effect in both groups from the acute condition on hospitalisation. 
+Therefore, we defined exposed patients as those who had overlapping treatment 
+with a statin and unexposed controls as those who had filled a prescription for 
+clarithromycin without concomitant statin therapy. Outcome was defined as a 
+composite of hospital admission or death within 30 days after starting 
+clarithromycin. We used generalised linear regression to model an association 
+between outcome and exposure to statins.
+RESULTS: Among 28,484 prescriptions of clarithromycin, 2317 persons were 
+co-exposed to statins. Co-administration of CYP3A4 metabolized statins and 
+clarithromycin was associated with a 2.11 fold increased risk of death or 
+hospitalisation (95 % confidence interval [CI]: 1.79-2.48). This effect was 
+explained by age, evidence of cardiovascular disease, diabetes mellitus and 
+utilization of other antibiotics (multivariable adjusted risk ratio: 1.02, 95 % 
+CI: 0.85-1.22). The sensitivity analyses did not change the significance of 
+effect.
+CONCLUSIONS: The risk for hospitalisation or death in persons receiving 
+clarithromycin increases with age and cardiovascular disease but is not causally 
+associated with statin-clarithromycine co-administration.
+
+DOI: 10.1186/s12944-015-0134-y
+PMCID: PMC4619489
+PMID: 26497728 [Indexed for MEDLINE]
+
+
+4. Epidemiology. 2019 Mar;30(2):204-211. doi: 10.1097/EDE.0000000000000944.
+
+The Case-Crossover Design for Drug-Drug Interactions: Considerations for 
+Implementation.
+
+Bykov K(1)(2), Mittleman MA(2), Glynn RJ(1)(3), Schneeweiss S(1)(2), Gagne 
+JJ(1)(2).
+
+Author information:
+(1)From the Division of Pharmacoepidemiology and Pharmacoeconomics, Department 
+of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+MA.
+(2)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA.
+(3)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, MA.
+
+BACKGROUND: The case-crossover design may be useful for evaluating the clinical 
+impact of drug-drug interactions in electronic healthcare data; however, 
+experience with the design in this context is limited.
+METHODS: Using US healthcare claims data (1994-2013), we evaluated two examples 
+of interacting drugs with prior evidence of harm: (1) cytochrome P450 
+(CYP)3A4-metabolized statins + clarithromycin or erythromycin and 
+rhabdomyolysis; and (2) clopidogrel + fluoxetine or fluvoxamine and ischemic 
+events. We conducted case-crossover analyses with (1) a three-parameter model 
+with a product term and a six-parameter saturated model that distinguished 
+initiation order of the two drugs; and (2) with or without active comparators.
+RESULTS: In the statin example, the three-parameter model produced estimates 
+consistent with prior evidence with the active comparator (product term odds 
+ratio [OR] = 2.05, 95% confidence interval [CI] = 1.00, 4.23) and without (OR = 
+1.99, 95% CI = 1.04, 3.81). In the clopidogrel example, this model produced 
+results opposite of expectation (OR = 0.78, 95% = 0.68, 0.89), but closer to 
+what was observed in prior studies when active comparator was used (OR = 1.03, 
+95% CI = 0.90, 1.19). The saturated model revealed heterogeneity of estimates 
+across strata and considerable confounding; strata with concordant clopidogrel 
+exposure likely produced the least biased estimates.
+CONCLUSION: The three-parameter model assumes a common drug-drug interaction 
+effect, whereas the saturated model is useful for identifying potential effect 
+heterogeneity or differential confounding across strata. Restriction to certain 
+strata or use of an active comparator may be necessary in the presence of 
+within-person confounding.
+
+DOI: 10.1097/EDE.0000000000000944
+PMID: 30433922 [Indexed for MEDLINE]

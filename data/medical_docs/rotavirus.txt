@@ -1,0 +1,177 @@
+=== PubMed: rotavirus ===
+1. Virus Res. 2021 Nov;305:198576. doi: 10.1016/j.virusres.2021.198576. Epub 2021
+ Sep 21.
+
+Rotavirus reverse genetics: A tool for understanding virus biology.
+
+Papa G(1), Burrone OR(2).
+
+Author information:
+(1)Molecular Immunology Laboratory, International Center for Genetic Engineering 
+and Biotechnology, Padriciano 99, Trieste, Italy. Electronic address: 
+gpapa@mrc-lmb.cam.ac.uk.
+(2)Molecular Immunology Laboratory, International Center for Genetic Engineering 
+and Biotechnology, Padriciano 99, Trieste, Italy. Electronic address: 
+burrone@icgeb.org.
+
+Rotaviruses (RVs) are considered to be one of the most common causes of viral 
+gastroenteritis in young children and infants worldwide. Before recent 
+developments, studies on rotavirus biology have suffered from the lack of an 
+effective reverse genetics (RG) system to generate recombinant rotaviruses and 
+study the precise roles of the viral proteins in the context of RV infection. 
+Lately a fully-tractable plasmid-only based RG system for rescuing recombinant 
+rotaviruses has been developed leading to a breakthrough in the RV field. Since 
+then, the reproducibility and improvements of this technology have led to the 
+generation of several recombinant rotaviruses with modifications on different 
+gene segments, which has allowed the manipulation of viral genes to characterise 
+the precise roles of viral proteins during RV replication cycle or to encode 
+exogenous proteins for different purposes. This review will recapitulate the 
+different RG approaches developed so far, highlighting any similarities, 
+differences and limitations of the systems as well as the gene segments 
+involved. The review will further summarise the latest recombinant rotaviruses 
+generated using the plasmid-only based RG system showing the enormous potentials 
+of this technique to shed light on the still unanswered questions in rotavirus 
+biology.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.virusres.2021.198576
+PMID: 34560180 [Indexed for MEDLINE]
+
+
+2. Viruses. 2024 Oct 24;16(11):1665. doi: 10.3390/v16111665.
+
+Rotaviruses and Rotavirus Vaccines: Special Issue Editorial.
+
+Patton JT(1), Desselberger U(2).
+
+Author information:
+(1)Department of Biology, Indiana University, 212 S Hawthorne Drive, Simon Hall 
+011, Bloomington, IN 47405, USA.
+(2)Department of Medicine, University of Cambridge, Addenbrooke's Hospital, 
+Hills Road, Cambridge CB2 0QQ, UK.
+
+Species A rotaviruses (RVA) are a major cause of acute gastroenteritis in 
+infants and young children and in the young of various mammalian and avian 
+species [...].
+
+DOI: 10.3390/v16111665
+PMCID: PMC11598851
+PMID: 39599780 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Novartis Found Symp. 2001;238:125-47; discussion 147-52. doi: 
+10.1002/0470846534.ch9.
+
+Rotavirus epidemiology and surveillance.
+
+Desselberger U(1), Iturriza-Gómara M, Gray JJ.
+
+Author information:
+(1)Clinical Microbiology and Public Health Laboratory, Addenbrooke's Hospital, 
+Cambridge, CB2 2QW, UK.
+
+There is extensive antigenic and genomic diversity among co-circulating human 
+rotaviruses. They are differentiated into groups, subgroups and types. There are 
+at least 7 groups (A-G) and 4 subgroups within group A. To distinguish types 
+within group A, a dual classification system has been established with the 
+glycoprotein VP7 defining G types, and the protease-sensitive protein VP4 
+defining P types. At least 14 G types and more than 20 P types have been 
+distinguished, of which at least 10 G types and at least 11 P types have been 
+found in humans. Using the typing system, the complex molecular epidemiology of 
+rotaviruses was investigated. Rotaviruses of different G and P types 
+co-circulate. The main types found are G1P1A[8], G2P1B[4], G3P1A[8], G4P1A[8]; 
+their relative incidence rates change over time in any one location and are 
+different at the same time between different locations. Viruses with G/P 
+constellations such as G1P1B[4] and G2P1A[8] are mostly natural reassortants of 
+the co-circulating main virus types emerging after double infection of hosts. 
+Viruses carrying G and or P types not represented in the four most common types, 
+e.g. G8P[8], G1P[6] or G9P[6], could be introduced into the population by 
+reassortment with animal viruses, or directly from animals or exotic human 
+sources. Naturally circulating rotaviruses constantly undergo point mutations 
+which can be used to classify lineages and sublineages within types. The full 
+significance of human infections with group B and C rotaviruses remains to be 
+established. Surveillance of rotavirus types in different parts of the world is 
+essential to monitor the emergence of new types or of new G/P constellations 
+which may predominate over time. The efficacy and effectiveness of any future 
+rotavirus vaccine may differ depending on the predominant natural strain types. 
+Detailed epidemiological and molecular surveillance data should be utilized to 
+study the transmission dynamics of rotaviruses.
+
+DOI: 10.1002/0470846534.ch9
+PMID: 11444024 [Indexed for MEDLINE]
+
+
+4. Annu Rev Med. 2006;57:167-80. doi: 10.1146/annurev.med.57.121304.131359.
+
+The rotavirus vaccine saga.
+
+Shaw AR(1).
+
+Author information:
+(1)Vaxinnate, Cranbury, New Jersey 08512, USA. ashaw@vaxinnate.com
+
+Rotavirus is the single most common cause of acute, dehydrating gastroenteritis 
+worldwide. This is a highly contagious and highly democratic disease. The attack 
+rate in infants and young children is similar regardless of sanitation, 
+socioeconomics or geography. Rotavirus vaccine development began in the early 
+1980s using a "Jennerian" approach based on rotaviruses that normally infect 
+animals. Although these vaccines were found to be generally safe, protection 
+from disease was inconsistent. The second generation of vaccines was based on 
+the same animal viruses configured to carry the relevant coat proteins of human 
+rotaviruses. An attenuated human rotavirus vaccine has also been developed. 
+After close to 20 years of laboratory and clinical studies, safe and effective 
+rotavirus vaccines are approaching regulatory approval.
+
+DOI: 10.1146/annurev.med.57.121304.131359
+PMID: 16409143 [Indexed for MEDLINE]
+
+
+5. Viruses. 2024 Jan 16;16(1):130. doi: 10.3390/v16010130.
+
+Equine Rotavirus A under the One Health Lens: Potential Impacts on Public 
+Health.
+
+Carossino M(1)(2), Vissani MA(3)(4)(5), Barrandeguy ME(3)(4), Balasuriya 
+UBR(1)(2), Parreño V(4)(5).
+
+Author information:
+(1)Department of Pathobiological Sciences, School of Veterinary Medicine, 
+Louisiana State University, Baton Rouge, LA 70803, USA.
+(2)Louisiana Animal Disease Diagnostic Laboratory, School of Veterinary 
+Medicine, Louisiana State University, Baton Rouge, LA 70803, USA.
+(3)Escuela de Veterinaria, Facultad de Ciencias Agrarias y Veterinarias, 
+Universidad del Salvador, Pilar, Buenos Aires B1630AHU, Argentina.
+(4)Instituto de Virología, CICVyA, Instituto Nacional de Tecnología Agropecuaria 
+(INTA), Buenos Aires B1686LQF, Argentina.
+(5)Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos 
+Aires C1033AAJ, Argentina.
+
+Group A rotaviruses are a well-known cause of viral gastroenteritis in infants 
+and children, as well as in many mammalian species and birds, affecting them at 
+a young age. This group of viruses has a double-stranded, segmented RNA genome 
+with high genetic diversity linked to point mutations, recombination, and, 
+importantly, reassortment. While initial molecular investigations undertaken in 
+the 1900s suggested host range restriction among group A rotaviruses based on 
+the fact that different gene segments were distributed among different animal 
+species, recent molecular surveillance and genome constellation genotyping 
+studies conducted by the Rotavirus Classification Working Group (RCWG) have 
+shown that animal rotaviruses serve as a source of diversification of human 
+rotavirus A, highlighting their zoonotic potential. Rotaviruses occurring in 
+various animal species have been linked with contributing genetic material to 
+human rotaviruses, including horses, with the most recent identification of 
+equine-like G3 rotavirus A infecting children. The goal of this article is to 
+review relevant information related to rotavirus structure/genomic organization, 
+epidemiology (with a focus on human and equine rotavirus A), evolution, 
+inter-species transmission, and the potential zoonotic role of equine and other 
+animal rotaviruses. Diagnostics, surveillance and the current status of human 
+and livestock vaccines against RVA are also reviewed.
+
+DOI: 10.3390/v16010130
+PMCID: PMC10819593
+PMID: 38257830 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

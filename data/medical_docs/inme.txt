@@ -1,0 +1,166 @@
+=== PubMed: inme ===
+1. Turk Kardiyol Dern Ars. 2022 Jul;50(5):312-313. doi: 10.5543/tkda.2022.22523.
+
+Ekokardiyografi Embolik İnme Skorlarını Geliştirebilir Mi?
+
+Özbay B(1), Sade LE(2).
+
+Author information:
+(1)University of Pittsburgh Medical Center, Heart and Vascular Institute, 
+Pittsburgh, Pennsylvania.
+(2)University of Pittsburgh Medical Center, Heart and Vascular Institute, 
+Pittsburgh, Pennsylvania; Department of Cardiology, Başkent University Ankara, 
+Turkey.
+
+DOI: 10.5543/tkda.2022.22523
+PMID: 35860881
+
+
+2. Inorg Chem. 2025 Sep 8;64(35):17856-17867. doi: 10.1021/acs.inorgchem.5c02717.
+ Epub 2025 Aug 25.
+
+Ligand Influence on Indium-Sulfide Cluster Formation and Reactivity.
+
+Bell CS(1), Kravchuk DV(1), Woods T(2), Havenridge S(1), Kim K(3), Martinson 
+ABF(3), Liu C(1), Mulfort KL(1).
+
+Author information:
+(1)Division of Chemical Sciences and Engineering, Argonne National Laboratory, 
+Lemont, Illinois 60439, United States.
+(2)School of Chemical Sciences, University of Illinois Urbana-Champaign, Urbana, 
+Illinois 61801, United States.
+(3)Materials Science Division, Argonne National Laboratory, Lemont, Illinois 
+60439, United States.
+
+An indium-sulfide tetramer ([InMe2(SSiMe3)]4), which contains reactive silyl and 
+methyl groups, is shown to be an isolable intermediate in cluster synthesis. The 
+reactive groups allow it to act as a synthon in the formation of multinuclear 
+indium-sulfide architectures, evidenced by the crystallization of a coordination 
+polymer ([In20S14Me32(4,4'-bpy)5·5CH2Cl2]n) utilizing In10S7 clusters as nodes. 
+The reaction between trimethylindium (InMe3) and bis(trimethylsilyl)sulfide 
+(S(SiMe3)2) is explored with and without the presence of a ligating bipyridine. 
+In both cases, a sulfide-indium adduct is formed, which slowly converts into a 
+multimetallic complex. The ligand 2,2'-bipyridine (2,2'-bpy) is coordinated to 
+InMe3 to form the adduct InMe3(bpy), which upon addition of sulfide, eliminates 
+tetramethylsilane (TMS) and binds two additional InMe3 moieties 
+(InMe2(bpy)(μ3-SSiMe3)(InMe3)2). When reacted neatly without bipyridine, InMe3 
+and S(SiMe3)2 form the adduct InMe3(S(SiMe3)2), which subsequently eliminates 
+TMS and intermolecularly associates to yield [InMe2(SSiMe3)]4. Although stable 
+in an inert atmosphere, [InMe2(SSiMe3)]4 undergoes facile hydrolysis to yield 
+[InMeS]n when exposed to air. The effect of ligand addition (4,4'-bipyridine 
+(4,4'-bpy)) to [InMe2(SSiMe3)]4 is then examined. In every case, it is shown 
+that the presence of the bpy ligand has a profound influence on the resulting 
+structure, as shown by the unexpected formation of a trimer and In10S7 cluster 
+network.
+
+DOI: 10.1021/acs.inorgchem.5c02717
+PMID: 40854100
+
+
+3. J Inorg Biochem. 2025 Dec;273:113024. doi: 10.1016/j.jinorgbio.2025.113024.
+Epub  2025 Aug 8.
+
+Indium(III) 8-hydroxyquinolinates: Activity and selectivity towards multi-drug 
+resistant strains of Klebsiella pneumoniae.
+
+Soukup CRM(1), Duffin RN(1), Meagher L(2), Andrews PC(3).
+
+Author information:
+(1)School of Chemistry, Monash University, Clayton, Melbourne, VIC 3800, 
+Australia.
+(2)Department of Materials Science and Engineering, Monash University, Clayton, 
+Melbourne, VIC 3800, Australia.
+(3)School of Chemistry, Monash University, Clayton, Melbourne, VIC 3800, 
+Australia. Electronic address: phil.andrews@monash.edu.
+
+A series of dimethyl indium(III) 8-hydroxyquinolinates; [InMe2(Q")] (1), 
+[InMe2(Q'Cl)] (2), [InMe2(QCl2)] (3), [InMe2(QBr2)] (4), [InMe2(QI2)] (5), 
+[InMe2(QICl)] (6), and a series of indium(III) tris(8-hydroxyquinolinates); 
+[In(Q")3]•H2O (7), [In(QCl2)3] (8), [In(QBr2)3] (9), [In(QI2)3] (10), and 
+[In(QICl)3] (11), (where Q"-H = C9H7NO; Q'Cl-H = C9H6NOCl, QCl2-H = C9H5NOCl2; 
+QBr2-H = C9H5NOBr2; QI2-H = C9H5NOI2; and QICl-H = C9H5NOICl) were synthesised, 
+characterised, and evaluated for their antibacterial activity against 
+Gram-positive bacteria (vancomycin-resistant E. faecalis, S. aureus, 
+methicillin-resistant S. aureus), Gram-negative bacteria (K. pneumoniae, A. 
+baumannii, P. aeruginosa, and E. coli) and mammalian cell inhibition of L929 
+fibroblasts. Single crystal X-ray diffraction data of 2-4 indicates the 
+dimethylindium complexes are dimeric in the solid-state through 'In2O2' 
+bridging. Complexes 1-6 exhibit significant activity and selectivity against 
+three multi-drug resistant strains of K. pneumoniae, with MIC (minimum 
+inhibitory concentration) values as low as 49 nM and selectivity indices as high 
+as 159 against carbapenem-resistant strain RH201207. The antibacterial activity 
+and selectivity against K. pneumoniae is generally enhanced upon complexation of 
+the 8-hydroxyquinolinate ligands to indium(III).
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jinorgbio.2025.113024
+PMID: 40857924 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Chem Commun (Camb). 2025 Jan 28;61(10):2123-2126. doi: 10.1039/d4cc06213b.
+
+A homoleptic rare-earth-metal tetramethylindate.
+
+Wetzel P(1), Maichle-Mössmer C(1), Anwander R(1).
+
+Author information:
+(1)Institut für Anorganische Chemie, Eberhard Karls Universität Tübingen, Auf 
+der Morgenstelle 18, D-72076 Tübingen, Germany. 
+reiner.anwander@uni-tuebingen.de.
+
+The homoleptic complex La(InMe4)3 is obtained from the respective aluminium 
+congener La(AlMe4)3via a donor-assisted tetramethylaluminate/tetramethylindate 
+exchange protocol. Compound La(InMe4)3 exhibits interesting thermal lability as 
+well as distinct cluster formation like La4In7(C)(CH)2(CH2)2(CH3)19 and 
+La5In9(CH)6(CH3)24 upon addition of an excess of donor or thermal treatment. The 
+neutral potentially tridentate ligand Me3TACN 
+(1,4,7-trimethyl-1,4,7-triazacyclononane) is used to investigate donor-triggered 
+intermediates. Compound La(InMe4)3 is the first crystallographically 
+characterized homoleptic rare-earth-metal tetramethylindate and may readily be 
+used as a precursor for follow-up chemistry distinct from La(AlMe4)3 and 
+La(GaMe4)3.
+
+DOI: 10.1039/d4cc06213b
+PMID: 39801476
+
+
+5. Inorg Chem. 2025 Jul 21;64(28):14031-14040. doi:
+10.1021/acs.inorgchem.5c01520.  Epub 2025 Jul 2.
+
+Scandium─Group 13 Heterobimetallic Methylidene Clusters.
+
+Zug GTL(1), Maichle-Mössmer C(1), Anwander R(1).
+
+Author information:
+(1)Institut für Anorganische Chemie, Eberhard Karls Universität Tübingen, Auf 
+der Morgenstelle 18, 72076 Tübingen, Germany.
+
+A straightforward synthesis of Cp*2Sc(AlMe4) (Cp* = C5Me5) applying 
+Cp*2ScCl(thf) and LiAlMe4/AlMe3 is described. Donor-assisted trimethyltriel 
+exchange gives access to Cp*2Sc(EMe4) (E = Ga, In), which represent the first 
+scandium tetramethylgallate and tetramethylindate complexes. Thermal treatment 
+of Cp*2Sc(EMe4) (E = Ga, In) in benzene leads to the isolation of methylidene 
+clusters Cp*6Sc4E8(CH2)12Me6 (E = Ga, In). This methyl group deprotonation 
+differs from the benzene activation previously observed for Cp*2Y(EMe4) (E = Al, 
+Ga). Treatment of Cp*2Sc(EMe4) (E = Al, Ga) with excess GaMe3 in benzene at 
+elevated temperatures generated Ga8(CH2)12, following the known reactivities of 
+Cp*2Ln(GaMe4) (Ln = Y, Lu) with GaMe3. Analogous reactions of scandocene 
+complexes Cp*2Sc(EMe4) (E = Al, In) with excess InMe3 at elevated temperatures 
+did not yield the putative homoleptic indium methylidene. Instead, the 
+methylidene cluster Cp*4Sc4In8(CH2)12Me8 was isolated, which features 
+half-sandwich scandium fragments exclusively. A reaction of InMe3 and HCp* at 
+high temperatures yielded Me2InCp*InMe3, which might incorporate the missing Cp* 
+ligands in the cluster formations. Rare-earth-metal compounds were analyzed by 
+SC-XRD, ICP-OES and elemental analysis. Compounds Cp*2Sc(EMe4) (E = Ga, In) and 
+[Cp*2Sc(ClAlMe3)]2 were additionally analyzed by 1H, 13C{1H}, 45Sc NMR as well 
+as 1H and 45Sc variable temperature NMR studies.
+
+DOI: 10.1021/acs.inorgchem.5c01520
+PMCID: PMC12284852
+PMID: 40601820
